@@ -1,0 +1,1438 @@
+{
+ "pack": "relationships",
+ "version": 1,
+ "title": "Relationships, family and communication",
+ "books": [
+  {
+   "id": "rl_difficult_conv",
+   "title": "Difficult Conversations",
+   "author": "Douglas Stone, Bruce Patton and Sheila Heen",
+   "year": "1999",
+   "category": "people",
+   "why": "It shows why the talks we dread go wrong and gives a calmer way to hold them.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "rl_difficult_conv1",
+     "title": "Every hard talk is three talks",
+     "body": "The authors say a difficult conversation runs on three levels at once. One is about what happened: who said what, who is right. One is about feelings that nobody is naming. One is about identity: what this says about me as a person. Most of us argue only on the first level while the other two drive the heat. A dispute about who forgot to pay the bill is rarely just about the bill."
+    },
+    {
+     "id": "rl_difficult_conv2",
+     "title": "Swap certainty for curiosity",
+     "body": "We walk in sure of our own version and treat the talk as a chance to deliver it. But the other person has different information, different past experience and a different reading of the same events, and their story makes sense to them. The book suggests treating the talk as a way to learn how two reasonable people came to see it so differently. You can hold your view and still be curious about theirs.",
+     "try": "In your next disagreement, ask \"Help me understand how you see it\" before you explain your side."
+    },
+    {
+     "id": "rl_difficult_conv3",
+     "title": "Impact is not intent",
+     "body": "When someone's action hurts us, we tend to assume they meant it. When our own action hurts someone, we point to our good intentions and expect that to settle it. Both moves are mistakes. You know the effect on you but can only guess at their motive, so describe the effect and ask about the motive. And when you are the one who caused hurt, acknowledge the hurt first; your intentions can wait."
+    },
+    {
+     "id": "rl_difficult_conv4",
+     "title": "Map contribution, not blame",
+     "body": "Blame asks who is at fault and looks backward. Contribution asks how each person helped create the situation and looks forward to changing it. A missed deadline may involve one person's late work, another's vague instructions and a third who saw trouble coming and said nothing. Naming your own part first is not a confession of guilt. It makes it far easier for the other person to look at theirs.",
+     "try": "Think of a recurring problem with someone and write down two things you do that keep it going."
+    },
+    {
+     "id": "rl_difficult_conv5",
+     "title": "Feelings left out will leak out",
+     "body": "Many people try to keep emotions out of a serious talk in order to stay reasonable. The authors argue that unspoken feelings do not disappear. They come out as sarcasm, a cold tone, impatience or a sudden outburst over something small. It works better to say the feeling plainly and without accusation, such as \"I felt left out when the plan changed\", than to hide it inside a judgement like \"you never consider anyone\"."
+    },
+    {
+     "id": "rl_difficult_conv6",
+     "title": "Begin from the neutral story",
+     "body": "Opening with your own version puts the other person on the defensive at once. The book recommends starting from the way a fair outsider would describe things: there is a difference between us, here is what it seems to be, and I would like to understand your view and share mine. \"We seem to see the weekend plans differently\" invites a joint look at the problem. \"You ruined the weekend\" invites a counterattack.",
+     "try": "Rewrite the first sentence of a talk you are dreading so that a neutral observer could have said it."
+    }
+   ]
+  },
+  {
+   "id": "rl_getting_to_yes",
+   "title": "Getting to Yes",
+   "author": "Roger Fisher, William Ury and Bruce Patton",
+   "year": "1981",
+   "category": "people",
+   "why": "The classic short guide to reaching fair agreements without either giving in or fighting.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "rl_getting_to_yes1",
+     "title": "Separate the people from the problem",
+     "body": "In a dispute the person and the issue get tangled, so an attack on the issue feels like an attack on the person and tempers rise. The authors advise dealing with each on its own terms: be firm about the substance and considerate toward the human being. Sit on the same side of the table, in spirit, facing the problem together. With a neighbour and a noisy dog, the opponent is the noise, not the neighbour.",
+     "try": "In a current dispute, say one sentence that is firm on the issue and one that is warm toward the person."
+    },
+    {
+     "id": "rl_getting_to_yes2",
+     "title": "Look behind positions to interests",
+     "body": "A position is what someone says they want. An interest is the reason they want it. Positions often clash where interests do not. One person wants the family holiday in the hills and another at the beach; the underlying wishes may be quiet for one and swimming for the other, which a lakeside town could satisfy. Asking \"why does this matter to you?\" opens solutions that bargaining over positions never reaches.",
+     "try": "In one disagreement today, ask the other person what they are hoping the outcome will do for them."
+    },
+    {
+     "id": "rl_getting_to_yes3",
+     "title": "Invent options before deciding",
+     "body": "People in conflict tend to assume there is one fixed pie and the only question is who gets more. The book suggests a separate step where both sides produce many possible arrangements without yet judging or committing to any. Differences help here: one side may care about timing, the other about price. A landlord who wants certainty and a tenant who wants a lower rent can trade a longer lease for a discount."
+    },
+    {
+     "id": "rl_getting_to_yes4",
+     "title": "Appeal to a fair standard",
+     "body": "When interests truly conflict, a contest of wills damages the relationship and rewards stubbornness. The authors recommend settling such points by a standard independent of what either side wants: market price, expert opinion, common practice, or a fair procedure such as one cuts and the other chooses. Then you can yield to a good reason without yielding to pressure, and ask the other side for the reasoning behind their figure."
+    },
+    {
+     "id": "rl_getting_to_yes5",
+     "title": "Know your best alternative",
+     "body": "Your strength in a negotiation depends less on wealth or rank than on what you will do if no agreement is reached. The authors call this your best alternative to a negotiated agreement. Work it out before you start, and improve it if you can. A job seeker holding a second offer negotiates calmly. It also protects you: any proposal worse than your alternative should be declined, however long the talks have lasted.",
+     "try": "Before your next negotiation, write down exactly what you will do if you walk away."
+    }
+   ]
+  },
+  {
+   "id": "rl_getting_past_no",
+   "title": "Getting Past No",
+   "author": "William Ury",
+   "year": "1991",
+   "category": "people",
+   "why": "A five-step method for negotiating with people who are angry, stubborn or playing rough.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "rl_getting_past_no1",
+     "title": "Go to the balcony",
+     "body": "Ury's first step concerns you, not the other person. Under attack, the natural reactions are to strike back, give in or break off, and each usually harms your own interests. He suggests mentally stepping up to a balcony from which you can look down on the exchange as if watching a stage. Buy time: pause, repeat back what was said, ask for a break. From there you can remember what you actually want before you answer.",
+     "try": "The next time a remark stings, pause and say \"Let me make sure I've understood\" before you respond."
+    },
+    {
+     "id": "rl_getting_past_no2",
+     "title": "Step to their side",
+     "body": "A hostile person expects resistance and is braced for it. Ury advises doing the opposite: listen, acknowledge their point and their feelings, and agree wherever you honestly can. Acknowledging is not conceding. \"I can see why that delay made you angry\" costs nothing of substance, yet it takes away the opponent they were prepared to fight and makes it harder for them to treat you as an enemy. Then you can state your own view without provoking."
+    },
+    {
+     "id": "rl_getting_past_no3",
+     "title": "Reframe instead of rejecting",
+     "body": "When the other side digs into a position, pushing against it makes them dig deeper. Ury suggests treating whatever they say as a contribution to solving the problem. Ask problem-solving questions: \"Why is that important?\", \"What would you do in my place?\", \"What makes that fair?\" A flat demand becomes information about their interests, and an attack on you can be recast as an attack on the problem you both face."
+    },
+    {
+     "id": "rl_getting_past_no4",
+     "title": "Build them a golden bridge",
+     "body": "Even a good proposal may be refused if it was not their idea, if a need of theirs is unmet, or if agreeing would make them look as though they backed down. Ury says your job is to make yes easy: involve them in shaping the solution, look for the unmet interest, and help them save face before the people they answer to. A landlord may accept the repair you want if it can be presented as his own improvement plan.",
+     "try": "Before your next request, ask yourself how the other person could say yes without losing face."
+    },
+    {
+     "id": "rl_getting_past_no5",
+     "title": "Bring them to their senses, not their knees",
+     "body": "If they still refuse, the temptation is to threaten and force. Ury warns that this turns the matter into a contest they must not lose. He recommends using power to educate: ask what they think will happen if no agreement is reached, let them see your alternative without waving it as a threat, and keep the door to agreement open throughout. The aim is a lasting agreement between people who may have to deal with each other again."
+    }
+   ]
+  },
+  {
+   "id": "rl_thanks_feedback",
+   "title": "Thanks for the Feedback",
+   "author": "Douglas Stone and Sheila Heen",
+   "year": "2014",
+   "category": "people",
+   "why": "Most advice is about giving feedback; this book teaches the harder skill of receiving it well.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "rl_thanks_feedback1",
+     "title": "The receiver is in charge",
+     "body": "Training usually targets the person giving feedback. Stone and Heen point out that the receiver decides what is heard, what it means and whether anything changes. A skilled giver cannot get through to someone who will not listen, while a skilled receiver can draw something useful even from clumsy, unfair remarks. So learning to receive feedback is the better investment, at work and at home."
+    },
+    {
+     "id": "rl_thanks_feedback2",
+     "title": "Three kinds of feedback",
+     "body": "The word feedback covers three different things. Appreciation says I see you and value what you do. Coaching helps you improve. Evaluation tells you where you stand. Trouble starts when one is offered and another was wanted. Someone who shows a first draft hoping for encouragement and gets twenty corrections feels crushed, even if every correction is right. Say which kind you need, and ask which kind you are being given.",
+     "try": "Next time you ask for someone's opinion, tell them whether you want encouragement, tips or a frank assessment."
+    },
+    {
+     "id": "rl_thanks_feedback3",
+     "title": "Three triggers that block us",
+     "body": "The authors describe three reactions that stop feedback from landing. A truth trigger fires when the content seems wrong or unfair. A relationship trigger fires because of who is saying it: what right do they have? An identity trigger fires when the message shakes our sense of who we are. Noticing which one is at work lets you pause and separate your reaction from the question of whether there is something to learn."
+    },
+    {
+     "id": "rl_thanks_feedback4",
+     "title": "Understand before you judge",
+     "body": "Feedback usually arrives as a vague label: be more professional, you are too quiet. We decide at once that it is wrong and hunt for the flaw. The book suggests first asking where the comment comes from and where it is going. What did the person see? What exactly would they like you to do differently? \"Be more confident\" might turn out to mean \"speak in the first ten minutes of the meeting\", which you can act on."
+    },
+    {
+     "id": "rl_thanks_feedback5",
+     "title": "Others see what you cannot",
+     "body": "You cannot see your own face or hear your own tone, and you judge yourself by your intentions while others judge you by your effect on them. That gap creates blind spots. When several people say something that does not match your self-image, treat the mismatch as information. A person who thinks of himself as direct may be experienced by his family as harsh. Both descriptions can refer to the same behaviour."
+    },
+    {
+     "id": "rl_thanks_feedback6",
+     "title": "You may say no, and ask for one thing",
+     "body": "Receiving well does not mean accepting everything. The authors say you may listen, understand and still decide not to take the advice, and that constant, unwanted criticism is something you are entitled to limit. To make feedback manageable, ask a narrow question. Instead of \"any feedback?\", ask for the one thing you do that gets in your own way. One clear item is easier to hear and to act on.",
+     "try": "Ask someone you trust: \"What is one thing I do that makes things harder for you?\""
+    }
+   ]
+  },
+  {
+   "id": "rl_supercomm",
+   "title": "Supercommunicators",
+   "author": "Charles Duhigg",
+   "year": "2024",
+   "category": "people",
+   "why": "A clear account of why some conversations click and how to make more of yours do so.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "rl_supercomm1",
+     "title": "Three conversations hide in one",
+     "body": "Duhigg sorts conversations into three kinds. Practical ones ask what this is really about and what we should do. Emotional ones ask how we feel. Social ones ask who we are to each other and to the groups we belong to. A talk often moves between them. Trouble comes when two people are in different kinds at the same moment: one is offering solutions while the other is trying to be understood."
+    },
+    {
+     "id": "rl_supercomm2",
+     "title": "Match the kind of talk",
+     "body": "People connect when they are having the same kind of conversation. So the first task is to notice which kind the other person is in and join them there, or openly invite them into another. If a friend describes an awful day at work, sharing in the feeling comes before any advice. The book mentions a simple question some teachers use with upset pupils: do you want to be helped, hugged or heard?",
+     "try": "When someone brings you a problem today, ask whether they want ideas or just a listening ear."
+    },
+    {
+     "id": "rl_supercomm3",
+     "title": "Loop to prove you listened",
+     "body": "Nodding does not show a person they were understood, least of all in a conflict. Duhigg describes a three-step loop: ask a question, repeat back in your own words what you heard, then ask whether you got it right. Keep going until they say yes. It slows the exchange, corrects misreadings early, and makes the other person far more willing to listen to you in turn, because they no longer need to fight to be heard."
+    },
+    {
+     "id": "rl_supercomm4",
+     "title": "Ask deeper questions",
+     "body": "Questions about facts keep talk on the surface. Questions about values, beliefs and experiences invite a person to say something that matters to them. Instead of \"where do you work?\", try \"what do you like about your work?\" Instead of \"where did you grow up?\", ask what it was like growing up there. Such questions feel only slightly bolder, and when you answer in kind, the conversation becomes real quite quickly."
+    },
+    {
+     "id": "rl_supercomm5",
+     "title": "Identity is always in the room",
+     "body": "Some disagreements are really about who we are: our family role, profession, community or beliefs. When a person feels that an identity is under threat, facts stop working. Duhigg suggests remembering that everyone holds many identities and bringing in the ones you share. Two parents arguing about school rules as a strict one and a lenient one do better when they speak first as two people who love the same child."
+    }
+   ]
+  },
+  {
+   "id": "rl_not_listening",
+   "title": "You're Not Listening",
+   "author": "Kate Murphy",
+   "year": "2020",
+   "category": "people",
+   "why": "A journalist's case that real listening has become rare, and a guide to getting it back.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "rl_not_listening1",
+     "title": "Listening starts with curiosity",
+     "body": "Murphy argues that good listening is less a set of techniques, such as nodding and eye contact, than an attitude: a real wish to find out what is going on in another person's mind. Everyone knows something you do not. If you enter a conversation already sure what the other person will say, you will hear only what fits. If you enter wondering, the same person becomes interesting."
+    },
+    {
+     "id": "rl_not_listening2",
+     "title": "We listen worst to those closest",
+     "body": "With a stranger we pay attention because we know nothing. With a spouse, parent or old friend we assume we already know what they think, so we stop checking. Murphy describes how this false confidence lets people who live together drift apart, because each is responding to an out-of-date picture of the other. People keep changing. The cure is to stay curious about those you believe you know by heart.",
+     "try": "Ask someone close to you a question whose answer you think you know, and listen for what has changed."
+    },
+    {
+     "id": "rl_not_listening3",
+     "title": "Support the speaker, do not shift to yourself",
+     "body": "The book borrows a distinction from a sociologist. A shift response turns attention to yourself: \"My car broke down too, last year.\" A support response keeps it with the speaker: \"That sounds stressful, what happened?\" Shift responses are usually well meant, an attempt to show common ground, but they quietly take the conversation away. Good listeners use far more support responses and ask questions that invite the story to go on.",
+     "try": "In one conversation today, hold back your own similar story and ask a follow-up question."
+    },
+    {
+     "id": "rl_not_listening4",
+     "title": "Use your spare mental speed",
+     "body": "We think much faster than anyone can talk, so while another person speaks the mind has room to wander: to plan a reply, to judge, to drift to dinner. Murphy suggests spending that spare capacity on the speaker. Notice the tone, the face, what is being left out, why this story is being told to you now. When you catch yourself rehearsing your answer, let it go; a good reply will come when it is needed."
+    },
+    {
+     "id": "rl_not_listening5",
+     "title": "Leave silences alone",
+     "body": "Many of us find a pause in conversation uncomfortable and rush to fill it. Yet a pause is often where a person gathers the nerve or the words to say what they really mean. Jumping in cuts that off. Murphy notes that comfort with silence varies between cultures and that skilled interviewers and negotiators let quiet do its work. Waiting a few seconds longer than feels natural often brings out the important part.",
+     "try": "When a pause comes in a conversation today, count slowly to three before you speak."
+    }
+   ]
+  },
+  {
+   "id": "rl_humble_inquiry",
+   "title": "Humble Inquiry",
+   "author": "Edgar H. Schein",
+   "year": "2013",
+   "category": "people",
+   "why": "A short book on a neglected skill: asking questions you do not already know the answer to.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "rl_humble_inquiry1",
+     "title": "Ask more, tell less",
+     "body": "Schein observes that many working cultures reward telling. Whoever states opinions firmly looks capable; whoever asks looks unsure. Yet telling puts the other person in a lower position and assumes they lack what you know. Asking, when it comes from real interest, temporarily hands them the lead and shows you value what they hold. Relationships and information both improve when the balance moves toward asking."
+    },
+    {
+     "id": "rl_humble_inquiry2",
+     "title": "What makes a question humble",
+     "body": "Humble inquiry, in Schein's use, is drawing someone out with questions to which you do not already know the answer, out of curiosity about them. Many questions fail the test. \"Don't you think we should leave now?\" is an instruction in disguise. A leading question tests or steers. A humble one sounds like \"What is on your mind?\" or \"How did that come about?\" and is followed by attention to the reply.",
+     "try": "Catch one statement you are about to make today and turn it into an honest open question."
+    },
+    {
+     "id": "rl_humble_inquiry3",
+     "title": "You depend on people below you",
+     "body": "Rank suggests that the senior person needs nothing from the junior one. Schein points to a different kind of humility that has nothing to do with status: here and now, I depend on you to get this task done. A surgeon depends on the nurse to notice a mistake; a manager depends on the team to report bad news. Admitting that dependence, and asking accordingly, is simply accurate."
+    },
+    {
+     "id": "rl_humble_inquiry4",
+     "title": "Juniors stay silent unless invited",
+     "body": "People with less power often see a problem and keep quiet, because speaking up to a superior feels risky or rude. Schein argues that the responsibility lies with the more senior person to make it safe, and the main tool is sincere asking. A parent who says \"What am I missing?\" and then listens without scolding is more likely to hear about trouble early than one who demands to be told everything.",
+     "try": "Ask someone who depends on you: \"What am I missing?\" Then thank them for the answer, whatever it is."
+    },
+    {
+     "id": "rl_humble_inquiry5",
+     "title": "Relationship before task",
+     "body": "Complex work goes better between people who know each other as people, not only as roles. Schein recommends small acts of personal interest, such as asking how someone came to this work and sharing something of yourself, because trust built in calm moments is what allows frank talk in tense ones. He also advises slowing down: a hurried mind tells by reflex and has no patience for the answers."
+    }
+   ]
+  },
+  {
+   "id": "rl_know_a_person",
+   "title": "How to Know a Person",
+   "author": "David Brooks",
+   "year": "2023",
+   "category": "people",
+   "why": "A warm, practical book about the skill of making other people feel seen and understood.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "rl_know_a_person1",
+     "title": "Illuminators and Diminishers",
+     "body": "Brooks divides people, loosely, into two kinds. Diminishers make others feel small and unseen: they are wrapped up in themselves, they label quickly, they do not ask. Illuminators are steadily curious about others and make them feel bigger and more interesting. Nobody is wholly one or the other, and Brooks is clear that this is a skill to practise, not a gift of temperament."
+    },
+    {
+     "id": "rl_know_a_person2",
+     "title": "Attention is a moral act",
+     "body": "The way you look at a person tells them what you think they are. A warm, patient, respectful gaze says you are worth my time before any word is spoken; a distracted or judging one says the opposite. Brooks treats the quality of our attention as an everyday form of generosity or stinginess. Putting the phone away and turning your whole body toward someone is a small act with a large effect.",
+     "try": "In your next conversation, put your phone out of sight and give the person your full attention for five minutes."
+    },
+    {
+     "id": "rl_know_a_person3",
+     "title": "Accompany before you probe",
+     "body": "People are not known mainly through intense talks. Much of it happens side by side: walking, cooking, playing, doing errands, simply being around. Brooks calls this accompaniment, a relaxed presence that is on the other person's journey without steering it. It builds the ease that later allows deeper talk. A teenager who says little at the table may open up on a long drive when nobody is looking directly at them."
+    },
+    {
+     "id": "rl_know_a_person4",
+     "title": "Be a loud listener",
+     "body": "Brooks describes good conversation as a skill with parts. Listen actively, with visible and audible response, so the speaker feels received. Do not be a topper who answers a story with a better one of your own. Ask people to tell the story of how something happened, not only what they think. And go for open, large questions such as \"What crossroads are you at?\" more often than you would expect."
+    },
+    {
+     "id": "rl_know_a_person5",
+     "title": "Each person lives in their own world",
+     "body": "Two people in the same room are not having the same experience. Each builds a picture of reality from past events, temperament, culture and present needs. So to know someone, do not ask only what happened to them. Ask how they see it. Brooks suggests questions like \"How does this look from where you stand?\" because behaviour that seems unreasonable usually fits the world as that person perceives it."
+    },
+    {
+     "id": "rl_know_a_person6",
+     "title": "Sitting with someone in pain",
+     "body": "When a friend is grieving or depressed, the urge is to fix: offer advice, point to the bright side, suggest they try harder. Brooks, writing from his own experience of a close friend's depression, says these efforts tend to show that you do not understand. What helps is staying present, acknowledging how bad it is, and making clear you are not leaving. Where there is any risk of self-harm, getting professional help comes first."
+    }
+   ]
+  },
+  {
+   "id": "rl_art_gathering",
+   "title": "The Art of Gathering",
+   "author": "Priya Parker",
+   "year": "2018",
+   "category": "people",
+   "why": "It turns dull meetings, dinners and family occasions into times people remember.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "rl_art_gathering1",
+     "title": "Decide why you are really meeting",
+     "body": "Parker says most gatherings run on habit: a birthday means cake, a meeting means an agenda. A category is not a purpose. She asks hosts to name a specific reason this group is coming together now, something that could guide decisions. \"A dinner for my father's seventieth\" is a category. \"An evening where his grandchildren hear the stories of his early life\" tells you whom to invite and what to do.",
+     "try": "For the next event you host, finish this sentence in advance: \"This will have been worth it if...\""
+    },
+    {
+     "id": "rl_art_gathering2",
+     "title": "A good guest list leaves people out",
+     "body": "Inviting everyone to avoid hurt feelings seems kind, but Parker argues it often serves no one. Each extra person changes what the group can do, and a gathering that tries to suit all ends up with no shape. Choosing who is in according to the purpose, and being willing to leave others out politely, protects the people who do come. A talk meant to settle a family matter works better without distant relatives watching."
+    },
+    {
+     "id": "rl_art_gathering3",
+     "title": "Do not be a relaxed host",
+     "body": "Many hosts step back in the name of being easy-going. Parker warns that this does not free the guests. It leaves them at the mercy of whoever is loudest. She recommends generous authority: using the host's power for the guests' sake. That means protecting them from a bore, treating guests as equals whatever their rank outside, and helping them connect, for example by introducing people with something they share."
+    },
+    {
+     "id": "rl_art_gathering4",
+     "title": "Temporary rules free people",
+     "body": "Old etiquette assumes everyone knows the same unwritten code. Parker prefers explicit rules that apply to one occasion only: no phones at the table, no talk about work, each person pours for someone else. Because the rules are stated, playful and brief, guests from different backgrounds can join in equally, and the evening becomes a small world of its own that differs from ordinary life.",
+     "try": "At your next shared meal, propose one playful rule for the evening, such as no phones at the table."
+    },
+    {
+     "id": "rl_art_gathering5",
+     "title": "Open and close on purpose",
+     "body": "People remember beginnings and endings most, yet hosts fill both with housekeeping: where to park, thanks to the caterers, a drift toward the door. Parker advises starting with something that captures attention and makes people feel welcome and joined together, and ending with a clear moment that looks back on what happened and sends guests out. Put the logistics second, never first or last."
+    }
+   ]
+  },
+  {
+   "id": "rl_platonic",
+   "title": "Platonic",
+   "author": "Marisa G. Franco",
+   "year": "2022",
+   "category": "people",
+   "why": "A psychologist's research-based guide to making and keeping friends as an adult.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "rl_platonic1",
+     "title": "Adult friendship takes initiative",
+     "body": "At school, friendship seemed to happen by itself because we saw the same people every day in a relaxed setting. Adult life removes those conditions. Franco argues that people who believe friendship should arise without effort tend to end up lonelier, while those who accept that it takes deliberate work do better. Waiting to be approached is the usual mistake. Someone has to send the first message, and it can be you.",
+     "try": "Message one person you would like to know better and suggest a specific time to meet."
+    },
+    {
+     "id": "rl_platonic2",
+     "title": "Assume people like you",
+     "body": "Fear of rejection keeps many of us from reaching out. Franco reports research suggesting that people tend to underestimate how much others enjoyed their company. She also describes a self-fulfilling pattern: if you expect to be accepted you act warmer and more open, and people respond in kind; if you expect rejection you act guarded and seem cold. Going in assuming goodwill is both more accurate and more effective."
+    },
+    {
+     "id": "rl_platonic3",
+     "title": "See them again and again",
+     "body": "Liking grows with familiarity. One good conversation at a party rarely becomes a friendship, because there is no second meeting. Franco recommends joining something that repeats, such as a class, a volunteer shift, a walking group or a weekly game, and staying with it for some months even if the early sessions feel awkward. Repeated, low-pressure contact does much of the work that effort alone cannot."
+    },
+    {
+     "id": "rl_platonic4",
+     "title": "Your attachment style follows you",
+     "body": "Franco applies attachment theory to friends. Secure people assume they are worthy of care and others can be trusted, so they start, forgive and ask for help with ease. Anxious people fear being dropped and may cling or take offence quickly. Avoidant people guard their independence and keep friends at a distance. These are tendencies, not fixed types, and noticing your own pattern is the first step toward acting more securely."
+    },
+    {
+     "id": "rl_platonic5",
+     "title": "Let friends see more of you",
+     "body": "Closeness grows when people show each other what is real, including struggles. We fear that admitting a difficulty will make us look weak or needy, yet in practice others usually respond with warmth and with disclosures of their own. Franco advises going by steps and choosing people who have shown they can be trusted. Telling a friend \"this month has been hard\" instead of \"all fine\" is often enough to deepen things."
+    },
+    {
+     "id": "rl_platonic6",
+     "title": "Say the affection out loud",
+     "body": "Friends rarely tell each other how much they matter, partly from shyness and partly because we reserve such words for romance and family. Franco argues that expressed affection and small generosities are what make a friendship feel safe. She also holds that raising a hurt calmly, in the hope of repairing things, is a sign of commitment, and that silent withdrawal does more harm than an honest conversation.",
+     "try": "Tell one friend today something specific you appreciate about them."
+    }
+   ]
+  },
+  {
+   "id": "rl_war_kindness",
+   "title": "The War for Kindness",
+   "author": "Jamil Zaki",
+   "year": "2019",
+   "category": "people",
+   "why": "A psychologist shows that empathy is not a fixed trait but a skill we can build on purpose.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "rl_war_kindness1",
+     "title": "Empathy can be grown",
+     "body": "Many people think of empathy as something you either have or lack, like height. Zaki, who studies it, argues that this is wrong. Genes and upbringing set a starting range, but experience and practice move us within it, sometimes a long way. Empathy behaves more like a muscle than a fixed feature. That matters because it means a cold habit of mind, in a person or a workplace, is not a life sentence."
+    },
+    {
+     "id": "rl_war_kindness2",
+     "title": "Believing it can change helps it change",
+     "body": "Zaki describes work, some of it with Carol Dweck, on what people believe about empathy. Those who think it can be developed tend to try harder in the moments when caring is difficult, such as listening to someone they disagree with or facing a stranger's suffering. Those who think it is fixed give up sooner. Treating a failure of empathy as a lapse in effort, not proof of character, keeps you trying."
+    },
+    {
+     "id": "rl_war_kindness3",
+     "title": "Contact and stories widen the circle",
+     "body": "We feel easily for people like us and poorly for outsiders. Zaki reviews two routes that widen the circle. One is real contact, especially on equal terms and with a shared aim, which makes it hard to keep seeing a group as a single type. The other is story: novels, theatre and personal accounts let us spend time inside a life unlike ours. Neither works automatically, but both shift people more than argument does.",
+     "try": "Read or listen to one first-person account from someone whose life is very unlike your own."
+    },
+    {
+     "id": "rl_war_kindness4",
+     "title": "Feeling too much burns carers out",
+     "body": "Nurses, doctors and family carers can be worn down by absorbing other people's pain. Zaki draws a distinction between distress, where you take on the suffering as your own, and concern, where you care about the person and want to help. Distress leads to exhaustion and withdrawal. Concern is steadier and can be kept up. For someone looking after a sick parent, caring without drowning is a skill worth learning, and rest is part of it."
+    },
+    {
+     "id": "rl_war_kindness5",
+     "title": "Kindness follows what seems normal",
+     "body": "People adjust their behaviour to what they think others around them do. If cruelty or indifference looks normal, they drift toward it; if kindness is visible, they drift toward that. Zaki describes schools and other institutions that changed conduct by making caring behaviour public and expected. In a family or a team, noticing and naming kind acts when they happen is a way of setting the local standard.",
+     "try": "When you see someone do something kind today, say so out loud where others can hear."
+    }
+   ]
+  },
+  {
+   "id": "rl_set_boundaries",
+   "title": "Set Boundaries, Find Peace",
+   "author": "Nedra Glover Tawwab",
+   "year": "2021",
+   "category": "people",
+   "why": "A therapist's plain guide to saying what you need without guilt or drama.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "rl_set_boundaries1",
+     "title": "What a boundary is",
+     "body": "Tawwab defines boundaries as the expectations and needs that help you feel safe and comfortable in your relationships. They are not walls and not punishments. They tell others how to be close to you. She notes that many common troubles, such as resentment, exhaustion, dread of certain phone calls and avoiding people, are signs that a limit is missing. Resentment in particular is a signal to look for the request you have not made."
+    },
+    {
+     "id": "rl_set_boundaries2",
+     "title": "Too loose, too tight, or healthy",
+     "body": "The book describes three patterns. Porous boundaries mean saying yes when you mean no, oversharing and taking on other people's problems. Rigid boundaries mean keeping everyone out, never asking for help and cutting people off at the first fault. Healthy boundaries sit between: you can say no without a long apology, accept a no from others, and adjust for the person and situation. Most people are different in different relationships."
+    },
+    {
+     "id": "rl_set_boundaries3",
+     "title": "Say it plainly",
+     "body": "People cannot meet a need they have not been told about, and hints do not count. Tawwab recommends a short, direct statement of what you need or will do, without a long justification, since each extra reason invites debate. \"I can't lend money any more\" is complete. So is \"I am not available for calls after nine; I will ring you back in the morning.\" Clear is kinder than a vague yes followed by avoidance.",
+     "try": "Write one sentence beginning \"I need...\" or \"I won't be able to...\" for a situation that drains you."
+    },
+    {
+     "id": "rl_set_boundaries4",
+     "title": "Guilt does not mean you are wrong",
+     "body": "Setting a limit with a parent, friend or employer often brings guilt, especially for people raised to put others first. Tawwab treats this discomfort as a normal part of doing something new, not as evidence of a mistake. The feeling fades with practice. The alternative, saying yes and then resenting it, damages the relationship more slowly but more surely than an honest no."
+    },
+    {
+     "id": "rl_set_boundaries5",
+     "title": "Expect a reaction, and follow through",
+     "body": "Some people accept a new boundary at once. Others push back, test it, sulk or act as though nothing was said. Tawwab says this is common and does not mean the boundary failed. What makes it real is your own behaviour afterwards: restating it calmly and doing what you said you would do, such as ending the call. A limit that is announced and never upheld teaches others to ignore it."
+    },
+    {
+     "id": "rl_set_boundaries6",
+     "title": "Boundaries are not a cure for danger",
+     "body": "The book covers six areas where limits apply: physical, sexual, intellectual, emotional, material and time. Tawwab is clear that ordinary boundary-setting assumes a person who can hear a no. Where someone responds to limits with threats, violence or control, the problem is abuse, the fault is theirs, and the priority is your safety and help from people outside the relationship, such as a helpline, a doctor or the police."
+    }
+   ]
+  },
+  {
+   "id": "rl_dance_anger",
+   "title": "The Dance of Anger",
+   "author": "Harriet Lerner",
+   "year": "1985",
+   "category": "people",
+   "why": "A classic on using anger as information to change stuck patterns in close relationships.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "rl_dance_anger1",
+     "title": "Anger is a signal",
+     "body": "Lerner treats anger as neither good nor bad but as a message worth reading. It may mean that we are being hurt, that our needs are going unmet, that we are giving up too much of ourselves, or that something is not right. The useful question is not whether I am entitled to be angry but what the anger is telling me and what clear position I want to take. Written first for women, the book applies to anyone."
+    },
+    {
+     "id": "rl_dance_anger2",
+     "title": "Silence and blowing up both keep things the same",
+     "body": "Lerner describes two opposite styles. Some people avoid anger and conflict at any price, staying agreeable while resentment builds. Others fight, blame and complain often. They look different, but she argues both protect the old pattern: the quiet one never states a position, and the loud one is easy to dismiss as unreasonable. Neither clearly says \"this is what I think and this is what I will do.\""
+    },
+    {
+     "id": "rl_dance_anger3",
+     "title": "You can only change your own steps",
+     "body": "A relationship is like a dance in which each person's moves call out the other's. Most of our energy goes into trying to make the partner dance differently, which seldom works. Lerner's central advice is to give up changing the other person and change your own part. If you always chase and they always retreat, stop chasing and see what happens. When one dancer changes steps, the old dance cannot continue.",
+     "try": "Pick one repeating argument and decide on one thing you will do differently next time, whatever the other person does."
+    },
+    {
+     "id": "rl_dance_anger4",
+     "title": "Too much giving in costs the self",
+     "body": "Lerner uses the term de-selfing for what happens when one person gives up too much of their own thoughts, wants and ambitions to keep the peace. The relationship looks calm, but the person who keeps yielding carries a growing store of anger or low mood. A clear self means being able to say what you think and want while staying connected, even when the other person disapproves."
+    },
+    {
+     "id": "rl_dance_anger5",
+     "title": "Expect a push to change back",
+     "body": "When you alter your part in an old pattern, others often react strongly: with accusations, hurt, coldness or warnings that you are being selfish. Lerner says this countermove is a normal response to change in any family and usually reflects anxiety, not ill will. The task is to hold your new position calmly, without attacking or giving in, and to stay in friendly contact while the system settles."
+    },
+    {
+     "id": "rl_dance_anger6",
+     "title": "Watch for triangles",
+     "body": "When tension rises between two people, it is tempting to ease it by bringing in a third: complaining to a friend about a husband, or siding with a child against the other parent. This lowers the pressure for a while but leaves the original issue untouched and tangles the third person in it. Lerner advises taking each concern directly to the person involved and letting other pairs manage their own relationship.",
+     "try": "If you catch yourself complaining about one person to another, take the concern to the person directly."
+    }
+   ]
+  },
+  {
+   "id": "rl_why_apologize",
+   "title": "Why Won't You Apologize?",
+   "author": "Harriet Lerner",
+   "year": "2017",
+   "category": "people",
+   "why": "A wise, practical book on what a real apology contains and why it is so hard to give.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "rl_why_apologize1",
+     "title": "Leave out the \"but\"",
+     "body": "Lerner says a true apology is short and takes clear responsibility for what you did. The word \"but\" cancels it, because whatever follows is an excuse or a criticism, however true. \"I'm sorry I shouted, but you kept interrupting\" is an argument, not an apology. If the other person also behaved badly, that is a separate conversation for another time. First let the apology stand whole.",
+     "try": "The next time you apologise, stop after the apology. Add no explanation at all."
+    },
+    {
+     "id": "rl_why_apologize2",
+     "title": "Apologise for the act, not their feelings",
+     "body": "\"I'm sorry you feel that way\" and \"I'm sorry if you were offended\" sound like apologies and are not. They place the trouble in the other person's reaction and leave your own behaviour unnamed. Lerner's test is whether the sentence states what you did. \"I'm sorry I made that joke about your work in front of everyone\" owns the action. The hurt person can tell the difference at once."
+    },
+    {
+     "id": "rl_why_apologize3",
+     "title": "Do not demand forgiveness in return",
+     "body": "An apology is given, not traded. Asking \"so do you forgive me?\" right away, or apologising again and again until the other person reassures you, turns their injury into a task they must perform for your comfort. Lerner advises saying it sincerely, changing the behaviour, and letting the hurt person take the time they need. Over-apologising for small things is its own problem: it wearies others and pulls attention to you."
+    },
+    {
+     "id": "rl_why_apologize4",
+     "title": "With deep hurts, listening is the apology",
+     "body": "For a serious injury, a single \"I'm sorry\" does not go far enough. Lerner says the hurt person needs to know you truly grasp what it was like for them, and that requires listening to their anger and pain without defending, correcting details or explaining. It may take more than one conversation. This is the hardest part, and the part that does the healing; the words of apology come after it."
+    },
+    {
+     "id": "rl_why_apologize5",
+     "title": "Why some people cannot say sorry",
+     "body": "Lerner suggests that people who never apologise are often not too proud but too fragile. To admit a wrong feels to them like admitting they are worthless, so they deny, minimise or blame. A person with a steady sense of worth can say \"I was wrong\" and remain standing. This explains the refusal without excusing it, and it tells you that pushing harder for a confession will mostly harden the defence."
+    },
+    {
+     "id": "rl_why_apologize6",
+     "title": "You need not forgive to heal",
+     "body": "Lerner questions the common advice that you must forgive in order to move on. She holds that forgiveness cannot be forced, that some acts are not yours to forgive while the person takes no responsibility, and that you can let go of corrosive anger and build a good life without it. She is clear that someone who has harmed you seriously is not owed a relationship, and that your safety comes before any reconciliation."
+    }
+   ]
+  },
+  {
+   "id": "rl_self_deception",
+   "title": "Leadership and Self-Deception",
+   "author": "The Arbinger Institute",
+   "year": "2000",
+   "category": "people",
+   "why": "A fable about a hidden habit, seeing people as obstacles, that quietly spoils work and family life.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "rl_self_deception1",
+     "title": "In the box, people become objects",
+     "body": "The book's central image is a box. Outside it, I see others as people whose needs, hopes and worries are as real as mine. Inside it, I see them as objects: obstacles in my way, tools for my purposes, or irrelevant. Others can usually sense which way they are being seen, whatever I say or do. The same polite sentence lands differently depending on how I regard the person I am speaking to."
+    },
+    {
+     "id": "rl_self_deception2",
+     "title": "It begins with a small self-betrayal",
+     "body": "According to the book, we enter the box by going against our own sense of what we ought to do for someone. I notice a colleague struggling and feel I should help, then do not. To live with that, I begin to justify it: she is disorganised, I am busy and important. The story I tell to excuse myself changes how I see her, and the box closes around me. The act was small; the distortion grows."
+    },
+    {
+     "id": "rl_self_deception3",
+     "title": "Justification inflates their faults and my virtue",
+     "body": "Once I need to feel justified, my view bends in predictable ways. I exaggerate the other person's failings, exaggerate my own good qualities, and attach great weight to anything that supports my case. I may even come to need them to behave badly, because their bad behaviour proves me right. This is the self-deception of the title: I am part of the problem and cannot see that I am.",
+     "try": "Think of someone who irritates you and list three pressures or worries they may be dealing with."
+    },
+    {
+     "id": "rl_self_deception4",
+     "title": "Two boxes feed each other",
+     "body": "When I treat someone as a problem, they tend to respond in kind, and each of us then supplies the other with fresh evidence. A parent who sees a teenager as irresponsible nags and checks; the teenager, feeling distrusted, hides things; the parent feels confirmed. The book calls this collusion. Each side provokes the very behaviour it complains about, and each believes the other started it."
+    },
+    {
+     "id": "rl_self_deception5",
+     "title": "Technique will not get you out",
+     "body": "The book argues that you cannot leave the box by changing behaviour alone. New communication skills used on someone you still regard as an object are sensed as manipulation. The way out is to question your own righteousness and let the other person become real to you again, usually by recalling that they too have burdens. Then do the helpful thing you already feel you should. Skills work once the regard has changed.",
+     "try": "Do today one helpful thing for someone that you have felt you should do and have been putting off."
+    }
+   ]
+  },
+  {
+   "id": "rl_turn_ship",
+   "title": "Turn the Ship Around!",
+   "author": "L. David Marquet",
+   "year": "2012",
+   "category": "people",
+   "why": "A submarine captain's account of getting better results by giving orders less and trusting more.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "rl_turn_ship1",
+     "title": "From followers to leaders",
+     "body": "Marquet took command of a submarine he had not trained for and could not direct in detail. He concluded that the usual model, one leader who thinks and many followers who carry out, wastes the minds of nearly everyone on board and makes the whole crew only as good as the person at the top. His alternative treats every member as a leader in their own area, expected to think, decide and take responsibility."
+    },
+    {
+     "id": "rl_turn_ship2",
+     "title": "\"I intend to...\"",
+     "body": "A small change of words carried much of the shift. Crew members stopped asking permission or waiting for orders and started stating what they intended to do. The captain could then simply agree. To say \"I intend to\" with confidence, a person has to have thought the matter through as if the decision were theirs, which is the point. At home, a teenager saying \"I plan to finish the essay tonight and revise on Sunday\" owns the plan.",
+     "try": "Instead of asking \"what should I do?\" today, say \"here is what I intend to do\" and invite objections."
+    },
+    {
+     "id": "rl_turn_ship3",
+     "title": "Move the authority to the information",
+     "body": "In most organisations the people closest to the work know most about it, but must pass the facts upward and wait for a decision to come back down. Marquet reversed the flow: push the power to decide down to the level where the knowledge already is. Decisions get faster and better informed, and people care more about outcomes they chose. The leader's job becomes finding which decisions can be handed over next."
+    },
+    {
+     "id": "rl_turn_ship4",
+     "title": "Control needs competence and clarity",
+     "body": "Marquet is careful to say that handing over control without preparation produces chaos. Two supports must be built alongside it. One is technical competence: people need the knowledge to make sound decisions, so learning becomes constant. The other is clarity: everyone must understand what the organisation is trying to achieve, so that separate decisions point the same way. More freedom calls for more of both."
+    },
+    {
+     "id": "rl_turn_ship5",
+     "title": "Hold back your solution",
+     "body": "The hardest habit for a capable leader to break is supplying the answer. Each time you solve a problem that someone brings you, you teach them to bring the next one too. Marquet trained himself to ask what the person thought should be done, and to accept a workable plan that was not the one he would have chosen. Where there is time, letting people reach their own answer builds the ability the group will need later."
+    },
+    {
+     "id": "rl_turn_ship6",
+     "title": "Think out loud, act deliberately",
+     "body": "Two practices kept delegated decisions safe. Crew members were encouraged to voice their reasoning, doubts and hunches as they worked, so that others could catch errors and the captain could trust their judgement. And before operating anything important, a person paused and stated what they were about to do, which gave a moment for correction. Saying the step aloud before taking it is a simple guard against slips."
+    }
+   ]
+  },
+  {
+   "id": "rl_multipliers",
+   "title": "Multipliers",
+   "author": "Liz Wiseman",
+   "year": "2010",
+   "category": "people",
+   "why": "It explains why some leaders make the people around them smarter while others drain them.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "rl_multipliers1",
+     "title": "Multipliers and Diminishers",
+     "body": "Wiseman contrasts two kinds of leader. Diminishers need to be the cleverest person present; they decide, direct and check, and people around them hold back and offer only part of what they could. Multipliers assume that others are capable and will work things out, and use their own ability to draw out everyone else's. Her claim, based on her own interviews and surveys of managers, is that Multipliers get far more from the same people."
+    },
+    {
+     "id": "rl_multipliers2",
+     "title": "Find each person's native genius",
+     "body": "Multipliers pay attention to what a person does easily and well, often without noticing it themselves, and put that ability to use regardless of job title. Wiseman contrasts this with leaders who collect talented people and then let them sit idle. Telling someone what you see them doing unusually well is useful in itself, since people tend to undervalue what comes naturally to them. It applies to children and volunteers as much as staff.",
+     "try": "Tell one person today about something they do unusually well and seem not to notice."
+    },
+    {
+     "id": "rl_multipliers3",
+     "title": "Give room, and expect the best",
+     "body": "Tense leaders make people cautious, and cautious people offer safe ideas. Wiseman describes a liberating leader as one who creates space, by listening more than talking and admitting their own errors, and at the same time demands a person's best work. The pairing matters. Comfort with no expectation produces little; pressure with no safety produces fear. Mistakes made while trying are treated as a source of learning."
+    },
+    {
+     "id": "rl_multipliers4",
+     "title": "Ask the question instead of giving the answer",
+     "body": "A leader who knows a lot is tempted to hand down solutions. Wiseman's Multipliers set a challenge instead: they point to an opportunity, ask the hard question, and let others work out the way. For decisions that matter, they organise a real debate before deciding, asking for evidence and for the other side of the case, so that people understand and support the outcome because they helped to reach it.",
+     "try": "In one discussion today, contribute only questions for the first ten minutes."
+    },
+    {
+     "id": "rl_multipliers5",
+     "title": "Hand over ownership and do not take it back",
+     "body": "Wiseman describes Multipliers as investors. They make it clear who owns a piece of work, supply the resources and teaching needed, and hold the person to account for the result. When that person struggles, they help and then return the task. A leader, or a parent, who steps in and finishes the job teaches dependence, and will be needed again every time."
+    },
+    {
+     "id": "rl_multipliers6",
+     "title": "The accidental Diminisher",
+     "body": "One of the book's most useful observations is that most diminishing is done by well-meaning people. The leader full of ideas leaves no room for anyone else's. The quick rescuer prevents people from learning. The constant optimist seems not to notice how hard the work is. The pace-setter leaves others watching instead of following. Each believes they are helping. Wiseman suggests asking those around you which of your good habits is having that effect."
+    }
+   ]
+  },
+  {
+   "id": "rl_fearless_org",
+   "title": "The Fearless Organization",
+   "author": "Amy C. Edmondson",
+   "year": "2018",
+   "category": "people",
+   "why": "The leading researcher on psychological safety explains what it is and how to create it.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "rl_fearless_org1",
+     "title": "What psychological safety means",
+     "body": "Edmondson defines psychological safety as a shared belief that people in a group will not be punished or humiliated for speaking up with ideas, questions, concerns or mistakes. It belongs to the group, not the individual, and it varies from team to team inside one organisation. She came to the idea while studying hospital teams, where the better units seemed to report more errors because their members felt able to mention them."
+    },
+    {
+     "id": "rl_fearless_org2",
+     "title": "Silence is the safe choice, and the costly one",
+     "body": "Speaking up carries an immediate personal risk: looking ignorant, negative or disruptive. Staying quiet carries no risk to the individual today; any harm falls on the group later. So people stay quiet by default. Nobody is ever blamed for the question they did not ask, which makes the loss invisible. Edmondson argues that unless a leader actively lowers the cost of speaking, missed warnings and unshared ideas are the normal state."
+    },
+    {
+     "id": "rl_fearless_org3",
+     "title": "Safe does not mean soft",
+     "body": "Psychological safety is often mistaken for being nice, avoiding conflict or lowering standards. Edmondson says it is none of these. It is what allows candid disagreement and honest reports of problems. She pairs it with high standards: where both are present, people learn and perform; where standards are high and safety low, people are anxious and hide things; where safety is high and standards low, people are comfortable and coast."
+    },
+    {
+     "id": "rl_fearless_org4",
+     "title": "Set the stage and invite voices",
+     "body": "Edmondson describes what leaders can do. First, frame the work honestly as uncertain and dependent on everyone's input, so that speaking up is plainly part of the job. Second, invite participation: admit what you do not know, ask real questions and build routines where views are collected. A manager, teacher or parent who says \"I may have missed something, what do you see?\" makes a reply far more likely.",
+     "try": "In your next meeting or family discussion, ask the quietest person what they think before giving your own view."
+    },
+    {
+     "id": "rl_fearless_org5",
+     "title": "How you respond decides what comes next",
+     "body": "The moment after someone raises a problem settles whether anyone will do so again. Edmondson advises thanking the person first, whatever the news, then turning to what can be done. She separates kinds of failure: thoughtful experiments that did not work deserve credit, accidents in complex systems deserve study, and only careless or deliberate breaches of clear rules call for sanction. Punishing all three alike teaches people to hide."
+    }
+   ]
+  },
+  {
+   "id": "rl_seven_principles",
+   "title": "The Seven Principles for Making Marriage Work",
+   "author": "John M. Gottman and Nan Silver",
+   "year": "1999",
+   "category": "family",
+   "why": "Decades of observing couples, turned into everyday habits that keep a marriage friendly.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "rl_seven_principles1",
+     "title": "Four warning signs",
+     "body": "Gottman names four habits that corrode a marriage. Criticism attacks the partner's character instead of naming a specific complaint. Contempt adds mockery, sneering or disgust and is the most damaging. Defensiveness answers a complaint with a counter-complaint. Stonewalling is shutting down and tuning out. His claim to predict divorce with great accuracy has been questioned by other researchers, but few dispute that these four do harm."
+    },
+    {
+     "id": "rl_seven_principles2",
+     "title": "Know your partner's world",
+     "body": "Gottman uses the term love map for the store of knowledge you hold about your partner's inner life: current worries, friends, hopes, what happened at work this week. Couples who keep this map up to date weather stress and big changes, such as a new baby, better than those who let it fade. The knowledge has to be refreshed, because people's concerns change from year to year.",
+     "try": "Ask your partner what is weighing on their mind most this week, and remember the answer."
+    },
+    {
+     "id": "rl_seven_principles3",
+     "title": "Turn toward the small bids",
+     "body": "Through the day, partners make small bids for attention: a remark about the news, a sigh, a touch, \"look at that bird\". Each can be met by turning toward it with a response, ignoring it or snapping. Gottman argues that romance is kept alive less by grand gestures than by a steady habit of turning toward these moments, which builds a reserve of goodwill to draw on when there is conflict.",
+     "try": "Notice one small bid for your attention today and answer it warmly, even if you are busy."
+    },
+    {
+     "id": "rl_seven_principles4",
+     "title": "Let your partner influence you",
+     "body": "A marriage works better when each partner takes the other's opinions and feelings into account in decisions, and neither insists on having the final say. Gottman's research led him to stress this especially for husbands, who were, in the couples he studied, more likely to resist. Yielding on some points is not weakness. It is what makes the other person willing to yield on others, and it signals respect."
+    },
+    {
+     "id": "rl_seven_principles5",
+     "title": "Start gently, repair early",
+     "body": "How a discussion begins tends to decide how it ends. Gottman recommends a soft start: state your complaint about a specific matter, say how you feel and what you need, without blame. \"The bins are still full and I'm tired; could you take them out?\" works better than \"You never help.\" When things heat up anyway, a repair attempt such as a joke, an apology or \"let me try that again\" stops the slide if the partner accepts it."
+    },
+    {
+     "id": "rl_seven_principles6",
+     "title": "Some problems never go away",
+     "body": "Gottman reports that most disagreements between couples are perpetual. They come from lasting differences in temperament and values: tidiness, money, how much time to spend with relatives. Happy couples do not solve these. They talk about them with humour and tolerance and keep them from hardening into gridlock, often by learning what deeper hope or fear lies behind each position. Expecting to resolve everything sets a marriage up for disappointment."
+    }
+   ]
+  },
+  {
+   "id": "rl_hold_me_tight",
+   "title": "Hold Me Tight",
+   "author": "Sue Johnson",
+   "year": "2008",
+   "category": "family",
+   "why": "The founder of emotionally focused couple therapy explains what partners are really fighting about.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "rl_hold_me_tight1",
+     "title": "Adult love is an attachment bond",
+     "body": "Johnson builds on attachment research that began with children and their parents. Her view is that adults need a secure emotional bond with a partner in much the same way, and that this need is healthy, not childish or weak. A person who can rely on a partner copes better with stress and ventures out more confidently. Seeing love as a bond, and not only as a bargain or a feeling, changes what counts as a problem."
+    },
+    {
+     "id": "rl_hold_me_tight2",
+     "title": "The question under every fight",
+     "body": "Arguments about chores, money or lateness often carry a deeper question that nobody speaks: are you there for me? Do I matter to you? Will you come when I call? Johnson sums up what partners need in three words: accessible, responsive and engaged. When that deeper question gets a reassuring answer, the surface issue usually becomes easy to settle. When it does not, no schedule for the washing-up will end the fighting."
+    },
+    {
+     "id": "rl_hold_me_tight3",
+     "title": "The pattern is the enemy",
+     "body": "Johnson describes loops that distressed couples fall into. In one, both attack and blame. In the most common, one partner pursues and protests while the other withdraws, and each move fuels the other: the more one pushes, the more the other retreats. In the third, both go quiet and distant. Her key step is for the couple to see the loop itself as the shared opponent, instead of each other.",
+     "try": "After your next disagreement has cooled, describe the loop together: \"When I do this, you do that, and then I...\""
+    },
+    {
+     "id": "rl_hold_me_tight4",
+     "title": "Raw spots",
+     "body": "Everyone carries sensitive places left by past hurts, in childhood or in this relationship, where a small trigger sets off a large reaction. A partner glancing at a phone during a conversation may touch an old fear of being unimportant. Johnson suggests learning to notice the moment the tone suddenly changes, and to name the tender feeling underneath, such as fear or sadness, in place of the anger or coldness that covers it.",
+     "try": "Recall the last time your mood changed suddenly with someone close, and name the softer feeling underneath."
+    },
+    {
+     "id": "rl_hold_me_tight5",
+     "title": "Say the fear and the need",
+     "body": "The conversation the book is named after has two parts. First each partner says what they are most afraid of in the relationship: being abandoned, failing, never being enough. Then each says what they need from the other in order to feel safe. \"I get loud because I'm frightened you have stopped caring; I need to know I still matter\" reaches a partner in a way that criticism never does. It is hard to say and powerful to hear."
+    },
+    {
+     "id": "rl_hold_me_tight6",
+     "title": "When this approach does not fit",
+     "body": "Johnson's method asks both partners to lower their guard, which is only reasonable where both are safe. She does not recommend it where there is violence or continuing abuse. In that situation the frightened partner's caution is sensible, the task is not to open up further, and safety and outside help come first. The book also offers a way to heal past injuries: the hurt is told fully, heard without defence and answered with real remorse."
+    }
+   ]
+  },
+  {
+   "id": "rl_attached",
+   "title": "Attached",
+   "author": "Amir Levine and Rachel S. F. Heller",
+   "year": "2010",
+   "category": "family",
+   "why": "A readable guide to how attachment styles shape whom we choose and how we behave in love.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "rl_attached1",
+     "title": "Three styles of attaching",
+     "body": "The authors describe three main patterns in adult relationships. Secure people are comfortable with closeness and usually warm and dependable. Anxious people long for closeness, worry about whether they are loved and are quick to notice signs of distance. Avoidant people value independence highly and feel crowded by too much intimacy. The book offers these as a way of making sense of behaviour that otherwise seems puzzling."
+    },
+    {
+     "id": "rl_attached2",
+     "title": "Leaning on someone makes you bolder",
+     "body": "Popular advice says to be self-sufficient and not need anyone. The authors argue the opposite, calling it the dependency paradox: when people know they have a reliable partner to fall back on, they become more independent and adventurous, not less. A secure base frees attention for work and the wider world. Needing closeness is ordinary human equipment, and feeling ashamed of it tends to make things worse."
+    },
+    {
+     "id": "rl_attached3",
+     "title": "The anxious and avoidant trap",
+     "body": "Anxious and avoidant people often pair up, and each brings out the other's fear. One seeks reassurance; the other, feeling pressed, pulls back; the first becomes more alarmed and pursues harder. The authors say the turbulence is easily mistaken for passion. Their advice to an anxious person is that a calm, dependable partner may feel unexciting at first precisely because the alarm system has gone quiet."
+    },
+    {
+     "id": "rl_attached4",
+     "title": "Protest and distancing",
+     "body": "When an anxious person's fear of losing a partner is set off, they may call repeatedly, keep score, threaten to leave or act cold to provoke a response. The book calls this protest behaviour. An avoidant person in turn uses distancing tactics: dwelling on the partner's small flaws, keeping plans vague, idealising a past love. Recognising these moves in yourself as fear at work makes it possible to choose something else."
+    },
+    {
+     "id": "rl_attached5",
+     "title": "Say what you need, plainly",
+     "body": "The authors recommend direct, non-accusing statements of your needs, which they call effective communication. \"I feel uneasy when I don't hear from you all day; a short message would help\" gives a partner something clear to respond to. Their reaction is informative too. Someone who cares will try to meet a reasonable need; someone who mocks or dismisses it is showing you how they will treat your needs in future.",
+     "try": "Put one unspoken need into a single calm sentence that begins with \"I\" and contains no blame."
+    },
+    {
+     "id": "rl_attached6",
+     "title": "Handle the labels with care",
+     "body": "Attachment research is solid, but the tidy categories of the popular version are a simplification. Researchers generally measure these tendencies on sliding scales, most people are a mixture, and a person's pattern can vary between relationships and shift over the years. Critics also find the book hard on avoidant people. Use the styles as a lens for understanding, not a verdict on anyone, and never as a reason to put up with mistreatment."
+    }
+   ]
+  },
+  {
+   "id": "rl_art_of_loving",
+   "title": "The Art of Loving",
+   "author": "Erich Fromm",
+   "year": "1956",
+   "category": "family",
+   "why": "A short, serious classic arguing that love is a skill to be practised, not a stroke of luck.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "rl_art_of_loving1",
+     "title": "Love is an art",
+     "body": "Fromm opens by rejecting the idea that love is a pleasant feeling you fall into if you are fortunate. He says it is an art, like music or carpentry, which needs knowledge, effort and long practice. People would never expect to play an instrument well without learning, yet assume that loving comes naturally. Because of that assumption, he observes, we keep failing at it and seldom ask why."
+    },
+    {
+     "id": "rl_art_of_loving2",
+     "title": "The problem is the capacity, not the person",
+     "body": "Fromm says most people think the difficulty of love lies in being loved or in finding the right person. So they work on being attractive and successful and treat partners as a market in which to get a good bargain. He holds that the real difficulty is in one's own ability to love. Someone who has developed that ability can love many kinds of people; someone who has not will be disappointed by each new choice."
+    },
+    {
+     "id": "rl_art_of_loving3",
+     "title": "Four elements of mature love",
+     "body": "Fromm names four things that all real love contains. Care is active concern for the life and growth of the one loved. Responsibility is readiness to respond to their needs. Respect is seeing the person as they are and wanting them to develop in their own way, not as you would like. Knowledge is the effort to understand them deeply. Without respect and knowledge, he warns, care and responsibility slide into control.",
+     "try": "Choose one person you love and ask which of the four you give them least: care, responsibility, respect or knowledge."
+    },
+    {
+     "id": "rl_art_of_loving4",
+     "title": "Falling in love and staying in it",
+     "body": "The sudden collapse of barriers between two strangers is thrilling, and Fromm says it is easily mistaken for proof of great love. By its nature it cannot last, because once two people know each other the sense of miracle fades. What follows either becomes a steady, chosen commitment or ends in a search for a new stranger. He describes mature love as a union in which each person keeps their own integrity."
+    },
+    {
+     "id": "rl_art_of_loving5",
+     "title": "Self-love is not selfishness",
+     "body": "Fromm disputes the old idea that love of self and love of others are rivals. If it is a virtue to care for a human being, he reasons, I am one too, and my own life and growth deserve the same care. The selfish person, in his account, does not love themselves too much but too little, and grasps at things to cover the lack. A person who can stand on their own feet is better able to love another."
+    },
+    {
+     "id": "rl_art_of_loving6",
+     "title": "How to practise",
+     "body": "Like any art, Fromm says, love needs discipline, concentration and patience, and it has to matter supremely to the person practising. He recommends learning to be alone without distraction, to listen fully when someone speaks, and to see people as they are instead of through your own wishes and fears. It also takes courage: to love is to commit yourself with no guarantee of return.",
+     "try": "Spend twenty minutes alone today with no phone, book or music, and simply notice what comes up."
+    }
+   ]
+  },
+  {
+   "id": "rl_mating_captivity",
+   "title": "Mating in Captivity",
+   "author": "Esther Perel",
+   "year": "2006",
+   "category": "family",
+   "why": "A therapist's thoughtful look at why desire often fades in loving, stable relationships.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "rl_mating_captivity1",
+     "title": "Security and desire pull apart",
+     "body": "Perel starts from a tension she sees in long relationships. We ask one person for safety, predictability and comfort, and from the same person we want novelty, mystery and excitement. Love thrives on closeness and familiarity; desire feeds on some distance and uncertainty. She does not treat this as a fault to be repaired once but as a paradox to be managed. Her account rests on clinical experience, not controlled studies."
+    },
+    {
+     "id": "rl_mating_captivity2",
+     "title": "Closeness is not merging",
+     "body": "Many couples believe that the more they share and the less they keep separate, the stronger the bond. Perel argues that when two people fuse completely there is no longer anyone across the gap to reach toward. Each partner needs a self: their own friends, interests and inner life. Time apart and some privacy are not threats to intimacy in her view. They keep each person interesting to the other."
+    },
+    {
+     "id": "rl_mating_captivity3",
+     "title": "See your partner as a separate person",
+     "body": "Perel observes that people often feel most drawn to a partner when they see them in their element: absorbed in work, admired by friends, doing something they are good at. In that moment the familiar person appears again as someone with a life of their own. Daily routine hides this. Deliberately watching your partner in a setting where they shine can restore a sense of them that household logistics wear away.",
+     "try": "Notice your partner or a loved one doing something they are good at today, and tell them what you saw."
+    },
+    {
+     "id": "rl_mating_captivity4",
+     "title": "Intimacy is more than talking",
+     "body": "Modern ideas of closeness lean heavily on verbal disclosure: telling each other everything. Perel points out that people also show love through actions, touch, shared projects and play, and that insisting on constant talk can favour one partner's style over the other's. She adds that the fairness and caution that make a household run well do not by themselves create excitement, which depends more on imagination and playfulness."
+    },
+    {
+     "id": "rl_mating_captivity5",
+     "title": "Desire needs intention",
+     "body": "Couples often assume that if passion does not arise by itself, something is wrong. Perel suggests that in a long relationship, especially with children and work competing for energy, spontaneity is unreliable and desire has to be made room for on purpose: time set aside, anticipation built, the parental and managerial roles put down for an evening. Planning in this sense is not unromantic. It shows the relationship is worth the effort."
+    }
+   ]
+  },
+  {
+   "id": "rl_all_about_love",
+   "title": "All About Love",
+   "author": "bell hooks",
+   "year": "2000",
+   "category": "family",
+   "why": "A clear, demanding account of love as something we do, in families, friendships and communities.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "rl_all_about_love1",
+     "title": "We need a definition",
+     "body": "hooks begins with the observation that people use the word love constantly without agreeing on what it means, which makes it hard to learn or to recognise. She adopts a definition from the psychiatrist M. Scott Peck: love is the will to extend oneself to nurture one's own or another person's growth. On this view love is a choice and an action, not only a feeling that arrives and departs."
+    },
+    {
+     "id": "rl_all_about_love2",
+     "title": "Love is several things together",
+     "body": "hooks lists what love is made of: care, affection, recognition, respect, commitment, trust and open, honest communication. Affection alone does not make up the whole. She notes that many of us were raised to call any strong attachment love, so we accept relationships where some of these ingredients are plainly missing. Checking a relationship against the full list is a sober way of seeing what is there.",
+     "try": "Pick one close relationship and ask which of these is weakest: care, respect, trust, commitment or honest talk."
+    },
+    {
+     "id": "rl_all_about_love3",
+     "title": "Love and abuse cannot coexist",
+     "body": "One of the book's firmest claims is that where there is abuse, there is not love, whatever else is present. A person may feel attached to someone, even care for them in some ways, and still harm them; hooks will not call that love. She traces the confusion to childhoods in which children were hurt and told it was for love. Her point is not blame. Nobody has to accept harm as proof of affection, and safety and outside help come first."
+    },
+    {
+     "id": "rl_all_about_love4",
+     "title": "Honesty is the ground",
+     "body": "hooks argues that lying, including the small, convenient kind, wears away the trust that love depends on. People often lie to avoid conflict or to keep an advantage, and many are taught early that this is normal. But a person cannot be known or loved while hiding, and a partner cannot make sound choices on false information. She treats truthfulness, with kindness, as a daily practice of love and not an optional extra.",
+     "try": "Notice one small lie you are tempted to tell today for convenience, and tell the kind truth instead."
+    },
+    {
+     "id": "rl_all_about_love5",
+     "title": "Start with care for yourself",
+     "body": "The book holds that we cannot give others what we refuse ourselves. hooks does not mean self-indulgence. She means applying the same definition inward: taking responsibility for your own growth, speaking to yourself without contempt and living in line with your values. People who wait for a partner to supply their sense of worth tend to accept poor treatment. Self-love makes it possible to ask for, and recognise, the real thing."
+    },
+    {
+     "id": "rl_all_about_love6",
+     "title": "Love is wider than romance",
+     "body": "hooks regrets that our culture pours nearly all its attention into romantic couples and treats friendship and community as lesser. She argues that friends, extended family and neighbours are where many people first experience dependable love, and that a life rich in such ties puts less strain on any one relationship. She calls for a love ethic, meaning that care, respect and honesty should guide how we treat everyone."
+    }
+   ]
+  },
+  {
+   "id": "rl_how_to_talk_kids",
+   "title": "How to Talk So Kids Will Listen & Listen So Kids Will Talk",
+   "author": "Adele Faber and Elaine Mazlish",
+   "year": "1980",
+   "category": "family",
+   "why": "Probably the most practical parenting book ever written, full of wording you can use the same day.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "rl_how_to_talk_kids1",
+     "title": "Accept the feeling first",
+     "body": "Adults often argue children out of their feelings: \"You're not tired, you just woke up\", \"It doesn't hurt that much.\" The authors say this teaches children to distrust their own perceptions and makes them more upset. It works better to listen, acknowledge with a word such as \"Oh\" or \"I see\", and name the feeling: \"That sounds disappointing.\" A feeling that has been accepted settles; all feelings can be accepted even when some actions must be limited.",
+     "try": "The next time a child complains, name the feeling you hear before saying anything else."
+    },
+    {
+     "id": "rl_how_to_talk_kids2",
+     "title": "Describe, do not accuse",
+     "body": "To get cooperation without a fight, the book offers alternatives to blaming and ordering. Describe what you see: \"There's a wet towel on the bed.\" Give information: \"Wet towels make the blanket damp.\" Say it in one word: \"Towel.\" Describe your own feeling without attacking the child's character. Each of these points to the problem and leaves the child to work out what to do, which is easier to obey than a lecture.",
+     "try": "Replace one instruction today with a single word or a plain description of what you see."
+    },
+    {
+     "id": "rl_how_to_talk_kids3",
+     "title": "Solve the problem instead of punishing",
+     "body": "The authors argue that punishment turns a child's mind to resentment and revenge and away from what they did and how to put it right. In its place they suggest stating your strong disapproval, saying what you expect, showing how to make amends and, for repeated trouble, sitting down together: each side says what they feel and need, all ideas are written down without comment, and you pick those both can accept."
+    },
+    {
+     "id": "rl_how_to_talk_kids4",
+     "title": "Let them do it themselves",
+     "body": "Children grow capable by handling things, so much of a parent's task is stepping back. The book suggests offering choices, showing respect for a child's struggle instead of taking over, not asking too many questions, and not hurrying to answer theirs. \"Zips can be tricky; sometimes it helps to hold the bottom\" leaves the triumph with the child. Rescuing a child from every difficulty tells them you do not think they can manage."
+    },
+    {
+     "id": "rl_how_to_talk_kids5",
+     "title": "Praise by describing",
+     "body": "\"Good boy\" and \"You're so clever\" are judgements, and children can doubt them, feel pressure to live up to them, or come to depend on them. The authors recommend describing what you see and feel: \"You put all the blocks back in the box and the books on the shelf. That is what I call organised.\" The child then praises themselves from the evidence, and that inner verdict is one nobody can take away.",
+     "try": "Give one piece of praise today that describes exactly what the person did, with no \"good\" or \"clever\"."
+    },
+    {
+     "id": "rl_how_to_talk_kids6",
+     "title": "Free children from their labels",
+     "body": "A child called stubborn, clumsy or shy tends to live up to the word, and the family keeps noticing only what confirms it. The authors suggest looking for chances to show the child a different picture: remark on the time they did give way or did speak up, let them overhear you say something positive, and put them in situations where they can see themselves differently. A role, once assigned, is hard for a child to escape alone."
+    }
+   ]
+  },
+  {
+   "id": "rl_siblings",
+   "title": "Siblings Without Rivalry",
+   "author": "Adele Faber and Elaine Mazlish",
+   "year": "1987",
+   "category": "family",
+   "why": "Kind, workable ways to reduce fighting and resentment between brothers and sisters.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "rl_siblings1",
+     "title": "Let the hard feelings be spoken",
+     "body": "A parent's instinct on hearing \"I hate my brother\" is to forbid it: \"No you don't, you love him.\" The authors say that feelings pushed down come out as hitting and meanness. A child who is allowed to say how angry or jealous they are, and is understood, has less need to act on it. \"You really don't like it when he touches your things\" accepts the feeling. Hurting, however, is stopped: feelings are allowed, harmful acts are not."
+    },
+    {
+     "id": "rl_siblings2",
+     "title": "Never compare",
+     "body": "\"Why can't you be tidy like your sister?\" is meant to motivate and instead breeds resentment toward the sister. Favourable comparisons do harm as well: the child praised as better than a sibling learns that their standing depends on the other one doing worse. The authors' rule is to speak to each child only about that child's own behaviour: describe what you see, what you feel, or what needs doing, with no reference to anyone else.",
+     "try": "Catch one comparison before you say it today, and describe only that one person's behaviour instead."
+    },
+    {
+     "id": "rl_siblings3",
+     "title": "Equal is less",
+     "body": "Parents try to prevent jealousy by giving exactly the same: the same amount, the same time, \"I love you all the same.\" The authors argue that children do not want to be loved equally. They want to be loved uniquely. Give according to need: the hungry one gets more, the one with a problem gets time now. Instead of \"I love you the same\", say what is special about this child that nobody else could be for you.",
+     "try": "Tell each child, or each person you care for, one thing you enjoy about them in particular."
+    },
+    {
+     "id": "rl_siblings4",
+     "title": "Do not cast them in roles",
+     "body": "Families tend to hand out parts: the clever one, the sporty one, the difficult one, the baby. Each role limits its holder and also shuts the others out of that territory, so the brother of the musical child decides music is not for him. The book urges parents to treat every child as able to be many things, and to be especially careful not to fix one child as the bully and another as the victim."
+    },
+    {
+     "id": "rl_siblings5",
+     "title": "Stay out of small fights, step into dangerous ones",
+     "body": "For ordinary bickering the authors recommend not taking sides or judging who started it, since that makes one child a winner and deepens the rivalry. Acknowledge that both are angry, describe each one's view, say you trust them to find a fair answer, and leave. If the fight is turning dangerous, the adult steps in and separates the children at once for a cooling-off time. Anyone being hurt is protected first."
+    }
+   ]
+  },
+  {
+   "id": "rl_whole_brain",
+   "title": "The Whole-Brain Child",
+   "author": "Daniel J. Siegel and Tina Payne Bryson",
+   "year": "2011",
+   "category": "family",
+   "why": "It turns ideas about the developing brain into calm, usable responses to children's storms.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "rl_whole_brain1",
+     "title": "Meltdowns as moments to teach",
+     "body": "The authors' main idea is integration: helping the different parts of a child's brain work together. A child's brain is still under construction, so a tantrum is often a sign that parts are out of step, not a deliberate challenge. Seen this way, hard moments are chances to build skills as well as get through the day. The book's brain language, such as left and right or upstairs and downstairs, is a deliberate simplification, useful as a picture more than as exact anatomy."
+    },
+    {
+     "id": "rl_whole_brain2",
+     "title": "Connect, then redirect",
+     "body": "When a child is flooded with feeling, logic does not reach them. The authors advise first meeting the emotion with tone, touch and words that show you understand: \"You're so sad the game ended.\" Only once the child has calmed do you bring in reasons, limits or solutions. Trying to reason first usually makes the upset worse. It is a matter of order, not of giving in: the lesson still comes, when it can be heard.",
+     "try": "With the next upset, child or adult, spend the first minute only showing that you understand."
+    },
+    {
+     "id": "rl_whole_brain3",
+     "title": "Name it to tame it",
+     "body": "After something frightening or painful, such as a fall or a bad day at school, a child can stay stuck in the feeling. The authors suggest helping them tell the story of what happened, in order, with the feelings included. Putting an experience into words brings the more orderly parts of the mind to bear on raw emotion and makes it manageable. Young children may need you to tell it for them, more than once."
+    },
+    {
+     "id": "rl_whole_brain4",
+     "title": "Engage the thinking brain",
+     "body": "The book pictures a downstairs brain that handles strong reactions and an upstairs brain that handles planning, self-control and empathy and is not fully built until adulthood. A threat or command when a child is already upset stirs the downstairs further. A question or a choice calls on the upstairs: \"What could we do so you both get a turn?\" The authors also distinguish a calculated tantrum, which needs a firm limit, from a real loss of control, which needs comfort."
+    },
+    {
+     "id": "rl_whole_brain5",
+     "title": "Move the body to shift the mood",
+     "body": "When a child is stuck in anger or gloom and talking is getting nowhere, the authors recommend physical activity: a run round the garden, jumping, a quick game. Movement changes the state of the body, and the emotional state tends to follow, after which the child can think again. The same applies to adults. A short walk before a hard conversation is not avoidance; it is preparation.",
+     "try": "Next time you or a child are stuck in a bad mood, move for five minutes before trying to talk."
+    },
+    {
+     "id": "rl_whole_brain6",
+     "title": "Feelings are weather, not climate",
+     "body": "Children easily take a passing state for a permanent fact: \"I'm stupid\" for \"I feel frustrated with this sum.\" The authors teach children to notice what is going on inside, including sensations, images, feelings and thoughts, and to see that these come and go like clouds. A child who learns \"I feel lonely right now\" instead of \"I am a lonely person\" has room to wait for the feeling to pass or do something about it."
+    }
+   ]
+  },
+  {
+   "id": "rl_pet",
+   "title": "Parent Effectiveness Training",
+   "author": "Thomas Gordon",
+   "year": "1970",
+   "category": "family",
+   "why": "The source of active listening and I-messages, and still one of the clearest guides to family conflict.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "rl_pet1",
+     "title": "Whose problem is it?",
+     "body": "Gordon's starting question in any difficulty is who owns the problem. If the child is upset about something in their own life, such as a quarrel with a friend, the child owns it, and the parent's job is to listen. If the child's behaviour is interfering with the parent's needs, such as noise during a phone call, the parent owns it and should speak up. Much confusion comes from using the wrong skill for the situation."
+    },
+    {
+     "id": "rl_pet2",
+     "title": "Roadblocks to listening",
+     "body": "When a child brings a trouble, parents usually respond with one of a dozen habits: ordering, warning, moralising, advising, lecturing, criticising, praising to cheer them up, reassuring, questioning, changing the subject. Gordon calls these roadblocks. Each, however kindly meant, tells the child that their feeling is not acceptable or that the parent will take over, and the child stops talking."
+    },
+    {
+     "id": "rl_pet3",
+     "title": "Active listening",
+     "body": "In place of the roadblocks, Gordon teaches reflecting back what you understand the child to be feeling, in your own words and without judgement. \"You're worried you won't be picked for the team.\" If you are wrong, the child corrects you; if right, they go deeper. He stresses that it only works if you really want to hear and can accept the feeling. Children listened to this way often find their own solutions.",
+     "try": "When someone tells you a worry today, say back the feeling you hear and add nothing else."
+    },
+    {
+     "id": "rl_pet4",
+     "title": "I-messages",
+     "body": "When the parent owns the problem, Gordon recommends saying how the behaviour affects you instead of what is wrong with the child. A you-message blames: \"You're so inconsiderate.\" An I-message describes the behaviour, its concrete effect and your feeling: \"When the music is that loud I can't hear the caller, and I get frustrated.\" It leaves the child's dignity intact and trusts them to respond.",
+     "try": "Turn one complaint into the form \"When ..., I feel ..., because ...\" and say it calmly."
+    },
+    {
+     "id": "rl_pet5",
+     "title": "Nobody has to lose",
+     "body": "Gordon rejects both the method where the parent wins by using power and the one where the child wins because the parent gives in. Power breeds resentment and rebellion; giving in breeds a child who ignores others' needs. His third way is joint problem-solving: define the conflict as needs on both sides, list possible solutions together, choose one acceptable to both, and check later that it is working. People keep agreements they helped to make."
+    },
+    {
+     "id": "rl_pet6",
+     "title": "Values cannot be forced",
+     "body": "Some clashes are not about concrete effects on the parent but about values: hairstyle, friends, beliefs, tidiness of the child's own room. Gordon says the no-lose method often does not apply here, because the child sees no real harm to the parent, and that power fails worst of all. What a parent can do is live by their own values, share their views and knowledge once, as a consultant would, and then leave the choice with the child."
+    }
+   ]
+  },
+  {
+   "id": "rl_emotion_coach",
+   "title": "Raising an Emotionally Intelligent Child",
+   "author": "John Gottman with Joan DeClaire",
+   "year": "1997",
+   "category": "family",
+   "why": "It teaches a simple, well-studied method for helping children handle strong feelings.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "rl_emotion_coach1",
+     "title": "Four ways of meeting a child's feelings",
+     "body": "Gottman describes four parental styles. The dismissing parent treats sadness or anger as trivial and tries to distract. The disapproving parent criticises or punishes the feeling. The laissez-faire parent accepts every feeling but offers no guidance or limits. The emotion coach accepts the feeling and also helps the child understand it and decide what to do. His research found children of emotion-coaching parents tended to do better with friends and at school."
+    },
+    {
+     "id": "rl_emotion_coach2",
+     "title": "Feelings are openings, not interruptions",
+     "body": "Emotion coaching begins with noticing your child's emotions, including quiet signs before they grow large, and with a change of attitude: treating a child's sadness, fear or anger as a chance to be close and to teach, not as a nuisance to end quickly. That in turn requires some awareness of your own feelings. A parent who cannot bear their own anger will struggle to stay calm near a child's."
+    },
+    {
+     "id": "rl_emotion_coach3",
+     "title": "Listen and help find the word",
+     "body": "The middle steps are to listen with empathy, show that the feeling makes sense, and help the child put a name to it: jealous, embarrassed, let down. Gottman says that naming a feeling has a calming effect and gives the child a tool for the next time. This is not telling the child what they ought to feel. It is offering words for what they already feel: \"It looks as if you felt left out when they started without you.\"",
+     "try": "Help a child, or yourself, find a more exact word than \"upset\" for a feeling today."
+    },
+    {
+     "id": "rl_emotion_coach4",
+     "title": "All feelings allowed, not all behaviour",
+     "body": "The last step is setting limits while solving the problem together. The feeling is accepted fully; the harmful action is not. \"You're furious that she took your toy, and I understand that. Hitting is not all right. What could you do instead?\" Then the parent helps the child think of options and choose one. Without this step, empathy becomes permissiveness, which Gottman found left children less able to calm themselves.",
+     "try": "The next time you set a limit, say the feeling you accept first, then the behaviour you do not."
+    },
+    {
+     "id": "rl_emotion_coach5",
+     "title": "You do not have to coach every time",
+     "body": "Gottman is realistic about family life. Emotion coaching is unsuitable when you are short of time, when there is an audience, when you are too upset or tired yourself, or when a child is putting on a feeling to get their way. Nor does it remove the need for discipline. He reassures parents that they need not respond perfectly on every occasion; a pattern of coaching over time is what counts."
+    }
+   ]
+  },
+  {
+   "id": "rl_explosive_child",
+   "title": "The Explosive Child",
+   "author": "Ross W. Greene",
+   "year": "1998",
+   "category": "family",
+   "why": "A humane, practical method for children whose outbursts do not respond to rewards or punishment.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "rl_explosive_child1",
+     "title": "Children do well if they can",
+     "body": "Greene sets his view against the common belief that children do well if they want to. That belief treats a child who explodes as unmotivated, manipulative or badly raised, and answers with more rewards and penalties. Greene holds that such a child would behave better if they were able to, since doing well is always preferable. So the right question is not how to make them want to, but what is getting in their way."
+    },
+    {
+     "id": "rl_explosive_child2",
+     "title": "Lagging skills, not bad attitude",
+     "body": "In Greene's account, explosive children are behind in certain thinking skills: flexibility, tolerating frustration, shifting from one activity to another, solving problems, putting worries into words. When a situation demands a skill they lack, they fall apart, much as a child with a reading difficulty struggles when asked to read. Rewards and punishments supply motivation, which was never the missing piece, and often make matters worse."
+    },
+    {
+     "id": "rl_explosive_child3",
+     "title": "Outbursts are predictable",
+     "body": "Explosions feel sudden but usually occur under the same conditions: getting ready for school, homework, turning off a screen, a change of plan. Greene calls each of these an unsolved problem. He asks adults to list them specifically and pick a few to start with. Once you know when trouble is likely, you can work on it in advance, at a calm time, and not in the heat of the moment when nobody can think.",
+     "try": "Write down the three situations that most reliably lead to conflict at home. Note the time and the trigger."
+    },
+    {
+     "id": "rl_explosive_child4",
+     "title": "Three ways to respond",
+     "body": "Greene describes three plans. In Plan A the adult imposes their will, which for these children tends to set off the explosion. In Plan C the adult drops the expectation for now, deliberately, to reduce conflict while other problems are tackled. In Plan B adult and child solve the problem together. He is clear that Plan C is not giving in; it is choosing priorities, because nobody can work on everything at once."
+    },
+    {
+     "id": "rl_explosive_child5",
+     "title": "Solving it together",
+     "body": "Plan B has three steps. First, gather information about the child's concern with patient, neutral questions: \"I've noticed mornings have been hard. What's up?\" Second, state the adult's concern, such as getting to school on time. Third, invite the child to think of a solution that works for both, and try it. The first step takes longest, since children often need help to find out what is bothering them.",
+     "try": "At a calm moment, open one difficult topic with \"I've noticed ... What's up?\" and only listen."
+    },
+    {
+     "id": "rl_explosive_child6",
+     "title": "Safety and help",
+     "body": "Greene's method is about reducing how often a child reaches breaking point, and it works mainly between episodes. During an outburst itself, the aim is to keep everyone safe and to calm things, not to teach or negotiate. Families living with frequent, severe or violent outbursts should not carry this alone. A doctor or child mental health professional can check for underlying difficulties and support the parents as well."
+    }
+   ]
+  },
+  {
+   "id": "rl_self_driven",
+   "title": "The Self-Driven Child",
+   "author": "William Stixrud and Ned Johnson",
+   "year": "2018",
+   "category": "family",
+   "why": "A persuasive case that children thrive when given more control over their own lives.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "rl_self_driven1",
+     "title": "A sense of control protects against stress",
+     "body": "The authors, a neuropsychologist and a test-preparation coach, argue that the most stressful thing for anyone is feeling they have no say over what happens to them. Children whose days are fully scheduled and supervised by adults can feel exactly that. A sense of being in charge of one's own life, they say, supports motivation and mental health. So a parent's aim is not to steer everything but to help the child build that sense."
+    },
+    {
+     "id": "rl_self_driven2",
+     "title": "Be a consultant, not a manager",
+     "body": "A manager decides and enforces. A consultant offers knowledge and advice, and the client makes the decision. The authors suggest parents take the second role wherever they reasonably can: \"Here is what I know and what I would do; I am happy to help; it is your choice.\" This does not mean no rules. It means recognising that you cannot make a child want something, and that pushing often produces resistance.",
+     "try": "Offer advice once today, then say \"but it's your call\" and mean it."
+    },
+    {
+     "id": "rl_self_driven3",
+     "title": "\"It's your call\"",
+     "body": "The authors encourage letting children make their own decisions about their own lives once they have the relevant information, with the parent keeping a veto only for choices that most reasonable adults would consider dangerous or badly mistaken. Children will sometimes choose poorly. A poor choice with small consequences at twelve teaches more than a perfect record of decisions made by someone else, and builds judgement for the choices that come later."
+    },
+    {
+     "id": "rl_self_driven4",
+     "title": "Whose homework is it?",
+     "body": "The book's best-known advice is about homework battles. When a parent works harder on a child's schoolwork than the child does, the child learns that someone else is responsible for it, and evenings turn into fights. The authors suggest offering help at a set time and place without nagging or forcing, and letting the school's consequences do their work. Protecting the relationship matters more than any one assignment.",
+     "try": "Tonight, say once \"I'm here from seven to eight if you want help\" and do not mention homework again."
+    },
+    {
+     "id": "rl_self_driven5",
+     "title": "Be a calm presence",
+     "body": "Anxiety spreads within a family. A parent's worry about marks or the future passes to the child, who then has two people's fear to carry. The authors argue that one of the most useful things a parent can do is manage their own stress, so that home is a safe base and not another source of pressure. They suggest making enjoyment of your child a priority, and reminding yourself that their life is long."
+    },
+    {
+     "id": "rl_self_driven6",
+     "title": "Rest is part of the work",
+     "body": "The authors give great weight to sleep and to unstructured downtime: daydreaming, sitting quietly, time with no screen and no task. They argue that a mind needs these periods to recover and to make sense of experience, and that tired children learn poorly and feel worse. They also remind families that there are many routes to a good life, and that one test or one school does not decide a child's future."
+    }
+   ]
+  },
+  {
+   "id": "rl_gardener",
+   "title": "The Gardener and the Carpenter",
+   "author": "Alison Gopnik",
+   "year": "2016",
+   "category": "family",
+   "why": "A leading child psychologist questions the idea that parents should shape children to a plan.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "rl_gardener1",
+     "title": "\"Parenting\" is a recent idea",
+     "body": "Gopnik notes that the word parenting, as a kind of job with techniques and a product, only became common in the late twentieth century. Earlier generations spoke of being a parent, which is a relationship, not a task. She argues that the job model is a poor fit. We do not talk about wifing or friending a person in order to turn them into something. Caring for a child, she says, is a form of love, not a form of work with a measurable output."
+    },
+    {
+     "id": "rl_gardener2",
+     "title": "Carpenter or gardener",
+     "body": "A carpenter starts with a design and judges success by how closely the chair matches it. A gardener prepares rich soil, protects the plot and accepts that what comes up will be partly a surprise. Gopnik argues that raising children is like gardening. The evidence that particular parenting techniques produce particular adults is weak, she says, while a safe, loving, varied environment plainly lets many kinds of children flourish."
+    },
+    {
+     "id": "rl_gardener3",
+     "title": "Childhood is for exploring",
+     "body": "Human children stay dependent for an unusually long time. Gopnik's explanation is that this protected period lets the young explore widely and try out possibilities, while adults do the work of getting things done. Children's mess, noise and unpredictability are part of that design. A species facing changing conditions benefits from offspring who vary. Trying to make a child efficient and focused too early works against what childhood is for."
+    },
+    {
+     "id": "rl_gardener4",
+     "title": "Children learn by watching and playing",
+     "body": "Gopnik's own research field is how young children learn, and she reports that they pick up a huge amount simply by observing the people around them, imitating, listening and playing. Play lets them test ideas without cost. She cites studies suggesting that when an adult teaches one specific use of a toy, children explore it less. Instruction has its place, but being near capable adults doing real things is itself an education.",
+     "try": "Let a child join in a real task today, such as cooking or fixing something, without turning it into a lesson."
+    },
+    {
+     "id": "rl_gardener5",
+     "title": "Love without a blueprint",
+     "body": "If parents are not shaping a product, what are they for? Gopnik's answer is that they provide the secure, stable base from which a child can become a person nobody could have predicted, quite possibly one with different tastes and values from their parents. The commitment is to this particular child, whoever they turn out to be. That lifts an impossible burden: you are responsible for the garden, not for the exact shape of the plant.",
+     "try": "Name one way a child you love differs from you, and tell them what you admire about it."
+    }
+   ]
+  },
+  {
+   "id": "rl_36_hour_day",
+   "title": "The 36-Hour Day",
+   "author": "Nancy L. Mace and Peter V. Rabins",
+   "year": "1981",
+   "category": "family",
+   "why": "The standard family guide to caring for someone with Alzheimer's disease or another dementia.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "rl_36_hour_day1",
+     "title": "The illness, not the person",
+     "body": "The book's foundation is that the difficult behaviour of a person with dementia comes from damage to the brain. Asking the same question again and again, accusing relatives of theft, refusing to wash: none of it is stubbornness or spite, and the person cannot stop by trying harder. Holding on to this helps a carer take things less personally and look for what set the behaviour off, instead of arguing or feeling wounded."
+    },
+    {
+     "id": "rl_36_hour_day2",
+     "title": "When a small thing causes a storm",
+     "body": "The authors describe sudden over-reactions, such as weeping, shouting or striking out, when a person with dementia is faced with more than their brain can handle: too many questions, a noisy room, a task with several steps, being hurried. The advice is to stay calm, lower the demands, remove the person gently from the situation, and later work out what overloaded them so it can be avoided. Raising your voice or restraining them tends to make it worse."
+    },
+    {
+     "id": "rl_36_hour_day3",
+     "title": "Do not argue with the damaged memory",
+     "body": "Explaining, correcting and reasoning assume a memory that can hold the explanation. When someone insists their long-dead mother is waiting for them, repeated correction brings fresh distress each time. The authors suggest responding to the feeling underneath, such as loneliness or worry, with reassurance, and then gently turning attention to something else. \"You miss her. Tell me about her\" is kinder and more effective than the facts.",
+     "try": "The next time a confused relative says something untrue, answer the feeling instead of correcting the fact."
+    },
+    {
+     "id": "rl_36_hour_day4",
+     "title": "Simplify and keep a routine",
+     "body": "A predictable day spares a failing memory. The book recommends doing things at the same times and in the same order, keeping the home uncluttered and familiar, and breaking each task into single steps given one at a time: \"Put your arm in here\", then the next. Offer a choice between two things, not an open question. Let the person do whatever they still can, even slowly, because unused abilities fade faster."
+    },
+    {
+     "id": "rl_36_hour_day5",
+     "title": "A sudden change needs a doctor",
+     "body": "Dementia usually worsens gradually. The authors stress that a sudden decline, such as new confusion, agitation, sleepiness or a fall in ability over hours or days, often has another cause that may be treatable: an infection, pain, a reaction to medicine, dehydration, constipation or another illness. The person may be unable to say what is wrong. Do not assume it is just the disease. Have it checked promptly by a doctor."
+    },
+    {
+     "id": "rl_36_hour_day6",
+     "title": "The carer's health is part of the care",
+     "body": "The title refers to how long a carer's day feels. The authors insist that exhaustion, anger, grief and guilt are normal responses, and that a carer who collapses helps no one. They urge families to accept help early, share the work, take regular time away, join others in the same position, and see their own doctor. Deciding that home care is no longer possible is not a betrayal. Planning legal, money and safety matters early makes later choices easier.",
+     "try": "If you are caring for someone, ask one specific person for one specific piece of help this week."
+    }
+   ]
+  },
+  {
+   "id": "rl_aging_parents",
+   "title": "How to Care for Aging Parents",
+   "author": "Virginia Morris",
+   "year": "1996",
+   "category": "family",
+   "why": "A thorough, kind handbook for adult children facing a parent's growing need for help.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "rl_aging_parents1",
+     "title": "Talk before the crisis",
+     "body": "Most families first discuss a parent's care in a hospital corridor, under pressure, with no idea what the parent would want. Morris urges having the conversations early, while the parent is well: where they would like to live if they could not manage alone, who should decide for them if they cannot, what matters most to them about the end of life. These talks are awkward to start, and they spare everyone much guesswork and guilt later.",
+     "try": "Ask a parent or older relative one gentle question about what they would want if their health changed."
+    },
+    {
+     "id": "rl_aging_parents2",
+     "title": "It is still their life",
+     "body": "When a parent grows frail, a worried child easily takes over: choosing, arranging, forbidding. Morris reminds readers that a competent adult keeps the right to make their own decisions, including ones their children think unwise, such as staying in a house with stairs. The helper's role is to offer information, options and support, and to protect dignity. Ask what they want before deciding what they need, and step in only as far as necessary."
+    },
+    {
+     "id": "rl_aging_parents3",
+     "title": "Get the papers in order",
+     "body": "The book gives much space to practical preparation. Find out where the important documents are kept and what the parent's income, insurance and debts are. See that there is a will, that someone trusted has legal authority to handle money and medical decisions if the parent cannot, and that their wishes about treatment are written down. Laws differ from country to country, so proper local advice is worth its cost. Done early, this is a kindness to the whole family.",
+     "try": "Find out where one key document is kept: a will, an insurance policy or a list of medicines."
+    },
+    {
+     "id": "rl_aging_parents4",
+     "title": "Share the load with the family",
+     "body": "Care usually lands on one person, often the daughter who lives nearest, while brothers and sisters stay distant or criticise. Morris advises calling a family meeting, in person or by phone, to lay out what the parent needs and divide the tasks. Those far away can handle bills, paperwork and calls, or pay for help. Ask for specific things, since general appeals are easy to ignore, and expect old rivalries to surface and need patience."
+    },
+    {
+     "id": "rl_aging_parents5",
+     "title": "Set limits so you can last",
+     "body": "Caring for a parent can go on for years, and Morris is frank that no one can do everything. She tells carers to decide what they can realistically give, say so, and use whatever help exists: relatives, neighbours, paid carers, day centres, respite care. Guilt is nearly universal and a poor guide. Keeping up your own health, work, marriage and friendships is not selfish. It is what allows you to keep showing up with patience.",
+     "try": "Write down one caring task you could hand to someone else, and whom you will ask."
+    }
+   ]
+  },
+  {
+   "id": "rl_immature_parents",
+   "title": "Adult Children of Emotionally Immature Parents",
+   "author": "Lindsay C. Gibson",
+   "year": "2015",
+   "category": "family",
+   "why": "It gives words to a quiet kind of childhood loneliness and a way to relate to parents more freely.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "rl_immature_parents1",
+     "title": "Fed and clothed, yet lonely",
+     "body": "Gibson writes for adults whose parents provided for them materially but could not offer emotional closeness. Such parents are uneasy with feelings, react instead of reflecting, show little empathy and keep attention on themselves. The child grows up with a loneliness that is hard to name because nothing visibly went wrong. Her term, emotionally immature, comes from clinical practice and is a description, not a medical diagnosis."
+    },
+    {
+     "id": "rl_immature_parents2",
+     "title": "Four kinds of immature parent",
+     "body": "The book sketches four types. Emotional parents are ruled by their moods and make the family anxious and watchful. Driven parents are busy and controlling, always improving everyone. Passive parents are pleasant but avoid anything hard and do not protect the child. Rejecting parents want to be left alone and treat the child as a bother. Real people mix these. The sketches help a reader recognise a pattern, not sort relatives into boxes."
+    },
+    {
+     "id": "rl_immature_parents3",
+     "title": "The fantasy that they will change",
+     "body": "Children of such parents commonly form what Gibson calls a healing fantasy: a private belief that if only they were good enough, successful enough or helpful enough, the parent would at last become warm. To earn that, they adopt a role in the family in place of their real self. As adults they may carry both into other relationships, working hard to win love from people who are not able to give it."
+    },
+    {
+     "id": "rl_immature_parents4",
+     "title": "Internalisers and externalisers",
+     "body": "Gibson describes two ways children cope. Internalisers believe that solving problems is up to them: they are sensitive, self-reliant, over-responsible and inclined to do most of the emotional work in any relationship. Externalisers act before thinking, blame others and expect someone else to fix things. Most readers of the book, she says, are internalisers, whose task is to stop taking on what was never theirs to carry."
+    },
+    {
+     "id": "rl_immature_parents5",
+     "title": "Observe instead of hoping",
+     "body": "For dealing with the parent now, Gibson suggests stepping back mentally and observing, as a calm researcher might, instead of getting pulled into the old reactions. Go into each meeting with a specific, realistic aim, such as saying one thing clearly or keeping the visit pleasant, and judge it by that aim. State your thought once and let it go, without needing the parent to understand or agree. The aim is your own freedom, not their transformation.",
+     "try": "Before your next difficult family call, decide on one small, realistic aim and judge the call only by that."
+    },
+    {
+     "id": "rl_immature_parents6",
+     "title": "Distance is allowed",
+     "body": "Gibson does not tell readers they must stay close to a parent, or must cut one off. She says each person may decide how much contact is good for them, and that less contact is a legitimate choice when visits reliably leave them hurt. Understanding why a parent is limited is not an obligation to put up with mistreatment. Where a parent is abusive or threatening, the priority is your safety and support from a professional or others you trust."
+    }
+   ]
+  }
+ ]
+}

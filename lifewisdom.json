@@ -1,0 +1,1679 @@
+{
+ "pack": "lifewisdom",
+ "version": 1,
+ "title": "Health, everyday wisdom and big ideas",
+ "books": [
+  {
+   "id": "lw_circadian",
+   "title": "The Circadian Code",
+   "author": "Satchin Panda",
+   "year": "2018",
+   "category": "health",
+   "why": "A leading body-clock researcher explains why the timing of light, food and sleep matters as well as the amount.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_circadian1",
+     "title": "A clock in every organ",
+     "body": "Your body does not run at the same setting all day. A master clock in the brain, and smaller clocks in the liver, gut, muscles and other organs, prepare each part for what usually comes next: food, activity or rest. Panda's central point is that health suffers when daily habits keep contradicting these clocks. A heavy meal at midnight arrives when the gut expects to be resting, in the same way that a phone call at 3 a.m. finds you at your worst."
+    },
+    {
+     "id": "lw_circadian2",
+     "title": "Light sets the clock",
+     "body": "Light is the main signal the brain uses to tell the time. Bright daylight early in the day anchors the clock and helps you feel alert, while bright light late in the evening, including from screens held close to the face, tells the brain it is still daytime and delays sleepiness. Many of us now get the opposite of what the body expects: dim indoor days and bright nights. Reversing that pattern is free and often improves sleep.",
+     "try": "Spend ten minutes outdoors in daylight within an hour or two of waking, and dim the lights in the last hour before bed."
+    },
+    {
+     "id": "lw_circadian3",
+     "title": "When you eat, not only what",
+     "body": "Panda is best known for research on time-restricted eating: taking all food and drink with calories inside a steady daily window, and leaving a long overnight gap. In his laboratory's animal studies the effect on weight and health was striking. The honest picture in people is more modest: later trials have given mixed results, and some found little benefit beyond simply eating less. If you have diabetes, are pregnant or take regular medicine, talk to a doctor before changing meal timing."
+    },
+    {
+     "id": "lw_circadian4",
+     "title": "Finish eating well before bed",
+     "body": "The book argues that the body handles food less well late at night. Digestion slows, and the same meal is processed more poorly in the late evening than at midday. Lying down soon after a large dinner also invites acid reflux and lighter sleep. A practical rule that follows is to make dinner the last thing you eat and to leave a clear gap before sleeping. An early, lighter evening meal is one of the simplest changes people report feeling the next morning.",
+     "try": "Tonight, finish your last meal or snack at least two to three hours before you plan to sleep."
+    },
+    {
+     "id": "lw_circadian5",
+     "title": "Most of us live like shift workers",
+     "body": "People who work nights have long been known to have more health problems, and Panda argues that the cause is a disrupted body clock. His wider point is that you do not need a night job to live that way. Staying up two hours later on weekends, eating at irregular times and scrolling in bed create a mild, permanent jet lag. Regularity is the cure he proposes: roughly the same times for waking, first meal, last meal and bed, on working days and days off alike."
+    }
+   ]
+  },
+  {
+   "id": "lw_insomnia",
+   "title": "Say Good Night to Insomnia",
+   "author": "Gregg D. Jacobs",
+   "year": "1998",
+   "category": "health",
+   "why": "A clear guide to the drug-free approach that sleep specialists now recommend first for long-term insomnia.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "lw_insomnia1",
+     "title": "Insomnia is learned, so it can be unlearned",
+     "body": "A few bad nights usually begin with something real: stress, illness, a new baby. Jacobs explains that insomnia becomes chronic because of what we do next. We worry about sleep, go to bed earlier, lie in late and nap, and the bed slowly becomes a place of effort and frustration. The original cause may be long gone while the habits and fears keep the problem alive. This is hopeful news, because habits and thoughts can be changed. If poor sleep persists, see a doctor to rule out a medical cause."
+    },
+    {
+     "id": "lw_insomnia2",
+     "title": "Correct the frightening thoughts",
+     "body": "Lying awake, people tell themselves that tomorrow is ruined or that their health is being destroyed. Such thoughts raise alertness and make sleep even less likely. Jacobs asks readers to replace them with more accurate ones: most people get more sleep than they believe, and they usually cope the next day better than they feared. The aim is not forced cheerfulness. It is to stop treating a poor night as an emergency, since the alarm itself is what keeps you awake.",
+     "try": "Write down the thought you most often have when awake at night, and beside it a calmer statement that is also true."
+    },
+    {
+     "id": "lw_insomnia3",
+     "title": "Spend less time in bed, not more",
+     "body": "The natural reaction to bad sleep is to spend longer in bed hoping to catch some. Jacobs shows why this backfires: the sleep you do get is spread thinly across many hours and broken by long wakeful stretches. His programme shortens time in bed to match the sleep you actually get, then lengthens it as sleep becomes solid. The fixed point is the rising time, kept the same every day. Expect to feel sleepier at first, and ask a doctor before trying this if you have other health conditions."
+    },
+    {
+     "id": "lw_insomnia4",
+     "title": "Teach the bed to mean sleep",
+     "body": "If you spend hours in bed awake, worrying, watching videos or working, the brain learns to link the bed with being alert. The book's remedy is to keep the bed for sleep. Go to bed only when sleepy. If you are still awake after a while, get up, do something quiet in dim light, and return when drowsy. It feels odd to leave a warm bed in order to sleep better, but over a few weeks the link between bed and falling asleep quickly grows strong again."
+    },
+    {
+     "id": "lw_insomnia5",
+     "title": "Calm the body by day",
+     "body": "Jacobs worked with Herbert Benson, who studied the body's relaxation response, and he makes relaxation practice part of the programme. People with insomnia are often keyed up around the clock, not only at night. Sitting quietly for a short period each day, relaxing the muscles and attending to slow breathing, lowers that background tension. With practice the same skill can be used in bed or after waking in the night, giving the mind something restful to do instead of struggling.",
+     "try": "Sit comfortably for ten minutes today, breathe slowly, and silently repeat a calming word each time you breathe out."
+    },
+    {
+     "id": "lw_insomnia6",
+     "title": "Where pills fit",
+     "body": "The book argues that sleeping pills do not fix the habits and worries that keep insomnia going, that their benefit tends to fade, and that poor sleep often returns when they stop. Research since then has supported the behavioural approach as the first choice for long-term insomnia. That does not mean anyone should stop a prescribed medicine on their own. Coming off some sleep medicines suddenly can be unpleasant or unsafe, so any reduction should be planned with the doctor who prescribed them."
+    }
+   ]
+  },
+  {
+   "id": "lw_hownottodie",
+   "title": "How Not to Die",
+   "author": "Michael Greger with Gene Stone",
+   "year": "2015",
+   "category": "health",
+   "why": "The best-known case for eating mostly whole plant foods, worth reading with its critics in mind.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_hownottodie1",
+     "title": "Food as a daily health decision",
+     "body": "Greger's starting point is that many of the commonest causes of early death in wealthy countries, such as heart disease, type 2 diabetes and high blood pressure, are strongly influenced by how we eat. He argues that medicine spends most of its effort managing these conditions after they appear and far too little on the meals that help produce them. Whatever you think of his stricter conclusions, the basic point is widely accepted: what is on the plate three times a day adds up over decades."
+    },
+    {
+     "id": "lw_hownottodie2",
+     "title": "Whole plants at the centre",
+     "body": "The diet the book recommends is built from foods that are plants and are close to how they grew: beans and lentils, vegetables, fruit, whole grains, nuts and seeds. These bring fibre and a wide range of protective compounds while crowding out foods high in salt, sugar and saturated fat. An everyday version is not exotic. Dal with vegetables and brown rice, or oats with fruit and nuts, fits the pattern better than many products sold as health foods."
+    },
+    {
+     "id": "lw_hownottodie3",
+     "title": "The Daily Dozen",
+     "body": "To make the advice practical, Greger offers a checklist of things to fit into each day: beans, berries, other fruit, cruciferous vegetables such as cabbage and broccoli, leafy greens, other vegetables, flaxseed, nuts, spices, whole grains, plenty of fluids and exercise. The useful idea is the change of question. Instead of listing what to give up, you ask what good things you have not yet eaten today, and the less helpful foods get pushed aside without a fight.",
+     "try": "Pick one item from the list that you rarely eat and add a serving of it to a meal today."
+    },
+    {
+     "id": "lw_hownottodie4",
+     "title": "A traffic light for food",
+     "body": "The book sorts food into three groups. Green is unprocessed plant food, to be eaten freely. Amber covers processed plant foods and unprocessed animal foods, to be kept small. Red is heavily processed food and processed meat, to be avoided as far as possible. Greger defines processing sensibly: nothing bad added and nothing good taken away. By that test, whole wheat flour and frozen vegetables are fine, while white bread and sweetened drinks are not."
+    },
+    {
+     "id": "lw_hownottodie5",
+     "title": "Read it with care",
+     "body": "Greger writes as an advocate, and reviewers have pointed out that he tends to cite studies that favour plant foods and pass over those that do not. Some claims about preventing or reversing serious disease go further than the evidence supports. Eating more vegetables, beans and whole grains is sound advice, but diet is not a replacement for treatment, and nobody should stop medication because of a book. Anyone eating no animal foods also needs a reliable source of vitamin B12, as Greger himself stresses. Talk to a doctor about major changes."
+    }
+   ]
+  },
+  {
+   "id": "lw_upf",
+   "title": "Ultra-Processed People",
+   "author": "Chris van Tulleken",
+   "year": "2023",
+   "category": "health",
+   "why": "A doctor explains what industrially made food is, why it is so easy to overeat, and what the evidence does and does not show.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "lw_upf1",
+     "title": "A different way to sort food",
+     "body": "Most diet advice sorts food by nutrients: fat, sugar, salt. Van Tulleken introduces a system developed by Brazilian researchers that sorts it by how it is made. At one end is whole or lightly prepared food. At the other is ultra-processed food, assembled in factories from refined ingredients and additives. His working rule is simple: if it comes in a packet and contains at least one ingredient you would never find in a home kitchen, it probably belongs in that last group."
+    },
+    {
+     "id": "lw_upf2",
+     "title": "Built to be eaten quickly",
+     "body": "The book argues that these products lead us to eat more than we need. They are usually soft, dry and dense in energy, so a great deal goes down before the body's signals of fullness arrive. Van Tulleken describes a tightly controlled experiment in which volunteers ate noticeably more on an ultra-processed diet than on a whole-food diet, although both were matched for sugar, fat, salt and fibre and people could eat as much as they wished. Something beyond the nutrient label seems to be at work."
+    },
+    {
+     "id": "lw_upf3",
+     "title": "Not a failure of willpower",
+     "body": "A theme running through the book is that weight gain across whole populations cannot be explained by millions of people becoming lazy at the same time. What changed was the food supply: cheaper, more heavily marketed and available everywhere. Van Tulleken also reports research suggesting that extra exercise burns fewer additional calories than we assume, so it cannot cancel out a poor diet. This shifts the blame from the individual to the environment, which is kinder and, he argues, more accurate."
+    },
+    {
+     "id": "lw_upf4",
+     "title": "Made for profit first",
+     "body": "Van Tulleken asks what such products are for. His answer is that they exist mainly to turn cheap crops such as maize, soya and palm oil into items with a long shelf life and a high margin. Additives replace costlier ingredients: flavourings instead of fruit, emulsifiers and gums instead of eggs or cream. A food that is cheap to make, lasts for months and is eaten in large amounts is a commercial success, whether or not it is good for the person eating it."
+    },
+    {
+     "id": "lw_upf5",
+     "title": "Notice what you are eating",
+     "body": "The author's unusual suggestion is not to ban anything at once but to pay attention. He ate mostly ultra-processed food for a month and found that understanding how it was made changed how it tasted to him. Reading labels and noticing texture, aftertaste and how soon hunger returns can loosen the pull of these products more gently than a strict rule.",
+     "try": "Read the full ingredient list of one packaged food you eat often and count the items you would not keep in your kitchen."
+    },
+    {
+     "id": "lw_upf6",
+     "title": "What is still uncertain",
+     "body": "The link between heavy consumption of ultra-processed food and poor health is consistent across many studies, but most of them observe people instead of testing diets directly. Scientists still argue about whether the harm comes from processing itself or from the softness, salt, sugar and energy density that usually come with it. The category is also very broad, covering fizzy drinks along with packaged wholemeal bread. It is reasonable to eat less of such food without treating every packet as poison."
+    }
+   ]
+  },
+  {
+   "id": "lw_bluezones",
+   "title": "The Blue Zones",
+   "author": "Dan Buettner",
+   "year": "2008",
+   "category": "health",
+   "why": "A readable look at the everyday habits of communities known for long life, useful if you keep its limits in view.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_bluezones1",
+     "title": "Places where people live long",
+     "body": "Buettner worked with demographers to visit communities reported to have unusual numbers of very old, active people: mountain villages in Sardinia, the islands of Okinawa, the Nicoya peninsula of Costa Rica and a religious community in Loma Linda, California. He was not looking for a secret food or a pill. He wanted to know what the daily lives of these people had in common, on the view that long life comes from surroundings and routine more than from heroic effort."
+    },
+    {
+     "id": "lw_bluezones2",
+     "title": "Movement built into the day",
+     "body": "None of the old people Buettner met went to a gym. They walked to see neighbours, tended gardens, herded animals on steep ground, kneaded bread and got up and down from the floor many times a day. The lesson he draws is to arrange life so that moving is the default, not an appointment you must keep. A home with stairs, a vegetable patch, or a habit of walking to the shop does quietly what an unused exercise plan does not.",
+     "try": "Do one errand on foot today that you would normally do by vehicle or delegate."
+    },
+    {
+     "id": "lw_bluezones3",
+     "title": "Mostly plants, and not too much",
+     "body": "The diets differed from place to place but shared a shape: beans, vegetables, whole grains and fruit as the base, with meat as an occasional addition and not the centre of the meal. In Okinawa, Buettner describes the custom of stopping when you are about four fifths full instead of eating until stuffed. Smaller plates, serving food at the stove and eating the larger meals early in the day are small ways of getting the same result without counting anything."
+    },
+    {
+     "id": "lw_bluezones4",
+     "title": "A reason to get up in the morning",
+     "body": "In each community people could say why they woke up each day, whether that was caring for grandchildren, tending a field or serving at their place of worship. Buettner also found daily rituals for letting go of pressure, such as prayer, an afternoon rest or an evening with friends. Purpose and a regular pause do not sound like health advice, but he argues that they protect people from the slow wear of loneliness and constant stress."
+    },
+    {
+     "id": "lw_bluezones5",
+     "title": "Belonging keeps people alive",
+     "body": "Old people in these places were not set apart. They lived with or near family, were consulted and useful, and belonged to a faith community or a lifelong circle of friends who met often and looked after one another. Buettner points out that habits spread through groups, so the people around you shape what you eat, how much you move and how you feel. Choosing your regular company is, in his view, one of the most powerful health decisions you make."
+    },
+    {
+     "id": "lw_bluezones6",
+     "title": "How much to trust it",
+     "body": "The book describes patterns among people who happen to live long. That cannot prove the habits caused their long lives. Later researchers have also questioned the age records in some regions, suggesting that poor record keeping may have inflated the number of very old people. And the book's kind words for a daily glass of wine sit badly with newer evidence that less alcohol is better. The core advice, to move, eat plants, rest and stay connected, agrees with mainstream medicine in any case."
+    }
+   ]
+  },
+  {
+   "id": "lw_exercised",
+   "title": "Exercised",
+   "author": "Daniel E. Lieberman",
+   "year": "2020",
+   "category": "health",
+   "why": "An evolutionary biologist clears away myths about exercise and explains kindly why it is hard and why it is worth doing.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "lw_exercised1",
+     "title": "We did not evolve to exercise",
+     "body": "For nearly all of human history people moved because they had to, in order to find food, carry water and escape danger, and rested whenever they could, because energy was precious. Lieberman argues that the urge to stay on the sofa is therefore not a character flaw but an old and sensible instinct. Exercise, meaning physical effort undertaken by choice for the sake of health, is a modern invention. Knowing this replaces guilt with a practical question: how do I make movement necessary or enjoyable?"
+    },
+    {
+     "id": "lw_exercised2",
+     "title": "Sitting is not the villain",
+     "body": "Headlines have compared sitting to smoking. Lieberman, who has studied hunter-gatherers and farmers in several countries, reports that they also sit for many hours a day. The difference is that they are active the rest of the time and seldom stay still for long stretches. The trouble seems to come from long, unbroken sitting combined with little activity overall. You do not need to fear your chair. You need to get out of it often.",
+     "try": "Set a reminder to stand up and walk for two minutes every hour you spend seated today."
+    },
+    {
+     "id": "lw_exercised3",
+     "title": "You cannot outrun your fork, but walking counts",
+     "body": "A long walk burns fewer calories than a small snack contains, which has led some to say exercise is useless for weight. Lieberman thinks this goes too far. Modest daily activity adds up over months, and the evidence is clearer still that active people are better at keeping lost weight off. His balanced conclusion is that diet matters more for losing weight, while movement matters a great deal for staying at a healthy weight and for almost every other aspect of health."
+    },
+    {
+     "id": "lw_exercised4",
+     "title": "Stay active as you age",
+     "body": "In many species the old simply decline. Lieberman argues that humans evolved to remain useful in later life, as grandparents who gathered food and helped raise children, and that our bodies expect to keep moving. Physical effort causes minor stress and damage, and the body responds by repairing and maintaining itself, often leaving things better than before. Without that prompt, upkeep is neglected. So we do not only slow down because we grow old. We also grow old faster because we slow down."
+    },
+    {
+     "id": "lw_exercised5",
+     "title": "Strength as well as stamina",
+     "body": "Walking and other steady activity is the base, but Lieberman also makes the case for some work against resistance. Muscle is lost with age unless it is used, and with it go balance, strong bones and the ability to climb stairs or rise from a chair unaided. Our ancestors dug, carried and lifted as a matter of course. A couple of short sessions a week with weights, bands or the body's own weight can replace that. Anyone with a health condition should check with a doctor before starting something strenuous."
+    },
+    {
+     "id": "lw_exercised6",
+     "title": "Make it necessary and fun",
+     "body": "Because we are not built to exert ourselves without reason, Lieberman suggests supplying the reasons our ancestors had. Make activity social, by walking with a friend or joining a group that expects you. Make it necessary, by committing in advance in a way that is awkward to escape. And do not wait for the perfect plan, since the largest gain comes from moving from nothing to something.",
+     "try": "Agree a fixed day and time this week to walk with another person, so that someone is expecting you."
+    }
+   ]
+  },
+  {
+   "id": "lw_zebras",
+   "title": "Why Zebras Don't Get Ulcers",
+   "author": "Robert M. Sapolsky",
+   "year": "1994",
+   "category": "health",
+   "why": "The classic, witty explanation of what stress does inside the body and why humans suffer from it more than animals do.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_zebras1",
+     "title": "A system built for three-minute emergencies",
+     "body": "For a zebra, stress is a lion: a few minutes of terror that end in escape or death. The body's stress response is superb for that kind of crisis. Humans can switch on the very same response with thought alone, and keep it running for months over a loan, a difficult boss or a quarrel. Sapolsky's central argument is that the response itself is not the problem. The harm comes from using an emergency system as a way of life."
+    },
+    {
+     "id": "lw_zebras2",
+     "title": "What the body puts on hold",
+     "body": "Under stress the body pours stored energy into the blood, raises heart rate and blood pressure, and sharpens attention. To pay for this it postpones long-term projects: digestion, growth, tissue repair, reproduction and parts of the immune defence. During a sprint that is a clever trade. Sapolsky compares chronic stress to a city that cancels all maintenance to fund a permanent state of alert. Nothing fails at once, but over years the unrepaired damage accumulates."
+    },
+    {
+     "id": "lw_zebras3",
+     "title": "Stress raises risk, it does not hand out blame",
+     "body": "Sapolsky is careful about what stress does. It rarely causes illness directly. Long-term stress makes the body more vulnerable to conditions such as high blood pressure, heart disease and digestive trouble, and can make existing illness worse. He warns strongly against the reverse conclusion, that sick people brought their disease on themselves by failing to relax. Many illnesses have nothing to do with attitude, and they need proper medical treatment, not a lecture on positive thinking."
+    },
+    {
+     "id": "lw_zebras4",
+     "title": "Why the same event hurts some more than others",
+     "body": "Experiments described in the book show that the physical toll of a stressor depends heavily on its psychological setting. Stress does more harm when you have no sense of control, no warning of when it will come, no outlet for the frustration, no one to lean on, and a feeling that things are getting worse. This explains why a demanding job with real authority can be less damaging than a simpler job in which you have no say at all."
+    },
+    {
+     "id": "lw_zebras5",
+     "title": "Rank, poverty and health",
+     "body": "Sapolsky spent years studying wild baboons and found that an animal's position in the troop, and how secure that position was, showed up in its stress hormones. In people the clearest parallel is poverty. The poor suffer more illness at every stage of life, and the book argues that this is only partly explained by diet or access to doctors. Living with constant insecurity, and feeling poor next to others, is itself a long-running stressor that the body records."
+    },
+    {
+     "id": "lw_zebras6",
+     "title": "Managing stress without illusions",
+     "body": "No technique removes stress from a life. What helps, on the evidence Sapolsky reviews, is regular exercise you actually enjoy, some form of meditation or quiet practice done consistently, real friendships, and a sense of control over the things you truly can influence. He adds a caution: trying to control what cannot be controlled makes things worse. The skill is knowing which situations call for effort and which call for acceptance.",
+     "try": "Name one worry you can act on this week and one you cannot, and take a small step on the first."
+    }
+   ]
+  },
+  {
+   "id": "lw_fullcat",
+   "title": "Full Catastrophe Living",
+   "author": "Jon Kabat-Zinn",
+   "year": "1990",
+   "category": "health",
+   "why": "The founding handbook of mindfulness-based stress reduction, written for people living with pain, illness and pressure.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_fullcat1",
+     "title": "Paying attention on purpose",
+     "body": "Kabat-Zinn defines mindfulness as paying attention to the present moment, deliberately and without judging what you find. He built an eight-week course around this skill for hospital patients whose pain and stress had not been resolved by treatment alone. The course was offered alongside medical care, never as a replacement for it. Research since then suggests moderate, real benefits for stress, anxiety and coping with pain. It is a useful practice, not a cure for everything."
+    },
+    {
+     "id": "lw_fullcat2",
+     "title": "The breath as an anchor",
+     "body": "The basic exercise is simple to describe. Sit, and feel the breath moving in and out. Within seconds the mind will leave for a memory, a plan or a worry. When you notice, bring it back gently, without scolding yourself. Kabat-Zinn insists that the wandering is not failure. Noticing and returning is the exercise itself, in the way that lifting a weight is the exercise and not an interruption of it.",
+     "try": "Sit still for five minutes and count how many times you bring your attention back to the breath. Each return is a success."
+    },
+    {
+     "id": "lw_fullcat3",
+     "title": "The body scan",
+     "body": "Many of us live from the neck up and notice the body only when it hurts. In the body scan you lie down and move your attention slowly from the toes to the top of the head, feeling whatever is present in each region without trying to change it. People often discover tension they had carried for years in the jaw, shoulders or belly. The practice rebuilds an ordinary friendliness toward the body and frequently eases the way into sleep."
+    },
+    {
+     "id": "lw_fullcat4",
+     "title": "Responding instead of reacting",
+     "body": "When something stressful happens, the usual chain is automatic: alarm, tight muscles, sharp words or silent stewing. Kabat-Zinn calls this the stress reaction. Mindfulness inserts a short pause in which you notice the racing heart and the angry thought as events passing through you. From that pause a considered response becomes possible. You may still need to deal with the rude email, but you can answer after one slow breath, not in the first hot second."
+    },
+    {
+     "id": "lw_fullcat5",
+     "title": "Separating pain from suffering",
+     "body": "Many patients on the original course had long-term pain. Kabat-Zinn taught them to turn toward the sensation instead of bracing against it, and to observe it closely: where exactly it is, whether it throbs or burns, how it changes. Alongside the raw sensation run thoughts such as the fear that it will never end. Seeing these as separate often reduces distress, even when the sensation itself stays. This works with medical treatment, and new or worsening pain should always be checked by a doctor."
+    },
+    {
+     "id": "lw_fullcat6",
+     "title": "Bringing it into ordinary life",
+     "body": "Formal sitting is only part of the practice. The book asks readers to bring the same attention to washing dishes, eating a meal or listening to a child, and to cultivate certain attitudes: patience, a willingness to see things freshly, acceptance of how things are right now, and letting go of the urge to force results. The aim is not a special calm state. It is to be present for more of your own life, pleasant and unpleasant alike."
+    }
+   ]
+  },
+  {
+   "id": "lw_relaxresp",
+   "title": "The Relaxation Response",
+   "author": "Herbert Benson with Miriam Z. Klipper",
+   "year": "1975",
+   "category": "health",
+   "why": "A Harvard cardiologist's short, plain account of a simple calming technique that helped bring meditation into medicine.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_relaxresp1",
+     "title": "The opposite of fight or flight",
+     "body": "Everyone knows the surge of alarm that prepares the body to fight or run: pounding heart, quick breathing, tense muscles. Benson's contribution was to show that the body also has a built-in counterpart, which he named the relaxation response. In this state the heart and breathing slow, muscles loosen and the body uses less energy. The alarm switches on by itself many times in a modern day. The calming response usually has to be invited deliberately."
+    },
+    {
+     "id": "lw_relaxresp2",
+     "title": "Learned from meditators",
+     "body": "Benson came to the subject when people who practised a popular form of meditation asked him to measure what happened in their bodies. He found consistent physical changes while they sat. He then showed that the same changes could be produced without any particular belief or ceremony, using a few plain steps. That finding helped move meditation out of the realm of the exotic and into hospitals and clinics, where versions of it are still taught."
+    },
+    {
+     "id": "lw_relaxresp3",
+     "title": "Four simple ingredients",
+     "body": "As Benson first described it, the technique needs a quiet place, a comfortable position, something to rest the mind on, and an easy-going attitude. You sit, close your eyes, relax your muscles and silently repeat a word or short phrase each time you breathe out. He suggested doing this for ten to twenty minutes, once or twice a day, and not straight after a meal.",
+     "try": "Sit quietly for ten minutes today and repeat one calm word on each out-breath."
+    },
+    {
+     "id": "lw_relaxresp4",
+     "title": "Let thoughts come and go",
+     "body": "Benson considered the relaxed attitude the most important ingredient. Thoughts will intrude: the shopping, an argument, doubts about whether you are doing it properly. The instruction is not to fight them or grade your performance. Notice that you have drifted and return to your word. Trying hard to relax defeats the purpose, in the same way that trying hard to fall asleep keeps you awake. The response arrives when you stop forcing it."
+    },
+    {
+     "id": "lw_relaxresp5",
+     "title": "An old practice in every tradition",
+     "body": "One of the book's most interesting sections surveys prayer and contemplation across religions. Benson found the same elements, a repeated word or phrase and a gentle turning away from distraction, in Christian, Jewish, Muslim, Hindu and Buddhist practice. He concluded that humanity has long known this capacity and has clothed it in different beliefs. A believer can use a word from their own faith, and a person with no religion can use any neutral word."
+    },
+    {
+     "id": "lw_relaxresp6",
+     "title": "What it can and cannot do",
+     "body": "Benson studied the technique in people with raised blood pressure and reported that regular practice lowered it modestly. He presented relaxation as a partner to medical care for conditions made worse by stress, never as a substitute. That remains the fair reading today: the effects are real but modest. Nobody should reduce or stop a prescribed medicine because they have begun to meditate. Any change in treatment is a decision to make with a doctor."
+    }
+   ]
+  },
+  {
+   "id": "lw_burnout",
+   "title": "Burnout: The Secret to Unlocking the Stress Cycle",
+   "author": "Emily Nagoski and Amelia Nagoski",
+   "year": "2019",
+   "category": "health",
+   "why": "A warm, practical book on why solving the problem does not end the stress, written mainly for women but useful to anyone.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_burnout1",
+     "title": "The stress and the stressor are different things",
+     "body": "The stressor is the thing that sets you off: the deadline, the traffic, the difficult relative. The stress is what happens in your body in response. The Nagoski sisters argue that dealing with the first does not automatically finish the second. You can send the report, sit down exhausted and still be full of tension, because your body has not received the signal that the danger is over. Stress has to be completed as a physical process, separately from fixing its cause."
+    },
+    {
+     "id": "lw_burnout2",
+     "title": "Finish the cycle with your body",
+     "body": "The stress response prepares you to run or fight. The most direct way to tell the body that you have survived is to move: walk briskly, dance, climb stairs, anything that leaves you breathing harder. The authors list other routes for days when that is not possible: slow deep breathing, a friendly chat, a good laugh, a long hug with someone you trust, a proper cry, or making something with your hands.",
+     "try": "After your next tense task, move your body for ten minutes before starting anything else."
+    },
+    {
+     "id": "lw_burnout3",
+     "title": "When effort is not paying off",
+     "body": "The authors describe a part of the mind that keeps track of how much effort you are putting in against how much progress you are making. When progress is too slow, frustration builds and can tip into helplessness. They suggest three responses. Redefine what counts as winning so that success is within reach. Look for the hidden value in the difficulty. Or weigh up honestly whether it is time to stop. Giving up a goal that costs more than it returns is not weakness."
+    },
+    {
+     "id": "lw_burnout4",
+     "title": "The trap of always giving",
+     "body": "The book names a pattern in which certain people, most often women, are expected to offer their time, attention and care to others at all times, and to feel guilty when they keep anything for themselves. A person raised to this standard experiences rest as selfishness. The authors argue that this belief, more than any personal failing, drives many toward exhaustion. Recognising it as a rule imposed from outside is the first step in declining to obey it."
+    },
+    {
+     "id": "lw_burnout5",
+     "title": "Rest is not optional",
+     "body": "The authors treat rest as a biological need, like food. They argue that a much larger share of each day has to go to rest than most of us allow, counting sleep, meals, unhurried time with others and changes of activity. Switching from desk work to cooking or walking lets the tired part of the mind recover while another part works. People who cut rest to get more done usually get less done, and get it done worse."
+    },
+    {
+     "id": "lw_burnout6",
+     "title": "Kindness and company",
+     "body": "The book ends on two sources of strength. One is connection: people recover from stress better together, and the authors argue that the real answer to burnout is a circle of people who look after one another, not solitary self-care. The other is treating yourself gently. Most of us carry a harsh inner voice that attacks every shortcoming. Hearing it as a frightened part of yourself, not as the truth, makes it easier to keep going.",
+     "try": "Tell one trusted person honestly how tired you are, and ask how they are doing too."
+    }
+   ]
+  },
+  {
+   "id": "lw_irresistible",
+   "title": "Irresistible",
+   "author": "Adam Alter",
+   "year": "2017",
+   "category": "health",
+   "why": "A psychologist explains how apps, games and gadgets are built to be hard to put down, and how to loosen their grip.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "lw_irresistible1",
+     "title": "Anyone can get hooked",
+     "body": "We tend to think of addiction as a weakness found in certain people. Alter argues that it has more to do with circumstances. He describes soldiers who used heroin heavily while serving in a war zone, most of whom stopped without relapse once they returned home to a different setting. The lesson he draws is that a compelling experience placed within easy reach, at a time of stress or boredom, can capture almost anybody. Today that experience sits in every pocket."
+    },
+    {
+     "id": "lw_irresistible2",
+     "title": "Behaviours can be addictive too",
+     "body": "Alter uses the term behavioural addiction for a habit a person keeps returning to, although it harms their sleep, work or relationships, with no substance involved. Checking email, gaming, scrolling and shopping can all take this form. The pattern is that a short-term pull overrides long-term wellbeing. He notes that several well-known technology leaders have strictly limited their own children's screen use, which suggests the people who know these products best are wary of them."
+    },
+    {
+     "id": "lw_irresistible3",
+     "title": "The ingredients of a hook",
+     "body": "The book lists features that make an experience hard to stop: a goal that is always just out of reach, rewards that arrive unpredictably, a feeling of steady progress, tasks that grow harder as you improve, tension left unresolved, and connection with other people. None of these is bad in itself, and a good hobby has several. The trouble begins when designers combine them deliberately to maximise the hours you spend, whatever those hours do to you."
+    },
+    {
+     "id": "lw_irresistible4",
+     "title": "When the number takes over",
+     "body": "Alter is wary of the modern habit of turning life into targets: step counts, streaks, followers, unread messages. A number gives a clear goal and a small thrill on reaching it, and then the target moves. People keep running on an injury to protect a streak, or check a count that made them happy for only a moment. A measure should serve the purpose behind it. When you notice that you are serving the measure, it is time to stop counting.",
+     "try": "Pick one counter you check often, such as steps or likes, and hide it for a week."
+    },
+    {
+     "id": "lw_irresistible5",
+     "title": "Cliffhangers and missing stop signs",
+     "body": "An unfinished story nags at the mind, which is why episodes end at the tensest moment. Older media had natural pauses: the chapter ended, or the programme finished for the week. Alter points out that autoplay and endless feeds have removed those stopping cues, so continuing is now the default and stopping requires a decision. One practical trick he offers is to stop a series partway through an episode, once the tension has been resolved, instead of at the end."
+    },
+    {
+     "id": "lw_irresistible6",
+     "title": "Change the surroundings, not just your mind",
+     "body": "Alter's advice rests on the finding that whatever is close at hand gets used. Resolving to check the phone less is weaker than charging it in another room. He also notes that a habit is easier to replace than to erase, so decide what you will do in the moment you used to reach for the screen. For children he stresses time spent face to face, because reading other people's feelings is learned through practice.",
+     "try": "Charge your phone outside the bedroom tonight and put a book where the phone used to be."
+    }
+   ]
+  },
+  {
+   "id": "lw_shallows",
+   "title": "The Shallows",
+   "author": "Nicholas Carr",
+   "year": "2010",
+   "category": "health",
+   "why": "An early, thoughtful warning about what constant online reading may do to attention, memory and deep thought.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_shallows1",
+     "title": "Tools for thought shape the thinker",
+     "body": "Carr argues that the technologies we use to find and store information are never neutral. The map changed how people pictured space, the clock changed how they experienced the day, and the printed book changed how they reasoned. Each of these tools rewards certain mental habits and lets others fade. So the important question about the internet is not only what content it carries but what kind of attention the medium itself trains in us, hour after hour."
+    },
+    {
+     "id": "lw_shallows2",
+     "title": "The brain adapts to what you practise",
+     "body": "The adult brain keeps changing. Circuits that are used often grow stronger, and those left idle weaken. Carr draws the implication for daily habits: someone who spends hours a day skimming, clicking and switching is practising exactly those things and becoming better at them, while practising sustained concentration very little. This would explain a common complaint among heavy internet users, that sitting with a long book has become strangely difficult."
+    },
+    {
+     "id": "lw_shallows3",
+     "title": "Deep reading is a trained skill",
+     "body": "Staying with one line of thought for many pages, in silence, is not natural for a species whose survival once depended on noticing every movement nearby. Carr describes how centuries of book reading trained people to hold their attention still, and how that discipline supported complex argument and private reflection. Because the skill was learned, it can also be lost. It lasts only as long as people keep practising it.",
+     "try": "Read a printed book for twenty minutes today with your phone in another room."
+    },
+    {
+     "id": "lw_shallows4",
+     "title": "A medium made of interruptions",
+     "body": "A web page offers links, alerts, side panels and something new a click away. Each one asks for a small decision: follow it or not? Carr draws on research into mental load to argue that these demands crowd the limited space of working memory. Less of what we read is then passed on to long-term memory, where understanding is built. We end up taking in more words and retaining and connecting less of what they say."
+    },
+    {
+     "id": "lw_shallows5",
+     "title": "Memory is not a storage drive",
+     "body": "It is tempting to think that there is no need to remember anything that can be looked up. Carr disagrees. Human memory is not a cupboard that fills up. The act of consolidating a fact links it to what you already know, and those links are the raw material of judgment and creativity. A person who has absorbed a subject sees patterns that a person searching it for the first time cannot. Looking something up and knowing it are different things."
+    },
+    {
+     "id": "lw_shallows6",
+     "title": "A warning, not a verdict",
+     "body": "Carr's argument rests partly on early studies, and researchers still debate how lasting or serious the effects are. Critics point out that people adapt, that earlier media such as novels and television provoked similar fears, and that habits of attention can be rebuilt. A fair reading takes the book as a prompt to notice your own experience. If long reading has become harder for you, the remedy is within reach: regular protected time with one text and no second screen."
+    }
+   ]
+  },
+  {
+   "id": "lw_dopamine",
+   "title": "Dopamine Nation",
+   "author": "Anna Lembke",
+   "year": "2021",
+   "category": "health",
+   "why": "A psychiatrist who treats addiction explains why easy pleasures can leave us feeling worse, and how to restore balance.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "lw_dopamine1",
+     "title": "Too much of what we like",
+     "body": "Lembke's starting observation is that we live amid a supply of pleasures no earlier generation knew: rich food, games, shopping, videos and messages, all available instantly and endlessly. She argues that this abundance is itself a source of unhappiness, because the brain was shaped for a world in which rewards were scarce and had to be worked for. She describes the smartphone as a delivery device that brings a steady drip of stimulation at any hour."
+    },
+    {
+     "id": "lw_dopamine2",
+     "title": "Pleasure and pain share a balance",
+     "body": "Lembke pictures pleasure and pain as two sides of one set of scales. When something pleasant tips the scales one way, the brain pushes back to restore the level, and briefly overshoots toward discomfort. That is the restless wanting you feel when the episode ends. With heavy repetition the pushback grows stronger, so the same thing gives less pleasure and its absence feels worse. The scales are a simplified picture of complicated brain science, but they match what many people experience."
+    },
+    {
+     "id": "lw_dopamine3",
+     "title": "A break lets the system reset",
+     "body": "In her clinic Lembke often asks patients to give up their chosen substance or behaviour for about a month. The first days usually feel worse, and then many people find that ordinary things become enjoyable again. The pause also shows them how strong the habit was. There is an important caution. Stopping alcohol, some drugs or some prescribed medicines suddenly can be dangerous. Anyone who is dependent on a substance should speak to a doctor before stopping, not attempt it alone."
+    },
+    {
+     "id": "lw_dopamine4",
+     "title": "Put barriers in your own way",
+     "body": "Willpower is weakest when desire is strongest, so Lembke recommends deciding in advance, in a calm hour. She calls this self-binding and describes three kinds. Barriers of space keep the thing out of reach, such as not having sweets in the house. Barriers of time confine it to set hours or days. Barriers of category rule out a whole type, such as a certain kind of game. None is perfect, but each creates a gap between impulse and action.",
+     "try": "Choose one tempting thing and put a physical barrier in front of it today, such as moving it to another room."
+    },
+    {
+     "id": "lw_dopamine5",
+     "title": "Earned good feeling lasts longer",
+     "body": "If pleasure is followed by a dip, the reverse also holds: mild, deliberate discomfort is often followed by a lasting lift. Lembke points to exercise and to patients who took up cold-water bathing, noting that effort brings a slower, steadier good mood than quick rewards do. She is clear that this can be overdone, and that pain can become a compulsion of its own. Hard physical challenges are not suitable for everyone, so check with a doctor if you have a health condition."
+    },
+    {
+     "id": "lw_dopamine6",
+     "title": "Honesty as a discipline",
+     "body": "An unexpected lesson from Lembke's patients in recovery is the importance of telling the truth about everything, including small matters. She argues that lying, even in minor ways, keeps a person hidden and makes it easier to return to a secret habit. Speaking truthfully brings your behaviour into view, draws people closer and strengthens the ability to wait for a reward. Admitting a slip to someone who will hold you to account without contempt is, in her experience, part of what helps people get well."
+    }
+   ]
+  },
+  {
+   "id": "lw_younger",
+   "title": "Younger Next Year",
+   "author": "Chris Crowley and Henry S. Lodge",
+   "year": "2004",
+   "category": "health",
+   "why": "A blunt, cheerful argument, from a retired lawyer and his doctor, that much of the decline blamed on age can be delayed.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_younger1",
+     "title": "Ageing and decay are not the same",
+     "body": "The authors separate two things. Ageing is unavoidable: hair greys and top speed falls. Decay, by which they mean weakness, stiffness, weight gain and loss of balance, is in their view largely a product of how we live after fifty. Lodge, the doctor, explains it as the body responding to signals. Regular demands tell it to build and repair, and idleness tells it to wind down. The biology in the book is simplified, but the broad claim that activity slows physical decline is well supported."
+    },
+    {
+     "id": "lw_younger2",
+     "title": "Move on most days, for life",
+     "body": "The first rule of the book is uncompromising: exercise six days a week for the rest of your life. The authors mean real effort that raises the heart rate, not a stroll, and they ask readers to treat it as seriously as a job. The frequency matters to them more than the amount, because the body needs a fresh signal nearly every day. They also say plainly that anyone starting after years of inactivity should see a doctor first and build up gradually."
+    },
+    {
+     "id": "lw_younger3",
+     "title": "Keep your strength",
+     "body": "Alongside steady heart-and-lung exercise, the authors want resistance training a couple of days a week. Muscle and bone are lost with age unless they are challenged, and the result is not only weakness. Falls, fractures and the inability to get out of a chair take away independence. Lifting weights or working against your own body weight keeps joints stable and balance sharp. Proper instruction at the start is worth having, to learn safe technique.",
+     "try": "Stand up from a chair and sit down slowly ten times without using your hands."
+    },
+    {
+     "id": "lw_younger4",
+     "title": "Stop eating rubbish",
+     "body": "The authors are deliberately unsophisticated about food. They do not offer a diet, and they argue that diets fail. Their rule is simply to stop eating the things everyone already knows are poor: fried and fast food, refined flour, sweets and sugary drinks, and oversized portions. What is left, mostly vegetables, fruit, whole grains and sensible protein, looks after itself. Combined with daily exercise, they say, weight tends to settle without counting anything."
+    },
+    {
+     "id": "lw_younger5",
+     "title": "Care, connect and commit",
+     "body": "The last third of the book is about emotional life. The authors argue that humans are social animals whose bodies respond to belonging, and that retirement can cut a person off from colleagues, purpose and routine all at once. Their advice is to care about something, stay close to people and take on commitments that others depend on: a club, a cause, grandchildren, a new project. Loneliness, they say, should be taken as seriously as lack of exercise."
+    }
+   ]
+  },
+  {
+   "id": "lw_upside",
+   "title": "The Upside of Stress",
+   "author": "Kelly McGonigal",
+   "year": "2015",
+   "category": "health",
+   "why": "A health psychologist argues that how you think about stress changes its effect, with honest limits on how far that goes.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_upside1",
+     "title": "What you believe about stress matters",
+     "body": "McGonigal opens with a large survey in which people under heavy stress were more likely to die in the following years, but mainly if they also believed that stress was harming their health. She takes this as a sign that fearing stress may add to its damage. It is an association, not a proof, and it should be held loosely. Her broader case rests on experiments showing that people who are taught to see stress as useful cope and perform somewhat better."
+    },
+    {
+     "id": "lw_upside2",
+     "title": "More than fight or flight",
+     "body": "We tend to think the body has a single stress reaction, the urge to fight or flee. McGonigal describes others. In a challenge response the body mobilises energy and focus, as it does in an athlete before a race, without the sense of threat. In a tend-and-befriend response, stress moves us to protect and seek out other people. Which one appears depends partly on how you read the situation: as a danger you cannot handle, or as a demand you can meet."
+    },
+    {
+     "id": "lw_upside3",
+     "title": "A pounding heart is energy",
+     "body": "Before an interview or a speech, most people try to calm down and usually fail. McGonigal reports experiments in which people were told instead to regard their racing heart and quick breath as the body preparing them to do well. They felt more confident and performed better than those who tried to relax. The physical state of anxiety and of excitement is nearly the same. The label you give it shapes what happens next.",
+     "try": "Next time your heart races before a task, tell yourself: my body is giving me energy for this."
+    },
+    {
+     "id": "lw_upside4",
+     "title": "Stress follows meaning",
+     "body": "McGonigal notes that the people who report the most stress are often those who also describe their lives as most meaningful. Raising children, caring for a parent, doing work that matters and belonging to a community all bring strain. A life with no stress would be a life with nothing at stake. In a hard moment it helps to remember what value the difficulty serves. The strain of a sleepless night with a sick child is the price of loving that child."
+    },
+    {
+     "id": "lw_upside5",
+     "title": "Caring makes you stronger",
+     "body": "Stress narrows attention to the self: how will I cope, what will they think of me? McGonigal describes research suggesting that turning outward under pressure, by helping someone else or connecting your effort to a purpose larger than yourself, lowers fear and raises hope. People who support others during hard times appear to be protected from some of the harm of their own stress. Helping is not only generous. It is also a way of coping."
+    },
+    {
+     "id": "lw_upside6",
+     "title": "Where the idea stops",
+     "body": "McGonigal does not claim that all stress is good, and the book should not be read that way. Changing your attitude is no answer to abuse, danger or injustice, which need to be escaped or changed, and it does not replace treatment for anxiety, depression or trauma. The effects of mindset in studies are real but modest. If stress is overwhelming your sleep, mood or health, talk to a doctor. The useful message is narrower: do not add fear of stress to the stress itself."
+    }
+   ]
+  },
+  {
+   "id": "lw_saltsugarfat",
+   "title": "Salt Sugar Fat",
+   "author": "Michael Moss",
+   "year": "2013",
+   "category": "health",
+   "why": "An investigative reporter shows from inside the food industry how packaged food is designed to keep us eating.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_saltsugarfat1",
+     "title": "Sweetness tuned to the exact point",
+     "body": "Food companies do not guess how sweet to make a product. Moss describes how they test many versions on panels of tasters to find the precise level of sugar that gives the greatest pleasure, with neither too little nor too much. The industry calls this the bliss point. The same method has been applied to products nobody thinks of as sweet, such as pasta sauce and bread, which is one reason palates have drifted toward expecting sugar in everything."
+    },
+    {
+     "id": "lw_saltsugarfat2",
+     "title": "Fat has no upper limit",
+     "body": "Sugar becomes cloying beyond a certain level, but Moss reports that researchers found no such ceiling for fat. More of it keeps making food more appealing, largely through texture: the melt of cheese, the crispness of a fried snack. Fat also carries twice the energy of sugar by weight, without tasting heavy. Moss traces how cheese moved from being a food eaten by itself to an ingredient added to countless products for exactly this reason."
+    },
+    {
+     "id": "lw_saltsugarfat3",
+     "title": "Salt, the cheap fixer",
+     "body": "Salt costs almost nothing and does many jobs in a factory. It sharpens flavour, covers the off-tastes that arise in processing and lengthens shelf life. That is why most of the salt people eat comes from packaged and restaurant food, not from the shaker. Moss also reports encouraging research: the liking for very salty food is learned, and people who cut back gradually find after some weeks that their old favourites taste too salty.",
+     "try": "For one week, add a little less salt than usual when cooking, and notice whether you still miss it by the end."
+    },
+    {
+     "id": "lw_saltsugarfat4",
+     "title": "Convenience and the right words",
+     "body": "Engineering is only half the story. Moss shows how marketing made processed food seem modern, loving and even healthy. Products were pitched to busy parents as time saved and to children as fun. Packets carry large claims about one virtue, such as low fat or added vitamins, while saying nothing of the sugar or salt that was raised to compensate. The front of a pack is advertising. The useful information is in the small print on the back."
+    },
+    {
+     "id": "lw_saltsugarfat5",
+     "title": "Companies cannot stop themselves",
+     "body": "Moss met executives who knew their products were contributing to poor health, and some who would not eat them. Several firms tried to cut salt, sugar or fat and saw customers move to rivals, at which point investors demanded that sales recover. His conclusion is that the industry is as hooked on these three ingredients as its customers are. Voluntary restraint will not last, so change must come from rules and from informed shoppers."
+    },
+    {
+     "id": "lw_saltsugarfat6",
+     "title": "Knowing gives you back the choice",
+     "body": "The book is not a diet plan, and Moss does not ask anyone to give up packaged food altogether. His point is that these products are the outcome of deliberate design, and that knowing how it works takes away some of its force. When you understand that the craving for a second handful was planned in a laboratory, it becomes easier to stop at one, to cook a little more often and to decide for yourself what goes into the basket."
+    }
+   ]
+  },
+  {
+   "id": "lw_gut",
+   "title": "Gut: The Inside Story of Our Body's Most Underrated Organ",
+   "author": "Giulia Enders",
+   "year": "2014",
+   "category": "health",
+   "why": "A cheerful, clear tour of how digestion works and why the bacteria living in us deserve respect.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_gut1",
+     "title": "An organ we are embarrassed by",
+     "body": "Enders begins from the fact that we admire the brain and the heart and prefer not to mention the gut. She argues that it deserves better. It has a large nervous system of its own, it is home to much of the immune system, and it turns a sandwich into a living body. Her tone is curious and unashamed, and the first lesson is one of attitude: understanding how digestion works makes it easier to look after and less awkward to discuss with a doctor."
+    },
+    {
+     "id": "lw_gut2",
+     "title": "A long and patient journey",
+     "body": "Digestion is a chain of specialised steps. Chewing breaks food up and starts work on starch. The stomach churns and sterilises. The small intestine, with its enormous folded surface, absorbs most nutrients. The large intestine takes its time with what remains, recovering water and letting bacteria work on fibre. Enders explains everyday oddities along the way, such as why the belly rumbles: it is the gut cleaning itself between meals, not only a sign of hunger."
+    },
+    {
+     "id": "lw_gut3",
+     "title": "How we sit matters",
+     "body": "One of the book's best-known passages concerns posture on the toilet. Enders explains that the bowel has a natural bend that helps us stay continent while standing or sitting, and that this bend straightens in a squatting position, so emptying takes less effort. People who use sitting toilets can get much of the effect by raising the feet on a low stool and leaning forward a little. Straining less is kinder to the body.",
+     "try": "If you use a sitting toilet, try placing a low footstool under your feet."
+    },
+    {
+     "id": "lw_gut4",
+     "title": "Trillions of tenants",
+     "body": "The large intestine houses a vast community of bacteria. Enders describes what they do for us: they break down fibre we cannot digest, produce useful substances including certain vitamins, crowd out harmful germs and help train the immune system. They live on what reaches them, which is mostly the fibre in vegetables, pulses, whole grains and fruit. A varied, plant-rich diet tends to support a varied community of microbes, and variety appears to be a sign of health."
+    },
+    {
+     "id": "lw_gut5",
+     "title": "The gut speaks to the brain",
+     "body": "A major nerve links the gut and the brain, and Enders explains that most of its traffic runs upward, carrying news from the belly to the head. This may be part of why gut trouble and low mood so often occur together. She is careful to say that this research is young and much of it comes from animals. It is too early to claim that changing your bacteria will treat depression or anxiety, and anyone struggling with those should seek proper help."
+    },
+    {
+     "id": "lw_gut6",
+     "title": "Clean, but not sterile",
+     "body": "Enders takes a balanced line on hygiene. Antibiotics save lives, but they also kill helpful bacteria, so they should be taken when they are truly needed and exactly as prescribed, not demanded for every cold. Washing hands and handling raw food carefully is sensible. Trying to disinfect every surface of a home is not, because most microbes are harmless or useful, and a body that meets a normal variety of them seems to cope better."
+    }
+   ]
+  },
+  {
+   "id": "lw_eatdrink",
+   "title": "Eat, Drink, and Be Healthy",
+   "author": "Walter C. Willett",
+   "year": "2001",
+   "category": "health",
+   "why": "Sober, evidence-based eating advice from one of the world's most cited nutrition researchers.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_eatdrink1",
+     "title": "Advice built on long-term evidence",
+     "body": "Willett led some of the largest and longest studies of diet ever run, following many thousands of people for decades. His book grew from frustration that official food guidance of the time, with its broad base of bread, rice and pasta and its blanket warning against fat, did not match what the data showed. He set out to replace slogans with advice that follows the evidence, and to be candid where the evidence is thin."
+    },
+    {
+     "id": "lw_eatdrink2",
+     "title": "The kind of fat matters more than the amount",
+     "body": "For years people were told to eat less fat of every sort. Willett argues that this was a mistake. Fats from plants and fish, such as those in olive oil, nuts, seeds and oily fish, are good for the heart. The fats to avoid are trans fats, once common in fried and baked factory foods, with saturated fat best kept moderate. Swapping a low-fat biscuit for a handful of nuts adds fat to the diet and improves it."
+    },
+    {
+     "id": "lw_eatdrink3",
+     "title": "Not all carbohydrates are equal",
+     "body": "Whole grains keep their bran and germ. They digest slowly and bring fibre, vitamins and minerals. Refined grains such as white bread and white rice, and also potatoes, break down quickly into sugar, raising blood sugar sharply and leaving you hungry again soon. Willett recommends making whole grains the usual choice and treating refined starch much as you would treat sweets: fine in small amounts, unhelpful as the base of every meal.",
+     "try": "Swap one refined grain for a whole one today, such as brown rice or whole wheat roti in place of white."
+    },
+    {
+     "id": "lw_eatdrink4",
+     "title": "Protein comes in a package",
+     "body": "We eat foods, not isolated nutrients, and Willett asks us to look at everything that arrives along with the protein. Red and processed meat bring saturated fat and, in the processed kind, a good deal of salt. Beans, lentils and nuts supply protein together with fibre and healthy fat. Fish and poultry fall in between. He does not insist that anyone become vegetarian. The advice is to lean toward plants and fish, and to have red meat less often."
+    },
+    {
+     "id": "lw_eatdrink5",
+     "title": "Plenty of vegetables and fruit, in variety",
+     "body": "A generous intake of vegetables and fruit is linked with lower blood pressure and less heart disease and stroke. Willett is candid that the protection against cancer turned out weaker than was once hoped, an example of his willingness to follow the data. Because different plants supply different things, variety counts as much as quantity: dark leafy greens, red and orange vegetables, pulses, citrus. Potatoes, in his scheme, count as starch and not as a vegetable."
+    },
+    {
+     "id": "lw_eatdrink6",
+     "title": "Weight, drinks and second thoughts",
+     "body": "At the base of Willett's guide are staying at a healthy weight and being active every day, which he regards as more important than any single food. For drinks he recommends water and advises against sugary ones, and he doubts that adults need large amounts of milk. Some of his original advice has aged. The idea that moderate drinking protects the heart, for example, looks much weaker in newer research. Good nutrition science revises itself, and readers should expect that."
+    }
+   ]
+  },
+  {
+   "id": "lw_emperor",
+   "title": "The Emperor of All Maladies",
+   "author": "Siddhartha Mukherjee",
+   "year": "2010",
+   "category": "health",
+   "why": "A cancer doctor's humane history of the disease, which leaves you understanding what cancer is and how treatment came to be.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_emperor1",
+     "title": "Not one disease but many",
+     "body": "We speak of cancer as a single enemy, but Mukherjee shows that it is a family of diseases that share one feature: cells dividing without the normal controls. A leukaemia of childhood and a cancer of the lung behave differently, respond to different treatments and have different outlooks. This is why there has never been, and probably never will be, one cure, and why a headline about a breakthrough usually applies to one kind of cancer in one group of patients."
+    },
+    {
+     "id": "lw_emperor2",
+     "title": "A distorted version of ourselves",
+     "body": "Cancer does not invade from outside. It begins when genes that govern a cell's growth are damaged. Mukherjee uses the image of a car: some genes act as accelerators and others as brakes, and cancer arises when accelerators jam on and brakes fail. Such damage builds up through chance, inherited risk and exposures such as tobacco smoke, and it accumulates over time, which is why cancer grows more common with age. The cancer cell is our own cell, using our own machinery too well."
+    },
+    {
+     "id": "lw_emperor3",
+     "title": "When more was not better",
+     "body": "For much of the twentieth century surgeons treating breast cancer removed ever more tissue, convinced that a bigger operation meant a better chance of survival. The belief was sincere and went untested for decades. When careful trials were finally run, far smaller operations combined with other treatment proved to work as well for many women. Mukherjee tells the story as a warning that confidence and good intentions are no substitute for evidence."
+    },
+    {
+     "id": "lw_emperor4",
+     "title": "The long road of drug treatment",
+     "body": "The book follows the pioneers who first used chemicals against childhood leukaemia and saw brief, astonishing recoveries. Later doctors learned that combining several drugs could produce lasting cures in some cancers, at the cost of harsh side effects. Campaigners secured large public funding by promising a quick victory. That promise proved naive, but the steady research it paid for is the foundation of what doctors know and can offer today."
+    },
+    {
+     "id": "lw_emperor5",
+     "title": "Prevention is half the battle",
+     "body": "Some of the largest gains against cancer came from preventing it or catching it early. Mukherjee recounts how researchers showed that smoking causes lung cancer, and how the tobacco industry spent decades spreading doubt about it. He also describes screening tests that detect certain cancers at a stage when they can still be cured. Not smoking remains the single most effective step a person can take.",
+     "try": "If you are overdue for a screening test your doctor has recommended, book the appointment today."
+    },
+    {
+     "id": "lw_emperor6",
+     "title": "Drugs aimed at the cause",
+     "body": "Once scientists understood which damaged genes drive a particular cancer, they could design medicines that block that specific fault and spare healthy cells. Mukherjee describes one such drug that turned a deadly form of leukaemia into a condition many patients live with for years. He does not promise an end to cancer. His hope is more measured and more believable: that more and more cancers will be prevented, found early or kept in check for a long time."
+    }
+   ]
+  },
+  {
+   "id": "lw_stolenfocus",
+   "title": "Stolen Focus",
+   "author": "Johann Hari",
+   "year": "2022",
+   "category": "health",
+   "why": "A wide-ranging look at why paying attention feels harder, arguing that the causes lie around us as much as within us.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "lw_stolenfocus1",
+     "title": "Not only your fault",
+     "body": "Most advice about concentration treats it as a matter of discipline. Hari argues that this is like telling one person to eat better while every shop sells mainly junk. He travelled to interview researchers and came away convinced that our attention is being worn down by large forces: the design of technology, working culture, poor sleep, stress and the way children are raised. Personal habits still matter, but he wants readers to stop blaming themselves for a problem that is shared."
+    },
+    {
+     "id": "lw_stolenfocus2",
+     "title": "Switching has a price",
+     "body": "People believe they can do several things at once. The researchers Hari interviews say that the brain really switches rapidly between tasks, and that each switch costs time and accuracy as you find your place again. A day of glancing at messages while working is a day of hundreds of small restarts. You finish tired, with the uneasy sense of having been busy without doing anything properly. Doing one thing at a time is not old-fashioned. It is how the mind works best.",
+     "try": "Choose one task today and do it for twenty-five minutes with every notification switched off."
+    },
+    {
+     "id": "lw_stolenfocus3",
+     "title": "Designed to hold you",
+     "body": "Hari speaks to former technology insiders who explain that many apps earn money from the time people spend looking at them. Features such as the endlessly scrolling feed were built to remove natural stopping points, and systems learn which content keeps each person hooked, which is often whatever provokes outrage. He argues that the trouble is not screens as such but a business model that profits from distraction, and that such a model could be changed by law."
+    },
+    {
+     "id": "lw_stolenfocus4",
+     "title": "A rested mind that is allowed to wander",
+     "body": "Some causes Hari describes are bodily. A tired brain cannot concentrate, and many people sleep less than they need. He also defends daydreaming. When the mind drifts without input, it sorts through experience, connects ideas and plans ahead. Filling every spare minute with a phone removes that quiet processing time. A queue, a bus ride or a walk with nothing to look at is not wasted time. It is when a good deal of thinking is done."
+    },
+    {
+     "id": "lw_stolenfocus5",
+     "title": "Children need free play",
+     "body": "Hari devotes a section to childhood. He reports researchers who believe that children build attention through unstructured play, in which they invent games, settle disputes and follow their own curiosity. A childhood spent mostly indoors, under supervision and on a timetable offers little of this. His suggestion to parents is modest: give children more unsupervised time with other children, and judge schools partly by how much room they leave for play and movement."
+    },
+    {
+     "id": "lw_stolenfocus6",
+     "title": "Read it with a critical eye",
+     "body": "Hari is a journalist arguing a case, and reviewers have pointed out that some of his claims go beyond the evidence. Long-term data showing that human attention spans are shrinking are scarce, as he partly admits. Critics also feel he undersells what individuals can do. The sensible course is to take both halves of the picture seriously. Push for better-designed technology and saner workplaces, and meanwhile use simple defences such as keeping the phone out of reach while you work."
+    }
+   ]
+  },
+  {
+   "id": "lw_nicomachean",
+   "title": "Nicomachean Ethics",
+   "author": "Aristotle",
+   "year": "c. 340 BC",
+   "category": "philosophy",
+   "why": "The founding Western account of what a good human life is and how character is built through practice.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "lw_nicomachean1",
+     "title": "Flourishing, not feeling good",
+     "body": "Aristotle asks what we want for its own sake and not as a means to something else. His answer is a word often translated as happiness but closer to flourishing: living and acting well across a whole life. It is not a mood. A person can feel cheerful while wasting their gifts, or be tired and worried while living admirably. So he judges a life the way we judge a craftsman's career, by the quality of the work over time, not by one pleasant afternoon."
+    },
+    {
+     "id": "lw_nicomachean2",
+     "title": "What a human being is for",
+     "body": "To find what living well means for us, Aristotle looks at what is distinctive about us. A knife is good when it cuts well, and a flute player is good when she plays well. Humans share growth with plants and sensation with animals, but the ability to reason and to guide our desires by reason is our own. A good human life is therefore one in which that ability is used excellently, in thinking and above all in choosing how to act."
+    },
+    {
+     "id": "lw_nicomachean3",
+     "title": "We become what we repeatedly do",
+     "body": "Nobody is born brave, fair or self-controlled, according to Aristotle, and nobody becomes so by reading about it. Character is acquired as a skill is, by practice. A builder learns by building. In the same way we become honest by telling the truth when a lie would be easier, and patient by holding our temper again and again. This puts character within reach: every small act is a repetition that makes the next one easier.",
+     "try": "Choose one quality you want more of and act on it once today in a small, definite way."
+    },
+    {
+     "id": "lw_nicomachean4",
+     "title": "The mean between too much and too little",
+     "body": "Aristotle observes that a good quality usually lies between two failings. Courage sits between cowardice and recklessness, generosity between meanness and wastefulness, and proper confidence between self-contempt and vanity. The right point is not a mathematical middle, and it shifts with the person and the situation. The amount of risk that is brave for a trained rescuer would be foolish for a bystander. It is still useful to know which side you tend to err on, so that you can lean the other way.",
+     "try": "Name one trait where you tend toward excess or deficiency, and lean a little the other way today."
+    },
+    {
+     "id": "lw_nicomachean5",
+     "title": "Practical wisdom",
+     "body": "Rules cannot settle every case. Tell the truth is a good rule, but how, when and to whom still has to be judged. Aristotle calls this ability practical wisdom: seeing what a particular situation requires and doing the right thing, at the right time, toward the right person, for the right reason. It comes from experience and from watching people who have it. That is why he suggests asking, when in doubt, what a person of sound judgment would do."
+    },
+    {
+     "id": "lw_nicomachean6",
+     "title": "No good life without friends",
+     "body": "Aristotle gives a great deal of space to friendship and distinguishes three kinds. Some friendships rest on usefulness and some on shared pleasure, and both fade when circumstances change. The rarest kind is between people who value each other's character and wish each other well for the other's own sake. Such friends make us better and take time to find. He doubts that anyone would choose to live without friends, even with every other good thing."
+    }
+   ]
+  },
+  {
+   "id": "lw_apology",
+   "title": "Apology",
+   "author": "Plato",
+   "year": "c. 399 BC",
+   "category": "philosophy",
+   "why": "Socrates' defence at his trial is a short, stirring picture of a person who would sooner die than stop thinking honestly.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_apology1",
+     "title": "A defence, not an apology",
+     "body": "In Athens an old man named Socrates was put on trial, accused of disrespecting the city's gods and corrupting its young. Plato, his student, wrote down the speech Socrates gave to the jury. The title means a defence speech in Greek. Socrates does not say sorry. He explains what he has spent his life doing and why he will not stop. The work is short and plain, and it has shaped the Western idea of intellectual honesty ever since."
+    },
+    {
+     "id": "lw_apology2",
+     "title": "Knowing that you do not know",
+     "body": "Socrates relates that an oracle once declared no one wiser than he. Puzzled, since he felt he knew little, he went to question people with a reputation for wisdom: politicians, poets and craftsmen. Each turned out to be confident about matters he could not explain. Socrates concluded that he was wiser only in this respect: he did not suppose he knew what he did not know. Recognising the limits of your knowledge is where learning starts.",
+     "try": "Before giving an opinion today, ask yourself how you know it, and say so if you are not sure."
+    },
+    {
+     "id": "lw_apology3",
+     "title": "A life worth living is examined",
+     "body": "Offered the chance to save himself by promising to keep quiet, Socrates refuses. He says that talking each day about what is good, and testing himself and others, is the best thing a human being can do, and that a life lived without such questioning is not worth having. He does not mean that everyone must become a scholar. He means that going through the years without asking why you believe and do what you do is a kind of sleepwalking."
+    },
+    {
+     "id": "lw_apology4",
+     "title": "Care for the soul before wealth",
+     "body": "Socrates tells the jurors that he has spent his days urging citizens, as a father or elder brother might, to care less about money, reputation and position and more about truth and the state of their own character. He argues that goodness does not come from wealth, and that wealth and everything else are put to good use only by a good person. A promotion gained through dishonesty costs more than it pays."
+    },
+    {
+     "id": "lw_apology5",
+     "title": "The gadfly",
+     "body": "Socrates compares Athens to a large, well-bred horse that has grown sluggish, and himself to the stinging fly that keeps it awake. Being questioned is annoying, and he knows that this is why he is on trial. He argues all the same that a community needs people who challenge its comfortable assumptions, and that silencing them harms the city more than the critic. In a family or a workplace, the person who asks the awkward question is often doing everyone a favour."
+    },
+    {
+     "id": "lw_apology6",
+     "title": "Why death should not rule us",
+     "body": "Condemned to die, Socrates stays calm. To fear death, he says, is to claim knowledge nobody has, for death may be a great good for all we can tell. It is either a dreamless sleep or a passage to another place, and neither is terrible. What truly harms a person is doing wrong. He would sooner die having spoken honestly than live by begging and flattery. Fear of loss is a poor guide when it asks you to give up your integrity."
+    }
+   ]
+  },
+  {
+   "id": "lw_shortness",
+   "title": "On the Shortness of Life",
+   "author": "Seneca",
+   "year": "c. 49",
+   "category": "philosophy",
+   "why": "A Roman Stoic's brief and bracing essay on why life feels short and how to stop giving it away.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_shortness1",
+     "title": "Life is long if you know how to use it",
+     "body": "Everyone complains that life is too short. Seneca replies that we are given plenty and waste most of it. A great fortune disappears quickly in careless hands, while a modest sum grows when it is well managed, and he says time is the same. Spent on things that matter, a life is long enough for the highest achievements. What makes it feel brief is the large share that leaks away unnoticed in drifting, pointless busyness and other people's errands."
+    },
+    {
+     "id": "lw_shortness2",
+     "title": "We guard money and give time away",
+     "body": "Seneca points out an odd inconsistency. People fight over a strip of land or a small debt, yet they hand over whole days to anyone who asks, as though time cost nothing. Property can be regained, and a lost hour cannot. He asks readers to look back and count how much of life went to creditors, quarrels, social obligations and worries that led nowhere. Few would lend money as freely as they lend their mornings.",
+     "try": "Before saying yes to a request today, ask whether you would pay money to do it."
+    },
+    {
+     "id": "lw_shortness3",
+     "title": "Busy is not the same as alive",
+     "body": "The people Seneca pities most are the preoccupied: always hurrying, always engaged, and never present. They may be envied for their importance, but they have no time for themselves and reach old age without having lived. He draws a sharp distinction between existing for many years and living. A ship tossed about a harbour by storms for months has not made a long voyage. It has only been thrown around a great deal."
+    },
+    {
+     "id": "lw_shortness4",
+     "title": "Do not postpone living",
+     "body": "Many people plan to begin their real life later, after the promotion, after the children are settled, at retirement. Seneca thinks this is the greatest waste of all. It gives up the present, which is in our hands, in exchange for a future that lies in the hands of chance. Expectation, forever leaning on tomorrow, loses today. Whatever you most want to do with your life, he urges, do at least some of it now, while you can be sure of having the time.",
+     "try": "Spend thirty minutes today on something you have been saving for when life calms down."
+    },
+    {
+     "id": "lw_shortness5",
+     "title": "Leisure spent with the wise",
+     "body": "Seneca's remedy is not idleness. The best use of free time, he says, is the study of wisdom. Through books we can keep company with the greatest minds of every age, who are never too busy to receive us and never send us away poorer. Reading them adds their years to ours, and so stretches a single lifetime across centuries. We cannot choose our parents, he remarks, but we can choose whose thinking we are raised by."
+    }
+   ]
+  },
+  {
+   "id": "lw_dhammapada",
+   "title": "The Dhammapada",
+   "author": "Traditional sayings of the Buddha",
+   "year": "c. 3rd century BC",
+   "category": "philosophy",
+   "why": "The best-loved short collection of the Buddha's teaching: memorable verses on training the mind and living without ill will.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_dhammapada1",
+     "title": "The mind comes first",
+     "body": "The collection opens with its main claim: our experience is shaped by our minds. If we speak or act from a clouded and hostile mind, trouble follows as surely as the cart follows the ox that pulls it. If we speak or act from a clear mind, happiness follows like a shadow that never leaves. Outer circumstances matter, but the state of mind we bring to them decides much of what they become. Two people stuck in the same traffic jam can have very different evenings."
+    },
+    {
+     "id": "lw_dhammapada2",
+     "title": "Hatred is not ended by hatred",
+     "body": "One of the best-known teachings concerns resentment. Those who keep repeating to themselves that they were insulted, beaten or robbed keep their anger alive, and those who let the thought go find peace. Hatred is never brought to an end by more hatred. It ends only through its absence, and the text calls this an ancient law. This does not mean pretending no harm was done. It means declining to carry the injury onward by replaying it and striking back.",
+     "try": "Notice one grievance you keep replaying, and each time it returns today, set it down without feeding it."
+    },
+    {
+     "id": "lw_dhammapada3",
+     "title": "Straightening the mind",
+     "body": "The Dhammapada is frank about how restless the mind is: flighty, hard to hold, landing wherever it pleases. It compares the wise person to an arrow maker straightening a shaft, and to an irrigator guiding water where it is needed. The image presents mental training as patient craft, not a sudden gift. A mind left untended causes more harm than an enemy could, the text says, and a well-directed mind does more good than any relative."
+    },
+    {
+     "id": "lw_dhammapada4",
+     "title": "The hardest victory",
+     "body": "A warrior might defeat a thousand men a thousand times, yet the text says the greater conqueror is the one who masters himself. That victory cannot be undone by any other power. The point is practical. Winning arguments, beating rivals and collecting achievements leave the real sources of our misery, craving, anger and confusion, exactly where they were. Holding back one harsh reply does more for your peace than winning the dispute would."
+    },
+    {
+     "id": "lw_dhammapada5",
+     "title": "Drop by drop",
+     "body": "Do not think lightly of small things, the verses advise. A water jar is filled by falling drops, and in the same way a person becomes full of good, or of harm, little by little. The text praises watchfulness, a steady attention to what you are doing and becoming, as the path to freedom, and it treats carelessness as a kind of death. Character is seldom lost in one dramatic choice. It is built or eroded in minor acts that are repeated daily.",
+     "try": "Do one small kind act today that nobody will know about."
+    },
+    {
+     "id": "lw_dhammapada6",
+     "title": "Walk the path yourself",
+     "body": "The Buddha in these verses does not offer to save anyone. Teachers only point the way, and the effort has to be your own. Each person is their own refuge, for who else could be? Along with this goes the advice to look at your own actions, done and left undone, instead of studying the faults of others, which are easy to see while our own stay hidden. The teaching is demanding, but it places the remedy where you can reach it."
+    }
+   ]
+  },
+  {
+   "id": "lw_analects",
+   "title": "The Analects",
+   "author": "Confucius",
+   "year": "c. 5th century BC",
+   "category": "philosophy",
+   "why": "The sayings that shaped East Asian ideas of character, family, learning and leadership for two thousand years.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "lw_analects1",
+     "title": "Humaneness at the centre",
+     "body": "The quality Confucius values above all is a word that can be translated as humaneness or goodness: a real concern for other people, shown in conduct. Asked for a single principle to guide a whole life, he offers consideration for others, which means not doing to them what you would not want done to yourself. He treats this as something to practise in each encounter. It is tested in how you speak to a subordinate, a shopkeeper or a child when nothing obliges you to be kind.",
+     "try": "Before you speak sharply to someone today, ask how the same words would feel if said to you."
+    },
+    {
+     "id": "lw_analects2",
+     "title": "The joy of learning",
+     "body": "The collection opens with the pleasure of learning something and putting it into practice at the proper time. For Confucius, study is a lifelong shaping of the self and not a stage to be finished. He describes himself as a person who loved learning, not as one born wise. And he finds teachers everywhere: when walking with any two people, he says, he can learn from both, by copying what is good in one and correcting in himself what he dislikes in the other."
+    },
+    {
+     "id": "lw_analects3",
+     "title": "The exemplary person",
+     "body": "Confucius took a word that had meant a nobleman by birth and gave it a moral meaning: a person of cultivated character, which anyone can become. Such a person thinks about what is right where a petty person thinks about what is profitable. They make demands on themselves where a petty person makes demands on others. They are at ease without being arrogant, and they are not distressed when others fail to recognise them. They worry instead about their own shortcomings."
+    },
+    {
+     "id": "lw_analects4",
+     "title": "Manners shape the heart",
+     "body": "Confucius gives great weight to ritual, a term that covers ceremonies and also the everyday forms of courtesy: how you greet people, how you eat together, how you mourn. Modern readers may think this superficial. His insight is that outward forms train inward feeling. Standing to greet an elder or thanking someone properly is a way of practising respect until it becomes real. Without such forms, he says, even good qualities turn sour, and frankness becomes rudeness."
+    },
+    {
+     "id": "lw_analects5",
+     "title": "Goodness begins at home",
+     "body": "For Confucius the family is the first school of character. Respect and care for parents, and affection between brothers and sisters, are described as the root from which wider goodness grows. Someone who has learned to be considerate at home carries the habit into society. He adds that duty to parents is more than providing for them, which we do even for animals. What matters is the respect with which it is done, and that shows in the expression on one's face."
+    },
+    {
+     "id": "lw_analects6",
+     "title": "Lead by example",
+     "body": "Confucius advised rulers that orders and punishments make people evasive, while a good example makes them want to be good. A person who governs through character, he says, is like the pole star, which keeps its place while the other stars turn toward it. If a leader is upright, things get done without commands. If he is not, commands will not be obeyed. The same holds in any household or office: people follow what you do and pay little attention to what you say.",
+     "try": "Pick one thing you ask of others, such as punctuality, and keep it perfectly yourself this week."
+    }
+   ]
+  },
+  {
+   "id": "lw_zhuangzi",
+   "title": "Zhuangzi",
+   "author": "Zhuang Zhou",
+   "year": "c. 4th century BC",
+   "category": "philosophy",
+   "why": "The most playful classic of Chinese thought, full of stories that loosen fixed opinions and teach ease amid change.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_zhuangzi1",
+     "title": "The butterfly dream",
+     "body": "Zhuangzi tells of dreaming that he was a butterfly, fluttering about happily with no knowledge of being a man. On waking he was plainly himself again. But then he wondered whether he was a man who had dreamed of being a butterfly, or a butterfly now dreaming that it was a man. The story is light and its point is serious. We are far surer of our own viewpoint than we have any right to be, and holding certainties loosely is the start of wisdom."
+    },
+    {
+     "id": "lw_zhuangzi2",
+     "title": "The cook and the ox",
+     "body": "A cook carves an ox for his lord with such grace that it looks like a dance. He explains that he no longer hacks at the animal. After years of practice he follows its natural structure, sliding the blade through the spaces between the joints, and so his knife has stayed sharp for many years. When he reaches a difficult place he slows down and attends closely. The lesson is that skill comes from working with the grain of things and not from force.",
+     "try": "In one task today, look for the easier path that follows how the thing naturally works, instead of pushing harder."
+    },
+    {
+     "id": "lw_zhuangzi3",
+     "title": "The use of the useless",
+     "body": "A carpenter walks past an enormous old tree without a glance. Its wood is too twisted for planks and too knotty for carving. That is exactly why it has lived so long and grown so large, while straight and useful trees were felled in their prime. Zhuangzi asks his readers to doubt the assumption that being useful to others is the measure of worth. Not every hour or every talent has to be put to work, and what looks like failure sometimes protects a life."
+    },
+    {
+     "id": "lw_zhuangzi4",
+     "title": "Every view is a view from somewhere",
+     "body": "Zhuangzi loves to show how narrow each perspective is. A frog in a well cannot be told about the sea, and a summer insect cannot imagine ice. In another story a keeper offers his monkeys three nuts in the morning and four at night, and they are furious. He offers four in the morning and three at night, and they are delighted. Nothing has changed except the arrangement. A great deal of human anger, Zhuangzi suggests, is of the same kind.",
+     "try": "When something irritates you today, ask whether anything has changed apart from how it is arranged."
+    },
+    {
+     "id": "lw_zhuangzi5",
+     "title": "At ease with change",
+     "body": "When Zhuangzi's wife died, a friend found him singing and drumming on a bowl, and was shocked. Zhuangzi explained that he had grieved at first like anyone else. Then he reflected that she had come out of the formless, taken shape and lived, and had now changed again, as the seasons follow one another. To keep wailing would show that he did not understand how things are. The story does not forbid grief. It offers a wider frame in which loss belongs to the same process that gave the life."
+    }
+   ]
+  },
+  {
+   "id": "lw_yogasutras",
+   "title": "The Yoga Sutras",
+   "author": "Patanjali",
+   "year": "c. 400",
+   "category": "philosophy",
+   "why": "The compact classical text behind yoga as a discipline of the mind, of which postures are only a small part.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "lw_yogasutras1",
+     "title": "Yoga is the stilling of the mind",
+     "body": "Patanjali defines yoga near the start of the text as the settling of the mind's constant movements. When those movements are quiet, a person rests in their own true nature. When they are not, we mistake ourselves for whatever thought or mood happens to be passing through. This is far from the modern picture of yoga as exercise. Physical posture gets only a few lines in the text. The subject of the work is attention and how to steady it."
+    },
+    {
+     "id": "lw_yogasutras2",
+     "title": "Practice and letting go",
+     "body": "The mind is stilled, Patanjali says, by two things used together. The first is practice, the steady effort to remain settled, which becomes firm only when it is kept up for a long time, without breaks and with real care. The second is non-attachment, a loosening of the hold that cravings have on us. Effort alone becomes strain, and letting go alone becomes drift. A musician does both: she practises daily for years and does not cling to how any one performance turns out.",
+     "try": "Choose one small practice and do it at the same time every day this week, without judging the results."
+    },
+    {
+     "id": "lw_yogasutras3",
+     "title": "Five roots of suffering",
+     "body": "The text names five afflictions that disturb the mind. The first is ignorance, which means misreading what is temporary as lasting and what is not the self as the self. From it grow the others: a tight sense of I and mine, attachment to what once gave pleasure, aversion to what once gave pain, and a clinging to life that is found even in the wise. Naming them helps. When you are upset you can ask which one is active: wounded pride, wanting, avoiding or fear."
+    },
+    {
+     "id": "lw_yogasutras4",
+     "title": "The eight limbs",
+     "body": "Patanjali sets out a path of eight parts. It begins with ethical restraints and personal observances. It continues with a steady, comfortable posture, regulation of the breath, and withdrawal of the senses from distraction. It finishes with three inward stages: concentration on one object, unbroken meditation, and complete absorption. The order is instructive. A person who lies and grasps all day will not find stillness by sitting on a mat in the evening, because conduct and attention belong to one training."
+    },
+    {
+     "id": "lw_yogasutras5",
+     "title": "Restraints and observances",
+     "body": "The first two limbs describe how to live. The restraints are non-harming, truthfulness, not stealing, moderation of desire and not grasping for more than you need. The observances are cleanliness, contentment, disciplined effort, self-study and surrender to something higher than oneself. Contentment is singled out as a source of the greatest happiness. These are presented less as commandments than as conditions: a mind burdened by harm done and by endless wanting cannot become quiet.",
+     "try": "Pick one of these, such as truthfulness or contentment, and keep it in mind through today's conversations."
+    },
+    {
+     "id": "lw_yogasutras6",
+     "title": "Four attitudes toward other people",
+     "body": "One verse gives remarkably practical advice for keeping the mind clear. Meet those who are happy with friendliness instead of envy, those who are suffering with compassion, those who do good with gladness, and those who behave badly with equanimity, not with outrage. Much of our inner disturbance comes from our reactions to other people. Patanjali also recommends that when a harmful thought arises we should deliberately cultivate its opposite, for example meeting resentment with a wish for the other person's good."
+    }
+   ]
+  },
+  {
+   "id": "lw_conquest",
+   "title": "The Conquest of Happiness",
+   "author": "Bertrand Russell",
+   "year": "1930",
+   "category": "philosophy",
+   "why": "A great philosopher's plain, sensible advice on the everyday causes of unhappiness and what to do about them.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "lw_conquest1",
+     "title": "Happiness is a conquest",
+     "body": "Russell writes for ordinary people who have enough to eat and reasonable health and are unhappy all the same. He believes most of that unhappiness comes from mistaken habits of mind which, with effort, can be changed. He says he was miserable when young and grew steadily happier, mainly by thinking less about himself. That is his central remedy: turn attention outward, toward people, work and the world, and away from constant inspection of your own faults, fears and standing."
+    },
+    {
+     "id": "lw_conquest2",
+     "title": "The treadmill of competition",
+     "body": "Many successful people, Russell observes, say they are struggling for survival when they are really struggling to outdo their neighbours. Success can be one ingredient of happiness, but it costs too much if everything else is given up for it. A person who has trained themselves to value only winning does not know what to do with the leisure they have earned. He recommends keeping a place in life for enjoyments that have nothing to do with getting ahead."
+    },
+    {
+     "id": "lw_conquest3",
+     "title": "Learn to bear a little boredom",
+     "body": "Russell argues that a certain amount of boredom is part of any good life, and that the dread of it drives people toward ever stronger excitement, which soon dulls. Worthwhile achievements require long, quiet stretches of steady work. He thinks children should learn to put up with uneventful days and find their own occupations, instead of being constantly entertained. A life crowded with stimulation ends up exhausted, and little of lasting value is done in it.",
+     "try": "Leave one gap in today unfilled: no phone, no music, ten minutes of simply sitting or walking."
+    },
+    {
+     "id": "lw_conquest4",
+     "title": "Envy poisons what you have",
+     "body": "Russell considers envy one of the strongest causes of unhappiness. The envious person takes no pleasure in what they possess and feels pain at what others have. Because someone will always have more, comparison can never be won. His cure is to enjoy what comes to you for what it is, without measuring it against a neighbour's share, and to notice that the habit of comparing is senseless. A good meal is not made worse because someone elsewhere is having a better one."
+    },
+    {
+     "id": "lw_conquest5",
+     "title": "Zest and wide interests",
+     "body": "The clearest mark of a happy person, according to Russell, is zest, an appetite for life that is like a healthy appetite for food. The more things a person is interested in, the more chances of happiness they have, and the less any single loss can ruin them. He especially recommends interests that have no bearing on your own career or worries, such as the stars, history, a game or a garden. They rest the mind and keep your troubles in proportion.",
+     "try": "Spend twenty minutes today on a subject that has nothing to do with your work or your problems."
+    },
+    {
+     "id": "lw_conquest6",
+     "title": "Putting worry in its place",
+     "body": "Russell notes that much tiredness comes from worry, not from work, and that worry is largely the habit of thinking about a problem at a time when nothing can be done about it. He offers two techniques. Think a difficulty through properly once, decide, and do not reopen it without new facts. And when a misfortune threatens, look squarely at the worst that could happen and give yourself sound reasons why it would not be the end of everything. A fear that has been looked at directly loses much of its power."
+    }
+   ]
+  },
+  {
+   "id": "lw_demon",
+   "title": "The Demon-Haunted World",
+   "author": "Carl Sagan",
+   "year": "1995",
+   "category": "thinking",
+   "why": "A warm and passionate guide to sceptical thinking for anyone who wants to tell sound claims from nonsense.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "lw_demon1",
+     "title": "Science is a way of thinking",
+     "body": "Sagan insists that science is much more than a collection of facts. It is a method for not fooling ourselves: propose an idea, test it against evidence, invite others to find the flaws, and give it up if it fails. It needs two attitudes that pull against each other, an openness to strange new ideas and a ruthless scrutiny of every idea, old or new. Either one alone goes wrong. Without the first you learn nothing new. Without the second you cannot tell a good idea from a worthless one."
+    },
+    {
+     "id": "lw_demon2",
+     "title": "A kit for detecting baloney",
+     "body": "Sagan offers a set of tools for testing any claim. Look for independent confirmation of the facts. Encourage debate among people who know the subject. Give no weight to authority as such. Think of more than one explanation and try to knock each of them down. Do not become attached to an idea because it is yours. Measure wherever you can. Check every link in a chain of argument. Prefer the simpler explanation. And ask whether the claim could, even in principle, be shown to be false.",
+     "try": "Take one surprising claim you meet today and ask who has confirmed it independently."
+    },
+    {
+     "id": "lw_demon3",
+     "title": "The dragon in the garage",
+     "body": "Sagan imagines a man who says a dragon lives in his garage. You ask to see it, and he says it is invisible. You suggest flour on the floor to show footprints, and he says it floats. You offer a heat sensor, and he says its fire is heatless. Every test meets a new excuse. Sagan asks what difference remains between a dragon that cannot be detected by any means and no dragon at all. A claim that no possible evidence could count against tells us nothing."
+    },
+    {
+     "id": "lw_demon4",
+     "title": "Common tricks of bad argument",
+     "body": "The book lists the errors that most often lead people astray. One is attacking the person in place of the argument. Another is assuming that because one thing followed another, the first caused the second. Others are offering only two choices when more exist, appealing to what is unknown as though it were evidence, and remembering the hits while forgetting the misses, as when one dream that seemed to come true outweighs the thousand that did not. Learning their names makes them easier to spot, in your own reasoning especially."
+    },
+    {
+     "id": "lw_demon5",
+     "title": "Kindness toward believers",
+     "body": "Sagan does not sneer at people who believe in abductions by aliens, faith healers or horoscopes. He understands the needs behind such beliefs: comfort in grief, a feeling of wonder, the hope of a cure. He notes that every age has had visions that matched its own fears. His complaint is against those who exploit such needs for profit and against institutions that fail to teach people how to check. He argues that the real universe offers more wonder than the invented ones do."
+    },
+    {
+     "id": "lw_demon6",
+     "title": "Why democracy needs sceptics",
+     "body": "Sagan worried about societies that depend entirely on science and technology while few citizens understand either. People who cannot weigh evidence are easy for advertisers, demagogues and frauds to mislead. He points out that science and democracy have the same foundations: free exchange of ideas, a willingness to be questioned, and distrust of arguments from authority. Teaching children to ask how we know is therefore a civic duty as well as part of their education."
+    }
+   ]
+  },
+  {
+   "id": "lw_liestats",
+   "title": "How to Lie with Statistics",
+   "author": "Darrell Huff",
+   "year": "1954",
+   "category": "thinking",
+   "why": "A short, funny classic that teaches you to see through misleading numbers and charts in news and advertising.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "lw_liestats1",
+     "title": "Who was actually asked?",
+     "body": "Every survey figure rests on a sample, and Huff's first lesson is to ask who was in it. A poll of people who chose to reply, who own a telephone, or who were easy to reach does not speak for everyone. People who are doing well answer questions about income more readily than those who are not, and many give the answer that flatters them. A result can be calculated correctly and still be useless, because the group measured was tilted from the beginning."
+    },
+    {
+     "id": "lw_liestats2",
+     "title": "Which average?",
+     "body": "The word average hides three different things. Add up all the values and divide, and you get the mean. Take the value in the middle, and you get the median. Take the most common value, and you get the mode. In a company where the owner earns a fortune and the staff earn little, the mean salary looks generous, while the median shows what a typical worker takes home. Whoever is quoting the figure will choose the one that suits them. Always ask which it is.",
+     "try": "Next time you read an average, check whether it is a mean or a median, and consider who benefits from that choice."
+    },
+    {
+     "id": "lw_liestats3",
+     "title": "Charts that exaggerate",
+     "body": "A chart can mislead without containing a single false number. If the bottom of a graph is cut off so that the scale begins just below the lowest value, a small rise looks like a steep climb. Picture charts are worse. To show that something has doubled, the artist draws a figure twice as tall, which is also twice as wide and so covers four times the area. The eye takes in the size of the picture, not the number printed beside it.",
+     "try": "Look at one chart in today's news and check whether its vertical scale starts at zero."
+    },
+    {
+     "id": "lw_liestats4",
+     "title": "One thing after another is not cause",
+     "body": "When two things rise together, it is tempting to say that one causes the other. Huff shows how often this goes wrong. Both may be driven by a third factor, the cause may run in the opposite direction, or the link may be coincidence. If people who take a certain course earn more afterward, the course may deserve the credit, or the people who signed up may have been more ambitious to begin with. A link between two things is a reason to investigate further, not a conclusion."
+    },
+    {
+     "id": "lw_liestats5",
+     "title": "The numbers left out",
+     "body": "Much deception lies in what is not said. A claim that a product worked better in tests may rest on a handful of people, with the unfavourable trials quietly discarded. A percentage increase means little unless you know the starting figure, since a rise from one case to two is a doubling. And a result may be proved for one thing and then presented as proof of another, such as a laboratory finding offered as evidence that a product will improve your health."
+    },
+    {
+     "id": "lw_liestats6",
+     "title": "Five questions to ask",
+     "body": "Huff ends with a simple defence that needs no mathematics. Who says so, and do they have an interest in the result? How do they know: was the sample large and fair? What is missing, such as the base figure or the type of average? Has the subject been changed between the evidence and the conclusion? And does it make sense, or does it clash with what you can see for yourself? A reader who asks these five questions will catch most of the misleading figures they meet."
+    }
+   ]
+  },
+  {
+   "id": "lw_scout",
+   "title": "The Scout Mindset",
+   "author": "Julia Galef",
+   "year": "2021",
+   "category": "thinking",
+   "why": "A friendly, practical case for wanting to see things as they are, even when the truth is not what you hoped.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_scout1",
+     "title": "Soldiers and scouts",
+     "body": "Galef describes two ways our minds handle evidence. In soldier mindset, reasoning is defence: we look for reasons to keep the beliefs we already like and to knock down the ones that threaten us. In scout mindset, the aim is an accurate map, whether or not the map is pleasant. Everyone uses both. The point is to notice which one is running. When you catch yourself asking whether you must accept an idea instead of whether it is true, the soldier has taken over."
+    },
+    {
+     "id": "lw_scout2",
+     "title": "Why we fool ourselves",
+     "body": "Galef does not treat self-deception as stupidity. It does real jobs for us: it comforts us, protects our self-esteem, keeps up our morale, helps us persuade others and keeps us in good standing with our group. Her argument is that we tend to overrate these benefits and underrate the cost of acting on a distorted picture. Often the same comfort can be had honestly, for example by reminding yourself that a setback is survivable instead of pretending it did not happen."
+    },
+    {
+     "id": "lw_scout3",
+     "title": "Tests for your own bias",
+     "body": "The book offers simple thought experiments to catch motivated reasoning. The double standard test asks whether you would judge the same behaviour differently if someone from the other side did it. The outsider test asks what a newcomer with no attachment to your past choices would do. The conformity test asks whether you would still hold a view if your friends dropped it. None of these proves you wrong. They show where your judgement may be leaning.",
+     "try": "Take one opinion you hold strongly and ask how you would judge it if the other side had proposed it."
+    },
+    {
+     "id": "lw_scout4",
+     "title": "Being calibrated",
+     "body": "A scout is not someone who is always certain, and not someone who is never certain. It is someone whose confidence matches the evidence. Galef suggests putting rough odds on your beliefs and asking whether you would bet on them. People who are sure about everything and people who hedge everything both lose information. Saying you are fairly but not completely sure the project will finish on time is more useful to your team than a confident yes."
+    },
+    {
+     "id": "lw_scout5",
+     "title": "Changing your mind is updating",
+     "body": "Many of us treat being wrong as a defeat to be avoided. Galef suggests thinking of it as updating, a small adjustment to your map when new evidence arrives, which is what any good navigator does. Most changes of mind are gradual, not dramatic reversals. She also points out that confusion is valuable: when something does not fit your picture, that is a clue worth following, not an annoyance to explain away.",
+     "try": "Next time a fact surprises you today, write down what it might mean instead of dismissing it."
+    },
+    {
+     "id": "lw_scout6",
+     "title": "Hold your identity lightly",
+     "body": "Beliefs become hardest to examine when they turn into badges of who we are, political, professional or personal. Galef recommends holding such identities lightly, treating labels as descriptions you could revise and not flags to defend. She also suggests a new identity to take pride in: being someone who cares about getting it right. Then admitting a mistake confirms who you are instead of threatening it."
+    }
+   ]
+  },
+  {
+   "id": "lw_algorithms",
+   "title": "Algorithms to Live By",
+   "author": "Brian Christian and Tom Griffiths",
+   "year": "2016",
+   "category": "thinking",
+   "why": "A writer and a cognitive scientist show how ideas from computer science can help with everyday decisions.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_algorithms1",
+     "title": "When to stop looking",
+     "body": "Some choices must be made in order, without going back: flats to rent, candidates to hire. Mathematicians have studied this as the optimal stopping problem. Under its idealised assumptions, the best strategy is to spend roughly the first third of your search only looking and setting a standard, then to choose the first option that beats everything seen so far. Real life rarely fits the assumptions exactly, but the lesson holds: some looking is wise, and endless looking is costly."
+    },
+    {
+     "id": "lw_algorithms2",
+     "title": "Explore or exploit",
+     "body": "Should you try the new restaurant or go back to the one you love? The authors call this the trade-off between exploring new options and exploiting known good ones. The right balance depends on how much time is left. Early on, exploring pays because you will enjoy any good discovery for longer. Near the end, it makes sense to enjoy known favourites. The authors suggest this may help explain why older people often prefer a smaller circle of close friends."
+    },
+    {
+     "id": "lw_algorithms3",
+     "title": "A messy pile can be efficient",
+     "body": "Computers keep recently used data close at hand, because what was used recently is likely to be needed again. The authors note that a pile of papers where you put each used item back on top follows the same logic, so the thing you want is usually near the top. Tidying by category is not always better. The general lesson is to keep what you use often within easy reach and let what you never use drift away or be cleared out."
+    },
+    {
+     "id": "lw_algorithms4",
+     "title": "Scheduling and switching",
+     "body": "There is no single best way to order a to-do list. It depends on what you want. If you want to clear the most tasks quickly, do the shortest ones first. If deadlines matter most, do the one due soonest. The authors also warn about thrashing, when a system spends so much effort switching between tasks that little real work gets done. Collecting interruptions such as emails and dealing with them in batches is one remedy.",
+     "try": "Choose one time block today and handle all your messages then instead of as they arrive."
+    },
+    {
+     "id": "lw_algorithms5",
+     "title": "Thinking less can be wiser",
+     "body": "In statistics, overfitting means building a model so detailed that it matches past noise and predicts the future badly. People overfit too, for instance by chasing a measurable target so hard that they lose sight of what it was meant to show, or by planning a trip around every review they read. When information is uncertain, the authors argue, simpler rules and stopping your analysis earlier can lead to better decisions."
+    },
+    {
+     "id": "lw_algorithms6",
+     "title": "Computational kindness",
+     "body": "Every decision we hand to someone else costs them effort. Asking friends where they would like to eat, or saying you are free whenever suits them, sounds polite but forces them to do the work of choosing. The authors suggest that it is often kinder to narrow the options yourself: propose two times or one restaurant and invite a change. Good design does the same, sparing people needless choices.",
+     "try": "Next time you arrange to meet someone, suggest a specific time and place."
+    }
+   ]
+  },
+  {
+   "id": "lw_systems",
+   "title": "Thinking in Systems",
+   "author": "Donella H. Meadows",
+   "year": "2008",
+   "category": "thinking",
+   "why": "A clear primer on how feedback, delays and structure make systems behave as they do, from bank accounts to societies.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_systems1",
+     "title": "Stocks and flows",
+     "body": "Meadows starts with a bathtub. The water in it is a stock, and it changes only through flows: the tap filling it and the drain emptying it. Savings, a reputation, a forest and the trust in a team all work this way. Because stocks change only as fast as their flows allow, they change slowly, and they act as buffers. That explains why fitness cannot be rebuilt in a week, and why a few bad months do not wipe out a long friendship."
+    },
+    {
+     "id": "lw_systems2",
+     "title": "Two kinds of feedback",
+     "body": "Systems are steered by feedback loops. A balancing loop pushes things back toward a goal, as a thermostat switches the heating on when the room cools. A reinforcing loop amplifies change, so more leads to more: interest earns interest, and a rumour spreads faster the more people repeat it. Much of what surprises us, sudden growth or stubborn stability, comes from these loops. Asking which loop is at work often explains why effort gets nowhere."
+    },
+    {
+     "id": "lw_systems3",
+     "title": "Delays cause swings",
+     "body": "When there is a gap between action and result, people overreact. Think of a shower where the temperature takes a while to change. You turn it hotter, nothing happens, you turn it more, and then you are scalded and swing back too far. Meadows shows how the same pattern creates booms and busts in businesses and markets. The remedy is often to act more gently and wait longer, not to react faster.",
+     "try": "When a change you made has not worked yet, wait for it to take effect before adding another."
+    },
+    {
+     "id": "lw_systems4",
+     "title": "Common traps",
+     "body": "Meadows describes recurring patterns that trap systems. In the tragedy of the commons, a shared resource is overused because each user gains from taking more while the cost is spread. In drift to low performance, standards slide because each disappointment lowers expectations a little. In escalation, two sides keep raising each other, as in a price war or an argument. Recognising the pattern is the first step out, for example by deliberately holding standards to the best past results."
+    },
+    {
+     "id": "lw_systems5",
+     "title": "Where to push",
+     "body": "A leverage point is a place where a small change shifts a whole system. Meadows notes that people put most of their energy into numbers such as budgets, tax rates and targets, which are usually the weakest levers. Stronger ones include who gets what information, the rules, the goals the system pursues and the shared beliefs behind it all. Simply putting the electricity meter where the family can see it can change a household's habits more than a lecture would."
+    },
+    {
+     "id": "lw_systems6",
+     "title": "Living with systems",
+     "body": "Meadows ends with humility. Systems cannot be fully controlled or predicted, but they can be understood well enough to work with. Her advice includes watching how a system behaves over time before trying to fix it, paying attention to what matters even if it is hard to measure, widening your time horizon and staying willing to learn from mistakes. It is a way of acting that treats a family, a firm or a town as something alive.",
+     "try": "Before changing a recurring problem at home or work, sketch how it has behaved over the last few months."
+    }
+   ]
+  },
+  {
+   "id": "lw_worldworks",
+   "title": "How the World Really Works",
+   "author": "Vaclav Smil",
+   "year": "2022",
+   "category": "science",
+   "why": "An energy scientist explains the physical basics behind food, materials and trade that modern life quietly depends on.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_worldworks1",
+     "title": "Four material pillars",
+     "body": "Smil argues that modern civilisation rests on four materials that most people rarely think about: cement, steel, plastics and ammonia, which is the basis of most nitrogen fertiliser. They make our buildings, roads, vehicles, packaging, medical equipment and food supply possible. Producing all four at today's scale depends heavily on fossil fuels. His point is that a phone or a software service sits on top of a very large physical world of mines, furnaces and factories."
+    },
+    {
+     "id": "lw_worldworks2",
+     "title": "We are eating fossil fuels",
+     "body": "Food reaches us through a chain of energy use: fuel for tractors and fishing boats, synthetic fertiliser made with natural gas, pumping water, processing, refrigeration and transport. Smil holds that without synthetic nitrogen fertiliser the world could not feed a large share of the people alive today. A greenhouse tomato or a loaf of bread therefore carries hidden energy that is easy to forget in debates about how to change the way we live."
+    },
+    {
+     "id": "lw_worldworks3",
+     "title": "Big shifts take time",
+     "body": "Smil is sceptical of claims that the world can stop using fossil fuels within a few years. Electricity can increasingly come from clean sources, but steel, cement, fertiliser, plastics, shipping and flying are harder to change, and large systems take decades to replace. Many climate researchers and engineers think faster change is possible than he does, and this is an active debate. His useful warning is to ask how a proposed change would work in physical practice, not only on paper."
+    },
+    {
+     "id": "lw_worldworks4",
+     "title": "Globalisation has an engine",
+     "body": "Trade across the world feels like a natural state, but Smil shows it was built on particular machines: steam engines, then diesel engines in ships and lorries, standard shipping containers, jet aircraft and cheap communication. Each made it practical to move goods and people further for less. He reminds readers that globalisation has risen and fallen before and depends on politics as much as technology, so it should not be taken for granted."
+    },
+    {
+     "id": "lw_worldworks5",
+     "title": "Getting risk in proportion",
+     "body": "People worry intensely about some rare dangers and shrug at common ones. Smil suggests comparing risks on a fair basis, for example by how much danger each activity carries per hour spent doing it. Seen this way, ordinary things such as driving, falls and poor diet often matter more than dramatic threats that dominate the news. The habit of asking how often something actually happens helps keep fear where it belongs.",
+     "try": "Pick one worry you have and look up how common the event really is from a reliable source."
+    },
+    {
+     "id": "lw_worldworks6",
+     "title": "Neither doom nor magic",
+     "body": "Smil distrusts two popular stories about the future. One says catastrophe is certain and near. The other says new technology will soon solve everything. He thinks both ignore the slow, physical nature of change and the limits of forecasting. His stance is a sober middle path: take problems seriously, understand their material basis, and expect progress to be real but gradual. That outlook is calming as well as realistic."
+    }
+   ]
+  },
+  {
+   "id": "lw_shorthistory",
+   "title": "A Short History of Nearly Everything",
+   "author": "Bill Bryson",
+   "year": "2003",
+   "category": "science",
+   "why": "A funny, curious tour of how scientists worked out what we know about the universe, the Earth and life.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_shorthistory1",
+     "title": "How do they know that?",
+     "body": "Bryson begins by admitting that he had grown up without any real idea how scientists know the things they confidently state, such as the age of the Earth or what is inside an atom. The book is his attempt to find out. Its strength is that it explains the questions and the clues as well as the answers. That habit is worth borrowing: when you meet a confident fact, it is often more interesting to ask how anyone found it out."
+    },
+    {
+     "id": "lw_shorthistory2",
+     "title": "Deep time",
+     "body": "For most of history people assumed the Earth was young. Bryson tells how geologists gradually realised, from rock layers and slow erosion, that it is unimaginably old. He helps the reader feel the scale by squeezing the planet's history into a single day, in which humans arrive only in the last moments. The idea puts our worries in proportion and shows how recent and fragile our presence is."
+    },
+    {
+     "id": "lw_shorthistory3",
+     "title": "Science is done by people",
+     "body": "The book is full of human stories: rivalries, missed credit, eccentric loners and brilliant people who were badly wrong. One example is Thomas Midgley, who helped introduce both leaded petrol and the chemicals that later damaged the ozone layer, each praised at the time as a clever solution. Bryson's portraits show that knowledge advances unevenly and that bright ideas can carry costs no one saw coming."
+    },
+    {
+     "id": "lw_shorthistory4",
+     "title": "The luck of being here",
+     "body": "Bryson reminds us how many conditions had to line up for us to exist: a planet at a suitable distance from its star, with a molten core that helps shield it, a large moon that steadies it, and an unbroken chain of ancestors each of whom survived long enough to have offspring. Taken together, the odds feel astonishing. It is a cheerful kind of perspective, a reason for gratitude more than for anxiety.",
+     "try": "Spend a minute today on the idea that every one of your ancestors lived long enough to have a child."
+    },
+    {
+     "id": "lw_shorthistory5",
+     "title": "A restless planet",
+     "body": "The Earth is not a stable stage built for our comfort. Bryson describes moving continents, earthquakes, supervolcanoes and asteroid strikes, and he explains that scientists often understand these dangers less fully than people assume. The planet has been through huge upheavals and will again. Knowing this encourages humility and sensible preparation, not panic."
+    },
+    {
+     "id": "lw_shorthistory6",
+     "title": "The small things run the world",
+     "body": "We tend to think of life as animals and plants we can see, but Bryson stresses that bacteria and other microbes are far more numerous and were here long before us. They make soils fertile, recycle waste and live in our own bodies in great numbers. He also points out how little we know about the species we share the planet with, and how easily humans have driven some, like the dodo, to extinction without noticing what was lost."
+    }
+   ]
+  },
+  {
+   "id": "lw_badscience",
+   "title": "Bad Science",
+   "author": "Ben Goldacre",
+   "year": "2008",
+   "category": "science",
+   "why": "A doctor shows how to tell good health evidence from bad, and how fads, adverts and news stories mislead us.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "lw_badscience1",
+     "title": "Why we need fair tests",
+     "body": "Many people are convinced a remedy worked because they took it and got better. Goldacre explains why that is weak evidence. Many illnesses improve on their own, symptoms naturally rise and fall, and people often seek treatment when they feel worst, so improvement would come anyway. A fair test compares groups that are alike except for the treatment, ideally chosen at random. Without that comparison, it is very hard to know what caused what."
+    },
+    {
+     "id": "lw_badscience2",
+     "title": "The puzzling placebo",
+     "body": "Goldacre gives a fair hearing to the placebo effect, the way people can feel better after a treatment with no active ingredient. Research suggests that the setting, the ritual and the expectation can all affect how people feel, especially with symptoms such as pain. He argues that this helps explain why ineffective remedies seem to work for some people, and he discusses the hard ethical questions it raises for doctors who want to be honest with patients."
+    },
+    {
+     "id": "lw_badscience3",
+     "title": "When dilution means nothing is left",
+     "body": "Homeopathic remedies are usually diluted so far that none of the original substance is likely to remain. Goldacre reviews the evidence and concludes that, overall, they perform no better than placebo. He is most concerned about harm when such remedies replace effective care, for example when people are advised to use them in place of proven protection before travelling. Anyone considering an alternative remedy should talk to a doctor first and not drop a treatment that works."
+    },
+    {
+     "id": "lw_badscience4",
+     "title": "One food will not save you",
+     "body": "Goldacre is sharp about claims that a single nutrient, supplement or superfood can prevent disease. He explains that studies which merely observe what healthy people eat cannot separate food from the many other ways those people differ, and that results in a test tube or in animals often do not hold up in humans. Sound advice about eating is fairly simple and unglamorous, which is exactly why it sells less well than miracle products.",
+     "try": "When you see a food sold as a cure, ask whether it was tested in people against a comparison group."
+    },
+    {
+     "id": "lw_badscience5",
+     "title": "How the news gets science wrong",
+     "body": "The book shows how reporting can distort research: preliminary findings presented as breakthroughs, single studies treated as settled, and scares that run for months on thin evidence. Goldacre examines the scare over the MMR vaccine and argues that the media amplified a weak claim far beyond what the evidence supported; the original paper was later retracted. His lesson is to look for the whole body of evidence, not the latest headline."
+    },
+    {
+     "id": "lw_badscience6",
+     "title": "Relative and absolute risk",
+     "body": "A headline saying something doubles your risk sounds alarming, but Goldacre urges readers to ask: doubles it from what? Going from one in a hundred thousand to two in a hundred thousand is a doubling, yet the risk remains tiny. Expressing results as natural numbers, how many people out of a hundred or a thousand, makes them much easier to judge. Many professionals as well as patients find the difference clearer when it is put this way.",
+     "try": "Next time you read that something raises a risk, look for how many people out of a thousand are affected."
+    }
+   ]
+  },
+  {
+   "id": "lw_worldly",
+   "title": "The Worldly Philosophers",
+   "author": "Robert L. Heilbroner",
+   "year": "1953",
+   "category": "history",
+   "why": "A lively history of the great economic thinkers, showing how their ideas grew out of the world they lived in.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_worldly1",
+     "title": "The market is a recent invention",
+     "body": "Heilbroner reminds readers that for most of history, people's work was organised by tradition, doing what your parents did, or by command, doing what the lord or ruler ordered. A society where prices and the pursuit of gain coordinate millions of strangers is relatively new. Economics as a subject arose to explain this strange arrangement. Seeing it as historical, not natural, helps us think clearly about how it might change."
+    },
+    {
+     "id": "lw_worldly2",
+     "title": "Adam Smith's hidden order",
+     "body": "Smith, writing in the eighteenth century, asked how a society of self-interested people could produce what everyone needs. His answer was competition: a baker who overcharges loses customers to another, so self-interest is channelled into serving others. He also showed how dividing work into specialised steps raises productivity. Heilbroner stresses that Smith was no simple cheerleader for business. He distrusted merchants who conspired to raise prices or win favours from government."
+    },
+    {
+     "id": "lw_worldly3",
+     "title": "The gloomy forecasters",
+     "body": "Thomas Malthus argued that population would always tend to outrun the food supply, keeping most people near poverty. David Ricardo described a struggle in which landlords would gain as the population grew. Heilbroner shows why these ideas made sense in their time and why the worst forecasts did not come true in industrialised countries, where farming became far more productive and families grew smaller. It is a lesson in how trends can change."
+    },
+    {
+     "id": "lw_worldly4",
+     "title": "Dreamers and a critic",
+     "body": "Heilbroner describes the utopian reformers who tried to build kinder workplaces and communities, such as Robert Owen at his mill town of New Lanark. He then turns to Karl Marx, who argued that capitalism was unstable and would be torn apart by its own crises. Marx's predicted collapse did not happen the way he expected, but his attention to booms, slumps and the power of capital influenced how later economists studied instability."
+    },
+    {
+     "id": "lw_worldly5",
+     "title": "Spending to be seen",
+     "body": "Thorstein Veblen, an odd and sharp-tongued American, looked at the wealthy of his day and saw people buying things to display status, which he called conspicuous consumption. Others imitate those above them, so spending spreads down the social ladder. Heilbroner presents Veblen as a reminder that economic behaviour is not always rational calculation. The idea still explains why a logo can matter more than the product it is stitched on.",
+     "try": "Before your next non-essential purchase, ask whether you would still want it if nobody would ever see it."
+    },
+    {
+     "id": "lw_worldly6",
+     "title": "When the economy stalls",
+     "body": "During the Great Depression, John Maynard Keynes argued that an economy could get stuck with high unemployment and not recover by itself, because one person's spending is another's income and fearful people cut back together. He concluded that government spending could fill the gap. Heilbroner shows how this changed policy for decades. Economists still argue about when such spending helps and when it does harm, so this remains a live debate, not a settled law."
+    }
+   ]
+  },
+  {
+   "id": "lw_betterangels",
+   "title": "The Better Angels of Our Nature",
+   "author": "Steven Pinker",
+   "year": "2011",
+   "category": "history",
+   "why": "A large and much-debated argument that violence has declined across history, and an attempt to explain why.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_betterangels1",
+     "title": "The claim: violence has declined",
+     "body": "Pinker argues that, measured over centuries and in proportion to population, violence of many kinds has fallen: killing in raids and feuds, murder, cruel punishments, slavery and, in recent decades, deaths in wars between major powers. He knows this sounds unbelievable to people who follow the news, which reports what happens and not what has stopped happening. Whether one agrees or not, the book is a reminder to check long-term trends before assuming things are getting worse."
+    },
+    {
+     "id": "lw_betterangels2",
+     "title": "Why the state mattered",
+     "body": "One of Pinker's explanations is what he calls the pacification process. When strong governments arose and took over the punishment of wrongdoing, cycles of raiding and revenge between families and tribes became less common. He also draws on the historian Norbert Elias, who described how, over centuries in Europe, rising trade and stronger courts went with growing self-control, from table manners to the habit of settling quarrels without weapons."
+    },
+    {
+     "id": "lw_betterangels3",
+     "title": "New sensibilities",
+     "body": "Pinker describes a humanitarian revolution, linked to the spread of reading, commerce and Enlightenment ideas, during which practices such as torture as public entertainment, burning witches and slavery came to seem abhorrent. In the twentieth century he sees further rights movements, for women, children, minorities and animals. His point is that moral attitudes, which can feel fixed, have changed a great deal, and largely because of ideas and arguments."
+    },
+    {
+     "id": "lw_betterangels4",
+     "title": "Inner demons and better angels",
+     "body": "The book argues that human nature contains impulses toward violence, such as greed, the drive for dominance, revenge and ideological zeal, alongside impulses that restrain it: empathy, self-control, a moral sense and reason. Circumstances decide which side gets the upper hand. The practical lesson is hopeful. People do not have to be remade to become less violent. Institutions, habits and incentives that favour the better impulses can do much of the work.",
+     "try": "When anger rises today, pause and let self-control get the first move instead of the impulse."
+    },
+    {
+     "id": "lw_betterangels5",
+     "title": "Strong criticism",
+     "body": "The thesis has been sharply contested. Some anthropologists question the figures for violence in early societies, and some statisticians, including Nassim Taleb, argue that wars are too rare and too large to show a reliable trend over the period Pinker examines, so the recent peace could be a lull. Pinker has replied to his critics, and the debate continues. A careful reader can take his evidence seriously while holding the overall conclusion with some caution."
+    },
+    {
+     "id": "lw_betterangels6",
+     "title": "Not a promise",
+     "body": "Pinker does not claim that violence can never return or that the decline was inevitable. He treats it as the result of particular forces that can weaken. That is an important distinction. A trend that has been built by institutions and ideas needs those institutions and ideas to be maintained. Taking peace for granted, or assuming it was always natural, is one way it could be lost."
+    }
+   ]
+  },
+  {
+   "id": "lw_precipice",
+   "title": "The Precipice",
+   "author": "Toby Ord",
+   "year": "2020",
+   "category": "future",
+   "why": "A philosopher's careful look at the risks that could end humanity's future, and why reducing them matters so much.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_precipice1",
+     "title": "What counts as existential risk",
+     "body": "Ord focuses on a particular class of danger: events that could destroy humanity's long-term potential, either by causing extinction or by leaving civilisation permanently collapsed or trapped. These differ from even terrible disasters that we eventually recover from. He argues that such risks deserve special attention because what is at stake includes every generation that might ever live, not only the people alive now."
+    },
+    {
+     "id": "lw_precipice2",
+     "title": "Our own making",
+     "body": "Natural threats, such as asteroids and supervolcanoes, are real, but Ord argues that humanity's long survival suggests they are fairly rare. He thinks the larger risks now come from ourselves: nuclear war, extreme climate change, engineered pandemics and advanced artificial intelligence that does not share human goals. His view is that our power has grown faster than the wisdom to use it, and that this gap defines our era."
+    },
+    {
+     "id": "lw_precipice3",
+     "title": "Putting rough numbers on it",
+     "body": "Ord gives his own estimates of the chance of an existential catastrophe this century, with an overall figure of about one in six. He is clear that these are judgement calls, not measurements, offered to make his reasoning open to challenge. Many experts would put the numbers differently, some much lower. The value of the exercise is less in the exact figures than in taking low-probability, high-stakes risks seriously instead of ignoring them."
+    },
+    {
+     "id": "lw_precipice4",
+     "title": "Why the future matters",
+     "body": "Ord asks readers to consider how much future humanity may have: potentially vast stretches of time in which countless people could live good lives. Protecting that possibility, he argues, is one of the most important things we can do. He also appeals to the past: we inherited knowledge, culture and freedoms from many generations, and we owe it to them to pass these on. This framing turns risk reduction into a duty of care."
+    },
+    {
+     "id": "lw_precipice5",
+     "title": "Small effort, large stakes",
+     "body": "Ord notes that the world spends very little, compared with ordinary spending on everyday things, on reducing these risks. That neglect means extra attention can go a long way. He suggests that individuals can help through their choice of work, giving to effective organisations, supporting sensible policy and simply discussing the issue seriously. Taking the long view, he argues, can sit alongside caring about present problems.",
+     "try": "Read one reliable explainer on pandemic preparedness or AI safety this week to see what is being done."
+    },
+    {
+     "id": "lw_precipice6",
+     "title": "A precarious moment",
+     "body": "Ord's title describes our time as a stretch of path along a cliff edge. He hopes humanity can get past it by building better institutions for managing risk, and then take time to reflect carefully on what kind of future to build. The tone is serious but not despairing. He argues that the dangers are of our own making, which means they are also within our power to reduce."
+    }
+   ]
+  },
+  {
+   "id": "lw_consolation",
+   "title": "The Consolation of Philosophy",
+   "author": "Boethius",
+   "year": "c. 524",
+   "category": "philosophy",
+   "why": "Written in prison awaiting execution, a Roman statesman's dialogue on fortune, happiness and what cannot be taken from us.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "lw_consolation1",
+     "title": "A visitor in the cell",
+     "body": "Boethius had been one of the most powerful men in Italy. Accused of treason, he was imprisoned and later executed. In the book he sits writing sad poems when a woman appears: Philosophy herself. She sends away the Muses of grief, who only feed his misery, and offers instead to remind him of what he once knew. The book alternates prose and verse and has been read for comfort for some fifteen centuries."
+    },
+    {
+     "id": "lw_consolation2",
+     "title": "The wheel of Fortune",
+     "body": "Philosophy tells Boethius he has no right to complain about Fortune, because change is her nature. She turns her wheel and those at the top must expect to come down. Anyone who accepted her gifts accepted her rules. Philosophy even suggests that bad fortune can be more useful than good, because it shows us which friends are real. When things go wrong, it helps to remember that what was given by chance can also be taken by chance.",
+     "try": "Write down one good thing you have that does not depend on luck, such as a skill or a habit of kindness."
+    },
+    {
+     "id": "lw_consolation3",
+     "title": "Partial goods",
+     "body": "Philosophy reviews what people chase: wealth, high office, power, fame and pleasure. Each, she argues, promises happiness but delivers only a fragment of it, and each brings worries of its own. The rich fear losing their money, the powerful fear rivals, and fame depends on the opinions of strangers. People go wrong because they seek pieces of the good separately instead of the whole of which they are parts."
+    },
+    {
+     "id": "lw_consolation4",
+     "title": "Where true happiness lies",
+     "body": "The complete good that people are really looking for, Philosophy argues, is not found in anything Fortune can take away. Boethius identifies it with God, the source of all goodness, and teaches that a person becomes happy by sharing in that goodness. Readers who do not share his faith can still take the practical point: build your contentment on things inside your own control, such as your character and your understanding."
+    },
+    {
+     "id": "lw_consolation5",
+     "title": "Why the wicked seem to prosper",
+     "body": "Boethius asks the old question of why bad people flourish while good people suffer. Philosophy answers that the wicked are weaker than they look, because they fail to reach the good they were seeking, and that wrongdoing damages the one who does it. Punishment, she suggests, is more like medicine than revenge. This argument is demanding, but it can loosen the bitterness of watching someone succeed through unfair means."
+    },
+    {
+     "id": "lw_consolation6",
+     "title": "Foreknowledge and freedom",
+     "body": "In the last book Boethius worries that if God knows everything in advance, our choices cannot be free. Philosophy replies that God does not see events ahead of time but all at once, in an eternal present, rather as you can watch someone walking without forcing their steps. Knowing what someone does is not the same as making them do it. Whatever one thinks of the solution, it insists that our choices are real and that we are responsible for them."
+    }
+   ]
+  }
+ ]
+}

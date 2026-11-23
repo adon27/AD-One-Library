@@ -1,0 +1,1637 @@
+{
+ "pack": "selfhelp",
+ "version": 1,
+ "title": "Self-help and productivity",
+ "books": [
+  {
+   "id": "sh_tiny",
+   "title": "Tiny Habits",
+   "author": "BJ Fogg",
+   "year": "2019",
+   "category": "habits",
+   "why": "A behaviour scientist's gentle method for change that starts so small you cannot fail at it.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_tiny1",
+     "title": "Behaviour needs three things at once",
+     "body": "Fogg's model says an action happens only when motivation, ability and a prompt meet at the same moment. If a habit is not happening, one of the three is missing. This turns a vague feeling of failure into a simple check. You may want to take your tablets and find it easy, but if nothing reminds you at the right moment, it will not happen. Fix the missing part instead of scolding yourself."
+    },
+    {
+     "id": "sh_tiny2",
+     "title": "Check the prompt first, motivation last",
+     "body": "When a habit fails, most of us try to pump up motivation. Fogg suggests the opposite order. First ask whether there is a clear prompt. Then ask whether the action is easy enough. Only then look at motivation, because motivation rises and falls like a wave and cannot be relied on. If you keep skipping your evening walk, the fix may be shoes by the door, not a stronger lecture to yourself."
+    },
+    {
+     "id": "sh_tiny3",
+     "title": "Shrink it until it is almost silly",
+     "body": "A tiny habit takes under half a minute and needs almost no effort: one push-up, one sentence in a diary, flossing a single tooth. Because it is so easy, you can do it on your worst day, and that is the point. The small version keeps the habit rooted while life is busy, and on good days you naturally do more. You are free to do extra, but never obliged to.",
+     "try": "Pick one habit you want and write down a version of it that takes less than thirty seconds."
+    },
+    {
+     "id": "sh_tiny4",
+     "title": "Anchor it to something you already do",
+     "body": "Fogg's recipe is \"After I (existing routine), I will (tiny behaviour).\" The existing routine, which he calls an anchor, acts as the prompt, so you need no alarms or notes. The anchor should be specific and happen where the new habit can follow straight away. \"After I switch on the kettle, I will fill my water bottle\" works. \"After breakfast\" is too loose to trigger anything."
+    },
+    {
+     "id": "sh_tiny5",
+     "title": "Feeling good is what wires the habit",
+     "body": "Fogg argues that habits form through emotion more than through repetition. When an action is followed at once by a feeling of success, the brain wants to repeat it. So he asks you to celebrate straight after the tiny behaviour: a quiet \"well done\", a smile, a small fist pump. It feels odd, but it is the step people skip and the one he considers most important.",
+     "try": "Choose a small celebration that feels natural to you and use it the moment you finish one tiny habit today."
+    },
+    {
+     "id": "sh_tiny6",
+     "title": "To stop a habit, untangle it",
+     "body": "Fogg does not talk about breaking bad habits in one blow. He treats a bad habit as a knot of several specific behaviours and works on the easiest strand first. For each one, try removing the prompt, then making the action harder, and only then tackling motivation. Late-night snacking might ease simply by keeping snacks on a high shelf and brushing your teeth straight after dinner."
+    }
+   ]
+  },
+  {
+   "id": "sh_better",
+   "title": "Better Than Before",
+   "author": "Gretchen Rubin",
+   "year": "2015",
+   "category": "habits",
+   "why": "A wide catalogue of habit strategies built on one sound idea: what works depends on who you are.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_better1",
+     "title": "No single method suits everyone",
+     "body": "Rubin's starting point is that habit advice fails when it assumes we are all alike. A morning person and a night owl, someone who loves routine and someone who craves novelty, will not succeed with the same plan. Before copying a friend's system, notice your own nature: when you have energy, whether you prefer to start small or go all in, and what has actually worked for you before."
+    },
+    {
+     "id": "sh_better2",
+     "title": "Four ways of meeting expectations",
+     "body": "Rubin sorts people by how they respond to outer expectations (a deadline) and inner ones (a private resolution). Upholders meet both, Questioners meet only what makes sense to them, Obligers meet outer but struggle with inner, and Rebels resist both. This is her own framework from observation, not a tested personality measure, so hold it loosely. Still, it is a useful question to ask yourself."
+    },
+    {
+     "id": "sh_better3",
+     "title": "If you keep promises to others, borrow that",
+     "body": "Many people never miss a commitment to someone else but routinely let themselves down. Rubin calls them Obligers and says the answer is outside accountability, not more willpower. A walking partner who waits at the gate, a class you have paid for, a friend who expects a weekly update: each turns a private wish into an appointment you will keep.",
+     "try": "For one habit you keep dropping, ask someone today to check on you about it once a week."
+    },
+    {
+     "id": "sh_better4",
+     "title": "What you measure, you manage better",
+     "body": "Rubin calls monitoring one of the pillars of habit change. Simply keeping track of steps walked, money spent or hours slept tends to improve behaviour, because we are poor at estimating what we really do. You need no judgement and no target at first. A week of honest notes on your screen time or snacks usually shows the one place where a change would matter most."
+    },
+    {
+     "id": "sh_better5",
+     "title": "Some people do better with none than with a little",
+     "body": "Rubin distinguishes abstainers from moderators. Moderators enjoy a small treat and stop. Abstainers find that one biscuit leads to the packet, and for them a clear \"never\" is easier than a daily negotiation over \"just a little\". Neither is more virtuous. If moderation has failed you repeatedly with one particular temptation, try giving it up entirely and see whether life gets simpler."
+    },
+    {
+     "id": "sh_better6",
+     "title": "Catch the loophole as you reach for it",
+     "body": "We rarely break a habit outright. We find an excuse: I was good yesterday so I have earned it, I will start properly on Monday, this is a special occasion, one time cannot matter. Rubin lists many such loopholes and says that naming them takes away much of their power. When you hear yourself building a case for an exception, pause and call it what it is."
+    }
+   ]
+  },
+  {
+   "id": "sh_frog",
+   "title": "Eat That Frog!",
+   "author": "Brian Tracy",
+   "year": "2001",
+   "category": "habits",
+   "why": "A brisk, no-nonsense set of methods for starting the hard, important task before anything else.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_frog1",
+     "title": "Do the hardest important task first",
+     "body": "The frog is the task that matters most and that you are most likely to avoid. Tracy's rule is to tackle it first thing, before email and small chores, and to stay with it until it is done. Finishing it early gives the rest of the day a sense of progress, while leaving it hanging drains attention all day. If you have two frogs, he says, start with the bigger and uglier one.",
+     "try": "Tonight, write down tomorrow's frog and put what you need for it on your desk."
+    },
+    {
+     "id": "sh_frog2",
+     "title": "Think on paper",
+     "body": "Tracy insists on written goals and written plans. Decide what you want, write it down, set a deadline, list every step, put the steps in order and do something on the plan each day. A list made the evening before lets you begin without wasting the morning deciding where to start. His claim that a few minutes of planning saves a great deal of time later is a rule of thumb, not a measured fact, but the habit is sound."
+    },
+    {
+     "id": "sh_frog3",
+     "title": "Sort the list with A, B, C, D, E",
+     "body": "Before starting, mark each item. A is something with serious consequences if left undone. B should be done but the consequences are mild. C is pleasant but changes nothing. D can be delegated, and E can be eliminated. The discipline is never to touch a B while an A is waiting. Calling a friend back may be a C, while renewing the insurance that lapses tomorrow is an A."
+    },
+    {
+     "id": "sh_frog4",
+     "title": "A few tasks carry most of the value",
+     "body": "Tracy applies the 80/20 principle to the day: out of ten things on a list, one or two are usually worth more than the rest together. They are often the hardest ones, which is why we drift toward the easy eight. Being busy with small jobs feels productive but changes little. Before you begin, ask which item would make the biggest difference if you did only that one."
+    },
+    {
+     "id": "sh_frog5",
+     "title": "Put off the right things on purpose",
+     "body": "Nobody finishes everything, so everyone procrastinates on something. Tracy's advice is to choose it deliberately. Decide which low-value activities you will delay, shrink or drop, so that the time goes to tasks that count. Saying no to a committee you care little about, or to an hour of television, is not laziness. It is what frees the hour the frog needs."
+    },
+    {
+     "id": "sh_frog6",
+     "title": "Slice a big job thin",
+     "body": "A large task feels heavy because we picture all of it at once. Tracy offers two ways in. Cut one thin slice, like a slice of salami, and complete just that. Or punch a hole in it like Swiss cheese by working on it for a fixed short time. Either way, finishing a piece creates the wish to continue. Sorting a year of household papers can begin with one drawer, or ten minutes."
+    }
+   ]
+  },
+  {
+   "id": "sh_onething",
+   "title": "The ONE Thing",
+   "author": "Gary Keller with Jay Papasan",
+   "year": "2013",
+   "category": "habits",
+   "why": "A persuasive case for narrowing your effort to the single action that makes the rest easier.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_onething1",
+     "title": "Ask the narrowing question",
+     "body": "The book turns on one question: of everything you could do, which single action would make the other things easier or unnecessary? Asked about your life, it points to a direction. Asked about this week or this morning, it gives the next step. If you want better health, the answer might be an earlier bedtime, because sleep makes exercise, eating well and patience all easier.",
+     "try": "Ask the question about one area of your life and write down the single action it points to for today."
+    },
+    {
+     "id": "sh_onething2",
+     "title": "Line up the dominoes",
+     "body": "Keller compares achievement to falling dominoes: a small one can knock over a slightly bigger one, and so on. Big results come from doing the right small thing, then the next, in sequence, not from doing many things at once. So the job each day is to find the lead domino and push it. Someone learning a language might find that ten new words before breakfast is the piece that moves the rest."
+    },
+    {
+     "id": "sh_onething3",
+     "title": "Not everything matters equally",
+     "body": "A long to-do list treats every item as equal, and we tend to clear the quick ones first. Keller suggests turning the list into a success list: keep cutting until you reach the few items that produce most of the result, then the one among those that matters most. Multitasking, he adds, is mostly rapid switching, and each switch costs time and accuracy."
+    },
+    {
+     "id": "sh_onething4",
+     "title": "Discipline is only needed until the habit forms",
+     "body": "People think successful lives require iron discipline in everything. Keller argues you need just enough to build one habit at a time, after which it runs with far less effort. He also treats willpower as a store that runs down during the day and so advises doing your one thing early. That depletion idea has not held up consistently in later studies, though working on what matters while you are fresh remains sensible."
+    },
+    {
+     "id": "sh_onething5",
+     "title": "Block the time and guard it",
+     "body": "The practical core is to make an appointment with yourself for your one thing, ideally early in the day, and protect it as you would a meeting with someone important. Keller recommends a long block, up to four hours for main work. That will not fit every life, but the principle scales down. Even forty protected minutes before the household wakes beats waiting for a free afternoon."
+    },
+    {
+     "id": "sh_onething6",
+     "title": "Let the rest be untidy for a while",
+     "body": "Giving real time to one thing means other things will be neglected for a period. Keller says perfect balance is a myth and suggests counterbalancing: lean hard into the priority, then return before anything important breaks. He draws a line between work, where long stretches of imbalance can be fine, and family, health and friends, which should never be left for long."
+    }
+   ]
+  },
+  {
+   "id": "sh_first",
+   "title": "First Things First",
+   "author": "Stephen R. Covey, A. Roger Merrill and Rebecca R. Merrill",
+   "year": "1994",
+   "category": "habits",
+   "why": "It moves time management away from doing more things faster and toward doing what matters.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_first1",
+     "title": "The compass before the clock",
+     "body": "The clock stands for schedules, appointments and speed. The compass stands for direction: values, purpose and what you want your life to be about. The authors say much frustration comes from the gap between the two, when we are efficient at things that do not matter to us. Going faster does not help if the direction is wrong, so they ask you to settle direction first."
+    },
+    {
+     "id": "sh_first2",
+     "title": "Important is not the same as urgent",
+     "body": "Tasks can be sorted by two questions: is it urgent, and is it important? Crises are both. Many interruptions are urgent only. Planning, exercise, learning and time with people we love are important but never urgent, so they are the first to be postponed. The authors call this quiet group Quadrant II and argue that time spent there shrinks the number of crises later.",
+     "try": "Name one important, non-urgent thing you have been postponing and give it thirty minutes this week."
+    },
+    {
+     "id": "sh_first3",
+     "title": "The pull of urgency",
+     "body": "Rushing from one urgent thing to the next can feel good. It brings a sense of being needed and a small thrill when each fire is put out. The authors describe this as a kind of addiction that keeps us busy and leaves us empty, because urgency says nothing about worth. Noticing that you feel uneasy on a calm day is a sign that urgency, not importance, has been steering."
+    },
+    {
+     "id": "sh_first4",
+     "title": "Plan the week around your roles",
+     "body": "A day is too short a view and leads to crisis management. The authors plan by the week. List your roles, such as parent, colleague, friend, neighbour and individual, choose one or two important goals for each, and place those in the calendar first. This keeps one role from swallowing the rest, and it makes sure that the person who is a good manager is also a present son or daughter."
+    },
+    {
+     "id": "sh_first5",
+     "title": "Put the big rocks in first",
+     "body": "If you fill a jar with sand and gravel first, the big rocks will not fit. Put the rocks in first and the smaller material settles around them. The week works the same way. Schedule the few things that matter most, and let calls, errands and small tasks fill the gaps. If you wait for free time to appear for the big things, it never does."
+    },
+    {
+     "id": "sh_first6",
+     "title": "Choose in the moment",
+     "body": "A plan is only an intention. The test comes when something unexpected arrives: a colleague needs help, a child wants to talk, an invitation appears. The authors do not ask you to follow the plan rigidly. They ask you to pause and decide by your values, which sometimes means keeping to the plan and sometimes means dropping it for a person. People, they say, come before schedules."
+    }
+   ]
+  },
+  {
+   "id": "sh_24h",
+   "title": "How to Live on 24 Hours a Day",
+   "author": "Arnold Bennett",
+   "year": "1908",
+   "category": "habits",
+   "why": "A witty little classic, more than a century old, on using the hours outside work for a fuller life.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_24h1",
+     "title": "Everyone receives the same daily supply",
+     "body": "Bennett opens with a simple wonder: each morning you are handed twenty-four hours, and no one can take them from you or give you more. You cannot borrow from tomorrow or get into debt. The rich get no extra and the wasteful are not cut off. He treats this as good news. However badly yesterday went, today's full supply arrives untouched."
+    },
+    {
+     "id": "sh_24h2",
+     "title": "The day inside the day",
+     "body": "Bennett writes for the office worker who treats working hours as \"the day\" and everything else as a margin around it. He suggests turning this around. The hours from leaving work until returning the next morning are a second, larger day that belongs to you. If you begin it with interest instead of collapsing into it, you find you have more energy in the evening than you supposed."
+    },
+    {
+     "id": "sh_24h3",
+     "title": "Begin modestly",
+     "body": "Bennett warns against grand programmes. A dramatic resolution to remake your whole life usually fails within days, and the failure costs you self-respect. He proposes a small start: about ninety minutes on three evenings a week, plus a short spell each morning. A little done reliably builds confidence, and you can expand it once it holds.",
+     "try": "Choose one evening this week and set aside ninety minutes of it for something that improves your mind."
+    },
+    {
+     "id": "sh_24h4",
+     "title": "Train your attention on the way to work",
+     "body": "Bennett suggests using the morning journey for an exercise in concentration: pick a subject and keep your mind on it. It will wander within moments, and you bring it back, again and again. He says this control over thought is the basis of everything else, and that the commute, usually given to idle worry, is an ideal practice ground."
+    },
+    {
+     "id": "sh_24h5",
+     "title": "Give some hours to what feeds you",
+     "body": "For the reclaimed evenings Bennett recommends serious attention to something you love: music, art, history, how things around you work, or demanding reading. He does not insist on literature. The point is effort, because effortful interest refreshes more than drifting does. He also urges a little daily reflection on your own conduct and aims."
+    },
+    {
+     "id": "sh_24h6",
+     "title": "Do not become a bore about it",
+     "body": "The book ends with cautions. Do not turn into a prig who lectures others about their wasted time. Do not become a slave to your timetable, since a programme is a servant. Do not rush from one item to the next in constant anxiety. And do not fail at the start by attempting too much. Good use of time should make you easier to live with, not harder."
+    }
+   ]
+  },
+  {
+   "id": "sh_168",
+   "title": "168 Hours",
+   "author": "Laura Vanderkam",
+   "year": "2010",
+   "category": "habits",
+   "why": "It replaces the feeling of having no time with an honest look at where a whole week actually goes.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_1681",
+     "title": "Think in weeks, not days",
+     "body": "A day is cramped, and a bad one makes it seem that nothing fits. A week has 168 hours. Take away fifty for work and fifty-six for sleep and there are still about sixty left. Vanderkam argues that most things we care about can find a place somewhere in that week, even if not every day. Exercise three times a week is a real habit, though it happens on none of the busiest days."
+    },
+    {
+     "id": "sh_1682",
+     "title": "Keep a time log",
+     "body": "We tell ourselves stories about our time that are often wrong. Vanderkam asks readers to record a full week in half-hour blocks, as honestly as a food diary. She points to time-diary research suggesting that people tend to overestimate how long they work and underestimate their free time. The log usually shows hours that slip away in small scraps of browsing, television and aimless chores.",
+     "try": "Note what you did in each half hour from now until bedtime, then look at where the evening went."
+    },
+    {
+     "id": "sh_1683",
+     "title": "Time is a choice",
+     "body": "Vanderkam suggests a change of wording. Instead of saying you do not have time for something, say that it is not a priority, and see how that feels. Sometimes it is plainly true, and you can drop the guilt. Sometimes it stings, as with \"reading to my child is not a priority\", and the sting tells you something must change. Either way you are being honest with yourself."
+    },
+    {
+     "id": "sh_1684",
+     "title": "Spend more hours on what only you can do",
+     "body": "She borrows the business idea of core competencies: the few things you do best and that others cannot do for you, such as nurturing your family, your particular work, your own health. Give those more hours, and for the rest, do less, lower the standard, or hand it on. Not every household can pay for help, but most can drop some chores or do them less often."
+    },
+    {
+     "id": "sh_1685",
+     "title": "Plan your free time too",
+     "body": "Free time left unplanned tends to dissolve into whatever is nearest, usually a screen. Vanderkam recommends writing a long list of things you would love to do, large and small, and then choosing a few to place in the coming week. A planned Saturday morning walk with a friend is more refreshing than the same hours spent wondering what to do."
+    }
+   ]
+  },
+  {
+   "id": "sh_4000",
+   "title": "Four Thousand Weeks",
+   "author": "Oliver Burkeman",
+   "year": "2021",
+   "category": "thinking",
+   "why": "A wise and consoling book that starts from the fact that you will never get everything done.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_40001",
+     "title": "Life is short, and that is the starting point",
+     "body": "A long life is roughly four thousand weeks. Burkeman begins there because most time management quietly promises that with the right system you will fit everything in. You will not. There will always be more worthwhile things than time. He finds this freeing: once you stop trying to do the impossible, you can give real attention to the few things you choose."
+    },
+    {
+     "id": "sh_40002",
+     "title": "The efficiency trap",
+     "body": "Getting faster at tasks does not produce the calm we expect. Answer email quickly and you receive more replies. Clear the list and new items rush in to fill the space. Capacity invites demand. So Burkeman advises against trying to clear the decks before starting what matters. The decks never clear. Do the important thing first and let some small things stay undone."
+    },
+    {
+     "id": "sh_40003",
+     "title": "Choosing means giving things up",
+     "body": "Every choice to spend an hour one way closes off countless others, and we often avoid committing so we need not feel that loss. Burkeman says the loss is the price of anything real. Marrying one person, taking one job, living in one town all mean saying no to alternatives. He suggests deciding ahead of time which areas you will let slide, so that falling short there is a plan and not a surprise.",
+     "try": "Name one thing you will deliberately do badly or not at all this month, so something else can have the time."
+    },
+    {
+     "id": "sh_40004",
+     "title": "Keep only a few things in progress",
+     "body": "Starting many projects feels like progress but mostly lets us escape each one the moment it gets difficult. Burkeman recommends a strict limit, such as three items in progress at once, with everything else waiting until one is finished or dropped. The limit forces you to break work into finishable pieces and to stay with the discomfort of a hard task."
+    },
+    {
+     "id": "sh_40005",
+     "title": "Stay with the discomfort of important work",
+     "body": "We reach for the phone during meaningful work because the work makes us face our limits: it might not turn out well, and we are not in full control. Distraction is a relief from that feeling. Burkeman's advice is not a clever blocking tool but acceptance. Expect important things to feel uncomfortable, and when the urge to escape comes, notice it and remain a little longer."
+    },
+    {
+     "id": "sh_40006",
+     "title": "Rest that is good for nothing",
+     "body": "Burkeman observes that we have learned to justify leisure by its usefulness, as recovery for work or self-improvement. He defends activities done only for themselves: a walk with no step count, a hobby you are happily mediocre at. On a wider scale, he reminds us how small one life is in the span of history, and suggests that this lowers the bar for what counts as a life well spent."
+    }
+   ]
+  },
+  {
+   "id": "sh_maketime",
+   "title": "Make Time",
+   "author": "Jake Knapp and John Zeratsky",
+   "year": "2018",
+   "category": "habits",
+   "why": "A friendly, experimental handbook for fitting one thing you care about into each ordinary day.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_maketime1",
+     "title": "Two forces eat the day",
+     "body": "The authors name two defaults. The Busy Bandwagon is the culture of full calendars, instant replies and endless tasks. Infinity Pools are apps and feeds with a bottomless supply of fresh content. Each wears down attention, and together they can fill every waking hour without your ever deciding anything. The book is about replacing those defaults with a few of your own."
+    },
+    {
+     "id": "sh_maketime2",
+     "title": "Choose one highlight each day",
+     "body": "Each morning, ask what you would like to be the bright spot of the day. It can be the most urgent thing, the most satisfying, or the most joyful, and it should take roughly an hour to an hour and a half. Then give it a place in the calendar. The highlight is not the only thing you do. It is the thing you protect, so the day has a centre even when the rest is reactive.",
+     "try": "Decide today's highlight now, and write down the time you will do it."
+    },
+    {
+     "id": "sh_maketime3",
+     "title": "Make distraction harder to reach",
+     "body": "The authors do not rely on willpower against products built to hold attention. They add friction. Remove social apps, email and the browser from your phone, or at least log out after each use. Clear the home screen. Put off checking news and messages until after your highlight. A few seconds of inconvenience is often enough to break the reflex of reaching for the phone."
+    },
+    {
+     "id": "sh_maketime4",
+     "title": "Look after the body that does the focusing",
+     "body": "Attention runs on physical energy. The advice here is plain: move every day, even if briefly, eat real food, use caffeine deliberately, get some quiet and some face-to-face company, and protect sleep. The authors frame this as living a little more like our ancestors. That framing is a loose metaphor, not science, but the habits themselves are ordinary good sense."
+    },
+    {
+     "id": "sh_maketime5",
+     "title": "Treat it as an experiment",
+     "body": "The book offers dozens of tactics and expects most not to suit you. The method is to pick one for the highlight, one for focus and one for energy, try them for a day, and each evening jot down what you tried and how it went. Keep what works and drop the rest. Over a few weeks you assemble a system built from your own evidence instead of someone else's rules."
+    }
+   ]
+  },
+  {
+   "id": "sh_slow",
+   "title": "Slow Productivity",
+   "author": "Cal Newport",
+   "year": "2024",
+   "category": "habits",
+   "why": "A calm argument that good work comes from doing less at a time, at a humane pace, with care.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_slow1",
+     "title": "Busyness is not productivity",
+     "body": "In a factory you can count what a worker produces. In desk work that is hard, so, Newport says, we fell back on a rough substitute: looking busy. Quick replies, full calendars and long hours came to stand for usefulness. He calls this pseudo-productivity. It rewards visible activity over finished work of value, and it explains how a person can be exhausted at the end of a week and unable to say what got done."
+    },
+    {
+     "id": "sh_slow2",
+     "title": "Do fewer things",
+     "body": "Every commitment brings its own overhead: messages, meetings, things to keep track of. Take on too many and the overhead crowds out the work itself, so everything moves slowly. Newport advises limiting what you actively work on to a small number and holding the rest in a waiting list. Each project then finishes sooner, and across a year you complete more, not less.",
+     "try": "List everything you are currently working on, pick the three that matter most, and mark the others as waiting."
+    },
+    {
+     "id": "sh_slow3",
+     "title": "Work at a natural pace",
+     "body": "Newport notes that for most of history human effort was uneven, with busy seasons and quiet ones, and that many admired thinkers took years over their best work. He suggests giving important projects longer timelines than feel comfortable, since we habitually underestimate, and allowing some periods to be lighter than others. A demanding month can be followed by an easier one without guilt."
+    },
+    {
+     "id": "sh_slow4",
+     "title": "Care deeply about quality",
+     "body": "The third principle is to become very good at the core of what you do, even if that means missing some short-term opportunities. Quality gives you leverage: people are more willing to grant freedom and patience to someone whose work is excellent. Newport suggests developing your taste by studying fine work in your own field and in others, and by sharing your work with people who will be frank about it."
+    },
+    {
+     "id": "sh_slow5",
+     "title": "Let people pull work from you",
+     "body": "When anyone can drop a task on your plate at any time, the load is invisible and grows without limit. Newport favours making it visible: keep a public or at least written list of what you have accepted and what is in progress, and take the next item only when one is finished. When someone asks for something new, you can show where it would sit in the queue and give an honest date."
+    }
+   ]
+  },
+  {
+   "id": "sh_feelgood",
+   "title": "Feel-Good Productivity",
+   "author": "Ali Abdaal",
+   "year": "2023",
+   "category": "habits",
+   "why": "A cheerful counter to grind culture that treats enjoyment as the fuel for getting things done.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_feelgood1",
+     "title": "Feeling good comes first",
+     "body": "The usual belief is that hard, joyless effort leads to success and success then makes us happy. Abdaal, a former doctor, argues it mostly runs the other way: when we are in a good mood we have more energy, think more broadly and stick with tasks longer. He draws on positive-emotion research to support this. Some of that evidence is stronger than the rest, so treat the book as a set of sensible experiments, as he himself suggests."
+    },
+    {
+     "id": "sh_feelgood2",
+     "title": "Bring play into the task",
+     "body": "Work becomes lighter when approached with curiosity and lower stakes. Abdaal suggests asking what the task would look like if it were fun: adding music, turning it into a small challenge, or trying it in a new place. He also recommends treating failures as data from an experiment. Revising for an exam by trying to teach the topic to a friend is both more playful and more effective than rereading notes.",
+     "try": "Before your dullest task today, ask how it could be made more fun, and change one thing."
+    },
+    {
+     "id": "sh_feelgood3",
+     "title": "Borrow energy from people",
+     "body": "Some people leave us energised and some leave us drained, and the same task feels different in company. Abdaal recommends finding ways to work alongside others, even on separate things, such as studying together in a library or on a call. Helping others and asking for help both build the sense of being on a team, which makes hard work easier to sustain."
+    },
+    {
+     "id": "sh_feelgood4",
+     "title": "Procrastination has causes you can treat",
+     "body": "Instead of forcing himself through a block, Abdaal asks what is behind it. He names three culprits. Uncertainty is cured by getting clear on what, why and when. Fear is eased by naming it and lowering the stakes. Inertia yields to a very small first step, such as working for just five minutes and then being free to stop. The right remedy depends on which of the three is present."
+    },
+    {
+     "id": "sh_feelgood5",
+     "title": "Three kinds of burnout",
+     "body": "Abdaal separates burnout by cause. Overexertion comes from doing too much, and the answer is to do less and take breaks before you need them. Depletion comes from rest that does not restore, and the answer is rest that truly recharges, such as time outdoors or a creative hobby. Misalignment comes from work that does not match what you value, and the answer is to steer your days gradually toward what matters to you.",
+     "try": "Schedule one short break today before you feel tired, and spend it away from a screen."
+    }
+   ]
+  },
+  {
+   "id": "sh_12week",
+   "title": "The 12 Week Year",
+   "author": "Brian P. Moran and Michael Lennington",
+   "year": "2013",
+   "category": "habits",
+   "why": "A practical system for closing the gap between knowing what to do and doing it, week by week.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_12week1",
+     "title": "A year is too long to feel urgent",
+     "body": "With an annual goal, December seems far away in January, so effort is slack for months and frantic at the end. The authors propose treating twelve weeks as a full year. A deadline that close is always in view, every week matters, and there is no room to plan on catching up later. At the end you rest briefly, review, and begin a new twelve weeks."
+    },
+    {
+     "id": "sh_12week2",
+     "title": "Fewer goals, with the actions spelled out",
+     "body": "A twelve-week plan holds only one to three goals. Each is specific and measurable, and beneath it you list the concrete actions, with the weeks in which they fall due. The authors stress that the plan must describe behaviour, not hopes. \"Get fit\" becomes \"walk for forty minutes on five mornings a week and lift weights twice\". If you cannot tell whether you did it, it is not yet a plan.",
+     "try": "Take one goal and write down the three or four weekly actions that would achieve it in twelve weeks."
+    },
+    {
+     "id": "sh_12week3",
+     "title": "Score your actions, not just your results",
+     "body": "Results arrive late and depend partly on things you do not control. What you control is whether you did the planned actions. Each week you score the percentage of them completed. The authors say that hitting about eighty-five percent is usually enough to reach the goal. A low score is not a verdict on you. It is early information, weeks before the outcome, that something needs changing."
+    },
+    {
+     "id": "sh_12week4",
+     "title": "A short weekly routine",
+     "body": "The system rests on a fixed rhythm. At the start of each week, review last week's score and plan this week's actions from the twelve-week plan. Each day, work from that weekly plan. The authors also recommend a brief weekly meeting with a small group of peers, where each person reports their score and intentions. Having to say the number aloud is a strong incentive to do the work."
+    },
+    {
+     "id": "sh_12week5",
+     "title": "Block time for what matters",
+     "body": "The authors suggest three kinds of protected time. A strategic block is about three hours a week of uninterrupted work on your most important actions. Buffer blocks are one or two short daily periods for clearing email, calls and small tasks together. A breakout block is a few hours away from work entirely, to recover. Grouping the small things keeps them from leaking across the whole day."
+    }
+   ]
+  },
+  {
+   "id": "sh_bujo",
+   "title": "The Bullet Journal Method",
+   "author": "Ryder Carroll",
+   "year": "2018",
+   "category": "habits",
+   "why": "A flexible pen-and-paper system that organises your days and makes you ask what deserves your time.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_bujo1",
+     "title": "Write briefly, in bullets",
+     "body": "The method begins with rapid logging: capturing thoughts as short lines instead of full sentences. A dot marks a task, a small circle an event, a dash a note. You add these through the day as they arise. Getting things out of the head and on to a page lowers the strain of trying to remember, and the short form makes it quick enough to keep up on a busy day.",
+     "try": "On any sheet of paper, log today in bullets: tasks as dots, events as circles, notes as dashes."
+    },
+    {
+     "id": "sh_bujo2",
+     "title": "Four simple pages hold it together",
+     "body": "A bullet journal is a blank notebook with a few standard sections. The index at the front lists what is on which page. The future log holds dates months ahead. The monthly log shows the current month and its tasks. The daily log is where rapid logging happens. Because you build the pages by hand as you go, the notebook adapts to your life instead of forcing it into printed boxes."
+    },
+    {
+     "id": "sh_bujo3",
+     "title": "Migration is a filter",
+     "body": "At the end of each month you look at every unfinished task and decide: is this still worth doing? If yes, you copy it by hand to the new month. If not, you strike it out. The copying is deliberately a small nuisance. A task that is not worth the few seconds of rewriting was probably not worth doing, and so the list is pruned regularly instead of growing forever."
+    },
+    {
+     "id": "sh_bujo4",
+     "title": "Gather related things in collections",
+     "body": "Any topic that deserves its own page can become a collection: books to read, a trip plan, a record of your running, notes from a course. You give it a title, note the page number in the index, and add to it over time. Collections keep related information together, so the daily log stays for the day and the plan for your sister's wedding does not get lost among grocery lists."
+    },
+    {
+     "id": "sh_bujo5",
+     "title": "Reflect at both ends of the day",
+     "body": "Carroll, who developed the system partly to manage his own attention difficulties, treats it as a practice of intention and not just a planner. He recommends a few minutes each morning to look over the day's entries and a few each evening to mark what was done and ask why the remaining items matter. The aim is to notice the difference between being busy and doing what is meaningful to you."
+    }
+   ]
+  },
+  {
+   "id": "sh_pomodoro",
+   "title": "The Pomodoro Technique",
+   "author": "Francesco Cirillo",
+   "year": "2006",
+   "category": "habits",
+   "why": "The original account of the simple kitchen-timer method that has helped millions start and keep going.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_pomodoro1",
+     "title": "Twenty-five minutes, then a break",
+     "body": "Cirillo developed the method as a university student, using a tomato-shaped kitchen timer, which gives it its name. You choose a task, set the timer for twenty-five minutes, and work on that alone until it rings. Then you take about five minutes off. After four rounds you take a longer break of fifteen to thirty minutes. Time stops being a vague threat and becomes a small, friendly unit.",
+     "try": "Set a timer for twenty-five minutes, work on one task until it rings, then stand up for five."
+    },
+    {
+     "id": "sh_pomodoro2",
+     "title": "A pomodoro cannot be split",
+     "body": "The rule that gives the method its strength is that a round is indivisible. There is no half pomodoro. If you give in to an interruption, that round is void and you start a fresh one. If you finish the task early, you use the remaining minutes to review or improve the work. The strictness is what trains you to protect a short stretch of attention."
+    },
+    {
+     "id": "sh_pomodoro3",
+     "title": "Park your own interruptions",
+     "body": "Many interruptions come from inside: a sudden urge to check a message, look something up or make a call. Cirillo's instruction is to write the thought down on your sheet and carry on. The urge is acknowledged and will not be forgotten, so it loosens its grip. By the time the timer rings, most of these urgent matters turn out not to have been urgent."
+    },
+    {
+     "id": "sh_pomodoro4",
+     "title": "Deal kindly with other people's interruptions",
+     "body": "When someone else interrupts, Cirillo suggests a short routine: tell them you are in the middle of something, agree a time to get back to them, and then do so. Most requests can wait twenty minutes without harm. The other person receives your full attention a little later instead of a distracted half now, and you keep your round whole."
+    },
+    {
+     "id": "sh_pomodoro5",
+     "title": "Plan and learn in the same unit",
+     "body": "Each morning you pick tasks from a master list and estimate how many rounds each will need. A task needing more than five to seven should be broken into parts, and tiny tasks can be combined. In the evening you compare estimates with what happened. Over weeks you learn how long things really take you, which makes your promises to yourself and others more realistic."
+    },
+    {
+     "id": "sh_pomodoro6",
+     "title": "The break is part of the work",
+     "body": "Cirillo treats the pause as essential, not as a reward. In the short break you step away from the desk and do something undemanding: stretch, drink water, look out of the window. You do not use it for email or anything that needs thought. This lets the mind absorb what it has just done and return fresh, and it is why several rounds in a row remain sustainable."
+    }
+   ]
+  },
+  {
+   "id": "sh_brain2",
+   "title": "Building a Second Brain",
+   "author": "Tiago Forte",
+   "year": "2022",
+   "category": "creativity",
+   "why": "A clear method for saving what you learn in a form you can actually find and use later.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_brain21",
+     "title": "Stop asking your head to store everything",
+     "body": "We take in more articles, ideas and advice than we can remember, and most of it is gone within days. Forte's proposal is to keep a trusted set of digital notes, a second brain, where anything worth keeping lives outside your head. The mind is then freed for what it does well: thinking, connecting and creating. The tool matters little. A plain notes app is enough."
+    },
+    {
+     "id": "sh_brain22",
+     "title": "Capture only what resonates",
+     "body": "Saving everything creates a heap you will never revisit. Forte's rule is to keep only what strikes you: a line that surprises you, something useful for a current project, an idea that moves you. Save the passage, not the whole article. Your own sense of \"this matters\" is a better filter than any formal rule, and small notes are far easier to reuse than long documents.",
+     "try": "Next time something you read strikes you today, save just that passage in one notes app."
+    },
+    {
+     "id": "sh_brain23",
+     "title": "Organise by what you are doing, not by subject",
+     "body": "Forte's PARA system has four top-level groups. Projects are efforts with an end, like planning a holiday. Areas are ongoing responsibilities, like health or finances. Resources are topics of interest. Archives hold anything inactive. The question when filing is \"where will this be useful soonest?\", so notes for an active project are always at hand instead of buried under a subject heading."
+    },
+    {
+     "id": "sh_brain24",
+     "title": "Distil in layers",
+     "body": "A saved note is only useful if your future self can grasp it in seconds. Forte suggests summarising in passes, each done only when you happen to revisit the note. First, bold the key sentences. On a later visit, highlight the best of the bold. If the note keeps proving valuable, add a few lines of summary in your own words at the top. Effort goes only into notes that earn it."
+    },
+    {
+     "id": "sh_brain25",
+     "title": "Notes exist to be used",
+     "body": "The last step of Forte's method is expression: turning what you have collected into something, such as a decision, a plan, a talk or a piece of writing. He recommends working in small reusable pieces, like an outline, a list of examples or a summary of research, so that no project starts from an empty page. Knowledge that is only stored tends to be forgotten. Used, it becomes yours."
+    }
+   ]
+  },
+  {
+   "id": "sh_notes",
+   "title": "How to Take Smart Notes",
+   "author": "Sönke Ahrens",
+   "year": "2017",
+   "category": "creativity",
+   "why": "It shows how a simple habit of linked notes turns reading into thinking and thinking into writing.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_notes1",
+     "title": "Writing is where the thinking happens",
+     "body": "Ahrens challenges the usual picture in which you read, think, and then write up at the end. He argues that writing things down in your own words is how understanding forms in the first place. If every day's reading leaves behind a few carefully written notes, then by the time you need an essay or report the hard part is done, and you are assembling instead of starting cold."
+    },
+    {
+     "id": "sh_notes2",
+     "title": "The slip-box",
+     "body": "The book describes the working method of the German sociologist Niklas Luhmann, who kept his ideas on numbered index cards in a slip-box, in German a Zettelkasten. Each card held a single idea and pointed to related cards. He credited the system with making his unusually large output possible. The method needs no special talent, only a steady habit and a place where the notes accumulate."
+    },
+    {
+     "id": "sh_notes3",
+     "title": "Three kinds of note",
+     "body": "Fleeting notes are quick reminders, jotted anywhere and thrown away within a day or two. Literature notes are brief records of what a source says, in your own words, with the reference. Permanent notes are the ones that count: one idea each, written in full sentences so that they make sense years later without the original context. Mixing the three up is, in Ahrens's view, why most note-taking fails."
+    },
+    {
+     "id": "sh_notes4",
+     "title": "Put it in your own words",
+     "body": "Copying a passage or highlighting it feels like learning but asks nothing of you. Restating an idea in your own words forces you to find out whether you understand it, and often shows that you do not. The gap is the useful part. A quick test is to explain the point in two or three plain sentences, as if to a friend who has not read the book.",
+     "try": "Take one idea you read or heard today and write it out in three plain sentences without looking at the source."
+    },
+    {
+     "id": "sh_notes5",
+     "title": "Link notes instead of filing them",
+     "body": "Sorting notes into subject folders hides them from each other. In a slip-box each new note is connected to existing ones it relates to, whatever the topic. You ask how this fits with what is already there: does it support, contradict or extend something? Over time clusters form on their own, and they show you what you are really interested in and what you have enough material to write about."
+    }
+   ]
+  },
+  {
+   "id": "sh_indis",
+   "title": "Indistractable",
+   "author": "Nir Eyal",
+   "year": "2019",
+   "category": "habits",
+   "why": "A practical guide that looks for the cause of distraction inside us before blaming the phone.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_indis1",
+     "title": "The opposite of distraction is traction",
+     "body": "Eyal defines traction as any action that pulls you toward what you intend, and distraction as any action that pulls you away. By this definition nothing is a distraction in itself. An hour of a game you planned to enjoy is traction. Answering email when you meant to write a report is distraction, however worthy it looks. You can only call something a distraction if you know what it took you from."
+    },
+    {
+     "id": "sh_indis2",
+     "title": "Distraction begins with discomfort",
+     "body": "Eyal argues that most distraction is an attempt to escape an unpleasant feeling: boredom, anxiety, uncertainty, tiredness. The phone is the nearest exit, not the root cause. So the first step is to notice the feeling that comes just before you reach for it. Name it, be curious about it, and tell yourself you may give in after ten minutes. Often the urge has passed by then.",
+     "try": "The next time you reach for your phone mid-task, pause and name the feeling that came just before."
+    },
+    {
+     "id": "sh_indis3",
+     "title": "Give your time a shape",
+     "body": "A to-do list says what to do but not when, so the day is decided by whatever shouts loudest. Eyal recommends timeboxing: drawing up the week in blocks that reflect your values, with time for yourself, for the people close to you and for work, including blocks for email and for rest. Success is then measured by whether you did what you planned for that time, not by how much you finished."
+    },
+    {
+     "id": "sh_indis4",
+     "title": "Question every ping",
+     "body": "External triggers are the notifications, rings and interruptions that prompt us. For each, Eyal asks whether it is serving you or you are serving it. Most phone notifications can be switched off without loss. Group chats can be checked at set times. At work, a simple sign that you are concentrating can spare you interruptions. The aim is to remove what is unhelpful, not to cut off all contact.",
+     "try": "Open your phone's notification settings and switch off alerts for three apps that rarely tell you anything important."
+    },
+    {
+     "id": "sh_indis5",
+     "title": "Bind yourself in advance",
+     "body": "For the moments when the other steps fail, Eyal suggests precommitments made while you are calm. An effort pact adds a hurdle, such as an app that locks your phone for an hour. A price pact puts money at stake. An identity pact is a way of describing yourself, such as \"I am someone who does not check messages at dinner\". Deciding beforehand removes the argument with yourself in the moment."
+    }
+   ]
+  },
+  {
+   "id": "sh_digmin",
+   "title": "Digital Minimalism",
+   "author": "Cal Newport",
+   "year": "2019",
+   "category": "habits",
+   "why": "A thoughtful case for using technology on your own terms instead of the terms set by the apps.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_digmin1",
+     "title": "Start from your values, not from the app",
+     "body": "Newport's philosophy is to give your online time to a small number of activities that strongly support things you value, and to happily miss out on the rest. The usual approach asks whether a tool offers any benefit at all, and almost every tool does. The minimalist asks whether this is the best way to serve something important to me, and what it costs in time and attention."
+    },
+    {
+     "id": "sh_digmin2",
+     "title": "A thirty-day reset",
+     "body": "Newport does not believe in trimming habits a little at a time. He proposes stepping away for thirty days from all optional technologies in your personal life, and using the time to rediscover what you enjoy offline. At the end you bring back only the tools that pass a strict test, each with rules for when and how you use it. People often find they do not miss several of them."
+    },
+    {
+     "id": "sh_digmin3",
+     "title": "Protect time alone with your thoughts",
+     "body": "By solitude Newport means time free from input from other minds: no feed, no podcast, no messages. It is when we work through problems, settle emotions and form our own views. With a phone always in the pocket, such time can disappear completely, a condition he calls solitude deprivation and links with rising anxiety. That link is debated among researchers, but the value of quiet thinking time is old wisdom.",
+     "try": "Take a walk of at least fifteen minutes today with your phone left at home or switched off."
+    },
+    {
+     "id": "sh_digmin4",
+     "title": "Conversation over connection",
+     "body": "Likes, short comments and quick texts give a feeling of contact while asking little, and Newport argues they can crowd out the richer thing: real conversation by voice or face to face. He suggests treating messages mainly as a way to arrange proper talks, and not treating them as the friendship itself. A twenty-minute call with an old friend does more than months of reacting to each other's posts."
+    },
+    {
+     "id": "sh_digmin5",
+     "title": "Fill the gap with real leisure",
+     "body": "Cutting back on screens leaves a hole, and if nothing fills it the old habits return. Newport recommends demanding activities that produce something or involve other people: making or repairing things with your hands, learning an instrument, sport, volunteering, a regular gathering. Effortful leisure turns out to be more restoring than passive scrolling, and it makes the screen less tempting."
+    }
+   ]
+  },
+  {
+   "id": "sh_hyper",
+   "title": "Hyperfocus",
+   "author": "Chris Bailey",
+   "year": "2018",
+   "category": "mind",
+   "why": "An accessible guide to managing attention, both when you need to concentrate and when you need ideas.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_hyper1",
+     "title": "Attention has a small working space",
+     "body": "Bailey describes attention as a limited space that can hold only so much at once. A few habitual tasks fit together, such as walking while talking. A complex task needs nearly all of it. When we try to add a second demanding thing, something spills. He asks you to notice, several times a day, what is filling your attention at that moment, since this awareness is where any control begins."
+    },
+    {
+     "id": "sh_hyper2",
+     "title": "Sort tasks by two questions",
+     "body": "Is the task productive, and is it attractive? Necessary work is productive but unappealing. Purposeful work is productive and appealing, and is where we do our best. Distracting work is appealing and unproductive, and unnecessary work is neither. Left on autopilot, attention slides toward whatever is attractive. Sorting your tasks this way shows which ones need deliberate protection."
+    },
+    {
+     "id": "sh_hyper3",
+     "title": "How to enter hyperfocus",
+     "body": "Bailey's routine has four steps. Choose one meaningful thing to attend to. Remove as many distractions as you can beforehand, inside and outside. Focus on the chosen thing for a set period. When the mind wanders, as it will, bring it back without fuss. He adds that setting a clear intention in advance, such as three things you want to have done by the end of the day, makes each step easier.",
+     "try": "Write down three things you want to have done by tonight, and start with the first for twenty minutes, phone out of reach."
+    },
+    {
+     "id": "sh_hyper4",
+     "title": "Remove distractions before they arrive",
+     "body": "Once a distraction appears, resisting it costs effort, and after giving in it takes a while to get back to the task. Bailey therefore prefers to deal with distractions ahead of time. Put the phone in another room, close the email program, wear headphones, tell people when you will be free. Making the tempting thing twenty seconds harder to reach is often enough to keep attention where you put it."
+    },
+    {
+     "id": "sh_hyper5",
+     "title": "Let the mind wander on purpose",
+     "body": "The opposite mode, which Bailey calls scatterfocus, is deliberate mind-wandering. While you do something simple and habitual, like washing up or walking a familiar route, the mind connects ideas, makes plans and rests. Many good ideas arrive this way. The condition is that you leave the space empty instead of filling every pause with a screen, and keep a notebook handy to catch what surfaces."
+    }
+   ]
+  },
+  {
+   "id": "sh_nowhabit",
+   "title": "The Now Habit",
+   "author": "Neil Fiore",
+   "year": "1988",
+   "category": "habits",
+   "why": "A psychologist's humane explanation of why we procrastinate, with tools that remove the dread.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_nowhabit1",
+     "title": "Procrastination is protection, not laziness",
+     "body": "Fiore's central claim is that we put things off to get relief from the anxiety a task stirs up: fear of failing, of being judged, of not being perfect, or resentment at being told what to do. Delay works for a moment, which is why it becomes a habit. Seen this way, calling yourself lazy only adds pressure and makes the avoidance worse. The remedy is to make starting feel safer."
+    },
+    {
+     "id": "sh_nowhabit2",
+     "title": "When your worth rides on the result",
+     "body": "If a piece of work feels like a verdict on you as a person, starting it is frightening, and delay supplies an excuse: I could have done better if I had had more time. Fiore asks readers to separate who they are from what they produce. The report can be flawed and you remain a worthwhile person. Lowering the stakes in this way is often what makes it possible to begin at all."
+    },
+    {
+     "id": "sh_nowhabit3",
+     "title": "Schedule the play first",
+     "body": "Fiore's Unschedule turns the ordinary planner upside down. Into the week you first write the things you will certainly do: meals, sleep, exercise, time with friends, recreation. Work is not scheduled. You record it afterwards, in half-hour units, only once you have done thirty minutes without a break. Seeing guaranteed pleasure in the week removes the feeling that work means endless deprivation.",
+     "try": "Write into tomorrow one thing you will enjoy, with a time, before you plan any work around it."
+    },
+    {
+     "id": "sh_nowhabit4",
+     "title": "Change \"have to\" into \"choose to\"",
+     "body": "The words we use about a task shape how it feels. \"I have to finish this\" casts you as a victim of an outside order, and part of you rebels. Fiore suggests replacing it with \"I choose to\" and asking \"When can I start?\" in place of \"I must finish\". The task is the same, but one wording invites resistance and the other puts you in charge of a small next step.",
+     "try": "Catch one \"I have to\" today and say it again as \"I choose to start on this at...\"."
+    },
+    {
+     "id": "sh_nowhabit5",
+     "title": "Aim only at starting",
+     "body": "A big project seen whole is overwhelming, and thinking about the finish line keeps you worrying instead of working. Fiore tells readers to keep asking for the next start and to commit to just thirty minutes of decent work. He also suggests planning backwards from the deadline to today, so that the huge task becomes a list of small ones, with one that can be begun now."
+    },
+    {
+     "id": "sh_nowhabit6",
+     "title": "Rest without guilt makes work better",
+     "body": "Fiore observes that procrastinators rarely enjoy their free time, because guilt follows them into it, so they get neither proper rest nor good work. He argues for committed, wholehearted leisure. A real evening off sends you back to the task with more energy and less resentment. Play is treated as part of the system that makes sustained work possible, not as its reward."
+    }
+   ]
+  },
+  {
+   "id": "sh_puzzle",
+   "title": "Solving the Procrastination Puzzle",
+   "author": "Timothy A. Pychyl",
+   "year": "2010",
+   "category": "habits",
+   "why": "A very short, research-based guide by a psychologist who spent his career studying why we delay.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_puzzle1",
+     "title": "Not all delay is procrastination",
+     "body": "Pychyl defines procrastination narrowly: the voluntary delay of something you intended to do, even though you expect to be worse off for it. Putting off a task because something truly more important came up is just sensible ordering. The distinction matters because it stops you feeling guilty about reasonable delays and directs attention to the ones where you are working against yourself."
+    },
+    {
+     "id": "sh_puzzle2",
+     "title": "We delay to feel better now",
+     "body": "His main explanation is that procrastination is about managing mood, not time. A task makes us feel bored, anxious or unsure. Putting it off brings quick relief, and that relief rewards the avoidance. The cost falls on our future self, who has less time and the same unpleasant task. Recognising the moment you are about to trade the future for a little comfort now is the first skill.",
+     "try": "When you feel the pull to put something off today, say to yourself \"I am doing this to feel better right now\" and see what changes."
+    },
+    {
+     "id": "sh_puzzle3",
+     "title": "Just get started",
+     "body": "We tend to wait until we feel like doing something. Pychyl's research and experience point the other way: once people begin, the task usually seems less unpleasant than they imagined, and motivation follows the action. So he advises not aiming to finish, or even to do much. Open the file, write the first line, lay out the tools. A little progress improves mood and makes the next step easier."
+    },
+    {
+     "id": "sh_puzzle4",
+     "title": "You will not feel like it tomorrow either",
+     "body": "A common excuse is that we will be more in the mood later. Pychyl points out that we are poor at predicting our future feelings, and that tomorrow's self will dislike the task just as much, with less time left. Other familiar excuses include \"I work better under pressure\" and \"it is not due for weeks\". Learn your own favourite phrases, and treat them as alarms."
+    },
+    {
+     "id": "sh_puzzle5",
+     "title": "Decide the when and where in advance",
+     "body": "Vague intentions such as \"I will exercise more\" give no cue to act. Pychyl recommends the if-then form studied by other researchers: in situation X, I will do Y. \"When I finish my morning tea, I will open the tax form and fill in the first section.\" The decision is made ahead of time, so in the moment you do not have to argue with yourself. The same form works for distractions: \"If my phone buzzes, I will leave it until the hour.\"",
+     "try": "Write one \"When X happens, I will do Y\" sentence for a task you have been avoiding."
+    }
+   ]
+  },
+  {
+   "id": "sh_willpower",
+   "title": "The Willpower Instinct",
+   "author": "Kelly McGonigal",
+   "year": "2011",
+   "category": "mind",
+   "why": "A warm, science-based course in self-control that favours understanding yourself over forcing yourself.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_willpower1",
+     "title": "Three powers: I will, I won't, I want",
+     "body": "McGonigal divides willpower into three abilities. \"I won't\" resists temptation. \"I will\" does the hard thing you would sooner skip. \"I want\" remembers the longer goal you care about when the moment pulls another way. Most failures happen when we lose sight of the third. Keeping in mind what you really want, such as being well enough to play with your grandchildren, gives the other two something to serve."
+    },
+    {
+     "id": "sh_willpower2",
+     "title": "Pause before you act",
+     "body": "Temptation and stress push us to act fast. McGonigal describes an opposite response, in which the body slows down and the thoughtful part of the mind gets a chance. You can encourage it: slow your breathing for a minute or two, get enough sleep, move your body, and practise a little meditation. These make it likelier that there will be a gap between the urge and the action.",
+     "try": "Before your next tempting choice, take ten slow breaths and then decide."
+    },
+    {
+     "id": "sh_willpower3",
+     "title": "Being good can give you licence to be bad",
+     "body": "After a virtuous act we often feel entitled to a treat, a pattern researchers call moral licensing. A workout justifies the dessert, and a morning of solid work justifies an afternoon of drifting. The trap lies in treating the goal as a ledger of good and bad deeds. McGonigal suggests remembering why you did the good thing, so that the next choice is another step toward the goal."
+    },
+    {
+     "id": "sh_willpower4",
+     "title": "The promise of reward is not the reward",
+     "body": "The brain's wanting system fires at the prospect of pleasure, and McGonigal stresses that it produces desire, not satisfaction. This is why we can scroll, snack or shop long past the point of enjoyment. She suggests a simple test: indulge with full attention and notice whether the experience matches the promise. Often it does not, and seeing that plainly weakens the pull next time."
+    },
+    {
+     "id": "sh_willpower5",
+     "title": "Guilt makes the next slip more likely",
+     "body": "After a lapse, many of us pile on self-criticism, believing it keeps us in line. McGonigal describes the reverse. Feeling bad makes us seek comfort, often in the very thing we were trying to avoid, and so one biscuit becomes \"I have ruined it, I may as well finish the packet\". Treating a setback with the kindness you would show a friend makes it easier to return to the plan.",
+     "try": "Think of a recent lapse and write to yourself about it the way you would speak to a friend."
+    },
+    {
+     "id": "sh_willpower6",
+     "title": "A caution about the muscle idea",
+     "body": "The book presents self-control as a muscle that tires with use and grows stronger with exercise, an idea that was widely accepted when it was written. Later large-scale attempts to repeat the key experiments have given mixed and often weak results, so the tiring part should be held loosely. The practical advice survives without it: plan for difficult moments, look after sleep and stress, and do not rely on resisting all day."
+    }
+   ]
+  },
+  {
+   "id": "sh_woop",
+   "title": "Rethinking Positive Thinking",
+   "author": "Gabriele Oettingen",
+   "year": "2014",
+   "category": "mind",
+   "why": "A researcher shows why dreaming alone holds us back, and offers a four-step tool that works better.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_woop1",
+     "title": "Pleasant fantasies can sap effort",
+     "body": "Oettingen spent years studying people who pictured their wishes coming true. In study after study, those who indulged most in rosy daydreams about the future tended to do less well at reaching the goal. Her explanation is that vividly imagining success lets the mind partly enjoy it already, which relaxes us and drains the energy needed to act. Dreaming is pleasant, but on its own it is not a plan."
+    },
+    {
+     "id": "sh_woop2",
+     "title": "Set the dream against reality",
+     "body": "Her alternative is mental contrasting. First imagine the wish fulfilled and how good that would feel. Then turn at once to what stands in the way. Holding the two together links the desired future with the present obstacle, and the mind begins to treat the wish as something to act on. Thinking only about obstacles does not do this, and neither does dreaming. It is the pairing that matters."
+    },
+    {
+     "id": "sh_woop3",
+     "title": "The four steps",
+     "body": "Oettingen packaged the method as WOOP. Wish: something you want that is challenging but feasible. Outcome: the best result, imagined fully. Obstacle: the main thing inside you that holds you back. Plan: what you will do when that obstacle appears. It takes a few quiet minutes and can be used for a goal for the year or for the next hour. The order is important, with the outcome before the obstacle.",
+     "try": "Do one WOOP now for something you want this week: wish, best outcome, inner obstacle, plan."
+    },
+    {
+     "id": "sh_woop4",
+     "title": "Look for the obstacle inside",
+     "body": "The obstacle step asks what it is in you that gets in the way: a habit, a feeling, a belief, an impulse. External barriers are real, but the inner response is the part you can act on. If you want to speak up in meetings, the obstacle may be the tightness you feel just before speaking. Naming it precisely often brings a small surprise, and makes it much easier to plan for."
+    },
+    {
+     "id": "sh_woop5",
+     "title": "Plan with \"if, then\"",
+     "body": "The last step uses a form studied by Peter Gollwitzer, Oettingen's colleague and husband: if the obstacle arises, then I will take this action. \"If I feel that tightness before speaking, then I will ask one question.\" Tying the response to the obstacle beforehand means it comes more readily at the critical moment, when there is little time or calm in which to decide.",
+     "try": "Finish this sentence for one goal: \"If (my obstacle) comes up, then I will (specific action).\""
+    },
+    {
+     "id": "sh_woop6",
+     "title": "It also tells you when to let go",
+     "body": "Mental contrasting does not push you toward every wish. When you set a dream honestly against reality and find the obstacle cannot be overcome, or is not worth the cost, your commitment drops, and Oettingen counts that as a benefit. Energy is released for wishes within reach. It is a tool for sorting what to pursue from what to drop, not a way of talking yourself into anything."
+    }
+   ]
+  },
+  {
+   "id": "sh_engage",
+   "title": "The Power of Full Engagement",
+   "author": "Jim Loehr and Tony Schwartz",
+   "year": "2003",
+   "category": "habits",
+   "why": "Argues that energy, not time, is the resource to manage, and shows how to build it through work and recovery.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_engage1",
+     "title": "Manage energy, not time",
+     "body": "Loehr and Schwartz start from a simple observation: an hour is only as useful as the energy you bring to it. A tired, distracted afternoon can produce less than a focused half hour. Instead of squeezing more tasks into the day, they suggest paying attention to how full your tank is and when. The idea moves the question from how many hours you work to how much of yourself is present in them."
+    },
+    {
+     "id": "sh_engage2",
+     "title": "Four sources of energy",
+     "body": "The authors describe energy on four levels. Physical energy comes from sleep, food and movement. Emotional energy is about the quality of your feelings, such as calm and confidence versus irritation. Mental energy is focus. Spiritual energy, in their sense, is a feeling of purpose that comes from living by your values. A problem on one level spills into the others: a short night makes patience and concentration harder the next day."
+    },
+    {
+     "id": "sh_engage3",
+     "title": "Work in waves, then recover",
+     "body": "Drawing on their work with athletes, the authors argue that people perform best when effort alternates with real recovery, as in interval training. Long unbroken stretches of work lead to fatigue and mistakes. They suggest periods of focused work followed by genuine breaks, such as a walk, a snack or a few quiet minutes. The exact length of natural work cycles is less certain than the book implies, but the principle of planned recovery is widely accepted.",
+     "try": "Today, after each block of focused work, take a short break away from your screen."
+    },
+    {
+     "id": "sh_engage4",
+     "title": "Stretch, then rest, to grow",
+     "body": "Just as a muscle grows when it is pushed slightly beyond its usual load and then allowed to recover, the authors argue that patience, focus and resilience grow the same way. Too little challenge and capacity shrinks. Too much without rest and people break down. The practical point is to take on deliberate, manageable stretches, such as one difficult conversation or one longer stint of concentration, and to recover properly afterwards."
+    },
+    {
+     "id": "sh_engage5",
+     "title": "Rituals beat willpower",
+     "body": "Willpower runs low, so the authors recommend building positive rituals: specific behaviours done at set times until they become automatic. A ritual might be a fixed bedtime, a walk after lunch or a short planning session each morning. They advise making rituals precise about what and when, and starting with only a few at a time. Once a ritual is in place, it saves energy instead of using it up.",
+     "try": "Choose one small daily ritual, define exactly when you will do it, and keep it for a week."
+    },
+    {
+     "id": "sh_engage6",
+     "title": "Purpose as fuel",
+     "body": "The deepest source of energy, the authors argue, is a sense of what matters to you. They ask readers to define their values, face honestly how their current habits fall short of them, and then act to close the gap. When work and life connect to something you care about, effort feels lighter. Someone who sees that long evenings at the office conflict with being present for their children has a strong reason to change."
+    }
+   ]
+  },
+  {
+   "id": "sh_peak",
+   "title": "Peak",
+   "author": "Anders Ericsson and Robert Pool",
+   "year": "2016",
+   "category": "creativity",
+   "why": "The leading researcher on expertise explains what kind of practice really builds skill.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_peak1",
+     "title": "Not all practice is equal",
+     "body": "Doing something for years does not by itself make you better. Most of us reach an acceptable level at driving, typing or cooking, and stay there, because we are repeating what we can already do. Ericsson contrasts this with purposeful practice, which has a specific goal, full concentration, immediate feedback and a constant push slightly beyond current ability. It is harder and less pleasant, and it is what changes skill."
+    },
+    {
+     "id": "sh_peak2",
+     "title": "Deliberate practice",
+     "body": "The most effective form, which Ericsson calls deliberate practice, adds two things. It takes place in a field where training methods are well developed, such as music, chess or sport, and it is guided by a teacher who knows those methods and can point out what to fix. Where no teacher is available, he advises getting as close as you can: find the best performers, work out what they do differently, and design exercises around that."
+    },
+    {
+     "id": "sh_peak3",
+     "title": "Practise at the edge of your ability",
+     "body": "The body and brain adapt when pushed beyond what is comfortable, and stop adapting when they are not. So improvement requires working on what you cannot quite do yet, in focused sessions, and resting between them. A pianist plays the difficult four bars slowly, again and again, and does not simply run through the whole piece. If practice feels easy and pleasant, it is probably maintenance.",
+     "try": "Pick one small part of a skill you find hard and spend fifteen focused minutes on only that."
+    },
+    {
+     "id": "sh_peak4",
+     "title": "Experts see differently",
+     "body": "What sets experts apart, Ericsson argues, is the quality of their mental representations: detailed patterns in memory that let them take in a situation quickly and know what to do. A chess master sees meaningful positions where a novice sees pieces. These representations are built through practice, and they in turn let the expert notice their own mistakes, which makes further practice more effective."
+    },
+    {
+     "id": "sh_peak5",
+     "title": "The ten-thousand-hour rule is a misreading",
+     "body": "Ericsson's research was the source of the popular rule that ten thousand hours make an expert, and he says here that the rule distorts it. The figure was an average for one group of violinists at one age, not a threshold, and the type of practice matters more than the count. Other fields need different amounts, and time spent without focus and feedback adds little."
+    },
+    {
+     "id": "sh_peak6",
+     "title": "How much is practice, how much is talent?",
+     "body": "Ericsson takes a strong position: he finds little evidence that anyone is born with a fixed limit, apart from physical traits like height, and credits top performance mainly to long deliberate practice. Other researchers disagree, and later analyses suggest that practice explains only part of the difference between people, with genes and starting age also playing a role. The safer lesson is that well-designed practice improves almost anyone, not that it makes everyone equal."
+    }
+   ]
+  },
+  {
+   "id": "sh_numbers",
+   "title": "A Mind for Numbers",
+   "author": "Barbara Oakley",
+   "year": "2014",
+   "category": "creativity",
+   "why": "A former maths-phobe turned engineering professor explains how learning works, for any subject.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_numbers1",
+     "title": "Two modes of thinking",
+     "body": "Oakley describes a focused mode, in which you concentrate hard on a problem, and a diffuse mode, a relaxed state in which the mind ranges widely in the background. Hard ideas need both. You load the problem with focused effort, then step away, and the diffuse mode often produces the connection. This is why an answer arrives in the shower or on a walk. Being stuck is frequently a signal to take a break."
+    },
+    {
+     "id": "sh_numbers2",
+     "title": "Build chunks",
+     "body": "A chunk is a piece of knowledge so well understood and practised that it comes to mind as a single unit, like a phrase in a language or the steps for solving a type of problem. Oakley says expertise is built from a growing library of chunks. To make one you need focused attention, real understanding, and practice in different contexts so that you know when to use it as well as how."
+    },
+    {
+     "id": "sh_numbers3",
+     "title": "Beware the feeling of knowing",
+     "body": "Rereading notes and highlighting feel productive because the material looks familiar, but familiarity is not the ability to recall or use it. Oakley calls these illusions of competence. The honest check is to close the book and try to recall the main ideas, or to work a problem without looking at the solution. It is uncomfortable, which is a good sign that you are learning.",
+     "try": "After reading something today, look away and say aloud the main points from memory."
+    },
+    {
+     "id": "sh_numbers4",
+     "title": "Space it out and mix it up",
+     "body": "Cramming holds material for a day or two. Returning to it across several days, with gaps in between, builds memory that lasts, and sleep helps to consolidate it. Oakley also recommends mixing different kinds of problems in a session, because doing ten of the same type in a row teaches the method but not the harder skill of recognising which method a problem calls for."
+    },
+    {
+     "id": "sh_numbers5",
+     "title": "Beat procrastination with process",
+     "body": "Thinking about a task you dread produces real discomfort, and switching to something pleasant relieves it. Oakley's advice is to focus on process, meaning a short stretch of time spent working, and not on product, meaning the finished assignment. She recommends a timer set for twenty-five minutes with all distractions removed, followed by a small reward. The discomfort usually fades soon after you begin.",
+     "try": "Set a timer for twenty-five minutes on the task you have been avoiding, and promise yourself a small reward after."
+    },
+    {
+     "id": "sh_numbers6",
+     "title": "Your first idea can block a better one",
+     "body": "Once we have one approach in mind, it can stop us seeing others, an effect psychologists call Einstellung. This is why staring harder at a problem sometimes makes it worse, and why confident first answers in tests should be checked. Oakley recommends stepping back, starting again on a clean page, or explaining the problem to someone else, to give a different approach room to appear."
+    }
+   ]
+  },
+  {
+   "id": "sh_readbook",
+   "title": "How to Read a Book",
+   "author": "Mortimer J. Adler and Charles Van Doren",
+   "year": "1940, revised 1972",
+   "category": "thinking",
+   "why": "The classic guide to reading demanding books actively, so that they change how you understand.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_readbook1",
+     "title": "Reading for understanding is active",
+     "body": "The authors distinguish reading for information, which adds facts, from reading for understanding, which makes you able to grasp something you could not before. The second kind requires a book that is somewhat above you, and effort on your part. They compare reader and writer to catcher and pitcher: catching is as much an activity as throwing. A good reader works to meet the book."
+    },
+    {
+     "id": "sh_readbook2",
+     "title": "Skim first, on purpose",
+     "body": "Before committing to a book, give it a quick, systematic inspection. Read the title page and preface, study the table of contents, look at the index, read the summary passages at the starts and ends of key chapters, and dip in here and there. In under an hour you learn what kind of book it is and whether it deserves a careful reading. Many do not, and knowing that is a saving.",
+     "try": "Spend fifteen minutes inspecting a book you have been meaning to read, then decide whether it earns a full reading."
+    },
+    {
+     "id": "sh_readbook3",
+     "title": "On a first reading, do not stop",
+     "body": "When you tackle a hard book for the first time, the authors advise reading it straight through without pausing over what you do not understand. Stopping at every difficulty leads most people to give up. If you grasp half on the first pass, that half will help you with the rest on the second. You see the overall shape first, and return for the details."
+    },
+    {
+     "id": "sh_readbook4",
+     "title": "Four questions for any book",
+     "body": "An active reader keeps asking four things. What is the book about as a whole? What is being said in detail, and how? Is it true, in whole or part? And what of it, meaning why does it matter? The authors suggest stating the whole book in a sentence or two and outlining its main parts. If you cannot, you have not yet understood it, however many pages you have turned."
+    },
+    {
+     "id": "sh_readbook5",
+     "title": "Understand before you judge",
+     "body": "The authors set out a rule of fairness: do not say you agree, disagree or suspend judgement until you can honestly say you understand. If you then disagree, give reasons. Show where the author is uninformed, misinformed, illogical or incomplete. Simple dislike is not a criticism. The same discipline improves any conversation in which we are tempted to answer before we have listened."
+    },
+    {
+     "id": "sh_readbook6",
+     "title": "Write in the book, and read across books",
+     "body": "Marking a book keeps you awake and makes it yours: underline main points, number the steps of an argument, write questions in the margin. The highest level the authors describe, which they call syntopical reading, involves reading several books on one question and setting them against each other in your own terms, so that you can form a view no single author gave you.",
+     "try": "Read your next chapter with a pencil, and write one question in the margin of each page."
+    }
+   ]
+  },
+  {
+   "id": "sh_20hours",
+   "title": "The First 20 Hours",
+   "author": "Josh Kaufman",
+   "year": "2013",
+   "category": "creativity",
+   "why": "An encouraging method for getting past the awkward beginner stage of any new skill quickly.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_20hours1",
+     "title": "Good enough comes sooner than you think",
+     "body": "Kaufman is not writing about mastery. His claim is that about twenty hours of focused, intelligent practice is enough to go from knowing nothing to being noticeably capable at most everyday skills. That is around forty minutes a day for a month. The figure is his own rule of thumb from experience and not a research finding, but it usefully answers the fear that a new skill needs years before it gives any pleasure."
+    },
+    {
+     "id": "sh_20hours2",
+     "title": "Decide what \"able\" means for you",
+     "body": "A wish such as \"learn the guitar\" has no end and no first step. Kaufman asks you to define a target level of performance: what exactly do you want to be able to do? \"Play and sing four songs I love at a family gathering\" tells you what to practise and when you have arrived. The looser your target, the faster you can reach it, and you can always set a further one later.",
+     "try": "Write one sentence describing exactly what you want to be able to do with a skill you would like to learn."
+    },
+    {
+     "id": "sh_20hours3",
+     "title": "Break it down and practise the vital parts first",
+     "body": "Most skills are bundles of smaller ones, and a few of them account for most of what you want. Kaufman suggests listing the sub-skills, finding the handful that matter most for your target, and practising those first. A new cook does not need every technique. Handling a knife safely, controlling heat and seasoning by taste cover a large share of everyday meals."
+    },
+    {
+     "id": "sh_20hours4",
+     "title": "Learn just enough to correct yourself",
+     "body": "Reading about a skill can become a way of avoiding it. Kaufman recommends gathering a few good sources, skimming them for the main ideas and common mistakes, and then starting. The purpose of early study is to recognise when you are doing something wrong so you can fix it as you go. Where possible, set up fast feedback, such as a recording of yourself, a mirror or a teacher's comment."
+    },
+    {
+     "id": "sh_20hours5",
+     "title": "Clear the path and commit in advance",
+     "body": "The first hours of any skill are frustrating because you are visibly bad at it. Kaufman's answer is to commit beforehand to completing twenty hours before judging, and to make practice easy to begin: keep the instrument out of its case, block the distracting sites, set a timer. He advises taking on one new skill at a time and practising in short daily sessions."
+    }
+   ]
+  },
+  {
+   "id": "sh_courage",
+   "title": "The Courage to Be Disliked",
+   "author": "Ichiro Kishimi and Fumitake Koga",
+   "year": "2013",
+   "category": "mind",
+   "why": "A dialogue that introduces Alfred Adler's psychology and its demanding ideas about freedom, relationships and the present.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_courage1",
+     "title": "A conversation about Adler",
+     "body": "The book is written as a series of conversations between a sceptical young man and a philosopher who explains the ideas of Alfred Adler, an early twentieth century psychologist. The young man argues back hard, which lets the book test each idea against everyday objections. The format makes a challenging philosophy easy to follow, and it invites the reader to argue along instead of simply accepting what is said."
+    },
+    {
+     "id": "sh_courage2",
+     "title": "The past does not decide everything",
+     "body": "The philosopher argues, following Adler, that we are not simply driven by past events. Instead we choose, often without noticing, goals in the present and then use our past to explain them. Someone who avoids going out may point to past hurts, when part of the reason is a wish to avoid being hurt again. This view is contested, and painful experiences can have deep effects that deserve professional help. Its useful core is that change is possible now."
+    },
+    {
+     "id": "sh_courage3",
+     "title": "Whose task is this?",
+     "body": "One of the book's most practical ideas is separating tasks. For any problem, ask whose task it is, which usually means who will live with the result of the choice. Whether a teenager studies is ultimately the teenager's task. A parent can offer help, but forcing the matter intrudes on someone else's task and breeds resentment. Equally, you need not take on other people's opinions of you, because those are their task.",
+     "try": "When something worries you today, ask whose task it is, and let go of the part that belongs to someone else."
+    },
+    {
+     "id": "sh_courage4",
+     "title": "The courage to be disliked",
+     "body": "If you live to win everyone's approval, the philosopher argues, you end up living by other people's expectations. Freedom, in this view, includes accepting that some people will not like you. This does not mean trying to be disliked or being careless of others. It means not making your choices depend on being liked. A person who stops saying yes to every request in order to please may disappoint some people and still be acting well."
+    },
+    {
+     "id": "sh_courage5",
+     "title": "Equals, not above or below",
+     "body": "The book argues that relationships go wrong when they are vertical, with one person above another. Even praise can be vertical, because it is a judgement handed down from above. Adler's alternative is horizontal relationships between people of equal worth, in which encouragement and thanks take the place of praise and rebuke. Saying thank you for your help to a child or a colleague treats them as a partner, not as someone being graded.",
+     "try": "Today, swap one compliment for a simple thank-you that names what the person did for you."
+    },
+    {
+     "id": "sh_courage6",
+     "title": "Live here and now",
+     "body": "The philosopher suggests treating life as a series of moments, like a dance, instead of a climb toward some distant summit where real life will begin. Each moment is complete in itself. He links this to contribution: feeling that you are of use to others, even in small ways, gives a sense of worth that does not depend on recognition. Making tea for a tired family member counts, whether or not anyone notices."
+    }
+   ]
+  },
+  {
+   "id": "sh_artlearn",
+   "title": "The Art of Learning",
+   "author": "Josh Waitzkin",
+   "year": "2007",
+   "category": "creativity",
+   "why": "A chess prodigy who later became a martial arts champion reflects on how deep skill is built.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_artlearn1",
+     "title": "Believe that ability grows",
+     "body": "Waitzkin, drawing on the research of Carol Dweck, contrasts children who think they are simply \"good at\" something with those who think they got there by effort. The first group avoids challenges that might disprove the label, and crumbles after a loss. The second treats difficulty as part of the road. He credits his own progress to being taught early to connect results with work and to learn from painful defeats."
+    },
+    {
+     "id": "sh_artlearn2",
+     "title": "Invest in loss",
+     "body": "To improve, you have to be willing to look bad for a while. When Waitzkin took up a martial art as an adult, he chose to train with stronger partners and let himself be thrown again and again, studying what happened each time, instead of protecting his pride by relying on what already worked. Anyone learning a language will recognise it: the people who dare to speak badly learn to speak well.",
+     "try": "Do one thing today that you are still clumsy at, in front of someone better, and note one thing you learn."
+    },
+    {
+     "id": "sh_artlearn3",
+     "title": "Make smaller circles",
+     "body": "Waitzkin's approach is depth before breadth. He would take a single basic technique and practise it until he understood its essence, then gradually refine it, keeping the power while making the movement smaller and more economical. He argues that what looks like a master's mystery is usually a few fundamentals understood very deeply. Collecting many tricks at a shallow level is a common trap."
+    },
+    {
+     "id": "sh_artlearn4",
+     "title": "Learn the rules until you can forget them",
+     "body": "As a young chess player he studied simple positions with few pieces before memorising openings, so that principles sank in and became a feel for the game. He describes skill as a cycle: you study a technique consciously until it becomes intuitive and no longer needs thought, which frees attention for the next layer. A good driver no longer thinks about the gears and can watch the road."
+    },
+    {
+     "id": "sh_artlearn5",
+     "title": "The soft zone",
+     "body": "Concentration that depends on perfect conditions is brittle. Waitzkin distinguishes a tense, hard focus that shatters at the first noise from a relaxed one that takes disturbance in its stride. He trained himself to stay calm amid distractions he could not control, and even to use them. When you cannot make the surroundings quiet, such as in a noisy home or office, the more reliable skill is to be at peace with the noise."
+    },
+    {
+     "id": "sh_artlearn6",
+     "title": "Build a routine that brings you to your best",
+     "body": "Waitzkin describes working with performance trainers to create a reliable way of entering a focused state. You start with a relaxing sequence of activities before something you already do with full presence, repeat it until the link is firm, and then shorten it step by step. He also stresses alternating intense effort with real recovery, since the ability to relax briefly is what makes sustained focus possible."
+    }
+   ]
+  },
+  {
+   "id": "sh_mastery",
+   "title": "Mastery",
+   "author": "George Leonard",
+   "year": "1991",
+   "category": "habits",
+   "why": "A short, wise book on why real skill means learning to love long stretches of no visible progress.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_mastery1",
+     "title": "Mastery is a path, not a place",
+     "body": "Leonard, who came to the martial art of aikido in middle age and later taught it, describes mastery as a journey you stay on, not a goal you arrive at. People we call masters are those who keep practising after they are good. This removes the anxious question of whether you have made it yet. In anything worth doing for life, such as a craft, a marriage or a discipline, practice itself is what you have."
+    },
+    {
+     "id": "sh_mastery2",
+     "title": "Most of the path is plateau",
+     "body": "Learning does not rise in a smooth line. There are brief spurts of improvement, each followed by a slight dip and then a long flat stretch where nothing seems to happen. Leonard says the plateau is where the learning is sinking in. Our culture of quick results teaches us to feel that flat periods are failure. His advice is to practise for its own sake, and to learn to enjoy the plateau.",
+     "try": "In something you practise, do today's session with no aim of improving, only of doing it attentively."
+    },
+    {
+     "id": "sh_mastery3",
+     "title": "Three ways people leave the path",
+     "body": "Leonard sketches three types. The Dabbler loves beginnings, and moves to something new when the first plateau arrives. The Obsessive demands fast results, pushes hard, and burns out or gets hurt. The Hacker reaches a comfortable level and stays there, doing just enough. Most of us are each of these in different parts of life, and recognising which one you are being is the first step back."
+    },
+    {
+     "id": "sh_mastery4",
+     "title": "Five keys",
+     "body": "Leonard names five things that keep a learner going. Good instruction, from a teacher who cares about beginners. Practice, treated as a regular part of life. Surrender, meaning the willingness to look foolish and go back to basics. Intentionality, the use of a clear mental picture of what you are aiming at. And the edge: now and then pushing past your limits, from a base of patient daily practice."
+    },
+    {
+     "id": "sh_mastery5",
+     "title": "Expect resistance to change",
+     "body": "Bodies, families and organisations all tend to keep things as they are, and they push back against change even when it is change for the better. So when you start a good new practice, you may feel unsettled, and people around you may be uneasy. Leonard says this is not a sign that you are on the wrong course. Expect it, go steadily, find support, and keep the practice regular.",
+     "try": "Tell one supportive person about a practice you are starting, and ask them to encourage you when it gets flat."
+    }
+   ]
+  },
+  {
+   "id": "sh_innergame",
+   "title": "The Inner Game of Tennis",
+   "author": "W. Timothy Gallwey",
+   "year": "1974",
+   "category": "mind",
+   "why": "A tennis coach's classic on quieting self-criticism, read as much for life as for sport.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_innergame1",
+     "title": "The opponent inside your head",
+     "body": "Every game, says Gallwey, has two parts. The outer game is against the opponent. The inner game is against your own doubt, nervousness and lapses of attention. He noticed that his students usually knew what to do and were prevented by what went on in their heads. Improvement often came faster from calming that interference than from further technical instruction."
+    },
+    {
+     "id": "sh_innergame2",
+     "title": "Self 1 and Self 2",
+     "body": "Gallwey names the two voices. Self 1 is the teller: it gives instructions, judges and scolds. Self 2 is the doer: the body and the unconscious skill that actually hits the ball. The more Self 1 lectures and tries hard, the tighter and clumsier Self 2 becomes. Good performance comes when the telling quietens and the doing is trusted, which we recognise from any moment when we performed well \"without thinking\"."
+    },
+    {
+     "id": "sh_innergame3",
+     "title": "See without judging",
+     "body": "Labelling a shot \"bad\" sets off tension and overcorrection. Gallwey asks players simply to observe what happened: where the ball landed, where the racket was. Accurate, calm observation gives the body what it needs to adjust on its own, while judgement adds only emotion. The same holds away from the court. \"I interrupted her twice\" is useful to know. \"I am a terrible listener\" is not.",
+     "try": "Next time you make a mistake, describe exactly what happened in one plain sentence, with no \"good\" or \"bad\"."
+    },
+    {
+     "id": "sh_innergame4",
+     "title": "Learn by image and feel",
+     "body": "Children learn to walk without verbal instruction, by watching and trying. Gallwey found that adults also learn physical skills better by watching a good example, picturing the result they want, and paying attention to how the movement feels, than by following a list of commands. He would ask students to notice their swing instead of fixing it, and the changes often came unforced."
+    },
+    {
+     "id": "sh_innergame5",
+     "title": "Give the mind something to hold",
+     "body": "A mind told to be quiet will wander. Gallwey gives it a simple job in the present, such as watching the seams of the spinning ball, or saying \"bounce\" and \"hit\" at the exact moments they occur. Attention anchored this way has less room for worry about the score or the last mistake. In daily life, attending fully to the other person's words, or to your own breath, does the same work.",
+     "try": "In your next conversation, keep bringing your attention back to the speaker's exact words whenever it drifts."
+    },
+    {
+     "id": "sh_innergame6",
+     "title": "What winning is for",
+     "body": "Gallwey ends by questioning the link between results and self-worth. If your value depends on winning, fear will tighten every stroke. He comes to see competition as a kind of cooperation: the opponent provides the obstacles that let you find out what you can do, so a strong opponent is a gift. You can then give full effort while holding the outcome lightly."
+    }
+   ]
+  },
+  {
+   "id": "sh_creative",
+   "title": "The Creative Habit",
+   "author": "Twyla Tharp",
+   "year": "2003",
+   "category": "creativity",
+   "why": "A great choreographer's practical account of creativity as a daily discipline anyone can build.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_creative1",
+     "title": "Creativity is a habit",
+     "body": "Tharp opens with the claim that creativity is not a gift visited on a lucky few but the product of preparation and steady work. The inspired moment comes to people who have turned up, day after day, ready for it. She regards routine as the friend of imagination and not its enemy. This is hopeful, since habits can be built, whatever one believes about talent."
+    },
+    {
+     "id": "sh_creative2",
+     "title": "Begin with a ritual",
+     "body": "Tharp describes starting each day very early by getting into a taxi to the gym. The ritual, she says, is not the exercise but the taxi: once she is in it, the decision is made and the rest follows. A small automatic first act removes the daily question of whether to begin. A writer might make tea and sit down at the same chair, and a musician might always open with the same scale.",
+     "try": "Choose one small action that will mark the start of your creative or study time, and do it today."
+    },
+    {
+     "id": "sh_creative3",
+     "title": "Start a box",
+     "body": "For every new project Tharp takes a plain file box, writes the project's name on it, and puts in everything connected with it: notes, clippings, recordings, objects, books. The box means the project has begun even before she knows what it is. It keeps the material in one place, and it gives her something to return to when she is lost. A folder or a notebook serves the same purpose.",
+     "try": "Give a project you care about its own box, folder or notebook, and put the first item in it."
+    },
+    {
+     "id": "sh_creative4",
+     "title": "Go scratching for ideas",
+     "body": "Ideas do not arrive out of nowhere, and Tharp describes actively hunting for them, which she calls scratching. She reads, looks at art, listens, watches people, tries movements in the studio, and collects small fragments that might lead somewhere. A first idea is usually tiny, and it is the combining of several that makes something. The habit is to go looking, and not to wait."
+    },
+    {
+     "id": "sh_creative5",
+     "title": "Find the spine",
+     "body": "Tharp says each work needs a spine: the underlying idea or intention that holds it together, even if the audience never sees it. When a piece goes astray, she returns to it to decide what belongs and what does not. In ordinary work, being able to state in one sentence what a report, a speech or a lesson is really for makes the many small decisions far easier."
+    },
+    {
+     "id": "sh_creative6",
+     "title": "Skill sets you free",
+     "body": "Tharp has little patience for the notion that technique stifles originality. The more thoroughly you command the basics of your craft, the more ideas you are able to carry out, and she notes that the artists she admires kept practising fundamentals all their lives. She also advises failing in private, by trying and discarding many attempts in rehearsal, so that fewer failures happen in public."
+    }
+   ]
+  },
+  {
+   "id": "sh_obstacle",
+   "title": "The Obstacle Is the Way",
+   "author": "Ryan Holiday",
+   "year": "2014",
+   "category": "mind",
+   "why": "A brisk modern introduction to the Stoic idea that difficulties can be put to use.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_obstacle1",
+     "title": "What blocks the path can become the path",
+     "body": "The book grows from a thought of the Roman emperor Marcus Aurelius: what stands in the way of action can itself become the way forward. A setback always leaves some course open, and often offers a chance to practise a quality we would otherwise not develop, such as patience, courage or inventiveness. Holiday arranges the approach in three parts: how we see the problem, how we act on it, and how we endure it."
+    },
+    {
+     "id": "sh_obstacle2",
+     "title": "Perception: see it plainly",
+     "body": "Events arrive, and we add a story to them: this is a disaster, this is unfair. Holiday, following the Stoics, urges separating the plain facts from the judgement, and steadying the emotions enough to look clearly. One method is to describe the situation as you would if it had happened to a friend, when good advice usually comes easily. \"I lost this client\" is a fact. \"My business is finished\" is a story.",
+     "try": "Take one current worry and write down only the bare facts of it, leaving out every judgement."
+    },
+    {
+     "id": "sh_obstacle3",
+     "title": "Sort what is up to you",
+     "body": "A central Stoic habit is to divide any situation into what you control and what you do not. Other people's decisions, the past and the weather are not yours. Your effort, your attitude and your next move are. Energy spent on the first group is wasted. Stuck in a delayed train, you cannot make it move, but you can make the call you have been putting off, read, or simply decline to fume."
+    },
+    {
+     "id": "sh_obstacle4",
+     "title": "Action: follow the process",
+     "body": "Once you see clearly, you act, and Holiday favours persistent, practical action over grand gestures. Break the problem into the next small task, do it properly, and then do the one after. Thinking about the whole distance to the goal invites panic, and attending to the step in front of you does not. If one approach fails, try another angle. Trying again in a different way is treated as part of the method."
+    },
+    {
+     "id": "sh_obstacle5",
+     "title": "Will: prepare and accept",
+     "body": "Some obstacles cannot be moved by any action. For these the Stoics cultivated an inner strength. One practice is to imagine in advance what might go wrong, so that less takes you by surprise and you have a plan ready. Another is to accept, and even embrace, what has already happened and cannot be changed, and to ask what good can be made from it. Acceptance here means a starting point, not giving up.",
+     "try": "Before your next important task, list three things that could go wrong and what you would do about each."
+    },
+    {
+     "id": "sh_obstacle6",
+     "title": "A note on the examples",
+     "body": "Holiday teaches through short stories of famous figures from history, business and sport. They make the book lively, but they are chosen to fit the lesson, and biography can be tidied to suit a moral. Readers who want the philosophy itself, with its doubts and depth, should go on to Marcus Aurelius, Seneca and Epictetus. As a first, practical taste of the Stoic attitude, the book serves well."
+    }
+   ]
+  },
+  {
+   "id": "sh_optionb",
+   "title": "Option B",
+   "author": "Sheryl Sandberg and Adam Grant",
+   "year": "2017",
+   "category": "mind",
+   "why": "An honest account of grief joined with research on how people recover and help each other recover.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_optionb1",
+     "title": "When the first choice is gone",
+     "body": "Sandberg wrote the book after the sudden death of her husband in 2015, working with her friend the psychologist Adam Grant. The title comes from a moment when she wanted her husband to be there for an occasion with their children, and a friend helped her face the fact that this option no longer existed, so they would make the most of the next one. Resilience, they argue, is built and not fixed at birth."
+    },
+    {
+     "id": "sh_optionb2",
+     "title": "Three beliefs that deepen suffering",
+     "body": "Drawing on the psychologist Martin Seligman, the authors describe three traps after a blow. Personalisation is the belief that it is all your fault. Pervasiveness is the belief that it will spoil every part of your life. Permanence is the belief that the pain will always be as it is now. Recovery is helped by noticing these thoughts and questioning them: not everything was my doing, not everything is ruined, and this will change.",
+     "try": "For something that is troubling you, write one line each: what is not my fault, what is still fine, what will pass."
+    },
+    {
+     "id": "sh_optionb3",
+     "title": "Name the elephant in the room",
+     "body": "People often avoid mentioning a friend's loss or illness for fear of reminding them, as if they could forget. The silence leaves the suffering person isolated. Sandberg found that a simple acknowledgement helped most. She suggests asking \"How are you today?\" in place of \"How are you?\", since it shows you know that each day is a struggle and that the answer may not be \"fine\"."
+    },
+    {
+     "id": "sh_optionb4",
+     "title": "Do something specific",
+     "body": "\"Let me know if there is anything I can do\" is kindly meant but hands the work to the person least able to do it. The authors recommend just doing something concrete: bring a meal, collect the children, sit with them in the hospital. They also suggest treating others as they wish to be treated, which may differ from what you would want. Some people need to talk, and others need quiet company.",
+     "try": "Think of someone going through a hard time and do one specific, practical thing for them today."
+    },
+    {
+     "id": "sh_optionb5",
+     "title": "Small wins and self-compassion",
+     "body": "Grief and failure often bring a collapse of confidence. On Grant's suggestion, Sandberg wrote down three things she had done well each day, however small, such as making tea or getting through a meeting. Recording contributions, she found, rebuilt confidence in a way that listing things to be grateful for did not. The authors also urge treating your own mistakes with the understanding you would give a friend."
+    },
+    {
+     "id": "sh_optionb6",
+     "title": "Growth can follow, and joy is allowed",
+     "body": "The authors describe research on post-traumatic growth: some people, after great hardship, report greater strength, closer relationships, more appreciation of life or a new sense of purpose. This does not make the loss worthwhile, and not everyone experiences it. They also write about the guilt of feeling happy again, and about allowing yourself moments of joy, which are part of healing and no betrayal."
+    }
+   ]
+  },
+  {
+   "id": "sh_worry",
+   "title": "How to Stop Worrying and Start Living",
+   "author": "Dale Carnegie",
+   "year": "1948",
+   "category": "mind",
+   "why": "Old-fashioned, story-filled and still remarkably practical on the habit of worry.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_worry1",
+     "title": "Live in day-tight compartments",
+     "body": "Carnegie's first rule is to shut out yesterday and tomorrow as a ship seals its compartments, and to live within today. He does not mean ignoring the future. Plan for it carefully, then return to the task in front of you. Most of what weighs on us is regret over what is done or fear of what may never come, and neither can be handled now. Today's work, done well, is the best preparation for tomorrow."
+    },
+    {
+     "id": "sh_worry2",
+     "title": "Face the worst and improve on it",
+     "body": "For a pressing worry Carnegie gives three steps. Ask what is the worst that could possibly happen. Prepare yourself mentally to accept it if you must. Then calmly set about improving on that worst case. Accepting the worst releases the mind from panic, and clear thinking becomes possible. If the job were lost, what then? Once that has been looked at squarely, the energy spent on dread is free for action.",
+     "try": "Take your biggest current worry and write down the worst outcome, then one thing you could do to improve on it."
+    },
+    {
+     "id": "sh_worry3",
+     "title": "Get the facts, decide, then act",
+     "body": "Carnegie holds that much worry comes from trying to decide before we know enough. His method is to write down exactly what you are worried about, write down what you can do about it, decide which course to take, and start on it at once. Once a decision has been made on the facts, stop reconsidering. Writing the problem out clearly, he says, takes you a long way toward solving it."
+    },
+    {
+     "id": "sh_worry4",
+     "title": "Keep busy, and ask how likely it is",
+     "body": "Worry flourishes in idle hours, when the mind has nothing else to hold. Carnegie recommends absorbing activity as a cure, since it is hard to be anxious while fully occupied. He also suggests checking a fear against the record: how often does this actually happen? Many dreaded events turn out to be rare. He would ask us to worry in proportion to the real chances."
+    },
+    {
+     "id": "sh_worry5",
+     "title": "Accept what cannot be changed",
+     "body": "When something truly cannot be altered, fighting it only adds bitterness to the loss. Carnegie advises cooperating with the inevitable, like a tree that bends in the wind. He adds a second image from the stock market: put a limit on how much anxiety any matter is worth, and when the limit is reached, stop. And he warns against going back over finished mistakes, which he compares to sawing sawdust.",
+     "try": "Decide how much more time one nagging worry deserves, set that limit, and stop when you reach it."
+    },
+    {
+     "id": "sh_worry6",
+     "title": "Count what you have",
+     "body": "Carnegie ends on habits of mind that crowd worry out. Take stock of what is going right, and do not dwell only on troubles. Do not waste thought on people you dislike. Expect ingratitude, and give for the pleasure of giving. Take an interest in others, since doing a kindness draws attention away from yourself. His tone and stories belong to their time, but people still find these suggestions useful."
+    }
+   ]
+  },
+  {
+   "id": "sh_asaman",
+   "title": "As a Man Thinketh",
+   "author": "James Allen",
+   "year": "1903",
+   "category": "mind",
+   "why": "A brief, much-loved essay on how habitual thought shapes character, to be read with some care.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_asaman1",
+     "title": "The mind as a garden",
+     "body": "Allen's central picture is that the mind is like a garden. It can be carefully cultivated or left to run wild, but in either case something will grow. If no useful seeds are planted, weeds will fill it. So a person can tend their mind as a gardener tends a plot, removing wrong and useless thoughts and encouraging good ones. The image makes inner life a matter of patient daily care."
+    },
+    {
+     "id": "sh_asaman2",
+     "title": "Character is built from thought",
+     "body": "Allen holds that a person's character is the sum of their habitual thinking. A noble character is not luck or favour but the natural result of long effort in right thinking, and a base one comes the same way. Acts, he says, are the blossom of thought. The practical point is that if you wish to behave differently, you should watch what you dwell on during the quiet hours of the day.",
+     "try": "Three times today, pause and notice what you have been thinking about for the last few minutes."
+    },
+    {
+     "id": "sh_asaman3",
+     "title": "Thought and circumstance, with a caution",
+     "body": "Allen claims that outer circumstances grow out of inner thought, so that people do not attract what they want but what they are. There is some truth here: resentment or diligence, held for years, does shape a life. But he pushes it very far, suggesting the poor and suffering have largely made their own conditions. That overlooks birth, luck, illness and injustice, and readers should not take it as a full account."
+    },
+    {
+     "id": "sh_asaman4",
+     "title": "Thought and the body",
+     "body": "Allen writes that the body obeys the mind, that anxious and bitter thoughts break down health, and that cheerful, pure thoughts build it up. Mood and stress do affect how we feel and how well we look after ourselves. But his stronger claim, that sickness and health are rooted in thought, is not supported by medicine, and it can lead to blaming people for their illnesses. Keep the calm outlook and still see a doctor."
+    },
+    {
+     "id": "sh_asaman5",
+     "title": "Thought needs a purpose",
+     "body": "Without a central purpose, Allen says, people drift, and fall prey to worry, fear and self-pity. He advises fixing on a worthy aim and making it the focus of your thoughts, and returning to it after each failure. Those not ready for a great purpose can begin by doing their present duty faultlessly, however small. The aim gathers scattered thinking, as a lens gathers light."
+    },
+    {
+     "id": "sh_asaman6",
+     "title": "Serenity is strength",
+     "body": "The essay closes with praise of calmness of mind, which Allen calls the fruit of long self-control. A calm person has learned how thoughts work and so does not fret or flare up, and others find them steadying to be near. He treats tranquillity as the final lesson of character, earned slowly. You can use it as a measure: am I a little harder to upset than I was a year ago?"
+    }
+   ]
+  },
+  {
+   "id": "sh_youcanwin",
+   "title": "You Can Win",
+   "author": "Shiv Khera",
+   "year": "1998",
+   "category": "mind",
+   "why": "A hugely popular Indian motivational book that puts the case for attitude and character in plain terms.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_youcanwin1",
+     "title": "Attitude is the foundation",
+     "body": "Khera's starting point is that attitude counts for more than talent or luck in how a life turns out. He illustrates it with a balloon seller telling a child that a balloon rises because of what is inside it, not its colour. A person with ability and a sour attitude is hard to work with, and a willing one learns and is helped. The point is simple, but it is easy to forget when we are busy blaming circumstances."
+    },
+    {
+     "id": "sh_youcanwin2",
+     "title": "Winners do the same things differently",
+     "body": "The book's best-known idea is that successful people do not do unusual things. They do ordinary things in a different way: with more care, more consistency and a better spirit. The shopkeeper who greets every customer warmly and the student who revises each day are doing nothing exotic. Excellence is brought within anyone's reach, since no special opportunity is needed to begin.",
+     "try": "Pick one routine task today and do it with noticeably more care than usual."
+    },
+    {
+     "id": "sh_youcanwin3",
+     "title": "Steps to a positive attitude",
+     "body": "Khera lists habits that build a constructive outlook. Look for what is good in a person or situation. Do things now and not later. Be grateful for what you have. Keep learning. Stay away from negative influences, and learn to like what has to be done. Begin the day with something positive. None of this is new, and he says so, but practised together the habits change how a day feels.",
+     "try": "Before bed, write down three things from today that you are grateful for."
+    },
+    {
+     "id": "sh_youcanwin4",
+     "title": "Success is the journey toward a worthy goal",
+     "body": "Khera adopts an older definition of success as the steady, progressive pursuit of a worthwhile goal. Two words carry the weight. Progressive means success is a direction of travel and not a single arrival. Worthy means the goal must be consistent with your values, since achievement gained by cutting corners does not satisfy. He adds that goals should be written, specific and given a date."
+    },
+    {
+     "id": "sh_youcanwin5",
+     "title": "Self-esteem grows from what you do",
+     "body": "How we feel about ourselves, Khera says, shapes our work, our relationships and what we attempt. He does not think it can be built by flattering yourself. It grows from keeping your word, doing good work, helping others without expecting a return, and accepting responsibility without excuses. Each kept promise, including a small one made to yourself, strengthens your trust in yourself."
+    },
+    {
+     "id": "sh_youcanwin6",
+     "title": "How to read this book",
+     "body": "You Can Win is a collection of maxims, lists and short parables more than an argument, and much of the material is retold from older motivational writers and traditional stories. Khera has been criticised on that score. It offers no research evidence. Read it as you would hear a spirited talk from a well-meaning elder: for encouragement and reminders of things you know, to be tested in your own life."
+    }
+   ]
+  },
+  {
+   "id": "sh_monk",
+   "title": "The Monk Who Sold His Ferrari",
+   "author": "Robin Sharma",
+   "year": "1996 (self-published), 1997",
+   "category": "mind",
+   "why": "A simple fable that has prompted many readers, especially in India, to slow down and take stock.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_monk1",
+     "title": "A fable about starting again",
+     "body": "The book is fiction. Julian Mantle, a celebrated and overworked lawyer, collapses in court with a heart attack. He gives up his practice, sells his possessions, including the Ferrari, and travels to the Himalayas, where he learns from a group of sages. He comes back transformed and tells the story to a former colleague. The sages are invented, and the lessons are familiar ones, packaged in a memorable tale."
+    },
+    {
+     "id": "sh_monk2",
+     "title": "Tend the garden of the mind",
+     "body": "The first lesson uses the image of a lush garden: the mind flourishes when you care for it and let in only what belongs there. Julian is taught to notice his thoughts and to replace a troubling one with a constructive one, and to practise concentration by gazing at a rose for some minutes each day, bringing the mind back when it strays. The claim is that quality of life follows quality of thought.",
+     "try": "Spend five minutes looking closely at one object, such as a flower or a leaf, returning your attention each time it wanders."
+    },
+    {
+     "id": "sh_monk3",
+     "title": "A lighthouse: know your purpose",
+     "body": "A lighthouse stands for purpose. The sages teach that a life needs a clear aim to steer by, and that happiness comes from steady progress toward it. Julian learns a method: form a clear picture of the outcome, create some positive pressure by telling others, set a deadline, and stay with it until it becomes habit. A written goal with a date is treated as much more powerful than a vague wish."
+    },
+    {
+     "id": "sh_monk4",
+     "title": "Small daily improvements",
+     "body": "A sumo wrestler in the fable represents kaizen, the Japanese word for continuous improvement. The teaching is that outer success begins with inner mastery, built through small daily acts: rising early, time in silence, exercise, simple food, reading, reflecting on the day. The book offers ten such rituals. Whatever one thinks of the list, the idea of improving a little each day is sound."
+    },
+    {
+     "id": "sh_monk5",
+     "title": "Discipline and time",
+     "body": "A thin wire cable, made strong by many strands twisted together, stands for self-discipline built from many small acts of will, such as doing a thing you would prefer to skip. A gold stopwatch stands for time, the one resource that cannot be replaced. Julian is taught to plan his week around priorities, to say no to what does not matter, and to live with the awareness that his days are numbered.",
+     "try": "Do one small thing today that you would prefer to avoid, purely as practice in keeping your word to yourself."
+    },
+    {
+     "id": "sh_monk6",
+     "title": "Serve others and live now",
+     "body": "The last symbols are fresh roses, for selfless service, and a path of diamonds, for living in the present. The sages say that the quality of a life comes down to what one contributes, and that a little of the fragrance stays on the hand that gives roses. They add that happiness is found along the way and not at some later arrival, so one should not trade the people and pleasures of today for a distant success."
+    }
+   ]
+  },
+  {
+   "id": "sh_thinkmonk",
+   "title": "Think Like a Monk",
+   "author": "Jay Shetty",
+   "year": "2020",
+   "category": "mind",
+   "why": "An accessible bridge between ideas from Hindu monastic life and the pressures of modern routine.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "sh_thinkmonk1",
+     "title": "Whose values are you living by?",
+     "body": "Shetty, who writes of time spent living as a monk in an ashram in India, begins with identity. Much of what we chase, he says, comes from what parents, friends and media have taught us to want, and we see ourselves through what we imagine others think of us. He proposes an audit: look at how you actually spend your time and money, and ask whether it matches the values you would name as your own.",
+     "try": "Look at where your free hours went last week and ask whether that matches what you say matters most to you."
+    },
+    {
+     "id": "sh_thinkmonk2",
+     "title": "Spot, stop, swap",
+     "body": "Complaining, comparing and criticising spread easily, and Shetty treats them as habits to be worked on. His method has three steps. Spot the negative thought or remark and what set it off. Stop, and take a breath in place of reacting. Swap it for something more useful, such as a specific request or a plain statement of what you feel. He does not say negative feelings should be denied, only that they should not run on unexamined."
+    },
+    {
+     "id": "sh_thinkmonk3",
+     "title": "Check your intention",
+     "body": "Following a Hindu teaching, Shetty describes four motives for action: fear, desire for success or pleasure, duty, and love. The first two can drive us hard but leave us anxious or empty. The last two last longer. He suggests asking \"why\" repeatedly about a goal until you reach the real reason. Wanting a promotion may turn out to be about security for your family, which may be served in other ways as well."
+    },
+    {
+     "id": "sh_thinkmonk4",
+     "title": "Find your dharma",
+     "body": "Shetty uses the Sanskrit word dharma loosely, to mean the kind of work that suits your nature and helps others. He describes it as the meeting of what you are good at and love with what the world needs. You discover it by trying things and noticing what absorbs and energises you, and you can bring more of it into the job you already have. He says not everyone needs to change career to live it."
+    },
+    {
+     "id": "sh_thinkmonk5",
+     "title": "Train the monkey mind",
+     "body": "The untrained mind jumps from thought to thought like a monkey among branches. A monk's mind, Shetty says, is the result of daily practice. He recommends routines that leave fewer decisions to chance: rising a little earlier, doing things in the same place at the same time, and doing one thing at a time with attention. He also teaches breathing exercises and brief visualisation as ways of settling down.",
+     "try": "Do one ordinary task today, such as washing up or making tea, with your full attention and nothing else running."
+    },
+    {
+     "id": "sh_thinkmonk6",
+     "title": "Gratitude and service",
+     "body": "The closing chapters turn outward. Shetty recommends a daily practice of gratitude that is specific, naming exactly what someone did and how it helped. He presents service as the highest purpose in the tradition he learned, and as a direct route to a lighter mind. As with many popular teachers, journalists have questioned some details of his life story, though the practices themselves are old and can be judged on their merits."
+    }
+   ]
+  }
+ ]
+}

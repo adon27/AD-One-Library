@@ -1,0 +1,1640 @@
+{
+ "pack": "faith",
+ "version": 1,
+ "title": "Catholic faith and spiritual classics",
+ "books": [
+  {
+   "id": "fa_imitation",
+   "title": "The Imitation of Christ",
+   "author": "Thomas a Kempis",
+   "year": "c. 1420",
+   "category": "faith",
+   "why": "After the Bible, perhaps the most widely read Christian book: a plain guide to following Jesus from the inside.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "fa_imitation1",
+     "title": "Loving God matters more than talking about him",
+     "body": "The book opens by warning that learning about holy things is worth little without a humble, loving heart. A person can speak cleverly about the Trinity and still displease God by pride. Thomas does not despise study; he puts it in its place. What counts on the last day is not how much we read but how we lived. Let every sermon, class or book end in one question: what will I now do differently?"
+    },
+    {
+     "id": "fa_imitation2",
+     "title": "See yourself truthfully",
+     "body": "Humility, for Thomas, is simply the truth about ourselves: everything good in us is a gift, and we fail more often than we admit. Someone who knows this stops being surprised by his own faults and stops being harsh about the faults of others. He advises us to be slow to judge our neighbour, because we see the outside only, and quick to examine ourselves, which is work that always bears fruit.",
+     "try": "Tonight, name one fault you criticised in someone today, and ask honestly where the same fault lives in you."
+    },
+    {
+     "id": "fa_imitation3",
+     "title": "Peace begins inside",
+     "body": "We usually wait for other people and circumstances to change before we can be at peace. Thomas turns this around: first keep peace in your own heart, and then you will be able to bring peace to others. A peaceful person does more good than a learned one. This peace does not depend on being praised or blamed, since neither changes what we truly are before God. It grows when we stop needing to have our own way."
+    },
+    {
+     "id": "fa_imitation4",
+     "title": "The royal road of the cross",
+     "body": "There is no path to life and lasting peace that goes around the cross. Suffering finds everyone, the devout and the careless alike; the only choice is how we carry it. Thomas teaches that a cross carried willingly, in union with Jesus, begins to carry us, while a cross resented grows heavier. This is not a love of pain. It is trust that Christ, who went this way first, is met on it.",
+     "try": "Choose one burden you cannot change today and offer it to Jesus in a single sentence instead of complaining about it."
+    },
+    {
+     "id": "fa_imitation5",
+     "title": "Friendship with Jesus above all",
+     "body": "Thomas writes of Jesus as a friend who stays when all others leave. Human friendships are good, but they cannot bear the full weight of our hearts; people move, change and die. Whoever holds on to Jesus has a companion in every loss, and whoever loses him loses more than the whole world. So he urges us to love all people for the sake of Jesus, and Jesus for his own sake."
+    },
+    {
+     "id": "fa_imitation6",
+     "title": "Come to Communion with care",
+     "body": "The last part of the book is about the Eucharist, the sacrament in which Christ gives his own Body and Blood as food. Thomas is amazed that the Lord of all comes to us so humbly, and he asks for two things in return: careful preparation and frequent, grateful receiving. We are never worthy, he says, yet we are invited, and staying away from the medicine does not make the sick well.",
+     "try": "Before your next Holy Qurbana, spend two quiet minutes telling Jesus why you need him this week."
+    }
+   ]
+  },
+  {
+   "id": "fa_confessions",
+   "title": "Confessions",
+   "author": "St Augustine of Hippo",
+   "year": "c. 400",
+   "category": "faith",
+   "why": "The honest prayer of a brilliant, restless man who looked everywhere for happiness before he let God find him.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_confessions1",
+     "title": "The heart is made for God",
+     "body": "Augustine begins with the idea that explains his whole life: God has made us for himself, and our hearts cannot settle until they rest in him. Success, pleasure, friendship and learning are good, yet each leaves an ache when asked to be everything. That ache is not a defect. It is the mark of our Maker, drawing us home. Restlessness, read rightly, is an invitation to pray.",
+     "try": "When you feel restless or dissatisfied today, turn the feeling into a short prayer: Lord, it is you I am looking for."
+    },
+    {
+     "id": "fa_confessions2",
+     "title": "Why we choose what is wrong",
+     "body": "As a boy Augustine joined friends in stealing pears he did not even want. Looking back, he sees that he loved the wrongdoing itself and the thrill of doing it together. From this small theft he learns something large: sin is not mainly about attractive things but about a will turned away from God, and bad company makes it easy. He takes small sins seriously because they reveal the heart."
+    },
+    {
+     "id": "fa_confessions3",
+     "title": "The divided will",
+     "body": "For years Augustine knew what was right and could not do it. He asked God for purity, but not yet. He describes habit as a chain forged link by link from his own choices, until part of him wanted freedom and part clung to the old life. Anyone who has tried to give up a sin will recognise this. His honesty teaches us not to pretend the struggle is absent, and not to trust willpower alone."
+    },
+    {
+     "id": "fa_confessions4",
+     "title": "A mother who kept praying",
+     "body": "Augustine's mother, St Monica, wept and prayed for her son for many years while he wandered far from the faith. She did not win him by argument. She followed him, loved him and kept bringing him before God, and she lived to see him baptised. Augustine sees her tears as one of the ways God's grace reached him. Parents who pray for children far from the Church have a patron in her.",
+     "try": "Pray one decade of the Rosary today for a family member who is far from God, and name that person aloud."
+    },
+    {
+     "id": "fa_confessions5",
+     "title": "Grace does what effort cannot",
+     "body": "The turning point came in a garden in Milan. Worn out by his struggle, Augustine opened the letters of St Paul and read the call to put on the Lord Jesus Christ (Romans 13:14). In that moment the chains fell away. He is clear that this was God's gift, called grace, and not his own achievement. Conversion is God's work in us, which we can ask for, wait for and consent to."
+    },
+    {
+     "id": "fa_confessions6",
+     "title": "God was within all along",
+     "body": "After his conversion Augustine grieves that he came to love God so late. He had searched for beauty in created things outside himself, while God, the source of their beauty, was present within him the whole time. Created things are good and point beyond themselves; the mistake is to stop at them. He teaches us to let every lovely thing lead us to thank the One who made it."
+    }
+   ]
+  },
+  {
+   "id": "fa_devout_life",
+   "title": "Introduction to the Devout Life",
+   "author": "St Francis de Sales",
+   "year": "1609",
+   "category": "faith",
+   "why": "The classic handbook of holiness written for busy lay people, by a bishop known for his gentleness.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_devout_life1",
+     "title": "Holiness is for every way of life",
+     "body": "St Francis de Sales wrote for people in the world: the married, soldiers, shopkeepers, servants, people at court. He insists it is a mistake to think a devout life belongs only to monasteries. Devotion must fit each person's duties. A parent who prayed like a hermit and neglected the children would be practising a false devotion. True love of God makes us better at our own work, not absent from it."
+    },
+    {
+     "id": "fa_devout_life2",
+     "title": "Devotion is love that moves quickly",
+     "body": "What is devotion? Not long prayers, a grave face or many fasts. For Francis it is charity, the love of God, grown so lively that we do what is good promptly, often and gladly. He compares the sinner to one who cannot fly, the good person to a bird that flies slowly, and the devout person to one that flies swiftly and high. The test is readiness: how willingly do I do what love asks?"
+    },
+    {
+     "id": "fa_devout_life3",
+     "title": "A simple way to pray each morning",
+     "body": "Francis teaches a short daily prayer of the heart. Place yourself in God's presence and ask his help. Consider one scene or truth of the faith. Let it move you to love, sorrow or gratitude. Then make one concrete resolution for the day. Finally, as someone leaving a garden picks a few flowers to smell later, carry one thought with you and return to it through the day.",
+     "try": "Tomorrow morning give ten minutes to this method with one Gospel scene, and end with a single resolution."
+    },
+    {
+     "id": "fa_devout_life4",
+     "title": "Practise the little virtues",
+     "body": "We rarely have the chance to do great deeds, but every day offers small ones. Francis prizes the humble virtues that grow at the foot of the cross: patience with tiresome people, gentleness, kindness in speech, cheerfulness, bearing small inconveniences without fuss. Such acts are hidden and unglamorous, and for that reason safer from pride. Much love can be put into very small things."
+    },
+    {
+     "id": "fa_devout_life5",
+     "title": "Be gentle with yourself",
+     "body": "When we fall, Francis asks us not to rage against ourselves. Bitter anger at our own faults comes more from wounded pride than from love of God, and it leaves us discouraged. He advises correcting ourselves as a kind father corrects a child: calmly admit the fault, be sorry, trust in God's mercy and begin again at once. Steady, peaceful sorrow changes us more than a storm of self-reproach.",
+     "try": "The next time you fail today, say simply: Lord, this is what I am without you. Help me begin again. Then carry on."
+    },
+    {
+     "id": "fa_devout_life6",
+     "title": "A cell in the heart",
+     "body": "A busy person cannot always withdraw to pray, but can always turn inward for a moment. Francis recommends short, loving prayers sent up through the day like arrows, and a habit of retiring into the heart even in the middle of conversation and business. No work is hindered by this, since it takes seconds. He counts these brief prayers as one of the surest supports of the spiritual life."
+    }
+   ]
+  },
+  {
+   "id": "fa_story_soul",
+   "title": "Story of a Soul",
+   "author": "St Therese of Lisieux",
+   "year": "1898",
+   "category": "faith",
+   "why": "A young Carmelite nun's memoir that showed millions an ordinary, trusting way to great holiness.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_story_soul1",
+     "title": "The little way",
+     "body": "Therese wanted to be a saint but saw herself as too small and weak for the steep stairway of heroic deeds. So she looked for a shorter way, and found it in Scripture's promise that God carries the little ones. Her lift, she decided, would be the arms of Jesus. Instead of growing great she would stay little and let him lift her. Holiness, in this way, is trust more than achievement."
+    },
+    {
+     "id": "fa_story_soul2",
+     "title": "Small things with great love",
+     "body": "Therese did nothing the world would notice. Her way was to miss no chance of a small sacrifice: a smile when she felt none, a kind word, a task done without being thanked, an irritation borne silently. She thought of these as flowers scattered before God. Their size did not matter; the love in them did. Anyone, in any house or office, can walk this way today.",
+     "try": "Do one hidden kindness today that nobody will trace back to you, and offer it to Jesus."
+    },
+    {
+     "id": "fa_story_soul3",
+     "title": "Loving the person who is hard to love",
+     "body": "In the convent there was a sister whose manner Therese found disagreeable in everything. Rather than avoid her, Therese prayed for her each time they met and did her every service she could, so that the sister believed she was especially liked. Therese teaches that charity is not a feeling of attraction. It is a choice, and it is proved most where it costs most."
+    },
+    {
+     "id": "fa_story_soul4",
+     "title": "Confidence rather than fear",
+     "body": "Therese approached God as a small child approaches a loving father: sure of being welcomed even after a fall. Her faults did not surprise or discourage her, since she expected nothing from her own strength. She offered herself to God's merciful love and asked him to be her holiness. This is not carelessness about sin. It is the conviction that mercy is greater, and that trust honours God."
+    },
+    {
+     "id": "fa_story_soul5",
+     "title": "Prayer is a simple turning of the heart",
+     "body": "Therese admits that fine prayers from books often gave her a headache. For her, prayer was a lifting of the heart, a simple look towards heaven, a cry of gratitude and love in trial as well as in joy. When her mind was dry she would say the Our Father very slowly. Prayer does not need many words or special feelings; it needs honesty and a turning towards God.",
+     "try": "Pray one Our Father today as slowly as you can, pausing after each line."
+    },
+    {
+     "id": "fa_story_soul6",
+     "title": "Love is the vocation",
+     "body": "Therese felt drawn to every calling at once: priest, missionary, teacher, martyr. Reading St Paul on the body and its members (1 Corinthians 12 and 13), she understood that the Church has a heart, and that love is what makes every other calling work. Her place would be love, in the heart of the Church. Whatever our state of life, this vocation is open to us, and it gives the others their worth."
+    }
+   ]
+  },
+  {
+   "id": "fa_interior_castle",
+   "title": "The Interior Castle",
+   "author": "St Teresa of Avila",
+   "year": "1577",
+   "category": "faith",
+   "why": "A Doctor of the Church maps the life of prayer, from first steps to deep union with God, in one image.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_interior_castle1",
+     "title": "The soul is a castle and God lives at the centre",
+     "body": "Teresa asks us to picture the soul as a castle of clear crystal with many rooms, called mansions, and God dwelling in the innermost one. Many people live in the outer courtyard, hardly knowing the castle has an inside. The spiritual life is a journey inward towards the One who already lives in us. The door, she says, is prayer and reflection, with attention to whom we are speaking."
+    },
+    {
+     "id": "fa_interior_castle2",
+     "title": "Never leave the room of self-knowledge",
+     "body": "In the first mansions Teresa places self-knowledge and humility, and she says we never graduate from them however far we advance. We know ourselves best by looking at God: his greatness shows our littleness, his purity shows our faults, without crushing us. Humility is walking in the truth. Prayer that makes a person feel superior to others has taken a wrong turning."
+    },
+    {
+     "id": "fa_interior_castle3",
+     "title": "When good people get stuck",
+     "body": "The third mansions describe people who live carefully, avoid sin, pray and give alms. Their danger is to feel they have arrived, and to be upset when God allows dryness or small trials. Teresa says these trials show how attached we still are to comfort and our own good opinion. Progress is measured by willingness to do God's will, not by sweet feelings in prayer.",
+     "try": "If prayer feels dry today, stay for the full time you planned anyway, as a gift given without reward."
+    },
+    {
+     "id": "fa_interior_castle4",
+     "title": "Prayer becomes God's gift",
+     "body": "As the soul goes inward, prayer depends less on our effort and more on God. Teresa compares two basins: one filled by channels built with much labour, the other by a spring rising silently from within. The second is quiet, contemplative prayer, which God gives when and as he wills. We cannot produce it or earn it. Our part is to be faithful, humble and available."
+    },
+    {
+     "id": "fa_interior_castle5",
+     "title": "The silkworm and the butterfly",
+     "body": "For union with God Teresa uses the image of a silkworm that spins a cocoon, dies inside it and comes out a white butterfly. The soul builds its house in Christ by prayer, the sacraments and letting go of self-will; there the old self dies and a freer life begins. She adds that a real union is open to everyone: wanting what God wants in all things."
+    },
+    {
+     "id": "fa_interior_castle6",
+     "title": "The proof is love of neighbour",
+     "body": "Even in the highest mansions Teresa is practical. We cannot be sure how much we love God, she says, but we can see whether we love our neighbour, and the one is the measure of the other. Prayer exists to give birth to good works. Martha and Mary must go together: time with the Lord, and hands that serve him in others. A prayer life that makes us less kind is not from God.",
+     "try": "After your prayer time today, do one concrete act of service for someone in your home."
+    }
+   ]
+  },
+  {
+   "id": "fa_dark_night",
+   "title": "Dark Night of the Soul",
+   "author": "St John of the Cross",
+   "year": "c. 1585",
+   "category": "faith",
+   "why": "The Church's great guide to times when prayer goes dry and God seems absent, showing what God is doing in them.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_dark_night1",
+     "title": "The night is God's work",
+     "body": "After an early period of sweetness in prayer, many faithful people find that the comfort disappears. John teaches that this is often not a punishment or a sign of failure. God acts like a mother who weans a child and sets it down to walk. He withdraws pleasant feelings so that we learn to love him for himself and not for his gifts. The darkness comes from more light than our eyes can yet bear."
+    },
+    {
+     "id": "fa_dark_night2",
+     "title": "Hidden faults of the devout",
+     "body": "John looks kindly but sharply at beginners. The seven capital sins return in spiritual dress: pride in one's piety, greed for books, objects and experiences, envy of another's progress, anger at one's own slowness, a sweet tooth for consolation. We cannot root these out by our own effort, since we barely see them. The night does it, by taking away the satisfactions on which they feed."
+    },
+    {
+     "id": "fa_dark_night3",
+     "title": "Three signs to tell the night from lukewarmness",
+     "body": "Dryness can also come from carelessness or from low spirits, so John offers three signs taken together. First, the person finds no comfort in the things of God, nor in anything else. Second, he is troubled that he is failing God, which a careless soul would not be. Third, he can no longer meditate step by step as before. Lasting sadness that weighs on daily life also deserves a doctor's care."
+    },
+    {
+     "id": "fa_dark_night4",
+     "title": "What to do in the dark",
+     "body": "John's advice is simple and hard: do not turn back, and do not force the old ways of prayer. Stay before God with a quiet, loving attention, content to be there without feeling or thinking much. Keep your times of prayer, your duties and your charity. The soul feels it is wasting time, yet God is working in secret. A wise confessor or spiritual guide is a great help in this season.",
+     "try": "Give God ten minutes of silent presence today with no aim except to be with him."
+    },
+    {
+     "id": "fa_dark_night5",
+     "title": "The log in the fire",
+     "body": "A deeper night, of the spirit, purifies faith, hope and love themselves. John compares the soul to a damp log put on a fire. First the fire dries it, blackens it and makes it smoke, and it looks worse than before. Then the wood itself catches and becomes flame. The same love that seems to torment is the love that transforms. The pain belongs to our resistance, not to God's harshness."
+    }
+   ]
+  },
+  {
+   "id": "fa_presence",
+   "title": "The Practice of the Presence of God",
+   "author": "Brother Lawrence of the Resurrection",
+   "year": "1692",
+   "category": "faith",
+   "why": "A monastery cook's very short, very simple method for living all day in God's company.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_presence1",
+     "title": "The kitchen is as holy as the chapel",
+     "body": "Brother Lawrence was a lay brother in a Carmelite house in Paris, working for years in the kitchen and later mending sandals. He found that set times of prayer were no different for him from times of work, since he was with God in both. Amid noise and many demands at once he kept the same peace as on his knees. Our ordinary work is not an obstacle to prayer. It can be the place of it."
+    },
+    {
+     "id": "fa_presence2",
+     "title": "Keep up a quiet conversation",
+     "body": "His whole method is to remember that God is present and to speak with him often, simply and frankly: asking help before a task, giving thanks after it, admitting a mistake, saying a word of love. No learning or technique is needed. He held that we do not have to be in church to be with God; we can make a chapel of the heart and step into it at any moment.",
+     "try": "Set three moments today (starting work, lunch, the journey home) and at each one say a single sentence to God."
+    },
+    {
+     "id": "fa_presence3",
+     "title": "Small things for love",
+     "body": "Brother Lawrence did not seek great deeds. He did the smallest kitchen task for the love of God and was content. He taught that God looks less at the size of the work than at the love with which it is done. This frees us from waiting for a more important life. Washing vessels, filling in forms, waiting in a queue can each become an act of love when offered."
+    },
+    {
+     "id": "fa_presence4",
+     "title": "After a fall, go straight back",
+     "body": "When he failed, Brother Lawrence did not sink into anxiety. He admitted the fault to God plainly, said in effect that he could do no better if left to himself, asked for grace and returned to his practice in peace. When he did well, he thanked God as the source. Losing time in discouragement only adds a second fault to the first. The way back is always one short prayer."
+    },
+    {
+     "id": "fa_presence5",
+     "title": "It is hard at first, then it becomes natural",
+     "body": "He is honest that the practice cost him years of effort, with a wandering mind and little consolation. He simply began again each time he noticed he had forgotten God, without scolding himself. Over time the turning of the heart became a habit and then a joy. So we should expect to forget many times a day. What matters is the gentle return, repeated until it is part of us."
+    }
+   ]
+  },
+  {
+   "id": "fa_rule_benedict",
+   "title": "The Rule of St Benedict",
+   "author": "St Benedict of Nursia",
+   "year": "c. 530",
+   "category": "faith",
+   "why": "The small rule book that shaped Western monastic life, full of balanced wisdom for any household.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_rule_benedict1",
+     "title": "Listen",
+     "body": "The Rule begins by asking us to listen with the ear of the heart. Benedict sets out to found a school for the Lord's service where nothing is harsh or burdensome beyond what is needed to mend faults and guard love. Everything else flows from this attentive listening: to God in Scripture, to those in authority, to one another. A family or workplace changes when its members listen first."
+    },
+    {
+     "id": "fa_rule_benedict2",
+     "title": "Pray and work, each at its hour",
+     "body": "Benedict divides the monk's day between common prayer, which he calls the Work of God, prayerful reading of Scripture, and manual labour. Nothing is to be put before prayer, and idleness is named the enemy of the soul. Each activity has its hour, and when the bell rings one stops and goes. A lay person can borrow the principle: fixed anchors of prayer, and honest work between them.",
+     "try": "Fix two times of prayer for today, morning and night, and stop what you are doing when each arrives."
+    },
+    {
+     "id": "fa_rule_benedict3",
+     "title": "Receive every guest as Christ",
+     "body": "All who arrive at the monastery are to be welcomed as Christ himself, because he will say, I was a stranger and you welcomed me (Matthew 25:35). The poor and pilgrims receive special care, since Christ is received most truly in them. The sick too are to be served as Christ. Benedict turns hospitality from good manners into an act of faith: the person at the door is the Lord."
+    },
+    {
+     "id": "fa_rule_benedict4",
+     "title": "The ladder of humility",
+     "body": "Benedict describes humility as a ladder of twelve steps. It begins with keeping God always before our eyes and goes on through giving up self-will, patient endurance of hard things, honesty about our faults, restraint in speech and contentment with little. At the top, he says, the monk reaches the love that casts out fear, and does by habit and delight what he once did by effort."
+    },
+    {
+     "id": "fa_rule_benedict5",
+     "title": "Moderation and care for the weak",
+     "body": "The Rule is strict about essentials and mild in details. The abbot is told to arrange everything so that the strong still have something to strive for and the weak are not driven away. Food, sleep and work are measured by need and health. Even the tools of the house are to be handled like the sacred vessels of the altar. Ordinary things, used with care, are part of serving God."
+    },
+    {
+     "id": "fa_rule_benedict6",
+     "title": "Stay, and do not grumble",
+     "body": "Benedict's monks promise stability: to remain in one community for life and grow there, without fleeing when people or tasks become difficult. With this goes his repeated warning against murmuring, the quiet complaining that poisons a house. For lay people, stability means faithfulness to the family, parish and duties God has given, and tackling problems openly instead of grumbling.",
+     "try": "Catch one complaint before you say it today, and replace it with a direct, kind request or with silence."
+    }
+   ]
+  },
+  {
+   "id": "fa_spirit_exercises",
+   "title": "The Spiritual Exercises",
+   "author": "St Ignatius of Loyola",
+   "year": "1548",
+   "category": "faith",
+   "why": "The retreat manual behind Jesuit spirituality, with tools for prayer and decision-making that anyone can use.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_spirit_exercises1",
+     "title": "Why we are here",
+     "body": "Ignatius starts from a foundation: we are created to praise, reverence and serve God, and so to reach eternal life. Everything else on earth is given to help us towards that end. We should use things as far as they help and let them go as far as they hinder. He asks for an inner freedom about health or sickness, wealth or poverty, a long life or a short one, wanting only what leads to God."
+    },
+    {
+     "id": "fa_spirit_exercises2",
+     "title": "The daily examen",
+     "body": "Ignatius valued a short review of the day so highly that he wanted it kept even when other prayer was impossible. It has five steps: thank God for the day's gifts; ask for light; walk through the day hour by hour, noticing where you responded to God and where you did not; ask pardon; resolve, with his grace, on tomorrow. It trains the eye to see God at work in ordinary events.",
+     "try": "Tonight, take ten minutes for these five steps before you sleep."
+    },
+    {
+     "id": "fa_spirit_exercises3",
+     "title": "Praying with the imagination",
+     "body": "To know Jesus more closely, Ignatius has us enter a Gospel scene with the imagination. Picture the place, see the people, hear what is said, even notice smells and textures, and take a part in the scene yourself. Then speak to the Lord as one friend speaks to another. The aim is not fantasy but a knowledge of Christ from the inside, so that we love him more and follow him more nearly."
+    },
+    {
+     "id": "fa_spirit_exercises4",
+     "title": "Reading the movements of the heart",
+     "body": "Ignatius noticed that the heart moves between consolation, when faith, hope and love increase and we feel drawn to God, and desolation, when all is dark, restless and tempted. His rules for discernment, the art of telling which spirit is moving us, are very practical. In desolation, never change a decision made in a time of peace. Pray a little more, be patient, and remember that consolation will return."
+    },
+    {
+     "id": "fa_spirit_exercises5",
+     "title": "Making a good choice",
+     "body": "For serious decisions between good options, Ignatius offers tests for a calm mind. List the reasons for and against, with God's service as the measure. Imagine a stranger in your situation and consider what you would advise. Picture yourself at the hour of death and ask which choice you would then wish you had made. Offer your choice to God and look for the peace that confirms it."
+    },
+    {
+     "id": "fa_spirit_exercises6",
+     "title": "Love shows itself in deeds",
+     "body": "The Exercises end with a contemplation on love. Ignatius notes that love is shown more in deeds than in words, and that lovers share what they have. We look at how much God has given: creation, redemption, our own particular gifts, his presence labouring in all things. The fitting reply is to give back everything, our liberty, memory, understanding and will, asking only for his love and grace."
+    }
+   ]
+  },
+  {
+   "id": "fa_true_devotion",
+   "title": "True Devotion to Mary",
+   "author": "St Louis-Marie Grignion de Montfort",
+   "year": "c. 1712",
+   "category": "faith",
+   "why": "The most influential book on Marian devotion, showing how giving ourselves to Mary is a way of belonging to Jesus.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_true_devotion1",
+     "title": "Mary exists for Jesus",
+     "body": "Montfort's first principle is that Jesus Christ is the final end of every devotion. If devotion to Mary led away from him, it would be a deception. God chose to come to us through Mary, and Montfort reasons that the same path is a sure and easy way for us to go to him. She does not stand between us and Christ like a wall. She brings us to him as a mother brings a child."
+    },
+    {
+     "id": "fa_true_devotion2",
+     "title": "She is a creature, wholly dependent on God",
+     "body": "Montfort states plainly that Mary, compared with God, is less than an atom; God had no need of her and all her greatness is his free gift. Catholics do not adore Mary. We honour her because of what God has done in her, and because Jesus gave her to us as mother from the cross (John 19:27). Honour given to her passes on to the One who made her full of grace."
+    },
+    {
+     "id": "fa_true_devotion3",
+     "title": "Telling true devotion from false",
+     "body": "Montfort lists counterfeit devotions: one that is all outward show, one that presumes on Mary while continuing in sin, one that comes and goes with moods, one that prays only to obtain favours. True devotion is interior, coming from the heart; trusting, like a child's; holy, leading us to avoid sin and imitate her virtues; constant; and unselfish, seeking God and not ourselves.",
+     "try": "Look at your own Marian prayers today and ask one question: are they leading me to imitate her faith and humility?"
+    },
+    {
+     "id": "fa_true_devotion4",
+     "title": "Total consecration",
+     "body": "The heart of the book is an act of giving oneself entirely to Jesus through Mary: body, soul, possessions, and even the value of one's good works, for her to use as she sees fit. Montfort presents this as a perfect renewal of the promises of baptism. He proposes about a month of preparation by prayer. The Church commends this devotion and several popes practised it, but no one is obliged to adopt it."
+    },
+    {
+     "id": "fa_true_devotion5",
+     "title": "Living with Mary each day",
+     "body": "Consecration is meant to become a habit of life. Montfort sums it up as doing all our actions through Mary, with Mary, in Mary and for Mary, so as to do them more perfectly through, with, in and for Jesus. In practice this means beginning a task by setting aside our own plans, asking what she would do, and taking her obedience at the Annunciation (Luke 1:38) as a model.",
+     "try": "Before one task today, pause and ask Mary to help you do it as she would, for Jesus."
+    }
+   ]
+  },
+  {
+   "id": "fa_abandonment",
+   "title": "Abandonment to Divine Providence",
+   "author": "Jean-Pierre de Caussade (attributed)",
+   "year": "1861",
+   "category": "faith",
+   "why": "A short classic on finding God's will not in grand plans but in whatever the present moment asks.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_abandonment1",
+     "title": "God comes in the present moment",
+     "body": "The book's central teaching is that God's will reaches us in the duties and events of each moment. The present moment is like a sacrament, an outward sign that carries God's action to us. We need not search far or wait for better circumstances. What this hour asks or brings, whether pleasant or bitter, is the place where God is at work on us now, and where we can meet him.",
+     "try": "Several times today, stop and ask: what does God want of me in this very moment? Then do just that."
+    },
+    {
+     "id": "fa_abandonment2",
+     "title": "Holiness is faithfulness to ordinary duty",
+     "body": "The author insists that holiness does not consist in unusual practices, deep learning or striking experiences. It consists in fulfilling the duties of our state of life, the tasks belonging to a parent, a spouse, a worker or a student, and in accepting peacefully what God sends. This puts holiness within reach of everyone. No one's life is too plain for it, since plain duty is its very material."
+    },
+    {
+     "id": "fa_abandonment3",
+     "title": "Do your part, accept the rest",
+     "body": "Abandonment has an active and a passive side. Actively, we do what God plainly asks through the commandments, the Church and our duties. Passively, we accept what happens to us that we cannot change, trusting that nothing escapes his fatherly care. This is not laziness or fatalism: we still act where action is ours. We simply stop demanding that results match our plans."
+    },
+    {
+     "id": "fa_abandonment4",
+     "title": "God hidden under ordinary appearances",
+     "body": "At Nazareth, the life of Mary and Joseph looked like any other in the village: work, meals, small troubles. Yet God was accomplishing the greatest of his works there. The author draws the lesson that God hides his action under very ordinary surfaces, as he hides in the Eucharist under the appearance of bread. Faith is the eye that sees past the surface and says, here too is the Lord."
+    },
+    {
+     "id": "fa_abandonment5",
+     "title": "Leave the past and the future with God",
+     "body": "A soul abandoned to God does not keep turning over yesterday's failures or rehearsing tomorrow's fears. The past is entrusted to his mercy, the future to his providence, which means his wise and loving care for all things. Even anxious checking of our own spiritual progress is laid down. What remains is light: today's duty, done with love. Peace is the usual fruit of living this way.",
+     "try": "Name one worry about next month, hand it to God in a sentence, and return to today's work."
+    }
+   ]
+  },
+  {
+   "id": "fa_little_flowers",
+   "title": "The Little Flowers of St Francis",
+   "author": "Anonymous (traditionally Brother Ugolino)",
+   "year": "c. 1390",
+   "category": "faith",
+   "why": "Beloved stories of St Francis of Assisi and his first companions, told to stir love more than to record history.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_little_flowers1",
+     "title": "Where perfect joy is found",
+     "body": "Walking in the winter cold, Francis tells Brother Leo what perfect joy is not: not working miracles, not knowing all sciences, not converting multitudes. If they arrive soaked and hungry, are refused at the friary door, insulted and left in the snow, and bear it patiently for love of Christ, there is perfect joy. All other gifts come from God; patient love in hardship is what we can truly give."
+    },
+    {
+     "id": "fa_little_flowers2",
+     "title": "The wolf of Gubbio",
+     "body": "A fierce wolf terrorised the town of Gubbio. Francis went out unarmed, addressed it as brother, and made peace: the wolf would harm no one, and the townspeople would feed it. Both kept the bargain. The tale teaches Francis's way of peacemaking. He does not take sides against the enemy. He goes out to meet him, names the wrong honestly, and attends to the hunger that lies behind the violence.",
+     "try": "Think of someone you are at odds with. Take one small first step towards them today: a greeting, a message, a prayer."
+    },
+    {
+     "id": "fa_little_flowers3",
+     "title": "Preaching to the birds",
+     "body": "On the road Francis stopped to speak to a great flock of birds, reminding them to praise their Creator, who feeds and clothes them though they neither sow nor reap. The birds stayed until he blessed them. The story shows how Francis saw the world: every creature is a brother or sister, made by the same Father, and all creation is called to give God praise in its own way."
+    },
+    {
+     "id": "fa_little_flowers4",
+     "title": "The treasure of poverty",
+     "body": "Francis and Brother Masseo once begged for bread and sat down to eat the scraps on a flat stone beside a spring. Masseo saw only what they lacked. Francis rejoiced, calling it a treasure, because nothing there was prepared by human effort; the stone, the water and the bread all came from God's providence. Having little can free the heart to receive everything as a gift.",
+     "try": "Eat one meal today slowly and simply, thanking God for each thing on the plate."
+    },
+    {
+     "id": "fa_little_flowers5",
+     "title": "Why does the whole world follow you?",
+     "body": "Brother Masseo, testing Francis's humility, asked why everyone ran after him, since he was neither handsome, learned nor noble. Francis answered with joy that God had looked for the most unworthy sinner he could find to do his work, so that all would see the good came from God alone. Humility here is not self-contempt. It is gladness that every good thing in us is God's doing."
+    }
+   ]
+  },
+  {
+   "id": "fa_faustina_diary",
+   "title": "Diary: Divine Mercy in My Soul",
+   "author": "St Maria Faustina Kowalska",
+   "year": "1934-1938",
+   "category": "faith",
+   "why": "The notebooks behind the Divine Mercy devotion, written by a Polish nun whom the Church has declared a saint.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_faustina_diary1",
+     "title": "How to read this book",
+     "body": "The Diary records what St Faustina believed Jesus said to her in prayer. This is private revelation. The Church has examined it, canonised her in 2000 and approved the devotion, even placing Divine Mercy Sunday in the calendar. Yet such revelations add nothing to the Gospel, and no Catholic is obliged to believe them. They are offered as a help to live more fully what Christ already taught."
+    },
+    {
+     "id": "fa_faustina_diary2",
+     "title": "Trust is the vessel",
+     "body": "The message of the Diary can be put in one word: trust. Mercy is described as an ocean, and trust as the vessel with which we draw from it; the more we trust, the more we receive. What wounds the heart of Jesus most, Faustina writes, is distrust, especially from those who have already known his goodness. Trust does not mean feeling confident. It means relying on him anyway.",
+     "try": "Say slowly, three times, the prayer of the Divine Mercy image: Jesus, I trust in you."
+    },
+    {
+     "id": "fa_faustina_diary3",
+     "title": "The greatest sinners have the first claim",
+     "body": "The Diary returns again and again to this: no sin is larger than God's mercy, and the more wretched a soul is, the more right it has to that mercy. No one should fear to come near. The appointed place of meeting is the sacrament of Confession, which Faustina calls a tribunal of mercy, where the only requirement is to come honestly and with sorrow."
+    },
+    {
+     "id": "fa_faustina_diary4",
+     "title": "Mercy received must be given",
+     "body": "Devotion without deeds is empty. Faustina records three ways of showing mercy to our neighbour: by action, by word and by prayer. If we cannot help with our hands, we can speak a kind or forgiving word; if not even that, we can always pray. She asked that her eyes, ears, tongue, hands, feet and heart all become merciful. This echoes the Gospel: blessed are the merciful (Matthew 5:7).",
+     "try": "Do one act of mercy today in each form: a deed, a word and a prayer for someone in need."
+    },
+    {
+     "id": "fa_faustina_diary5",
+     "title": "Ways of praying for mercy",
+     "body": "Several practices come from the Diary: the image of the merciful Jesus with red and pale rays; the Chaplet of Divine Mercy, said on rosary beads, offering the Father the Passion of his Son for the whole world; remembering the Passion at three in the afternoon, the hour of Jesus's death; and the feast on the Sunday after Easter. All of them aim at trust in God and mercy to others."
+    },
+    {
+     "id": "fa_faustina_diary6",
+     "title": "A hidden, obedient life",
+     "body": "Faustina had little schooling and served her convent as cook, gardener and doorkeeper. Her holiness grew through ordinary duty, obedience to her superiors and confessor, and suffering quietly united to the Passion of Christ for the good of others. She cared more about doing God's will than about visions. The Diary's deepest lesson is this faithful love in small tasks."
+    }
+   ]
+  },
+  {
+   "id": "fa_ccc_creed",
+   "title": "Catechism of the Catholic Church, Part One: The Profession of Faith",
+   "author": "Catholic Church",
+   "year": "1992",
+   "category": "faith",
+   "why": "The Church's own explanation of the Creed: what Catholics believe about God, Christ, the Church and eternity.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_ccc_creed1",
+     "title": "We are made with a desire for God",
+     "body": "The Catechism begins with the human person, not with rules. The desire for God is written in every heart, because we are created by God and for God, and only in him do we find the truth and happiness we keep seeking. By reason we can know that God exists, from the order and beauty of the world and from the voice of conscience. Religion answers a hunger that is part of being human."
+    },
+    {
+     "id": "fa_ccc_creed2",
+     "title": "God speaks, and faith answers",
+     "body": "We could not discover God's inner life by ourselves, so he has revealed himself, step by step and fully in Jesus Christ. This revelation comes to us through Sacred Scripture and the living Tradition of the Church, the faith handed on from the apostles. Faith is our reply: trusting God personally and accepting what he has said. Faith and reason cannot truly conflict, since both come from the same God."
+    },
+    {
+     "id": "fa_ccc_creed3",
+     "title": "One God in three Persons",
+     "body": "The Trinity is the central mystery of Christian faith. God is one, yet he is Father, Son and Holy Spirit: not three gods, but an eternal communion of love, and we are baptised into that life. This means that love and relationship are not an afterthought in the universe; they lie at its source. Every Sign of the Cross is a short profession of this faith.",
+     "try": "Make the Sign of the Cross slowly today, thinking of each Person as you name him."
+    },
+    {
+     "id": "fa_ccc_creed4",
+     "title": "Created good, wounded by sin",
+     "body": "God made the world freely, out of love, and it is good. Man and woman are made in his image, equal in dignity, body and soul together. By the first sin humanity lost its original holiness; this original sin is passed on to all as a wounded nature, weakened and inclined to evil, yet not wholly corrupted. This explains both our greatness and our misery, and why we need a Saviour."
+    },
+    {
+     "id": "fa_ccc_creed5",
+     "title": "True God and true man",
+     "body": "Jesus Christ is the eternal Son of God who became man, born of the Virgin Mary, without ceasing to be God. He is one Person with two natures, divine and human. He died for our sins on the cross and truly rose on the third day. His death and Resurrection together, called the Paschal mystery, stand at the centre of the faith: by them sin and death are defeated and new life is opened to us."
+    },
+    {
+     "id": "fa_ccc_creed6",
+     "title": "The Church and the life to come",
+     "body": "The Holy Spirit gathers believers into the Church, which is one, holy, catholic and apostolic, and unites those on earth with the saints in heaven and the souls being purified. Each of us will be judged by Christ at death. The Creed ends in hope: the forgiveness of sins, the resurrection of the body and life everlasting. Heaven is God's gift, and hell the real possibility of refusing him."
+    }
+   ]
+  },
+  {
+   "id": "fa_ccc_sacraments",
+   "title": "Catechism of the Catholic Church, Part Two: The Celebration of the Christian Mystery",
+   "author": "Catholic Church",
+   "year": "1992",
+   "category": "faith",
+   "why": "Explains what really happens in the liturgy and the seven sacraments, so that we can take part with understanding.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_ccc_sacraments1",
+     "title": "In the liturgy Christ himself acts",
+     "body": "The liturgy is the Church's public worship. It is more than our gathering to remember Jesus. Christ himself is at work in it, making present his saving death and Resurrection so that we can share in them. In it we also join the worship of heaven, with the angels and saints. This is why the Church asks for full and attentive participation. We are taking part in God's work."
+    },
+    {
+     "id": "fa_ccc_sacraments2",
+     "title": "Seven signs that give what they signify",
+     "body": "The sacraments are visible signs, instituted by Christ and entrusted to the Church, through which divine life, called grace, is given to us. There are seven: Baptism, Confirmation, Eucharist, Penance, Anointing of the Sick, Holy Orders and Matrimony. They work by the power of Christ and do not depend on the holiness of the minister. Their fruit in us, however, depends on how well disposed we are."
+    },
+    {
+     "id": "fa_ccc_sacraments3",
+     "title": "Becoming a Christian",
+     "body": "Baptism, Confirmation and the Eucharist together make a person a Christian. Baptism washes away sin and gives new birth as a child of God. Confirmation, called Chrismation in the East, seals us with the Holy Spirit for witness. The Eucharist completes the entry. The Catechism notes that the Eastern Churches keep the ancient practice of giving all three together, even to infants.",
+     "try": "Find out the date of your baptism, and thank God for it by name today."
+    },
+    {
+     "id": "fa_ccc_sacraments4",
+     "title": "The Eucharist, source and summit",
+     "body": "The Eucharist is called the source and summit of the Christian life. Under the appearances of bread and wine, Christ is truly, really and substantially present, body, blood, soul and divinity. The one sacrifice of the cross is made present on the altar, and we receive him as food. For this reason the Church obliges us to take part on Sundays, and urges us to receive Communion well prepared."
+    },
+    {
+     "id": "fa_ccc_sacraments5",
+     "title": "Sacraments that heal",
+     "body": "Christ, the physician of souls and bodies, left two sacraments of healing. In Penance, also called Confession, sins committed after Baptism are forgiven when we are sorry, confess to a priest, receive absolution and make amends. The Anointing of the Sick gives strength, peace and courage to those seriously ill or frail with age, and is not meant only for the last moments of life.",
+     "try": "Fix a date for your next Confession and note it in your calendar."
+    },
+    {
+     "id": "fa_ccc_sacraments6",
+     "title": "Sacraments at the service of others",
+     "body": "Holy Orders and Matrimony are directed to the salvation of others. Through ordination bishops, priests and deacons serve the people of God in Christ's name. In marriage a baptised man and woman give themselves to each other for life, and their love becomes a sign of Christ's love for the Church. The home they build is called a domestic church, the first place where faith is lived and learned."
+    }
+   ]
+  },
+  {
+   "id": "fa_ccc_life",
+   "title": "Catechism of the Catholic Church, Part Three: Life in Christ",
+   "author": "Catholic Church",
+   "year": "1992",
+   "category": "faith",
+   "why": "Sets out how a Christian is called to live: freedom, conscience, virtue, grace and the Ten Commandments.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_ccc_life1",
+     "title": "Called to happiness",
+     "body": "Catholic moral teaching starts from dignity and happiness, not from prohibition. We are made in God's image and called to share his own blessedness, which the Beatitudes of Jesus describe (Matthew 5:3-12). Freedom is given so that we can choose the good by our own decision. The more we do what is good, the freer we become. Sin is an abuse of freedom that ends in slavery."
+    },
+    {
+     "id": "fa_ccc_life2",
+     "title": "Conscience must be followed, and formed",
+     "body": "Conscience is a judgement of reason by which we recognise whether an act is good or evil. We must always obey a certain conscience. Yet conscience can be mistaken through ignorance or habit, so we have a serious duty to form it by the Word of God, the teaching of the Church, prayer and wise advice. Sincerely seeking the truth matters as much as following what we currently think.",
+     "try": "Tonight, examine your conscience on one commandment only, slowly, and ask God for light."
+    },
+    {
+     "id": "fa_ccc_life3",
+     "title": "What makes an act good",
+     "body": "Three things decide the morality of an act: what is done (the object), why it is done (the intention), and the circumstances. All three must be good. A good intention does not make a wrong act right; the end does not justify the means. Some acts are always wrong whatever the motive. This guards against the common temptation to excuse a wrong because we meant well."
+    },
+    {
+     "id": "fa_ccc_life4",
+     "title": "Sin, grave and lesser",
+     "body": "Sin is an offence against God and a wound to ourselves and others. Mortal sin destroys the life of grace and needs three conditions together: grave matter, full knowledge and deliberate consent. Venial sin wounds love without destroying it. The distinction is not for scrupulous counting. It tells us the truth about our state, and sends us to Confession, where God's mercy has no limit."
+    },
+    {
+     "id": "fa_ccc_life5",
+     "title": "Virtue and grace",
+     "body": "A virtue is a firm habit of doing good. Four human virtues are pivotal: prudence, justice, fortitude and temperance. Three come directly from God and unite us to him: faith, hope and charity. Above all, we cannot make ourselves holy. Grace is God's free help and his own life in us, which heals us and makes our good acts possible. Even our merits are first of all his gifts."
+    },
+    {
+     "id": "fa_ccc_life6",
+     "title": "Ten Commandments, one love",
+     "body": "The Ten Commandments are explained as the path of a people set free. They unfold the two great commands of Jesus: love God with all your heart, and love your neighbour as yourself (Matthew 22:37-40). The first three concern God; the other seven concern family, life, marriage, property, truth and the desires of the heart. They mark the floor below which love cannot go."
+    }
+   ]
+  },
+  {
+   "id": "fa_ccc_prayer",
+   "title": "Catechism of the Catholic Church, Part Four: Christian Prayer",
+   "author": "Catholic Church",
+   "year": "1992",
+   "category": "faith",
+   "why": "A warm and practical account of what prayer is, why it is hard, and how the Our Father teaches us to pray.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_ccc_prayer1",
+     "title": "Prayer is God's gift first",
+     "body": "We tend to think of prayer as our effort to reach God. The Catechism begins from the other side, at the well where Jesus asks the Samaritan woman for a drink (John 4:7). God thirsts for us before we seek him, and prayer is the meeting of his thirst with ours. It is a living relationship of children with their Father. So we may begin poor and distracted, and still be welcome."
+    },
+    {
+     "id": "fa_ccc_prayer2",
+     "title": "Three ways of praying",
+     "body": "Christian tradition knows three main expressions of prayer. Vocal prayer uses words, said aloud or silently, as in the Our Father or the Rosary. Meditation engages thought, imagination and desire, usually with Scripture, to understand and respond. Contemplative prayer is a simple, silent gaze of love on Jesus. They are not grades for experts. All three belong in an ordinary Christian life."
+    },
+    {
+     "id": "fa_ccc_prayer3",
+     "title": "Prayer is a battle",
+     "body": "The Catechism speaks frankly of the struggle. Distraction shows what our hearts are attached to; the answer is to turn back gently, not to chase each stray thought. Dryness asks for faithfulness without feeling. The deepest temptations are lack of faith and a weary discouragement. We pray as we live and live as we pray, so perseverance in prayer cannot be separated from daily conversion.",
+     "try": "When distracted in prayer today, simply turn back to God each time without annoyance, however often."
+    },
+    {
+     "id": "fa_ccc_prayer4",
+     "title": "Five movements of the heart",
+     "body": "The Holy Spirit teaches the Church five forms of prayer. Blessing and adoration acknowledge God as God. Petition asks for what we need, beginning with forgiveness. Intercession asks on behalf of others, even enemies. Thanksgiving marks every gift, and every event can become one. Praise delights in God simply because he is. A healthy prayer life has room for all five.",
+     "try": "Give each form one sentence of prayer today: adore, ask, intercede, thank, praise."
+    },
+    {
+     "id": "fa_ccc_prayer5",
+     "title": "The Our Father sums up the Gospel",
+     "body": "The Lord's Prayer is called the summary of the whole Gospel. We dare to say Father because Jesus has made us sons and daughters, and we say our, never only my. The first three petitions concern God: his name, his kingdom, his will. The last four concern us: daily bread, forgiveness as we forgive, help in temptation and deliverance from evil. This order teaches us what to desire."
+    },
+    {
+     "id": "fa_ccc_prayer6",
+     "title": "Where and when we learn to pray",
+     "body": "The Christian family is the first place of education in prayer, a domestic church where children learn by praying daily with their parents. The Church also gives a rhythm: morning and evening prayer, grace at meals, Sunday centred on the Eucharist, and the feasts of the year. Prayer at fixed times is what makes prayer at all times possible. Without a rhythm good intentions fade."
+    }
+   ]
+  },
+  {
+   "id": "fa_lumen_gentium",
+   "title": "Lumen Gentium",
+   "author": "Second Vatican Council",
+   "year": "1964",
+   "category": "faith",
+   "why": "The Council's central teaching on what the Church is, and where every baptised person belongs in it.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_lumen_gentium1",
+     "title": "The Church is a mystery before it is an organisation",
+     "body": "The Council describes the Church first as a mystery: in Christ it is like a sacrament, a sign and instrument of union with God and of the unity of the whole human race. Christ is the light of the nations; the Church shines only with his light. She has visible structures, and she is also Christ's Body, filled with his Spirit. To see only the institution is to miss most of what she is."
+    },
+    {
+     "id": "fa_lumen_gentium2",
+     "title": "One people, all sharing Christ's mission",
+     "body": "Before speaking of clergy or laity, the Council speaks of the People of God. By baptism every member shares in Christ's roles as priest, prophet and king: offering one's life to God, bearing witness to the faith, and serving. This common priesthood of the faithful differs from the ministerial priesthood of the ordained, and each is ordered to the other. No baptised person is a spectator."
+    },
+    {
+     "id": "fa_lumen_gentium3",
+     "title": "Everyone is called to holiness",
+     "body": "All the faithful, of whatever rank or condition, are called to the fullness of Christian life and the perfection of love. Holiness is not reserved for priests and religious. Married couples, parents, the widowed, workers and the sick reach it in and through their own circumstances, by faith working through love. This teaching closes the door on a two-tier Church.",
+     "try": "Name the three main duties of your state of life, and offer today's share of each to God as your path to holiness."
+    },
+    {
+     "id": "fa_lumen_gentium4",
+     "title": "The special task of lay people",
+     "body": "The laity have their own vocation: to seek God's kingdom by engaging in the affairs of the world and ordering them according to God's will. In family life, work, business, politics and culture they act like leaven from within. They are sent by the Lord himself through baptism and confirmation. A lay person's desk, field or kitchen is the front line of the Church's mission."
+    },
+    {
+     "id": "fa_lumen_gentium5",
+     "title": "Shepherds who serve, Churches in communion",
+     "body": "The bishops, successors of the apostles, form one college together with the Pope, the successor of Peter, who is the visible source of unity. Their authority is for service. The Council also honours the ancient Churches which, while keeping the unity of faith, have their own liturgy, discipline and spiritual heritage. This variety, it says, shows the catholicity of the undivided Church."
+    },
+    {
+     "id": "fa_lumen_gentium6",
+     "title": "Mary, mother and model of the Church",
+     "body": "The Council chose to speak of Mary within its teaching on the Church. She is the Mother of God and mother of the faithful, who went forward on a pilgrimage of faith and stayed united with her Son to the cross. Her care for us takes nothing from Christ, the one Mediator; it shows his power. True devotion, the Council says, lies in faith and in imitating her virtues, not in passing emotion."
+    }
+   ]
+  },
+  {
+   "id": "fa_dei_verbum",
+   "title": "Dei Verbum",
+   "author": "Second Vatican Council",
+   "year": "1965",
+   "category": "faith",
+   "why": "The Church's short, clear teaching on how God speaks to us and how Catholics should read the Bible.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_dei_verbum1",
+     "title": "God reveals himself, not just information",
+     "body": "Revelation, the Council teaches, is God making himself known and sharing his life. Out of love he speaks to men and women as friends and invites them into his company. He does this through deeds and words together across history, and completely in Jesus Christ, who is himself the fullness of revelation. No new public revelation is to be expected before Christ comes again."
+    },
+    {
+     "id": "fa_dei_verbum2",
+     "title": "Scripture and Tradition flow from one source",
+     "body": "The Gospel was handed on by the apostles in two ways: in writing, which became Sacred Scripture, and in preaching, worship and life, which is Sacred Tradition. Both come from the same divine source and form one deposit of the Word of God. The teaching office of the Church, the Magisterium, is not above that Word. It serves it, listening to it, guarding it and explaining it faithfully."
+    },
+    {
+     "id": "fa_dei_verbum3",
+     "title": "God's word in human words",
+     "body": "The books of the Bible are inspired: God is their author, and he used human writers who wrote as true authors with their own abilities and styles. Therefore Scripture teaches firmly, faithfully and without error the truth that God wanted written down for the sake of our salvation. The Bible is fully God's word and fully human writing, much as Christ is true God and true man."
+    },
+    {
+     "id": "fa_dei_verbum4",
+     "title": "How to read the Bible well",
+     "body": "Since God speaks through human authors, we must ask what they intended, paying attention to the kind of writing: history, poetry, prophecy and other forms. And since the same Spirit inspired the whole, each passage is to be read in the light of all Scripture, the living Tradition of the Church and the harmony of the faith. Careful study and reverent faith belong together."
+    },
+    {
+     "id": "fa_dei_verbum5",
+     "title": "Two Testaments, one story",
+     "body": "The Old Testament keeps its lasting value as God's true word: it prepares for Christ, teaches about God and holds treasures of prayer. The New lies hidden in the Old, and the Old is made clear in the New. Among all the Scriptures the four Gospels hold first place, because they are the chief witness to the life and teaching of Jesus, and the Church affirms their historical truth."
+    },
+    {
+     "id": "fa_dei_verbum6",
+     "title": "The Bible is for everyone",
+     "body": "The Council urges all the faithful to read Scripture often, recalling St Jerome's warning that not to know the Scriptures is not to know Christ. Easy access should be open to everyone, through good translations. Reading is to be joined with prayer, so that it becomes a conversation: we speak to God when we pray, and we listen to him when we read his word.",
+     "try": "Read today's Gospel slowly, twice. Choose one phrase and carry it with you through the day."
+    }
+   ]
+  },
+  {
+   "id": "fa_compendium_social",
+   "title": "Compendium of the Social Doctrine of the Church",
+   "author": "Pontifical Council for Justice and Peace",
+   "year": "2004",
+   "category": "faith",
+   "why": "Gathers a century of Catholic teaching on work, money, family, politics and peace into one orderly guide.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_compendium_social1",
+     "title": "Every person has a dignity nothing can remove",
+     "body": "The Church's social teaching rests on one foundation: every human being is created in the image of God and so has a dignity that no one gives and no one can take away. It does not depend on usefulness, wealth, health, caste, religion or stage of life. Society, the economy and the state exist for the person, never the reverse. This is the test to put to every law and policy."
+    },
+    {
+     "id": "fa_compendium_social2",
+     "title": "The common good",
+     "body": "The common good is the sum of the social conditions that allow all people, groups and individuals alike, to reach their fulfilment more fully and easily. It is not merely the total of private interests, nor the good of the majority at the cost of the few. Everyone is responsible for it according to their means, and it is the reason political authority exists. Paying taxes, voting and obeying just laws serve it."
+    },
+    {
+     "id": "fa_compendium_social3",
+     "title": "The goods of the earth are meant for all",
+     "body": "God gave the earth to the whole human race. Private property is a right, since it protects freedom and family, but it is not absolute: it carries a duty towards others. From this follows the preferential option for the poor, a special concern for those in need that should shape our choices. What we own beyond our real needs is, in a true sense, owed to those who lack.",
+     "try": "Look at one thing you own and do not use. Give it this week to someone who needs it."
+    },
+    {
+     "id": "fa_compendium_social4",
+     "title": "Subsidiarity: help, do not replace",
+     "body": "Larger bodies should not take over what smaller ones can do well. The state should support families, local communities and associations, and step in only when they cannot manage, and then to help them. This protects initiative and responsibility from an all-controlling state. With it goes participation: each citizen has a right and a duty to share in the life of the community."
+    },
+    {
+     "id": "fa_compendium_social5",
+     "title": "Solidarity",
+     "body": "Solidarity is more than a vague feeling of sympathy. The Church describes it as a firm and persevering commitment to the common good, because we are all truly responsible for all. It sees the other person, people or nation as a neighbour, not a tool. It is a virtue for individuals and also a principle by which structures that harm people ought to be changed."
+    },
+    {
+     "id": "fa_compendium_social6",
+     "title": "Work is for the person",
+     "body": "Work shares in God's creating activity and is part of human dignity; Jesus himself worked with his hands. The worker always matters more than the work produced or the capital employed. From this come the rights to a just wage that can support a family, to rest, to safe conditions and to form associations. Whoever employs anyone, even domestic help, is bound by these in conscience.",
+     "try": "If someone works for you, at home or in business, check today that the pay is fair and paid on time."
+    }
+   ]
+  },
+  {
+   "id": "fa_he_leadeth_me",
+   "title": "He Leadeth Me",
+   "author": "Walter J. Ciszek SJ with Daniel L. Flaherty SJ",
+   "year": "1973",
+   "category": "faith",
+   "why": "An American priest's account of what twenty-three years in Soviet prisons and labour camps taught him about trusting God.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_he_leadeth_me1",
+     "title": "God's will is what today brings",
+     "body": "Father Ciszek entered the Soviet Union hoping for a great mission and found himself hauling logs, unable to act as a priest. In that disappointment he came to see something he calls simple and yet life-changing: God's will was not some other situation he was meant to reach. It was the people, places and tasks of each day as it came. The work of the next twenty-four hours is where God wants us.",
+     "try": "Write down the three most ordinary things you must do today, and do each one as the thing God is asking of you."
+    },
+    {
+     "id": "fa_he_leadeth_me2",
+     "title": "The end of self-reliance",
+     "body": "Under long interrogation in Moscow's Lubyanka prison, Ciszek gave way and signed what his questioners wanted. He was ashamed, and in prayer he saw the cause: he had trusted his own strength and asked God only to back it up. Later, at his darkest point, he gave up control entirely and placed himself in God's hands. He describes the result as freedom and peace, with fear gone."
+    },
+    {
+     "id": "fa_he_leadeth_me3",
+     "title": "Praying when everything is taken away",
+     "body": "In solitary confinement, with no books and no Mass, Ciszek gave each day an order of prayer: a morning offering of the day to God, the prayers of the Mass recited from memory, the Rosary, an examination of conscience at noon and night. Prayer, he learned, is not chiefly about asking for release. It is placing ourselves in God's presence and seeking to want what he wants.",
+     "try": "Begin tomorrow with a morning offering: give God, in your own words, all the work, joys and troubles of the day."
+    },
+    {
+     "id": "fa_he_leadeth_me4",
+     "title": "Work has dignity anywhere",
+     "body": "In the Siberian camps many prisoners did as little as possible, since the labour served their captors. Ciszek tried to work well. He reasoned that work was given to man by God, that Jesus spent most of his life at a carpenter's bench in Nazareth, and that honest effort has value before God whoever profits from it. An unjust employer or a dull job does not empty our work of its meaning."
+    },
+    {
+     "id": "fa_he_leadeth_me5",
+     "title": "The treasure of the Mass",
+     "body": "When Ciszek could at last say Mass in the camps, in secret, with a little bread and wine, prisoners risked punishment to attend. Men who worked all day at heavy labour went without food so as to receive Communion, in keeping with the fasting rule of the time. Seeing their hunger for the Eucharist showed him how easily those who have it freely available take it for granted."
+    }
+   ]
+  },
+  {
+   "id": "fa_evangelii_gaudium",
+   "title": "Evangelii Gaudium",
+   "author": "Pope Francis",
+   "year": "2013",
+   "category": "faith",
+   "why": "Pope Francis's programme for a joyful Church that goes out to share the Gospel, starting with each of us.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_evangelii_gaudium1",
+     "title": "Joy is the mark of the Gospel",
+     "body": "The letter opens with joy: the joy that fills the hearts of all who meet Jesus. Francis warns that a life closed in on its own interests, busy consuming, leaves no room for others or for God, and grows sad. He invites every Christian, at this very moment, to a renewed personal encounter with Christ, or at least to be open to letting Christ find them. No one is excluded from this joy."
+    },
+    {
+     "id": "fa_evangelii_gaudium2",
+     "title": "Every baptised person is a missionary",
+     "body": "Sharing the faith is not a task for specialists. By baptism each member of the Church, whatever their education or position, is a missionary disciple. Anyone who has truly experienced God's saving love does not need long training before going out to speak of it. Most of this happens person to person: in a conversation at home, at work or on the road, respectfully and gently.",
+     "try": "Tell one person this week, simply and without preaching, about something God has done for you."
+    },
+    {
+     "id": "fa_evangelii_gaudium3",
+     "title": "A Church that goes out",
+     "body": "Francis asks the whole Church to leave its comfort and reach the edges of society, the places of poverty, pain and distance from God. He says he prefers a Church bruised and dirty from being out on the streets to one unhealthy from clinging to its own security. Parishes and groups should ask of every custom and structure: does this serve the sharing of the Gospel today?"
+    },
+    {
+     "id": "fa_evangelii_gaudium4",
+     "title": "First things first",
+     "body": "When we speak of the faith, the heart of the message must come first: Jesus Christ loves you, he gave his life to save you, and now he is living at your side to enlighten and free you. Francis calls this first announcement the thing we must hear again and again. The Church's moral teaching follows from it and keeps its place, but it should not be presented cut off from this centre."
+    },
+    {
+     "id": "fa_evangelii_gaudium5",
+     "title": "The poor at the centre",
+     "body": "Francis says no to an economy of exclusion that treats people as leftovers to be thrown away, and no to the worship of money. For the Church, the option for the poor is first a matter of faith, since God became poor for us. He wants a Church that is poor and for the poor, one that helps them, works against the causes of poverty, and also listens to them and offers them friendship and the faith."
+    },
+    {
+     "id": "fa_evangelii_gaudium6",
+     "title": "Guard against a tired, worldly faith",
+     "body": "Francis names temptations of those who serve in the Church: a grey pessimism, a sterile gloom that looks like Lent without Easter, rivalry between groups, and a spiritual worldliness that seeks its own glory behind religious appearances. The remedy is the Holy Spirit. Evangelisers must be people who pray and work together, drawing strength from a personal friendship with Jesus."
+    }
+   ]
+  },
+  {
+   "id": "fa_laudato_si",
+   "title": "Laudato Si'",
+   "author": "Pope Francis",
+   "year": "2015",
+   "category": "faith",
+   "why": "The Church's fullest teaching on care for creation, joining concern for the earth with concern for the poor.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_laudato_si1",
+     "title": "The earth is our common home",
+     "body": "Taking his title from St Francis of Assisi's song of praise, the Pope calls the earth our common home, like a sister and a mother. Creation is more than nature to be studied and managed. It is a gift from the Father, in which every creature has its own value and reflects something of God. Francis addresses the letter to every person living on the planet, because the home is shared by all."
+    },
+    {
+     "id": "fa_laudato_si2",
+     "title": "One crisis, not two",
+     "body": "A phrase repeated through the letter is that everything is connected. Damage to the environment and damage to human society are one complex crisis, and the poor suffer first and most from pollution, failing water and a changing climate. So we must hear the cry of the earth and the cry of the poor together. A true ecological approach is always also a social one."
+    },
+    {
+     "id": "fa_laudato_si3",
+     "title": "Keepers, not masters",
+     "body": "Some have read the command to have dominion over the earth (Genesis 1:28) as permission to exploit it. Francis says this is not a correct reading. The same Scripture tells us to till and to keep the garden (Genesis 2:15): to work it and to protect it. The earth is the Lord's, and we are stewards who must answer for it, for our neighbours and for the generations still to come."
+    },
+    {
+     "id": "fa_laudato_si4",
+     "title": "The throwaway culture",
+     "body": "Francis criticises a way of thinking that treats everything, from goods to people, as something to use and discard. Behind it he sees blind trust in technology and the market, as if every increase in power were progress. He does not reject science or business, which he calls noble. He asks that they serve the whole person and the common good, and that we recover a sense of limits."
+    },
+    {
+     "id": "fa_laudato_si5",
+     "title": "Integral ecology includes human life",
+     "body": "The Pope's key term is integral ecology: care for nature, for society, for culture and for daily life, held together. It includes respect for human life itself. Concern for other creatures, he writes, cannot be squared with indifference to the poor, or with justifying abortion. We also have a nature that we must respect and cannot reshape at will. Care for creation and care for the person stand or fall together."
+    },
+    {
+     "id": "fa_laudato_si6",
+     "title": "Ecological conversion at home",
+     "body": "Change begins with a change of heart, which Francis calls ecological conversion. It shows in small daily acts: using less water and power, wasting no food, reusing, planting trees, sharing transport. He recommends a simpler life in which less is more, stopping to give thanks before and after meals, and keeping Sunday as a day of rest. Small acts done from love, he says, do change the world.",
+     "try": "Choose one habit of waste in your home (food, water, electricity or plastic) and change it starting today."
+    }
+   ]
+  },
+  {
+   "id": "fa_deus_caritas",
+   "title": "Deus Caritas Est",
+   "author": "Pope Benedict XVI",
+   "year": "2005",
+   "category": "faith",
+   "why": "A clear and beautiful letter on what Christians mean by love, and why charity belongs to the Church's very nature.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_deus_caritas1",
+     "title": "Christianity begins with an encounter",
+     "body": "Benedict starts from the words God is love (1 John 4:16). Being a Christian, he says, is not the result of an ethical decision or a lofty idea. It comes from meeting a Person, Jesus Christ, who gives life a new horizon and a decisive direction. We have come to know and believe the love God has for us. Everything else in Christian life, including its commands, follows from having first been loved."
+    },
+    {
+     "id": "fa_deus_caritas2",
+     "title": "Desire and self-giving belong together",
+     "body": "The Greek words eros and agape name two sides of love: the love that desires and is drawn to another, and the love that gives itself for the other's good. Benedict rejects the charge that Christianity poisoned eros. Desire left to itself can sink into using people; purified and matured, it becomes care and sacrifice. Body and soul love together. In marriage the two loves unite, and they mirror God's own love."
+    },
+    {
+     "id": "fa_deus_caritas3",
+     "title": "Love can be commanded because it is first given",
+     "body": "How can love be an order? Benedict answers that God does not demand a feeling we cannot produce. He loves us first, and lets us see and feel his love in Christ, in the Eucharist and in his people. Love of neighbour grows from this. I learn to look at the other person with the eyes of Jesus, and so can love even someone I do not like or know.",
+     "try": "Think of someone you find hard to like. Ask Jesus to let you see that person as he does, then do them one kindness."
+    },
+    {
+     "id": "fa_deus_caritas4",
+     "title": "Two loves that cannot be separated",
+     "body": "Love of God and love of neighbour are one command. If I close my eyes to my neighbour, I become blind to God as well; if I have no contact with God, I see in the other nothing more than the other. The Eucharist joins the two, since in receiving Christ I am united to all whom he gives himself to. Worship that does not pass over into practical love is, Benedict says, incomplete."
+    },
+    {
+     "id": "fa_deus_caritas5",
+     "title": "Charity is part of what the Church is",
+     "body": "The Church has three inseparable duties: proclaiming God's word, celebrating the sacraments, and the service of charity. She cannot leave charity to others any more than she can give up the Gospel. Building a just social order is the proper task of politics, which the Church helps by forming consciences. Yet even in the most just society, love will always be needed. Suffering always calls for personal care."
+    },
+    {
+     "id": "fa_deus_caritas6",
+     "title": "How Christians should help",
+     "body": "Those who do the Church's charitable work need professional skill and also what Benedict calls a formation of the heart. Charity must not be a tool for political ideology or for pressing the faith on anyone. Love is free and is not practised to gain something else. The Christian knows when it is time to speak of God and when it is better to let love alone speak. Prayer keeps this service humble and alive."
+    }
+   ]
+  },
+  {
+   "id": "fa_familiaris",
+   "title": "Familiaris Consortio",
+   "author": "Pope John Paul II",
+   "year": "1981",
+   "category": "faith",
+   "why": "The Church's foundational modern teaching on what a Christian family is and what it is for.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_familiaris1",
+     "title": "Family, become what you are",
+     "body": "John Paul II sees the family as an intimate community of life and love, willed by God from the beginning. Its identity and its mission are found in God's plan, so his appeal is: family, become what you are. The task of each household is to guard, reveal and pass on love. The future of humanity, he writes, passes by way of the family, and so it deserves the Church's best care."
+    },
+    {
+     "id": "fa_familiaris2",
+     "title": "Marriage is a total gift",
+     "body": "Marriage is the covenant in which a man and a woman give themselves to each other completely: body, heart and future. Because the gift is total, it is faithful, exclusive and for life. For the baptised it is a sacrament, a real sign of Christ's unbreakable love for the Church, and it brings the grace to live what it signifies. This fidelity is not a burden laid on love. It is love's own truth."
+    },
+    {
+     "id": "fa_familiaris3",
+     "title": "Serving life",
+     "body": "Married love is by its nature open to children. The Pope reaffirms the Church's teaching that the unitive and the life-giving meanings of the marital act are not to be deliberately separated, which is why contraception is excluded, while couples with serious reasons may space births by using the infertile periods. Parents are the first and principal educators of their children, a right and duty no one can take from them."
+    },
+    {
+     "id": "fa_familiaris4",
+     "title": "Four tasks of the family",
+     "body": "The letter gives every family four tasks. First, to form a community of persons, where each member, the child, the elderly and the sick included, is loved for his or her own sake. Second, to serve life by welcoming and educating children. Third, to take part in the development of society through hospitality and public responsibility. Fourth, to share in the life and mission of the Church."
+    },
+    {
+     "id": "fa_familiaris5",
+     "title": "The domestic church",
+     "body": "The Christian home is called a Church in miniature. There parents and children pray together, read God's word, prepare for the sacraments and learn forgiveness. John Paul II especially recommends family prayer, morning and evening, grace at meals and the Rosary. Parents are the first to announce the Gospel to their children, mostly by the witness of how they live.",
+     "try": "Pray together as a family tonight, even for five minutes: one decade of the Rosary or a psalm, and a prayer for each member by name."
+    },
+    {
+     "id": "fa_familiaris6",
+     "title": "Growth step by step, and care for wounded families",
+     "body": "The Pope recognises that people grow in holiness gradually, yet he says this must not be confused with adjusting God's law to our weakness. He asks pastors to accompany families in difficulty with patience. The divorced who have remarried civilly remain members of the Church and are to share her life and prayer, while the letter keeps the Church's practice regarding Holy Communion."
+    }
+   ]
+  },
+  {
+   "id": "fa_rosarium",
+   "title": "Rosarium Virginis Mariae",
+   "author": "Pope John Paul II",
+   "year": "2002",
+   "category": "faith",
+   "why": "A short letter that renews the Rosary as a prayer centred on Christ, and explains how to pray it well.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_rosarium1",
+     "title": "The Rosary is about Christ",
+     "body": "Though Marian in form, the Rosary is at heart a prayer centred on Christ. John Paul II describes it as contemplating the face of Christ in the school of Mary. No one knew Jesus as she did, and with each mystery we sit beside her and look at her Son. He calls the Rosary a summary of the Gospel. Said without this contemplation, he warns, it is a body without a soul."
+    },
+    {
+     "id": "fa_rosarium2",
+     "title": "The Mysteries of Light",
+     "body": "To make the Rosary a fuller summary of the Gospel, the Pope proposed five new mysteries from the public life of Jesus: his Baptism in the Jordan, the wedding at Cana, the proclamation of the Kingdom with the call to conversion, the Transfiguration and the institution of the Eucharist. He left their use to the freedom of individuals and communities, and suggested Thursday for them."
+    },
+    {
+     "id": "fa_rosarium3",
+     "title": "Helps for praying it well",
+     "body": "The letter gives practical suggestions. Announce each mystery and, if possible, look at an image of it. Read a short related passage of Scripture. Keep a moment of silence before starting the prayers. In each Hail Mary, let the name of Jesus be the centre of gravity. Give weight to the Glory Be, the high point of the decade. End each mystery by asking for its particular fruit.",
+     "try": "Pray one decade today using these steps: name the mystery, read its Gospel passage, pause in silence, then pray."
+    },
+    {
+     "id": "fa_rosarium4",
+     "title": "Repetition is the language of love",
+     "body": "Some find the repeated Hail Marys dry. The Pope answers that the Rosary must be understood as an outpouring of love, which never tires of saying the same words to the beloved. The steady rhythm quiets the mind and lets the mystery sink in, bringing our life into step with God's. To Christ, by way of Mary, we say again and again what Peter said: Lord, you know that I love you (John 21:17)."
+    },
+    {
+     "id": "fa_rosarium5",
+     "title": "A prayer for peace and for the family",
+     "body": "John Paul II entrusted two intentions to the Rosary. One is peace: to contemplate Christ, who is our peace, makes those who pray into peacemakers. The other is the family, under pressure in every country. He asks families to pray the Rosary together again, parents with children, bringing each day's joys and worries into the mysteries. A home that prays in this way, he says, grows more united."
+    }
+   ]
+  },
+  {
+   "id": "fa_salvifici_doloris",
+   "title": "Salvifici Doloris",
+   "author": "Pope John Paul II",
+   "year": "1984",
+   "category": "faith",
+   "why": "A pope who suffered much reflects on why we suffer and how pain joined to Christ can bear fruit.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_salvifici_doloris1",
+     "title": "The question is allowed",
+     "body": "Everyone who suffers asks why. John Paul II says this question is fitting, and that God expects it and listens. The Book of Job shows that suffering is not always punishment for personal sin: Job is innocent, and his friends who blame him are wrong. Suffering remains a mystery that reasoning alone cannot solve. So the Church does not give the sufferer a theory. She points to a Person."
+    },
+    {
+     "id": "fa_salvifici_doloris2",
+     "title": "Christ answers by suffering with us",
+     "body": "God's answer to the question of pain is given in the cross. The Son of God did not explain suffering from a distance; he took it on himself, innocent and freely, out of love, and so overcame sin and death at their root. Since then no one suffers alone. In every hospital bed and every grief Christ is present, as one who has been there and has opened a way through."
+    },
+    {
+     "id": "fa_salvifici_doloris3",
+     "title": "Our suffering can share in his",
+     "body": "St Paul writes that in his own flesh he completes what is lacking in Christ's afflictions for the sake of the Church (Colossians 1:24). The Pope explains that Christ's redemption is complete and lacks nothing, yet he leaves it open to our sharing. Whoever unites pain to the cross takes part in Christ's saving work for others. The sick and the elderly thus have a hidden but real mission.",
+     "try": "Offer one pain or frustration today, in a sentence, for a particular person who needs God's help."
+    },
+    {
+     "id": "fa_salvifici_doloris4",
+     "title": "It takes time",
+     "body": "John Paul II does not pretend this comes easily. People nearly always enter suffering with a quite human protest and the question why. Christ does not answer at once or in the abstract. The answer comes gradually, as the person takes up the cross and draws near to him, and it is then that interior peace and even spiritual joy can be found. We should be patient with ourselves and with others."
+    },
+    {
+     "id": "fa_salvifici_doloris5",
+     "title": "Suffering is there to release love",
+     "body": "The letter ends with the Good Samaritan (Luke 10:25-37). He stops, lets himself be moved, and gives real help at his own cost. The Pope says suffering is present in the world also to unleash love, to call out works of care in families, hospitals and society. We may not pass by. Christ taught us both to do good by our suffering and to do good to those who suffer.",
+     "try": "Visit, phone or message one sick or lonely person today, and give them your unhurried attention."
+    }
+   ]
+  },
+  {
+   "id": "fa_gaudete",
+   "title": "Gaudete et Exsultate",
+   "author": "Pope Francis",
+   "year": "2018",
+   "category": "faith",
+   "why": "A down-to-earth call to holiness in today's world, written for ordinary people and not for experts.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_gaudete1",
+     "title": "The saints next door",
+     "body": "Francis says he likes to see holiness in the patience of God's people: parents who raise children with great love, men and women who work hard to support their families, the sick, elderly religious who keep smiling. He calls this the holiness found in our next-door neighbours, a kind of middle class of holiness. The saints are far more numerous than those whose names are on the calendar."
+    },
+    {
+     "id": "fa_gaudete2",
+     "title": "Your own path",
+     "body": "Each person has a unique way to holiness, and we should not waste effort copying someone else's. Holiness grows through small gestures: declining to gossip, listening patiently to a tired child, saying a prayer in a moment of anxiety, stopping to speak kindly with a poor person. Francis asks us to see our whole life as a mission, a message God wants to speak to the world through us.",
+     "try": "Pick one of these small gestures and practise it deliberately today."
+    },
+    {
+     "id": "fa_gaudete3",
+     "title": "Two false kinds of holiness",
+     "body": "Francis warns against two old errors in new forms. One, a kind of gnosticism, reduces faith to ideas and knowledge, and judges others by how much they understand. The other, a kind of pelagianism, trusts in willpower, rules and one's own achievements, as though we could earn salvation. Both leave out grace and mercy, and both make people proud and cold. Holiness is first God's gift."
+    },
+    {
+     "id": "fa_gaudete4",
+     "title": "The Beatitudes and the great test",
+     "body": "What does a holy life look like? Jesus explained it in the Beatitudes (Matthew 5:3-12), which Francis calls the Christian's identity card: being poor in spirit, meek, merciful, pure of heart, a peacemaker. Alongside them stands the standard on which we will be judged (Matthew 25:31-46): what we did for the hungry, the stranger, the sick and the prisoner. No devotion can replace this."
+    },
+    {
+     "id": "fa_gaudete5",
+     "title": "Five signs of holiness today",
+     "body": "The Pope names five marks for our times: patient perseverance and meekness that does not answer evil with evil, even online; joy and a sense of humour; boldness and passion in witnessing; life in community, attentive to small details of love; and constant prayer. A saint, he says, is not gloomy or sour. Holiness makes a person more alive and more human."
+    },
+    {
+     "id": "fa_gaudete6",
+     "title": "Stay alert and discern",
+     "body": "The Christian life is a constant struggle, and Francis is direct that the devil is a real personal being and not a myth or a figure of speech. Our weapons are prayer, the Word of God, the Mass, Confession, works of charity and community. We also need discernment, the gift of telling what comes from the Holy Spirit from what does not. He asks everyone for a brief daily examination of conscience."
+    }
+   ]
+  },
+  {
+   "id": "fa_orthodoxy",
+   "title": "Orthodoxy",
+   "author": "G. K. Chesterton",
+   "year": "1908",
+   "category": "faith",
+   "why": "A witty, joyful account of how one man found that Christian belief fits the world like a key fits a lock.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_orthodoxy1",
+     "title": "The world as a wonder",
+     "body": "Chesterton says he learned his first philosophy in the nursery, from fairy tales. They taught him that the world is startling and did not have to exist, and that gratitude is the right response even before we know whom to thank. The sun may rise each morning, he suggests, because God never tires of saying do it again, as a child does. To recover wonder at ordinary things is the start of faith.",
+     "try": "Choose one ordinary thing today (water from the tap, a child's face, the evening sky) and thank God for it as if for the first time."
+    },
+    {
+     "id": "fa_orthodoxy2",
+     "title": "Reason alone can drive us mad",
+     "body": "Chesterton observes that the madman is not someone who has lost his reason. He is someone who has lost everything except his reason. His explanation of things is complete and logical, but it is as narrow as a small circle. A mind that accepts only what it can fully prove shrinks in the same way. Accepting mystery, he argues, is what keeps people sane: one thing left unexplained lights up everything else."
+    },
+    {
+     "id": "fa_orthodoxy3",
+     "title": "Truth holds opposites together",
+     "body": "Critics accused Christianity of contradictory faults: too gloomy and too cheerful, too meek and too warlike. Chesterton concluded that it might be the one thing that is the right shape. The faith keeps apparent opposites and keeps both at full strength: man is God's chief creature, and man is a sinner; we hate the sin intensely and love the sinner without limit. The result is balance."
+    },
+    {
+     "id": "fa_orthodoxy4",
+     "title": "Tradition gives the dead a vote",
+     "body": "Chesterton calls tradition the democracy of the dead. It means refusing to hand everything over to the small group of people who merely happen to be walking about today. Our ancestors lived, suffered and learned things, and to listen to them is ordinary humility. For a Catholic this is a reason to receive the faith, the liturgy and the wisdom of the saints with trust, as an inheritance."
+    },
+    {
+     "id": "fa_orthodoxy5",
+     "title": "Love the world enough to change it",
+     "body": "Neither the optimist, who thinks all is well, nor the pessimist, who thinks all is hopeless, will mend anything. Chesterton says we must love the world as a loyal citizen loves his country: without conditions, and for that very reason wanting to reform it. Christianity gives both at once, a firm belief that creation is good and a clear view that it is fallen. That pairing drives real improvement."
+    },
+    {
+     "id": "fa_orthodoxy6",
+     "title": "Orthodoxy is an adventure",
+     "body": "People imagine that holding to right belief is dull and safe. Chesterton pictures the Church as a chariot racing through the centuries, swerving to avoid one error and then another, when it would have been easy to fall. Keeping the whole truth is the daring thing. He ends by saying that joy is the great secret of the Christian: sorrow is real but passing, and gladness lies deeper."
+    }
+   ]
+  },
+  {
+   "id": "fa_life_of_christ",
+   "title": "Life of Christ",
+   "author": "Fulton J. Sheen",
+   "year": "1958",
+   "category": "faith",
+   "why": "Archbishop Sheen's best-known book tells the Gospel story with the cross at its centre from first page to last.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_life_of_christ1",
+     "title": "The one who came to die",
+     "body": "Sheen points out that Jesus alone was announced beforehand, by prophets over centuries. He also notes a difference from every other great figure. Others came into the world to live; Jesus came into it to die. For others, death interrupted their work; for him it was the goal he called his hour. The shadow of the cross falls back over the crib, and the whole Gospel is read in its light."
+    },
+    {
+     "id": "fa_life_of_christ2",
+     "title": "No Christ without the cross",
+     "body": "A theme Sheen sets out at the start is that Christ and his cross cannot be separated. The modern world would like a gentle teacher who asks for no sacrifice and saves from nothing, while harsh ideologies offer sacrifice and discipline without love or redemption. Neither can heal us. The real Jesus offers forgiveness and joy, and offers them through self-giving love that costs something."
+    },
+    {
+     "id": "fa_life_of_christ3",
+     "title": "Three shortcuts refused",
+     "body": "Sheen reads the temptations in the desert (Matthew 4:1-11) as three attempts to turn Jesus from the cross. He could win followers by filling stomachs, by astonishing them with wonders, or by taking political power through compromise with evil. Each is a way to save without suffering. He refuses all three. The same shortcuts tempt us: comfort, show and power in place of faithful love.",
+     "try": "Notice today where you are choosing the comfortable shortcut over the loving thing, and choose the loving thing once."
+    },
+    {
+     "id": "fa_life_of_christ4",
+     "title": "He leaves no middle position",
+     "body": "Jesus forgave sins, claimed authority over the Law and identified himself with God. Sheen argues that these claims rule out the popular view of him as merely a good moral teacher. A man who said such things would be either what he claimed or badly deluded or deceiving. The Gospels were written so that we would face that choice and answer as Peter did: you are the Christ (Matthew 16:16)."
+    },
+    {
+     "id": "fa_life_of_christ5",
+     "title": "The risen Lord keeps his wounds",
+     "body": "After the Resurrection Jesus shows the disciples his hands and side (John 20:20). Sheen dwells on this: the scars remain, now glorious, as the proof of love and the record of the battle won. There is no Easter Sunday that has not passed through a Good Friday. For the believer this gives hope in suffering. Wounds borne with Christ are not erased; they are transformed."
+    }
+   ]
+  },
+  {
+   "id": "fa_prodigal_son",
+   "title": "The Return of the Prodigal Son",
+   "author": "Henri J. M. Nouwen",
+   "year": "1992",
+   "category": "faith",
+   "why": "A priest's long meditation on Rembrandt's painting of the parable, in which every reader finds a place.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_prodigal_son1",
+     "title": "A painting that became a mirror",
+     "body": "Nouwen, a Dutch priest and writer, was captivated by Rembrandt's painting of the father embracing his kneeling son (Luke 15:11-32). Over years of looking he found his own life in each figure. The book follows that journey. Its starting point is that the parable is not only about two brothers long ago. It asks each of us where we stand in the scene, and whether we will let ourselves be welcomed home.",
+     "try": "Read Luke 15:11-32 slowly today and ask: which of the three figures am I most like at present?"
+    },
+    {
+     "id": "fa_prodigal_son2",
+     "title": "The younger son: leaving home",
+     "body": "For Nouwen, home is the place where we hear the Father call us beloved. Leaving home means going deaf to that voice and searching for worth where it cannot be found: in success, approval, pleasure or power. The far country is anywhere we try to earn the love that is already given. The son's return begins when he remembers whose child he is, and he is embraced before his speech is finished."
+    },
+    {
+     "id": "fa_prodigal_son3",
+     "title": "The elder son: lost while staying",
+     "body": "The elder brother never left, worked hard and obeyed, and yet he too is lost. His obedience has turned to resentment; he compares, complains and cannot join the feast. Nouwen admits this was the harder brother to recognise in himself. This lostness hides behind virtue, which makes it difficult to see and to cure. The way home for the elder son is trust and gratitude instead of keeping accounts.",
+     "try": "Catch one moment of resentment or comparison today and replace it with a spoken thank-you to God."
+    },
+    {
+     "id": "fa_prodigal_son4",
+     "title": "The father: love that does not force",
+     "body": "The centre of the painting is the father, old and nearly blind, laying both hands on his son's shoulders. Nouwen sees there a God who lets his children go because love cannot compel, who waits and watches the road, and who goes out to both sons, the wasteful and the bitter. He asks no questions and wants no explanations. His one desire is to have his children at his table."
+    },
+    {
+     "id": "fa_prodigal_son5",
+     "title": "Called to become the father",
+     "body": "Nouwen's last step surprised him: we are meant to do more than return as sons and daughters. We are to grow into the father, compassionate as our Father is compassionate (Luke 6:36). He names three ways there. Grief lets us weep over sin and suffering, forgiveness welcomes without conditions, and generosity gives oneself away. Christian maturity means becoming a home for others."
+    }
+   ]
+  },
+  {
+   "id": "fa_new_seeds",
+   "title": "New Seeds of Contemplation",
+   "author": "Thomas Merton",
+   "year": "1961",
+   "category": "faith",
+   "why": "A Trappist monk's reflections on the inner life, showing contemplation as the flowering of ordinary faith.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_new_seeds1",
+     "title": "Seeds in every moment",
+     "body": "Merton begins with an image: every moment and every event of a person's life plants something in the soul. As the wind carries countless seeds, so each moment brings seeds of spiritual life from God. Most of them die, since we are not ready to receive them. The soil that welcomes them is freedom and love. To see daily events in this way turns interruptions and duties into possible gifts."
+    },
+    {
+     "id": "fa_new_seeds2",
+     "title": "The false self and the true self",
+     "body": "Each of us, Merton says, is shadowed by a false self: the person I want to be in my own eyes and the eyes of others, built from pleasures, honours and achievements, as if I could exist apart from God. That self is an illusion. My true self is the one God knows and loves, and it is hidden in him. For Merton, to become a saint and to become truly myself are the same task.",
+     "try": "Notice once today when you act to protect your image. Quietly let it go and do the honest thing."
+    },
+    {
+     "id": "fa_new_seeds3",
+     "title": "Contemplation is a gift, not a technique",
+     "body": "Contemplation, in Merton's account, is a vivid awareness that our life comes from God and that he is present within us. It is not a trance, not an escape from suffering or responsibility, and not something we can make happen by a method. God gives it. We can prepare by faith, silence and a simpler life, and then wait. Its usual clothing is the obscurity of faith, not special experiences."
+    },
+    {
+     "id": "fa_new_seeds4",
+     "title": "Solitude that unites",
+     "body": "Merton, who lived as a monk, insists that solitude is not a flight from people. The person who goes apart from dislike of others finds only a crowd of his own demons. True solitude deepens love: in God we discover that we are one with all his children. A few minutes of real silence each day, in the middle of family life, serve the same purpose. They return us to others with more to give."
+    },
+    {
+     "id": "fa_new_seeds5",
+     "title": "Humility and letting go",
+     "body": "The way to God passes through detachment, which means being free from clinging, and Merton extends this even to spiritual things: our reputation for goodness, our good feelings in prayer, our own plans for holiness. The proud person compares himself with everyone. The humble person is at peace, since he no longer needs to defend an image. Merton treats humility as the plain condition for joy."
+    }
+   ]
+  },
+  {
+   "id": "fa_jesus_nazareth",
+   "title": "Jesus of Nazareth: From the Baptism in the Jordan to the Transfiguration",
+   "author": "Joseph Ratzinger (Pope Benedict XVI)",
+   "year": "2007",
+   "category": "faith",
+   "why": "A great theologian's personal search for the face of Jesus in the Gospels, written for every thoughtful reader.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_jesus_nazareth1",
+     "title": "The Jesus of the Gospels is the real Jesus",
+     "body": "Benedict wrote this book as his personal search for the face of the Lord, stating that it is not an act of official teaching and that readers are free to disagree. He values historical scholarship but shows its limits when it splits the Jesus of history from the Christ of faith. His conviction is that the figure the Gospels present is believable, historically sound and far more convincing than the reconstructions."
+    },
+    {
+     "id": "fa_jesus_nazareth2",
+     "title": "At the Jordan, Jesus stands with sinners",
+     "body": "Why would the sinless one accept a baptism of repentance? Benedict sees in it Jesus's whole mission in advance. He steps into the place of sinners, takes their burden on his shoulders and goes down into the water as he will go down into death. The Father's voice names him the beloved Son. Our own baptism joins us to this descent and rising, and to the same voice."
+    },
+    {
+     "id": "fa_jesus_nazareth3",
+     "title": "What did Jesus actually bring?",
+     "body": "Reflecting on the temptations in the desert, Benedict poses a blunt question. If Jesus did not bring world peace, bread for all or a better world, what did he bring? The answer is simple: he brought God. He made known the true face of the God of Israel, and with him the truth about where we come from and where we are going. The temptation in every age is to push God aside as secondary to more urgent things.",
+     "try": "Before your most urgent task today, give God the first five minutes."
+    },
+    {
+     "id": "fa_jesus_nazareth4",
+     "title": "The Kingdom of God is God himself acting",
+     "body": "Jesus's central message was that the Kingdom of God is at hand. Benedict explains that this kingdom is not a territory, and not a social programme we construct. It means God's lordship, his living rule, and it has come near in the person of Jesus himself. Where he is received, God reigns. To pray thy kingdom come is to ask for a listening heart in which God's will sets the measure."
+    },
+    {
+     "id": "fa_jesus_nazareth5",
+     "title": "The Beatitudes are a portrait of Jesus",
+     "body": "The Sermon on the Mount is the new Law given by one greater than Moses, who speaks with God's own authority. Benedict reads the Beatitudes (Matthew 5:3-12) as a hidden portrait of Christ: he is the one who is poor, meek, pure of heart, a peacemaker, persecuted. So they are also a guide for disciples. They overturn worldly standards and promise joy in the midst of trouble."
+    },
+    {
+     "id": "fa_jesus_nazareth6",
+     "title": "Praying the Our Father",
+     "body": "Benedict gives a full chapter to the Lord's Prayer, in which Jesus draws us into his own conversation with the Father. We say our, so no one prays it alone or only for himself. The petitions teach right order: God's name, kingdom and will first, then bread, forgiveness and protection. The more we pray it, he suggests, the more its words reshape our wishes into those of Jesus."
+    }
+   ]
+  },
+  {
+   "id": "fa_lambs_supper",
+   "title": "The Lamb's Supper",
+   "author": "Scott Hahn",
+   "year": "1999",
+   "category": "faith",
+   "why": "Shows how the Book of Revelation and the Mass explain each other, so that Sunday worship comes alive.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_lambs_supper1",
+     "title": "The Mass is heaven on earth",
+     "body": "Hahn, a former Protestant minister, first attended Mass as an observer and was startled to hear the Bible everywhere in it, above all the Book of Revelation. His thesis follows the early Christians and the Church's teaching: the liturgy on earth is a sharing in the worship of heaven. When we go to Mass we do not merely think about heaven. In a real though veiled way, we are there."
+    },
+    {
+     "id": "fa_lambs_supper2",
+     "title": "Jesus is the Lamb",
+     "body": "Revelation's favourite title for Jesus is the Lamb, used more than two dozen times. Hahn traces it to the Passover in Egypt, where a lamb's blood saved the people and its flesh had to be eaten (Exodus 12). Jesus is the true Passover Lamb, sacrificed once and now standing alive before the throne. This is what the priest proclaims when he holds up the Host and calls it the Lamb of God."
+    },
+    {
+     "id": "fa_lambs_supper3",
+     "title": "Revelation follows the pattern of the Mass",
+     "body": "Read as worship, Revelation falls into two parts: the opening of the scroll, like the Liturgy of the Word, and the marriage supper of the Lamb, like the Liturgy of the Eucharist. Its details are familiar from church: an altar, robed ministers, lampstands, incense, the cry of Holy, Holy, Holy, the Alleluia and the great Amen. The Mass gives the key to this difficult book.",
+     "try": "At your next Mass or Holy Qurbana, listen for the Holy, Holy, Holy and remember that you are singing with the angels."
+    },
+    {
+     "id": "fa_lambs_supper4",
+     "title": "A covenant makes a family",
+     "body": "Hahn's constant theme is covenant. A contract exchanges goods; a covenant, sworn with an oath, makes people family. God's covenants with Israel were sealed by sacrifice and a shared meal, and Jesus called the Eucharist the new covenant in his blood (Luke 22:20). Each Communion renews that family bond. Our Amen has the weight of an oath: a pledge to live as God's sons and daughters."
+    },
+    {
+     "id": "fa_lambs_supper5",
+     "title": "Come knowing where you are",
+     "body": "If the Mass is heaven come down, we are never a small congregation. Angels and saints surround the altar, and Revelation shows their worship affecting what happens on earth. Hahn concludes that faithful worship is the Christian's strongest part in the struggle against evil. He advises preparing: read the readings beforehand, arrive early, and take part with attention."
+    }
+   ]
+  },
+  {
+   "id": "fa_interior_peace",
+   "title": "Searching for and Maintaining Peace",
+   "author": "Jacques Philippe",
+   "year": "1991",
+   "category": "faith",
+   "why": "A small, much-loved book on keeping the heart at peace so that God can work in it.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_interior_peace1",
+     "title": "Peace lets God act",
+     "body": "Father Philippe begins with our helplessness: without God we can do nothing good (John 15:5). The most important thing, then, is to let him act, and for that the heart needs peace. He uses the image of a lake. When the surface is calm, it reflects the sun clearly; when it is stirred up, the image breaks. Keeping inner peace is not selfish comfort. It is the best help we can give to God's grace."
+    },
+    {
+     "id": "fa_interior_peace2",
+     "title": "Fight, but for the right goal",
+     "body": "The Christian life is a real combat, yet Philippe says we often fight on the wrong ground. If our aim is never to fail, we will lose heart quickly. A better goal is to keep peace and trust whatever happens, including our defeats. The devil's main strategy, he says, is to trouble and discourage us, since an agitated soul is easily led. Refusing to lose peace is itself a victory."
+    },
+    {
+     "id": "fa_interior_peace3",
+     "title": "Worry gives way to trust",
+     "body": "Much of our unrest comes from fear of lacking something: money, health, security, the good of our children. Philippe answers with Jesus's teaching on the birds and the lilies (Matthew 6:25-34). The Father knows what we need. Trust like this cannot be partial; holding back one area for ourselves keeps us anxious. We learn it by actually handing things over and finding, over time, that God is faithful.",
+     "try": "Name the worry that weighs most on you today and say: Father, I entrust this to you; I believe you will take care of it."
+    },
+    {
+     "id": "fa_interior_peace4",
+     "title": "Peace with your own faults",
+     "body": "Seeing our sins should make us sorry, but Philippe distinguishes two kinds of sorrow. One is anxious and bitter, and keeps us turned in on ourselves; it springs from hurt pride. The other is calm, trusts in mercy, and sets us on our feet at once. After a fall, he advises turning to God immediately, asking forgiveness, thanking him for his mercy, and going on. Confession completes this for serious sins."
+    },
+    {
+     "id": "fa_interior_peace5",
+     "title": "Patience with other people",
+     "body": "The faults of those around us can rob us of peace as much as our own. Philippe points out that God himself is patient with them and gives them time. We should want their good and work for it gently, but without the agitation that comes from wanting them changed at our pace and by our methods. Annoyance rarely improves anyone. A peaceful heart helps others more than an irritated one."
+    },
+    {
+     "id": "fa_interior_peace6",
+     "title": "Deciding without tormenting yourself",
+     "body": "When a decision is unclear, we should pray, reflect and seek advice. But God does not always show his will plainly, and Philippe warns against the perfectionism that fears every mistake. After honest effort we should decide and then be at peace, since the Lord looks at our good will more than at flawless results. In small matters he advises simply choosing what seems best without long deliberation."
+    }
+   ]
+  },
+  {
+   "id": "fa_catholicism_barron",
+   "title": "Catholicism: A Journey to the Heart of the Faith",
+   "author": "Robert Barron",
+   "year": "2011",
+   "category": "faith",
+   "why": "A confident, attractive tour of what Catholics believe, told through Scripture, saints, art and places.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_catholicism_barron1",
+     "title": "God became one of us",
+     "body": "Barron starts with what he calls the great principle of Catholicism: the Incarnation, God becoming human in Jesus without ceasing to be God. From it he draws a key insight. God is not our rival. Since God could unite himself to a human nature without crushing it, the closer he comes, the more fully alive we become. God's glory and human flourishing are not in competition."
+    },
+    {
+     "id": "fa_catholicism_barron2",
+     "title": "Jesus forces a decision",
+     "body": "Barron stresses how strange and commanding Jesus is in the Gospels. He speaks and acts in the very person of the God of Israel: forgiving sins, claiming to be greater than the Temple, asking for a loyalty above family and life itself. Such a person cannot be filed away as one wise teacher among many. Either he is who he says, and deserves our whole life, or he is not to be followed at all."
+    },
+    {
+     "id": "fa_catholicism_barron3",
+     "title": "Beauty opens the door",
+     "body": "Barron leads readers through cathedrals, paintings, music and poetry, convinced that beauty is often the best first step towards faith. A beautiful thing attracts without arguing; then it prompts us to ask what makes it good, and at last what makes it true. He also notes the Catholic habit of holding things together: faith and reason, Scripture and Tradition, grace and nature.",
+     "try": "Spend five unhurried minutes today before a beautiful image, church or piece of sacred music, and let it lead you to prayer."
+    },
+    {
+     "id": "fa_catholicism_barron4",
+     "title": "The saints show the faith alive",
+     "body": "For Barron the best proof of Christianity is the saints. He presents several, among them St Therese of Lisieux, St Katharine Drexel, St Edith Stein and St Teresa of Kolkata. They are very different from one another and each is completely herself. Holiness does not flatten personality. Each saint shows one side of Christ's own life, and so we need many of them, as white light contains every colour."
+    },
+    {
+     "id": "fa_catholicism_barron5",
+     "title": "Worship and the life to come",
+     "body": "Barron presents the Mass as the place where everything in the faith meets: the gathered people, the word of God, and Christ's real presence in the Eucharist. He explains the last things in terms of love. Heaven is the fullness of love for God and neighbour. Hell is the freely chosen refusal of it. Purgatory is the painful, hopeful purifying of those who die in God's friendship."
+    }
+   ]
+  },
+  {
+   "id": "fa_ephrem_paradise",
+   "title": "Hymns on Paradise",
+   "author": "St Ephrem the Syrian",
+   "year": "c. 360",
+   "category": "faith",
+   "why": "Poems by the greatest teacher of the Syriac tradition, from which the Syro-Malabar Church draws its prayer.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_ephrem_paradise1",
+     "title": "A teacher who sings",
+     "body": "St Ephrem, a deacon of Nisibis and Edessa and a Doctor of the Church, taught the faith through hymns sung by the people. In these fifteen poems he meditates on the Garden of Eden in Genesis. He approaches God's mysteries with wonder and praise, not with prying analysis, and he uses images and symbols where others use definitions. He counts himself a beggar hoping for crumbs at Paradise's edge."
+    },
+    {
+     "id": "fa_ephrem_paradise2",
+     "title": "God clothes himself in our words",
+     "body": "Ephrem warns his hearers not to be misled when Scripture describes Paradise in earthly terms. God, out of love, puts on our language like a garment, since we could not otherwise approach what lies beyond us. The words are true and are to be treasured, but they point further than they say. The right response is gratitude for this stooping down, and a reverent refusal to imagine that we have God measured."
+    },
+    {
+     "id": "fa_ephrem_paradise3",
+     "title": "The mountain of Paradise",
+     "body": "Ephrem pictures Paradise as a mountain higher than all others, with God's presence at the summit. He sees the same pattern in Noah's ark with its decks, in Mount Sinai and in the sanctuary. The Tree of Knowledge stands like a veil before the holy place. The blessed are received at the level their lives have prepared them for, and repentant sinners are welcomed within its bounds."
+    },
+    {
+     "id": "fa_ephrem_paradise4",
+     "title": "The robe of glory, lost and restored",
+     "body": "A favourite image of Ephrem and the Syriac tradition is the robe of glory. Adam and Eve were clothed in light, and by sin they lost it and saw that they were naked. Christ came to find Adam and bring him back into the Garden clothed again. Christians receive that robe in baptism and are to keep it bright for the wedding feast. Sin is a loss of dignity, and salvation is its return.",
+     "try": "Recall your baptismal robe today, and ask Christ to restore whatever sin has dimmed in you."
+    },
+    {
+     "id": "fa_ephrem_paradise5",
+     "title": "Free will and the testing of Adam",
+     "body": "Why was there a forbidden tree at all? Ephrem answers that God gave Adam a small commandment so that he could win his crown freely. Glory was meant as the reward of obedience. Had Adam waited, God would have given him the very thing he grasped at. The serpent offered a shortcut, and haste lost everything. God's commands are his way of giving us more than we would seize for ourselves."
+    },
+    {
+     "id": "fa_ephrem_paradise6",
+     "title": "The thief, the body and the Church",
+     "body": "Ephrem rejoices that the repentant thief was promised Paradise (Luke 23:43): a single cry of faith opened what Adam had closed. He also teaches that soul and body belong together, so that our full joy awaits the resurrection of the body. And he sees the Church as already a likeness of Paradise on earth, where the fruit that gives life to all is gathered each day in the Eucharist."
+    }
+   ]
+  },
+  {
+   "id": "fa_chavarul",
+   "title": "Chavarul: Testament of a Loving Father",
+   "author": "St Kuriakose Elias Chavara",
+   "year": "1868",
+   "category": "faith",
+   "why": "A Kerala saint's letter of counsel to the families of his home parish, as practical now as when he wrote it.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_chavarul1",
+     "title": "A good family is an image of heaven",
+     "body": "St Chavara, the Syro-Malabar priest who co-founded the CMI and CMC congregations, wrote this testament for the people of his native Kainakary. He begins with the family itself: a good Christian family is like heaven on earth. Its members, joined by blood and affection, live together in love, respect and obedience to their parents, at peace with God and with one another, each seeking salvation in their own state of life."
+    },
+    {
+     "id": "fa_chavarul2",
+     "title": "Keep love and peace, avoid quarrels",
+     "body": "His first counsels are about charity at home and with neighbours. Family members should love one another and forgive each other's faults and shortcomings; one who does so finds peace here and reward hereafter. He warns firmly against carrying disputes to court, noting that lawsuits ruin families even when they are won. An honourable family, he says, is one that bears wrongs and forgives.",
+     "try": "Is there a quarrel in your family or neighbourhood? Take one step today towards forgiving or being reconciled."
+    },
+    {
+     "id": "fa_chavarul3",
+     "title": "Work honestly and live within your means",
+     "body": "Chavara is plain about money. Each person should work according to his state of life, since idleness breeds vice. He advises against borrowing without real need, against display and costly celebrations beyond one's means, and against wealth gained by fraud, which does not last. He is strict on wages: labourers must be paid what is just, and without delay. To withhold wages is a grave sin before God."
+    },
+    {
+     "id": "fa_chavarul4",
+     "title": "Count no day without a good deed",
+     "body": "Charity to those in need runs through the testament. Chavara teaches that a day on which we have done no good to anyone should not be counted among the days of our life. No one who comes asking for help should be sent away with empty hands, and we should give what we can. He also asks families to treat servants and workers with respect and to care for the sick and dying.",
+     "try": "Before the day ends, do one deliberate good deed for someone outside your household."
+    },
+    {
+     "id": "fa_chavarul5",
+     "title": "Children are entrusted by God",
+     "body": "The second half addresses parents. Children are a treasure placed in their hands by God, to be given back to him. Parents should teach them to pray from the earliest years, send them to school, know who their friends are, and correct them with firmness and affection, without excessive harshness. When they are grown, they should be free to choose their state of life, marriage or religious vocation."
+    },
+    {
+     "id": "fa_chavarul6",
+     "title": "Order the home around prayer",
+     "body": "Chavara wants the fear of God, a loving reverence for him, to be the family's real wealth. He asks for a regular timetable in the home: a fixed hour when all gather for evening prayer, early rising, attendance at the Holy Qurbana where possible, and Sundays and feasts kept holy. He recommends good books and warns against bad company. A house ordered in this way, he teaches, passes its faith on."
+    }
+   ]
+  },
+  {
+   "id": "fa_mere_christianity",
+   "title": "Mere Christianity",
+   "author": "C. S. Lewis",
+   "year": "1952",
+   "category": "faith",
+   "why": "The most widely read modern explanation of the beliefs that Christians of nearly all traditions hold in common.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_mere_christianity1",
+     "title": "The law we know and break",
+     "body": "Lewis begins with quarrelling. When people argue, they appeal to a standard of fair play that they expect the other to know. Everyone has this sense of right and wrong, and no one keeps it fully. Lewis takes these two facts as the best clue to the meaning of the universe. Behind the moral law is Someone who cares about right conduct, and with whom we have put ourselves in the wrong."
+    },
+    {
+     "id": "fa_mere_christianity2",
+     "title": "No room for a merely good teacher",
+     "body": "Lewis answers people who accept Jesus as a great moral teacher but not as God. A man who was only a man and claimed to forgive sins and to be the judge of the world would not be a great teacher. He would be either deranged or something worse. Lewis says Jesus did not leave the comfortable middle view open to us. We must decide for or against his claim to be Lord."
+    },
+    {
+     "id": "fa_mere_christianity3",
+     "title": "Pride, the great sin",
+     "body": "The vice Lewis calls the centre of Christian morals is pride. It is competitive by nature: it takes no pleasure in having something, only in having more than the next person. It sets us against one another and against God, since a proud person always looks down and so cannot see what is above. The first step towards humility is to realise that one is proud. A truly humble person will simply seem interested in you.",
+     "try": "Today, in one conversation, ask about the other person and listen without turning the talk back to yourself."
+    },
+    {
+     "id": "fa_mere_christianity4",
+     "title": "Charity is a matter of the will",
+     "body": "Christian love for our neighbour, Lewis explains, is not a warm emotion. It is a steady wishing and working for the other person's good. We cannot manufacture feelings, so his rule is not to worry whether we love someone. Act as if you did, and affection tends to follow. The same holds for loving God: do what you would do if you loved him, and trust him with the feelings."
+    },
+    {
+     "id": "fa_mere_christianity5",
+     "title": "Faith holds on through changing moods",
+     "body": "Lewis describes faith as the art of holding on to what our reason has once accepted, in spite of changing moods. Feelings rise against belief now and then, without any new argument to support them. So faith must be fed daily, by prayer, reading and churchgoing, or it will drift away. He adds a deeper sense of faith: discovering our bankruptcy and leaving ourselves to Christ, who then enables real effort."
+    },
+    {
+     "id": "fa_mere_christianity6",
+     "title": "God means to make us new",
+     "body": "Lewis warns that Christ will not settle for making us nicer. Give him an opening and he intends to remake the whole person into a son or daughter of God sharing his own life, and he will carry the work through whatever it costs. The Church exists to draw people into Christ in this way. The paradox is that those who give up themselves find their real selves; those who cling lose both."
+    }
+   ]
+  },
+  {
+   "id": "fa_screwtape",
+   "title": "The Screwtape Letters",
+   "author": "C. S. Lewis",
+   "year": "1942",
+   "category": "faith",
+   "why": "A senior devil's letters of advice to a junior tempter, which show how temptation works in everyday life.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "fa_screwtape1",
+     "title": "Seeing temptation from the other side",
+     "body": "Lewis imagines letters from Screwtape, an experienced devil, coaching his nephew on how to ruin one ordinary man. Everything is upside down: God is the Enemy, and the man's good is their defeat. The device lets us see our own habits as a tempter would. The key lesson is that he prefers small sins. The safest road to hell is gradual, a gentle slope with no sudden turns and no signposts."
+    },
+    {
+     "id": "fa_screwtape2",
+     "title": "Keep him distracted",
+     "body": "Screwtape seldom needs to argue his patient out of belief. It is enough to keep him from thinking steadily about anything that matters: fill his mind with the day's noise, the newspaper, lunch, vague feelings in place of clear questions. Lewis wrote before smartphones existed, and the point has only sharpened since. Silence and attention are a protection, and endless trivial stimulation is a spiritual danger.",
+     "try": "Keep ten minutes of real silence today, with the phone in another room."
+    },
+    {
+     "id": "fa_screwtape3",
+     "title": "Dry spells are part of God's plan",
+     "body": "Screwtape explains what he calls the law of undulation: humans live in time, so their fervour rises and falls. The tempter hopes the low points will convince the man his faith was just a mood. But God uses those troughs more than the peaks, since he wants free love and not dependence on feelings. What the devils fear most is a person who no longer feels God's presence and still obeys."
+    },
+    {
+     "id": "fa_screwtape4",
+     "title": "Live in the present",
+     "body": "According to Screwtape, God wants people attending chiefly to two things: eternity, and the present moment, which is the point where time touches eternity. So the tempters push the mind into the future, where nearly all fear, greed and ambition live. To do today's duty, receive today's grace and bear today's cross is exactly what they try to prevent, by keeping us busy with imagined tomorrows."
+    },
+    {
+     "id": "fa_screwtape5",
+     "title": "Charity starts with those nearest",
+     "body": "The man in the story lives with his mother, and Screwtape advises building up daily irritations between them: tones of voice, small habits, remarks taken the wrong way. Meanwhile the man can be kept praying loftily for her soul while ignoring her rheumatism. Lewis's point is that love is tested first at home, in small concrete acts, and that spirituality which skips them is an illusion."
+    },
+    {
+     "id": "fa_screwtape6",
+     "title": "The trap inside humility",
+     "body": "When the man becomes humble, Screwtape recommends drawing his attention to it, so that he grows proud of his humility. He also promotes a false humility that consists in thinking poorly of one's talents. Real humility, the letters make clear, is self-forgetfulness: being able to rejoice in something done well whether I or another did it, and turning attention away from self towards God and neighbour."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1693 @@
+{
+ "pack": "psychology",
+ "version": 1,
+ "title": "Psychology and human nature",
+ "books": [
+  {
+   "id": "ps_irrational",
+   "title": "Predictably Irrational",
+   "author": "Dan Ariely",
+   "year": "2008",
+   "category": "thinking",
+   "why": "Shows that our slips with prices, effort and choice follow patterns we can learn to spot in ourselves.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_irrational1",
+     "title": "We judge by comparison",
+     "body": "We rarely know what something is worth on its own, so we compare it with whatever sits beside it. Sellers use this by adding an option nobody is meant to pick, such as a slightly worse deal at the same price, which makes its neighbour look like a bargain. A middling bottle of wine sells better once a very expensive one appears on the list above it.",
+     "try": "The next time you see three options side by side, ask which one is only there to make another look good."
+    },
+    {
+     "id": "ps_irrational2",
+     "title": "The first number sticks",
+     "body": "The first price we meet for something becomes the yardstick for every later price, even when that first number was arbitrary. The book describes experiments in which an unrelated number people had just written down shifted what they offered to pay for goods. This is why the crossed-out \"original\" price on a tag does its work even when you doubt it was ever charged."
+    },
+    {
+     "id": "ps_irrational3",
+     "title": "Free is not just a low price",
+     "body": "When something costs nothing we stop weighing costs against benefits and simply grab it. Ariely argues that zero removes the fear of losing out, so a free item feels far better than a very cheap one of greater value. You see it when you add a book you do not want to an order to reach free delivery, and end up spending more than the delivery would have cost."
+    },
+    {
+     "id": "ps_irrational4",
+     "title": "Two rule books: social and market",
+     "body": "We live by social rules (favours, warmth, no bill) and market rules (prices, wages, contracts). Trouble starts when they mix. Offering to pay a friend for helping you move turns a kindness into a badly paid job, and both of you feel worse. A small gift or a shared meal keeps the exchange social. Once money enters, the social rules are slow to return."
+    },
+    {
+     "id": "ps_irrational5",
+     "title": "Owning something inflates its worth",
+     "body": "Once a thing is ours we value it more than we did before, and more than any buyer will. We focus on what we would lose by parting with it, while the buyer only sees the price. This is why people overprice their own house or car, and why free trial periods work: after a month the product feels like yours, and giving it back feels like a loss.",
+     "try": "Pick one thing you are holding on to and ask: if I did not own this, what would I pay to get it today?"
+    },
+    {
+     "id": "ps_irrational6",
+     "title": "How far to trust the experiments",
+     "body": "The broad effects in this book, such as anchoring, decoy options and overvaluing what we own, have been found by many researchers. But some individual experiments it describes have not held up when repeated, and some of Ariely's later research on honesty has been seriously questioned. Read it as a map of tendencies worth watching for, and do not lean on any single study or exact figure."
+    }
+   ]
+  },
+  {
+   "id": "ps_stumbling",
+   "title": "Stumbling on Happiness",
+   "author": "Daniel Gilbert",
+   "year": "2006",
+   "category": "mind",
+   "why": "Explains why we are so often wrong about what will make us happy, and what to do instead.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_stumbling1",
+     "title": "Imagination is a sketchy forecaster",
+     "body": "We decide what to pursue by imagining how it will feel, and Gilbert's argument is that this picture is unreliable. Imagination quietly fills in details that will not be there and leaves out ones that will. Picture a holiday and you see the beach, not the queues, the heat or the argument about dinner. The forecast feels like a preview, but it is closer to a rough sketch."
+    },
+    {
+     "id": "ps_stumbling2",
+     "title": "We overestimate how long feelings last",
+     "body": "People expect good and bad events to affect them more strongly and for longer than they do. The promotion will not keep you elated for a year, and the failed exam will not flatten you for a year either. Life fills up again with ordinary things that take your attention. Knowing this makes big decisions lighter: most outcomes will matter less to your mood than you fear or hope."
+    },
+    {
+     "id": "ps_stumbling3",
+     "title": "The mind's quiet repair system",
+     "body": "Gilbert describes a kind of psychological immune system. After a real setback we find new ways to see it: the job was not right anyway, the break-up taught us something. We do this without noticing, so we do not count on it in advance, and that is one reason we overrate how bad things will feel. It switches on more reliably for serious blows than for small daily irritations."
+    },
+    {
+     "id": "ps_stumbling4",
+     "title": "We grow to like what we cannot undo",
+     "body": "We want the freedom to change our minds, yet the book argues we end up more content with choices that are final. When a decision can be reversed we keep checking whether it was right. When it cannot, the mind gets to work finding what is good about it. A purchase with a thirty-day return window can leave you less satisfied than one you simply have to live with."
+    },
+    {
+     "id": "ps_stumbling5",
+     "title": "Today's mood colours tomorrow",
+     "body": "We imagine the future through whatever we feel now. Shop for food when hungry and you buy too much; plan next week when exhausted and everything looks impossible. The present leaks into the forecast and we do not correct for it enough. It helps to notice your current state before deciding anything about a future in which you will feel different.",
+     "try": "Before you make a plan today, name your mood first and ask if you would decide the same way after a meal and a rest."
+    },
+    {
+     "id": "ps_stumbling6",
+     "title": "Ask someone who is already there",
+     "body": "Gilbert's most practical advice is to stop imagining and ask. The feelings of a person who is living the experience now are a better guide than your own picture of it. Thinking about moving to a small town or changing careers? Ask someone doing it how their ordinary Tuesday feels. We resist this because we believe we are unlike other people, but in our emotional reactions we are more alike than we suppose.",
+     "try": "Thinking over a decision? Find one person already living that choice and ask what a normal day is like."
+    }
+   ]
+  },
+  {
+   "id": "ps_happyhyp",
+   "title": "The Happiness Hypothesis",
+   "author": "Jonathan Haidt",
+   "year": "2006",
+   "category": "mind",
+   "why": "Tests ten old ideas about the good life against modern psychology and keeps what holds up.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_happyhyp1",
+     "title": "The rider and the elephant",
+     "body": "Haidt pictures the mind as a small rider on a large elephant. The rider is conscious reasoning; the elephant is everything else: gut feelings, habits, cravings, fears. The rider can advise and steer a little, but cannot drag the elephant where it does not want to go. This is why knowing you should stop scrolling does not stop you. Lasting change means training the elephant, not lecturing it."
+    },
+    {
+     "id": "ps_happyhyp2",
+     "title": "The mind leans toward the bad",
+     "body": "We react more quickly and strongly to threats and setbacks than to good things of the same size. One critical remark outweighs several kind ones. This once kept our ancestors alive, but it tilts the elephant toward worry. The book names three ways the tilt can be shifted: meditation, cognitive therapy, and for some people medication, which is a matter to settle with a doctor."
+    },
+    {
+     "id": "ps_happyhyp3",
+     "title": "Reciprocity runs deep",
+     "body": "Returning favours and returning harm is one of the most dependable human instincts. It lets strangers cooperate, and it explains why a free sample makes us feel we owe something. Haidt treats it as a kind of social currency. You can use it kindly: an honest favour or a small concession often brings one back, and gossip, for all its bad name, helps a group keep track of who plays fair."
+    },
+    {
+     "id": "ps_happyhyp4",
+     "title": "We see others' faults, not our own",
+     "body": "We are skilled at spotting bias and selfishness in other people and nearly blind to them in ourselves. In a quarrel each side feels it is simply reacting to what the other one started. Haidt's suggestion is modest: find even one thing you did that added to the problem. Admitting it lowers the heat, and the other person often answers with an admission of their own.",
+     "try": "Think of a current disagreement and write down one way, however small, that you contributed to it."
+    },
+    {
+     "id": "ps_happyhyp5",
+     "title": "What changes happiness and what does not",
+     "body": "We adapt quickly to most improvements, such as a higher salary or a bigger home, and drift back to our usual level. Haidt points to conditions we do not fully adapt to: constant noise, a long commute, lack of control, and above all the quality of our relationships. Money spent on shortening a commute or on time with people you love may do more for you than money spent on a larger house."
+    },
+    {
+     "id": "ps_happyhyp6",
+     "title": "Happiness comes from between",
+     "body": "The book's conclusion is that happiness cannot be found by looking only inward or only outward. It arises from getting the relationships right: between you and other people, between you and your work, and between you and something larger than yourself. A person with close bonds, work that engages them and a sense of belonging to something bigger tends to find that contentment arrives without being chased."
+    }
+   ]
+  },
+  {
+   "id": "ps_righteous",
+   "title": "The Righteous Mind",
+   "author": "Jonathan Haidt",
+   "year": "2012",
+   "category": "people",
+   "why": "Helps you understand why decent people disagree so fiercely about politics and religion.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_righteous1",
+     "title": "Feeling first, reasons after",
+     "body": "Haidt argues that moral judgements arrive as quick gut reactions, and reasoning comes afterwards to defend them. Our inner thinker behaves less like a judge weighing evidence and more like a lawyer hired by our feelings. That is why a strong argument rarely changes anyone's moral view on the spot: you are answering the lawyer, while the verdict was reached somewhere else."
+    },
+    {
+     "id": "ps_righteous2",
+     "title": "We care most about looking right",
+     "body": "The book suggests that moral reasoning evolved to help us manage our reputation and persuade others, not to find truth alone. We are careful when someone is checking, and good at finding excuses when nobody is. This sounds bleak, but it has a useful side: people reason better when they must explain themselves to others who may disagree, so mixed company improves thinking."
+    },
+    {
+     "id": "ps_righteous3",
+     "title": "Morality has more than one taste",
+     "body": "Haidt compares the moral sense to a tongue with several taste receptors. He proposes six foundations: care for the vulnerable, fairness, liberty, loyalty to the group, respect for authority, and a sense of the sacred or pure. Cultures and individuals build different moral worlds from these. Someone offended by a burnt flag is responding to loyalty and sanctity, not being irrational."
+    },
+    {
+     "id": "ps_righteous4",
+     "title": "Why left and right talk past each other",
+     "body": "In Haidt's surveys, people on the political left rest their moral case mainly on care, fairness and liberty, while conservatives draw more evenly on all six foundations. Each side then sees the other as blind or heartless. The theory is debated among researchers and the foundations list is not settled, but it is a useful prompt: ask which value the other person is protecting.",
+     "try": "Take an opinion you dislike and try to name the moral value its holders believe they are defending."
+    },
+    {
+     "id": "ps_righteous5",
+     "title": "Morality binds and blinds",
+     "body": "Humans are selfish, Haidt says, but also deeply groupish. Shared moral beliefs let large groups of unrelated people trust each other and work together, which is a remarkable achievement. The cost is that the same beliefs make it hard to see anything good in the other team. Once a group circles around something it holds sacred, its members lose the ability to think clearly about it."
+    },
+    {
+     "id": "ps_righteous6",
+     "title": "Talk to the elephant first",
+     "body": "Since intuition leads and reasoning follows, persuasion starts with the relationship, not the argument. People open up to a different view when they feel liked and respected by the person offering it, and close down when attacked. If you want to be heard by a relative across the political divide, begin with what you admire or share, and show you understand their concern before you raise your own."
+    }
+   ]
+  },
+  {
+   "id": "ps_emotionalint",
+   "title": "Emotional Intelligence",
+   "author": "Daniel Goleman",
+   "year": "1995",
+   "category": "mind",
+   "why": "The book that made the case that handling feelings well is a skill, and one that can be learned.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_emotionalint1",
+     "title": "Two minds, and the faster one",
+     "body": "Goleman describes us as having an emotional mind and a rational mind. The emotional one is quicker: older parts of the brain can sound an alarm before the thinking part has finished assessing the facts. He calls a full takeover an emotional hijacking. It is the moment you snap at someone and, a minute later, cannot believe what you said. The feeling was real; the response came before thought."
+    },
+    {
+     "id": "ps_emotionalint2",
+     "title": "Five skills, not one trait",
+     "body": "The book breaks emotional intelligence into five abilities: knowing what you feel, managing those feelings, motivating yourself, recognising feelings in others, and handling relationships. They build on one another, and a person can be strong in one and weak in another. Someone may read a room perfectly and still be unable to calm their own temper. Seeing them as separate skills shows where to practise."
+    },
+    {
+     "id": "ps_emotionalint3",
+     "title": "Notice the feeling as it happens",
+     "body": "Self-awareness, in Goleman's account, is the foundation for everything else. It means noticing a mood while you are in it, as if part of you stood slightly to one side: \"this is anger I am feeling\". That small distance is what gives you a choice. A person who cannot tell irritation from tiredness or hurt will act on the feeling without ever having examined it.",
+     "try": "Three times today, stop and name what you are feeling in one or two precise words."
+    },
+    {
+     "id": "ps_emotionalint4",
+     "title": "Venting does not drain anger",
+     "body": "A popular belief says that letting rage out gets rid of it. Goleman reports research suggesting the opposite: acting out anger tends to keep the body stirred up and prolongs the mood. What works better is cooling down first, for instance by going for a walk, and then questioning the thought that lit the fuse. Was the driver who cut in being hostile, or just late and careless?"
+    },
+    {
+     "id": "ps_emotionalint5",
+     "title": "Empathy reads what is not said",
+     "body": "Most emotional messages travel through tone of voice, face and posture, not words. Empathy is the skill of picking these up, and it grows out of self-awareness: the better you know your own feelings, the easier it is to read someone else's. A colleague who says \"fine\" in a flat voice while looking away has told you two things, and the second one is the more reliable."
+    },
+    {
+     "id": "ps_emotionalint6",
+     "title": "What the evidence supports",
+     "body": "The book's lasting contribution is that emotional skills matter and can be taught, to children and adults alike. Its bolder suggestion, that these skills can count for more than IQ in how life turns out, has been criticised by later researchers as overstated, and tests of emotional intelligence vary in quality. Treat it as a strong argument for practising these skills, not as a precise measure of anyone."
+    }
+   ]
+  },
+  {
+   "id": "ps_drive",
+   "title": "Drive",
+   "author": "Daniel H. Pink",
+   "year": "2009",
+   "category": "mind",
+   "why": "A clear account of why rewards and punishments often fail, and what moves people instead.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_drive1",
+     "title": "Carrots and sticks have a narrow range",
+     "body": "Rewards and penalties work reasonably well for simple, routine tasks where the path is clear. Pink argues that for work needing judgement or creativity they often backfire, narrowing attention and encouraging shortcuts. A bonus for the number of calls handled gets you more calls, not better help. The more thinking a task needs, the less a dangled prize helps."
+    },
+    {
+     "id": "ps_drive2",
+     "title": "Rewards can turn play into work",
+     "body": "When people are paid for something they already enjoy, they may start to see it as a job and lose interest once the pay stops. The book describes research with young children who drew less in their free time after being promised a prize for drawing. Researchers still debate how large and how general this effect is, but it is a fair warning against paying a child for each book read."
+    },
+    {
+     "id": "ps_drive3",
+     "title": "Autonomy: a say over your work",
+     "body": "People do better when they have some control over what they do, when, how, and with whom. Being trusted to direct yourself brings engagement, while being closely managed brings compliance at best. Even a small amount helps. A parent who lets a child choose the order of homework and chores, or a manager who sets the goal and leaves the method open, usually gets more effort, not less.",
+     "try": "Give someone you supervise, or a child, a real choice about how to do one task today."
+    },
+    {
+     "id": "ps_drive4",
+     "title": "Mastery: getting better at something that matters",
+     "body": "The urge to improve is a strong motive in its own right. Pink notes that mastery needs tasks slightly beyond your current ability, takes effort over a long time, and is never fully reached, which is part of its pull. This is why people practise an instrument or polish code at the weekend for no pay. Work with no chance of growing feels flat however well it is rewarded."
+    },
+    {
+     "id": "ps_drive5",
+     "title": "Purpose: serving something beyond yourself",
+     "body": "The third element is the sense that your effort contributes to something larger than your own gain. People who can see who benefits from their work tend to care more and last longer. Purpose need not be grand: a cleaner who thinks of the job as keeping patients safe is working with purpose. When goals are only about profit or targets, the book argues, motivation thins out."
+    },
+    {
+     "id": "ps_drive6",
+     "title": "Pay fairly, then stop talking about money",
+     "body": "Pink does not say money is unimportant. If pay is too low or unfair, people think about little else. His advice is to pay enough that money is off the table, then rely on autonomy, mastery and purpose. If you do give a reward for creative work, an unexpected one after the task is finished does less harm than a prize promised in advance, since nobody was working for it."
+    }
+   ]
+  },
+  {
+   "id": "ps_quiet",
+   "title": "Quiet",
+   "author": "Susan Cain",
+   "year": "2012",
+   "category": "people",
+   "why": "Shows what introverts bring to work and family life, and how a loud culture overlooks it.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_quiet1",
+     "title": "Introversion is about stimulation",
+     "body": "Cain separates introversion from shyness. Shyness is fear of being judged. Introversion is a preference for calmer surroundings: introverts feel most alive and capable with less noise and fewer people, extroverts with more. An introvert can be warm and confident at a party and still need a quiet evening afterwards to recover. Nothing is wrong with them; their battery charges differently."
+    },
+    {
+     "id": "ps_quiet2",
+     "title": "The culture's bias toward the talker",
+     "body": "Cain describes an Extrovert Ideal: the belief that the best person is sociable, bold and comfortable in the spotlight. Schools seat children in groups, offices favour open plans, and the person who speaks first and most is taken to be the most capable. Yet being talkative and having good ideas are separate things. A meeting can follow the most confident voice straight past the best suggestion."
+    },
+    {
+     "id": "ps_quiet3",
+     "title": "Good work often needs solitude",
+     "body": "The book argues that much creative and skilled work is done alone, with long stretches of unbroken concentration. It points to research finding that people who brainstorm separately and then pool their ideas often produce more and better ones than groups thinking aloud together, where people hold back or follow the first idea raised. Collaboration matters, but it works best with privacy alongside it.",
+     "try": "Before your next group discussion, ask everyone to write down their ideas alone for five minutes first."
+    },
+    {
+     "id": "ps_quiet4",
+     "title": "Temperament is real but not fate",
+     "body": "Cain reports research following infants who reacted strongly to new sights and sounds; many grew into careful, quiet children. Sensitivity to stimulation appears to be partly inborn. But she compares temperament to a rubber band: you can stretch a good way from your starting point, though not without limit. A quiet person can learn to speak well in public and will still find it tiring."
+    },
+    {
+     "id": "ps_quiet5",
+     "title": "Stretch for what you love, then rest",
+     "body": "Introverts can act like extroverts for the sake of work or people they care deeply about; a reserved teacher can light up a lecture hall. Cain draws on the idea that we can act out of character in the service of projects that matter to us, but that doing so has a cost. The answer is to plan recovery: a quiet lunch, a walk alone, a short gap between meetings.",
+     "try": "Look at tomorrow's schedule and put one short quiet break after the most social part of the day."
+    },
+    {
+     "id": "ps_quiet6",
+     "title": "Living with the other type",
+     "body": "Introverts and extroverts often pair up and then misread each other. One wants to talk a conflict through at once, the other needs to withdraw and think, and each takes the other's style as aggression or coldness. Cain's advice is to name the difference. For a quiet child, it means introducing new situations gradually and never labelling them as shy in front of others."
+    }
+   ]
+  },
+  {
+   "id": "ps_bodyscore",
+   "title": "The Body Keeps the Score",
+   "author": "Bessel van der Kolk",
+   "year": "2014",
+   "category": "mind",
+   "why": "An influential account of how overwhelming experiences can stay with a person in body as well as mind.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_bodyscore1",
+     "title": "Trauma is not only a story",
+     "body": "Van der Kolk's central claim is that trauma is not just a memory of something bad. It can leave the body's alarm system set too high, so that a person reacts to ordinary life as if the danger were still present: tense muscles, a racing heart, sleep that does not restore. This helps explain why someone can know perfectly well that they are safe now and still not feel it."
+    },
+    {
+     "id": "ps_bodyscore2",
+     "title": "Reliving instead of remembering",
+     "body": "An ordinary memory is a story with a beginning and an end that we know lies in the past. The book describes how traumatic memories can instead return as fragments: a smell, a sound, a wave of terror, as though it were happening again. A slammed door or a certain tone of voice can set it off. Understanding this can replace \"why am I overreacting?\" with a kinder and more accurate question."
+    },
+    {
+     "id": "ps_bodyscore3",
+     "title": "Early adversity casts a long shadow",
+     "body": "The book draws on research linking abuse, neglect and chaos in childhood to higher rates of physical and mental illness decades later. A child cannot leave a frightening home, so the growing brain and body adapt to constant threat. Van der Kolk argues that many adult difficulties are better understood as these old adaptations than as character flaws, which changes how we look at ourselves and others."
+    },
+    {
+     "id": "ps_bodyscore4",
+     "title": "Safety with other people comes first",
+     "body": "Feeling truly safe with another person is, in van der Kolk's view, the base on which recovery is built. Being seen and heard by someone steady calms the body in a way that reasoning alone cannot. This is why isolation makes things worse, and why patient, reliable company from a friend or relative matters even when they have no idea what to say."
+    },
+    {
+     "id": "ps_bodyscore5",
+     "title": "Many roads, uneven evidence",
+     "body": "The author argues that talking is valuable but sometimes not enough, and describes approaches that work through the body, such as yoga, a therapy called EMDR, and others. The evidence is uneven: some trauma therapies are well tested, others much less, and critics say the book overstates parts of its brain science. It is not a treatment guide. Anyone struggling should work with a qualified professional."
+    },
+    {
+     "id": "ps_bodyscore6",
+     "title": "Learning to notice the body again",
+     "body": "People who have been overwhelmed often cope by tuning out physical sensation altogether, which also dulls pleasure and the ordinary signals of hunger, tiredness and ease. The book describes gently rebuilding the ability to notice what the body feels as a part of regaining a sense of control. If paying attention to your body brings distress and not calm, that is a reason to do it with professional support."
+    }
+   ]
+  },
+  {
+   "id": "ps_obedience",
+   "title": "Obedience to Authority",
+   "author": "Stanley Milgram",
+   "year": "1974",
+   "category": "people",
+   "why": "The classic and troubling study of how far ordinary people will go when someone in charge tells them to.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_obedience1",
+     "title": "The experiment",
+     "body": "Milgram invited ordinary adults to what they were told was a study of learning. An experimenter in a lab coat instructed each one to give a \"learner\" in the next room a stronger electric shock for every wrong answer. The shocks were fake and the learner was an actor, but the volunteers were not told. In the best-known version about two thirds continued to the highest level on the machine."
+    },
+    {
+     "id": "ps_obedience2",
+     "title": "From own person to instrument",
+     "body": "Milgram's explanation is that people entering a hierarchy can shift into seeing themselves as carrying out someone else's wishes. In that state they feel responsible to the authority for doing the job well, but not responsible for what the job does. \"I was only following the procedure\" is the everyday form. The shift is easy to slide into and hard to notice from the inside.",
+     "try": "The next time you carry out an instruction you feel uneasy about, ask yourself: who answers for the result?"
+    },
+    {
+     "id": "ps_obedience3",
+     "title": "The setting decided more than character",
+     "body": "Milgram ran many variations, and obedience rose and fell with the arrangement. It dropped when the victim was in the same room, when the experimenter gave orders by telephone, and most sharply when volunteers saw others refuse. He found it hard to predict from personality who would stop. The lesson he drew is that the details of a situation can outweigh the kind of person you believe you are."
+    },
+    {
+     "id": "ps_obedience4",
+     "title": "One small step at a time",
+     "body": "The shocks rose in small steps, each only a little stronger than the one before. Having agreed to the last step, a person found it hard to explain why this next one was different, and stopping meant admitting that the earlier steps were wrong too. Many harmful courses of action work this way, at work and elsewhere: no single step feels like the moment to refuse."
+    },
+    {
+     "id": "ps_obedience5",
+     "title": "They obeyed without wanting to",
+     "body": "Most volunteers did not enjoy it. Milgram describes people sweating, protesting, pleading with the experimenter, and continuing anyway. Breaking off meant openly defying a polite, confident person and disrupting the occasion, and that social awkwardness proved surprisingly powerful. Feeling that something is wrong is not the same as acting on it; the second takes practice."
+    },
+    {
+     "id": "ps_obedience6",
+     "title": "Read it with care",
+     "body": "The studies caused real distress and would not pass an ethics review today. Later researchers who examined the archives found the procedure was less uniform than the book suggests and that a number of volunteers doubted the shocks were real. Partial repeats that stopped at a lower shock level did find similar rates of compliance. The broad point survives; the exact figures deserve caution."
+    }
+   ]
+  },
+  {
+   "id": "ps_lucifer",
+   "title": "The Lucifer Effect",
+   "author": "Philip Zimbardo",
+   "year": "2007",
+   "category": "people",
+   "why": "A forceful, and contested, argument that situations and systems can lead ordinary people into cruelty.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_lucifer1",
+     "title": "Bad barrels, not only bad apples",
+     "body": "When people behave terribly we usually blame their character. Zimbardo asks us to look also at the barrel: the situation they were put in, and the system of leaders, rules and incentives that built it. This does not excuse anyone. But if only the individuals are punished and the conditions stay the same, the next group placed in those conditions is likely to behave in much the same way."
+    },
+    {
+     "id": "ps_lucifer2",
+     "title": "The prison study and its problems",
+     "body": "The book centres on Zimbardo's 1971 study in which students were assigned to be guards or prisoners in a mock jail; he reports that guards turned abusive within days. This study is now heavily disputed. Records show the guards were encouraged to be tough, some participants say they were acting, and a later attempt to repeat it had different results. It is best read as a vivid demonstration, not proof."
+    },
+    {
+     "id": "ps_lucifer3",
+     "title": "Anonymity loosens restraint",
+     "body": "Zimbardo argues that people act more harshly when they feel unidentifiable and part of a mass: in uniform, masked, hidden in a crowd or behind a screen name. Feeling personally seen and answerable works the other way. The practical point holds up in everyday life: online comments turn crueller when nobody knows who wrote them, and people soften when addressed by name."
+    },
+    {
+     "id": "ps_lucifer4",
+     "title": "Labels that remove the human",
+     "body": "Cruelty becomes easier once the target is described as less than a person: a number, a category, an insult for a whole group. The label lets ordinary moral feeling switch off. Zimbardo treats this as an early warning sign in any group. Listen to how an organisation or a movement talks about outsiders; the words usually change before the behaviour does."
+    },
+    {
+     "id": "ps_lucifer5",
+     "title": "Small steps and silent witnesses",
+     "body": "The book lists the ingredients that draw decent people into harm: a first small step, a plausible justification, a gradual increase, responsibility spread so thin that nobody owns it, and people who watch and say nothing. Zimbardo applies this to the abuse of prisoners at Abu Ghraib, arguing that those who created the conditions shared the blame with the soldiers who were convicted."
+    },
+    {
+     "id": "ps_lucifer6",
+     "title": "Heroes are ordinary too",
+     "body": "If situations can pull ordinary people toward harm, Zimbardo says, they can also call out ordinary courage. Most people who refuse an unjust order or speak up are not special; they acted at the moment that counted. He suggests preparing in advance: be willing to say \"I was wrong\", notice when you are being hurried, and keep a sense of personal responsibility even inside a group.",
+     "try": "Decide now on one line you will not cross at work, so that you recognise the moment if it ever comes."
+    }
+   ]
+  },
+  {
+   "id": "ps_mistakes",
+   "title": "Mistakes Were Made (but Not by Me)",
+   "author": "Carol Tavris and Elliot Aronson",
+   "year": "2007",
+   "category": "thinking",
+   "why": "Explains why it is so hard to admit being wrong, and how self-justification quietly runs our lives.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_mistakes1",
+     "title": "The discomfort that drives excuses",
+     "body": "Holding two ideas that clash, such as \"I am a sensible, decent person\" and \"I just did something foolish or unkind\", is unpleasant. The authors explain that we ease the discomfort not by changing our view of ourselves but by adjusting the story: it was not so bad, they deserved it, anyone would have done it. The excuse arrives so fast that we believe it. Self-justification is not lying to others; it is lying to ourselves."
+    },
+    {
+     "id": "ps_mistakes2",
+     "title": "The pyramid of choice",
+     "body": "Picture two people at the top of a pyramid, close together, facing the same temptation. One gives in slightly, the other resists slightly. Each then justifies the choice, and each justification makes the next step in the same direction easier. By the bottom they stand far apart, each sure the other is a different kind of person. Big moral differences often begin as small, almost accidental first steps."
+    },
+    {
+     "id": "ps_mistakes3",
+     "title": "Memory edits in our favour",
+     "body": "Memory, the authors argue, works less like a recording and more like a biographer on our side. Over time we recall our past views as closer to our present ones, our motives as better, and the other person's behaviour as worse. Two siblings can remember the same family quarrel with each cast as the reasonable one. A confident, detailed memory feels like proof, but it is not.",
+     "try": "Ask a relative or old friend how they remember an event you both lived through, and just listen to the differences."
+    },
+    {
+     "id": "ps_mistakes4",
+     "title": "Everyone is biased except me",
+     "body": "We readily see how money, loyalty or pride bend other people's judgement and assume our own view is simply how things are. The book shows professionals of every kind, from doctors to prosecutors, insisting that gifts or first impressions could not possibly sway them. Since the bias cannot be felt from inside, the only protection is outside: people and procedures allowed to check us."
+    },
+    {
+     "id": "ps_mistakes5",
+     "title": "Why admitting error gets harder",
+     "body": "The more time, money, effort or reputation we have put into a decision, the more painful it is to admit it was wrong, and the harder we defend it. The authors describe investigators who cling to their first suspect even after new evidence clears that person. At home it is the same: the longer a couple has blamed each other, the more each has invested in being the wronged one."
+    },
+    {
+     "id": "ps_mistakes6",
+     "title": "Separate the mistake from the self",
+     "body": "The book's remedy is to hold both thoughts at once: I am a capable, decent person, and I got this wrong. Kept together, they let you fix the error without tearing yourself down or explaining it away. People generally respect a plain admission far more than we fear. \"I made a mistake, here is what I will do about it\" tends to end an argument that excuses would have prolonged.",
+     "try": "Find one thing you got wrong this week and say so plainly to the person affected, with no \"but\" attached."
+    }
+   ]
+  },
+  {
+   "id": "ps_socialanimal",
+   "title": "The Social Animal",
+   "author": "Elliot Aronson",
+   "year": "1972",
+   "category": "people",
+   "why": "A warm and readable tour of social psychology by one of the field's best teachers.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_socialanimal1",
+     "title": "Odd behaviour is not always an odd person",
+     "body": "Aronson offers a first rule for understanding people: strange or even shocking behaviour does not prove that the person is strange. Before judging character, look at the pressures of the situation they were in. The colleague who went along with a bad decision may have been facing a room of nodding heads. This habit makes you fairer to others and more alert to the pressures that act on you too."
+    },
+    {
+     "id": "ps_socialanimal2",
+     "title": "The pull to go along",
+     "body": "In a classic study that Aronson describes, people asked to judge the length of lines often agreed with a group that was obviously wrong, on a notable share of the trials. They knew what they saw and doubted it, or did not want to stand out. The encouraging part: when just one other person gave the right answer, conformity dropped sharply. A single ally makes independence far easier.",
+     "try": "In your next meeting, if you privately disagree, say so once. You may be the ally someone else was waiting for."
+    },
+    {
+     "id": "ps_socialanimal3",
+     "title": "Three depths of influence",
+     "body": "People go along for different reasons, and Aronson separates three. Compliance is doing something to gain a reward or avoid trouble; it lasts only while someone is watching. Identification is doing it to be like a person we admire. Internalisation is doing it because we have come to believe it is right, and only this one lasts by itself. A child who tidies up only when threatened has learned the first kind."
+    },
+    {
+     "id": "ps_socialanimal4",
+     "title": "We love what we suffered for",
+     "body": "When we go through effort or discomfort to get something, we tend to rate it more highly afterwards, since admitting it was not worth the trouble would make us feel foolish. Aronson's own research found that people who went through an unpleasant initiation to join a dull group liked the group more. It explains our loyalty to hard-won clubs, courses and jobs, deserved or not."
+    },
+    {
+     "id": "ps_socialanimal5",
+     "title": "Cooperation dissolves prejudice",
+     "body": "Simply putting hostile groups in the same room does little. Aronson helped develop the jigsaw classroom, where each child holds one piece of a lesson and the group can only succeed if everyone teaches their part. Needing one another changed how the children saw each other. The same principle applies at work and at home: a shared goal that requires everyone does more than lectures about getting along."
+    },
+    {
+     "id": "ps_socialanimal6",
+     "title": "What makes us like someone",
+     "body": "Aronson reviews what draws people together: being nearby, being similar, and above all being liked in return. One finding from his own lab is that a highly capable person can become more likeable after a small blunder, such as spilling a drink, because it makes them seem human. It does not work for someone seen as mediocre. You do not need to appear flawless to be liked."
+    }
+   ]
+  },
+  {
+   "id": "ps_gorilla",
+   "title": "The Invisible Gorilla",
+   "author": "Christopher Chabris and Daniel Simons",
+   "year": "2010",
+   "category": "thinking",
+   "why": "Six everyday illusions about our own minds, each shown with memorable and well-tested examples.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_gorilla1",
+     "title": "We see far less than we think",
+     "body": "In the authors' best-known study, people counting basketball passes in a video often failed to notice a person in a gorilla suit walk through the scene; about half missed it. We experience a rich, complete view of the world, but we only take in what we attend to. The rest can pass unseen while our eyes point straight at it. This is why talking on a phone while driving is risky even with both hands on the wheel.",
+     "try": "On your next drive or walk in traffic, put the phone fully out of reach before you set off."
+    },
+    {
+     "id": "ps_gorilla2",
+     "title": "Vivid memories can be wrong",
+     "body": "We assume a detailed, confident memory must be accurate. The authors show that memories of even dramatic events shift over time: details are added, borrowed from other people's accounts or reshaped, while confidence stays high. Two people can sincerely recall the same conversation in opposite ways. A strong feeling of certainty tells you about the feeling, not about the facts."
+    },
+    {
+     "id": "ps_gorilla3",
+     "title": "Confidence is not competence",
+     "body": "We tend to trust the person who sounds sure: the firm witness, the decisive doctor, the assured candidate. But confidence is partly a personality trait and only loosely tied to accuracy. The authors add that people with little skill in an area are often the least aware of it. A doctor who checks a reference book in front of you may be the better doctor, even though it feels less reassuring."
+    },
+    {
+     "id": "ps_gorilla4",
+     "title": "We know less than we feel we know",
+     "body": "Most people believe they understand how familiar things work until they are asked to explain them step by step. The feeling of familiarity passes for knowledge. The same illusion makes us underestimate how long projects will take, since we picture the plan and not the snags. Trying to explain a thing in detail is a quick, humbling test of what you really know.",
+     "try": "Pick an everyday object, such as a zip or a toilet flush, and try to explain exactly how it works."
+    },
+    {
+     "id": "ps_gorilla5",
+     "title": "Seeing causes that are not there",
+     "body": "Our minds are built to find patterns and to assume that when one thing follows another, the first caused the second. We are also moved far more by a single vivid story than by dull statistics. The authors use these habits to explain how health scares spread: one family's convincing account of what happened after a treatment can outweigh careful studies of many thousands of people."
+    },
+    {
+     "id": "ps_gorilla6",
+     "title": "No quick route to a better brain",
+     "body": "The last illusion is the belief that we have large untapped mental powers which a simple trick can release. The authors examine claims that listening to classical music makes babies smarter, or that brain-training games sharpen the whole mind, and find the evidence weak. Practice mainly improves the specific thing you practise. Real improvement comes slowly, through effort in the skill itself."
+    }
+   ]
+  },
+  {
+   "id": "ps_noise",
+   "title": "Noise",
+   "author": "Daniel Kahneman, Olivier Sibony and Cass R. Sunstein",
+   "year": "2021",
+   "category": "thinking",
+   "why": "Points to a large and overlooked source of error: judgements that ought to match and do not.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_noise1",
+     "title": "Bias and noise are different errors",
+     "body": "Picture a team shooting at a target. If every shot lands low and left, that is bias: a consistent lean. If the shots scatter all over, that is noise. Bias gets the attention, but the authors argue that noise does as much damage. Whenever two doctors, judges or managers look at the same case and reach very different conclusions, somebody is being treated unfairly and money is being wasted."
+    },
+    {
+     "id": "ps_noise2",
+     "title": "There is more of it than anyone expects",
+     "body": "When organisations test for it, by giving the same case to several of their own professionals, the spread of answers is usually far wider than their leaders guessed. The authors report this in settings as varied as court sentences, insurance quotes and medical diagnoses. It stays hidden because each case is decided once, by one person, and nobody sees the answer a colleague would have given."
+    },
+    {
+     "id": "ps_noise3",
+     "title": "You are not the same judge all day",
+     "body": "Noise is not only between people. The same person decides differently depending on mood, tiredness, the weather, or what case came just before. The authors call this occasion noise. It means your judgement on a Friday afternoon is one draw from a range of judgements you might have made. For a decision that matters, sleeping on it and deciding again is a way of asking yourself twice.",
+     "try": "For one important decision this week, write down your answer today, then decide again tomorrow before looking."
+    },
+    {
+     "id": "ps_noise4",
+     "title": "Decision hygiene",
+     "body": "Washing your hands prevents infections without your ever knowing which ones. The authors propose similar habits for judgement: routines that reduce error in general, without needing to know which error was avoided. They are unglamorous and come with no moment of triumph, which is why they are neglected. The following cards describe the main ones."
+    },
+    {
+     "id": "ps_noise5",
+     "title": "Judge separately, then combine",
+     "body": "Averaging several independent judgements cancels out much of the scatter, but only if they are truly independent. Once people hear each other, they drift together and the first or loudest opinion wins. So collect views before discussion, not after. In hiring, this means each interviewer scores the candidate alone, on agreed qualities, before anyone compares notes.",
+     "try": "Before your next group decision, ask everyone to write their own estimate or vote before any discussion."
+    },
+    {
+     "id": "ps_noise6",
+     "title": "Break it up and hold back the gut",
+     "body": "Complex judgements improve when they are split into separate parts, each assessed on its merits, with the overall impression delayed until the end. A quick early impression tends to colour everything after it. The authors also note that simple rules and formulas often match or beat expert judgement, mainly because a rule gives the same answer to the same case every time."
+    }
+   ]
+  },
+  {
+   "id": "ps_misbehaving",
+   "title": "Misbehaving",
+   "author": "Richard H. Thaler",
+   "year": "2015",
+   "category": "thinking",
+   "why": "The story of how economists were persuaded, slowly, that real people do not behave like their models.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_misbehaving1",
+     "title": "The things that should not matter",
+     "body": "Standard economic theory assumed people weigh costs and benefits coolly and consistently. Thaler spent his career collecting cases where they plainly do not, and calls the causes supposedly irrelevant factors: the way a price is described, what we already own, what feels fair. The theory says these should not change behaviour. They do, predictably, and so any good model of people must include them."
+    },
+    {
+     "id": "ps_misbehaving2",
+     "title": "Losing hurts more than gaining pleases",
+     "body": "Thaler found that people given an ordinary object, such as a mug, would only sell it for roughly twice what others were willing to pay for one. Nothing about the mug had changed except who owned it. Giving something up registers as a loss, and losses weigh more heavily than gains of the same size. It is why clearing a cupboard is hard and why a refused refund stings more than a missed discount."
+    },
+    {
+     "id": "ps_misbehaving3",
+     "title": "Money wears labels",
+     "body": "In theory money is all the same. In practice we sort it into mental accounts: rent, holidays, fun, savings. This helps with budgeting but leads to odd behaviour, such as keeping savings at low interest while carrying expensive card debt, or spending a tax refund freely because it feels like a bonus. Thaler notes that gamblers treat winnings as the house's money and risk it more readily.",
+     "try": "Look at any windfall or \"fun money\" you have, and ask what you would do with it if it had arrived as salary."
+    },
+    {
+     "id": "ps_misbehaving4",
+     "title": "Money already spent is gone",
+     "body": "Having paid for something, we feel we must use it, even when using it no longer does us any good. People drive through bad weather to an event because the ticket was expensive, or finish a meal they are not enjoying. The money is spent either way; the only real question is what you want to do now. Thaler shows that even people who teach this principle fall for it.",
+     "try": "Is there something you keep doing only because you already paid for it? Decide afresh as if it had been free."
+    },
+    {
+     "id": "ps_misbehaving5",
+     "title": "The planner and the doer",
+     "body": "Thaler describes each of us as two selves: a far-sighted planner and a doer who lives in the present. The planner cannot simply overrule the doer, so it sets up rules and removes temptations in advance. He tells of taking a bowl of nuts away from dinner guests who kept eating them before the meal, and being thanked for it. Having fewer options within reach can leave us better off."
+    },
+    {
+     "id": "ps_misbehaving6",
+     "title": "Fairness has a price",
+     "body": "People will give up money to punish what they see as unfair treatment. Thaler's research with colleagues found that most people think it wrong for a shop to raise the price of snow shovels the morning after a storm, although standard theory sees nothing odd in it. Businesses that ignore this lose goodwill. Any dealing, from splitting a bill to setting a rent, goes better when it also looks fair."
+    }
+   ]
+  },
+  {
+   "id": "ps_paradoxchoice",
+   "title": "The Paradox of Choice",
+   "author": "Barry Schwartz",
+   "year": "2004",
+   "category": "mind",
+   "why": "Argues that beyond a certain point more options make us less satisfied, and shows how to cope.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_paradoxchoice1",
+     "title": "When more is less",
+     "body": "Some choice is essential to wellbeing, and Schwartz does not dispute it. His claim is that as options multiply, the effort of deciding grows, we put decisions off, and we enjoy the result less. He cites a well-known study in which shoppers bought more jam from a small display than a large one. Later attempts to repeat such findings have had mixed results, so choice overload seems real in some conditions, not all."
+    },
+    {
+     "id": "ps_paradoxchoice2",
+     "title": "Maximisers and satisficers",
+     "body": "A maximiser needs to be sure they have picked the best possible option and so must examine them all. A satisficer has standards, sometimes high ones, and stops at the first option that meets them. Schwartz reports that maximisers may get slightly better outcomes but feel worse about them, because they keep wondering about the ones they did not choose. In most areas of life, good enough really is.",
+     "try": "For one decision today, set your criteria first and take the first option that meets them."
+    },
+    {
+     "id": "ps_paradoxchoice3",
+     "title": "Every option you reject costs something",
+     "body": "Choosing one thing means giving up the appealing features of the others. With two options the loss is small. With thirty, the combined attractions of everything passed over can outweigh the pleasure of the one chosen. This is why a long menu can leave you eyeing your neighbour's plate. Fewer alternatives mean fewer imagined losses to subtract from what you have."
+    },
+    {
+     "id": "ps_paradoxchoice4",
+     "title": "Regret, before and after",
+     "body": "The more options there were, the easier it is to imagine that a different one would have been better, and to blame yourself. Fear of that regret can also stop people choosing at all, as when a pension form sits unfilled for years. Schwartz observes that regret is sharpest when a result was nearly good and when the choice was ours alone, which abundant choice makes more common."
+    },
+    {
+     "id": "ps_paradoxchoice5",
+     "title": "High expectations spoil good results",
+     "body": "When there are hundreds of options, we expect that one of them must be perfect. A result that is merely good then feels like a disappointment, and since we did the choosing, it feels like our fault. Schwartz argues that the secret of contentment is partly modest expectations. People with few options are pleasantly surprised more often than people who assumed the ideal was available."
+    },
+    {
+     "id": "ps_paradoxchoice6",
+     "title": "Choose when to choose",
+     "body": "Schwartz's advice is to save careful choosing for the few decisions that matter and use rules and habits for the rest: the same breakfast, two shops and no more. Treat decisions as final where you can, since revisiting them breeds doubt. Practise noticing what is good about what you chose. Limits you set for yourself, he argues, can be a relief and not a loss of freedom.",
+     "try": "Pick one recurring small decision, such as lunch or what to watch, and settle it with a simple rule for a week."
+    }
+   ]
+  },
+  {
+   "id": "ps_optimism",
+   "title": "Learned Optimism",
+   "author": "Martin E. P. Seligman",
+   "year": "1990",
+   "category": "mind",
+   "why": "Shows that the way you explain setbacks to yourself is a habit, and one that can be changed.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_optimism1",
+     "title": "Helplessness can be learned",
+     "body": "Seligman's early research found that animals, and people, who faced unpleasant events they could not control often stopped trying, even later when escape was easy. They had learned that nothing they did mattered. He saw in this a model for the passivity of depression. He and his colleagues later refined the theory, concluding that what is learned is the sense of control, but the practical insight stands."
+    },
+    {
+     "id": "ps_optimism2",
+     "title": "How you explain bad events",
+     "body": "What separates optimists from pessimists, Seligman argues, is their habit of explaining misfortune. He looks at three questions. Is the cause permanent or temporary? Does it spoil everything or only one area? Is it all my fault or partly circumstance? After a failed interview the pessimist thinks \"I always mess up, I am hopeless at everything\", the optimist \"that one went badly; I was underprepared\".",
+     "try": "Write down how you explained your last setback, and check it for the words \"always\", \"never\" and \"everything\"."
+    },
+    {
+     "id": "ps_optimism3",
+     "title": "Why it matters",
+     "body": "In Seligman's account, people who explain setbacks as permanent, all-embracing and personal give up sooner and are more prone to low mood, while those who see them as temporary and specific keep going. He reports this pattern in classrooms, sports teams and sales forces. Persistence after failure often decides the result, so the explanation you give yourself affects what happens next."
+    },
+    {
+     "id": "ps_optimism4",
+     "title": "Catch the belief between event and feeling",
+     "body": "Seligman borrows a tool from cognitive therapy. Something bad happens (adversity), you interpret it (belief), and the interpretation, not the event, produces the feeling and what you do (consequence). A friend does not return your call; if you believe \"she is tired of me\", you feel hurt and withdraw. Writing down the three parts makes visible the middle step that normally goes by too fast to see."
+    },
+    {
+     "id": "ps_optimism5",
+     "title": "Argue with yourself",
+     "body": "Once you have caught a pessimistic belief, treat it as you would an accusation from someone else and dispute it. What is the evidence? Is there another explanation? If it is true, how bad are the consequences really? Is the belief any use to me? Most of us defend ourselves well against unfair criticism from others and never think to do it against our own. This is a skill that improves with practice.",
+     "try": "Take one gloomy thought from today and write out the evidence against it, as if defending a friend."
+    },
+    {
+     "id": "ps_optimism6",
+     "title": "Optimism with its eyes open",
+     "body": "Seligman does not recommend optimism everywhere. Where being wrong would be costly, such as a safety decision or a large financial risk, a cautious and even pessimistic view is wiser. He calls the goal flexible optimism: choosing the hopeful explanation when it helps you persist and the sober one when the stakes demand it. The book is not a substitute for treatment; lasting depression calls for professional help."
+    }
+   ]
+  },
+  {
+   "id": "ps_hatwife",
+   "title": "The Man Who Mistook His Wife for a Hat",
+   "author": "Oliver Sacks",
+   "year": "1985",
+   "category": "mind",
+   "why": "Humane case histories that show how much of who we are depends on the workings of the brain.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_hatwife1",
+     "title": "Seeing without recognising",
+     "body": "The title case is a gifted music teacher who could see perfectly well but had lost the ability to recognise what he saw. He could describe a glove's shape in detail without knowing what it was, and faces meant nothing to him. He got through the day by humming, turning dressing and eating into a kind of song. Sacks uses him to show that seeing and making sense of what is seen are separate jobs in the brain."
+    },
+    {
+     "id": "ps_hatwife2",
+     "title": "The man stuck in one year",
+     "body": "Sacks describes a former sailor whose memory for new events had been destroyed. He believed it was still the 1940s and that he was a young man, and forgot each conversation within moments. Sacks asks whether such a person has lost his self. Yet in chapel, in music and in the garden he became calm, attentive and whole. Something of a person, Sacks concludes, lives deeper than memory."
+    },
+    {
+     "id": "ps_hatwife3",
+     "title": "The sense you never notice",
+     "body": "One patient lost, almost overnight, the sense that tells us where our limbs are without looking. She felt as if she had no body, and had to learn to move by watching each hand and foot. Sacks uses her to draw attention to this hidden sense, which works so silently that we never think of it, yet it underlies the feeling of being at home in one's own body."
+    },
+    {
+     "id": "ps_hatwife4",
+     "title": "Too much, not only too little",
+     "body": "Neurology usually talks about loss. Sacks devotes a section to excess: too much energy, impulse or imagination. He writes of a man with Tourette's syndrome whose tics made life hard, but whose quickness also fed his wit and his drumming. Medication calmed him and dulled him. In the end he took it during the working week and went without at weekends, choosing for himself between two ways of being."
+    },
+    {
+     "id": "ps_hatwife5",
+     "title": "Ask what the person can do",
+     "body": "Tests measure what is missing. Sacks writes about a young woman who failed them badly, and was clumsy and lost in ordinary tasks, yet was composed and fluent when listening to stories, in nature, and later on stage in a theatre group. She made it clear that drills did nothing for her; she needed something that gave her days a pattern. The point reaches beyond medicine: people are often best understood through what brings them together, not what they lack.",
+     "try": "Think of someone you find difficult or limited, and name one setting in which they are at their best."
+    },
+    {
+     "id": "ps_hatwife6",
+     "title": "The patient is a person with a story",
+     "body": "Running through the book is Sacks's method. He does not stop at naming a condition; he asks how this individual lives with it, adapts to it and holds on to an identity. A diagnosis says what a person has, and a story shows who they are. It is a useful habit for anyone caring for an ill or elderly relative: learn the condition, and then keep paying attention to the person."
+    }
+   ]
+  },
+  {
+   "id": "ps_behave",
+   "title": "Behave",
+   "author": "Robert M. Sapolsky",
+   "year": "2017",
+   "category": "mind",
+   "why": "A sweeping account of why we act as we do, from the second before to millions of years before.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_behave1",
+     "title": "No single cause",
+     "body": "Sapolsky's method is to take one act, kind or cruel, and ask what explains it. What happened in the brain a second before? What sights or stresses in the minutes before set that up? What hormones in the hours and days before? What childhood, what culture, what evolutionary history? Each level is part of the answer. Whenever someone says a behaviour is caused by a gene, a hormone or an upbringing alone, be doubtful."
+    },
+    {
+     "id": "ps_behave2",
+     "title": "The slow-maturing brake",
+     "body": "The frontal cortex is the part of the brain that lets us take the difficult course when it is the better one: wait, hold back, think of consequences. It is the last region to mature, not finishing until the mid-twenties. That goes a long way to explaining adolescent risk-taking and intensity. It is less a failure of character than a brain whose brakes are still being fitted."
+    },
+    {
+     "id": "ps_behave3",
+     "title": "Hormones turn up what is already there",
+     "body": "Popular belief says testosterone causes aggression and oxytocin causes love. Sapolsky shows it is subtler. Testosterone mostly amplifies tendencies that are already present and depends heavily on the social setting. Oxytocin strengthens bonds with those we count as our own, and can at the same time sharpen coldness toward outsiders. Hormones do not issue orders; they change the volume."
+    },
+    {
+     "id": "ps_behave4",
+     "title": "Us and Them, in a blink",
+     "body": "We sort people into \"us\" and \"them\" within a fraction of a second, on cues as slight as a face or an accent, and feel differently about each. Sapolsky stresses that the categories are remarkably easy to redraw: a shared team, a shared task, or learning one personal detail about someone can shift them. We cannot stop the sorting, but we have a say in who ends up counted as \"us\".",
+     "try": "With someone you feel is \"not your sort\", find out one ordinary personal thing, such as what they like to eat."
+    },
+    {
+     "id": "ps_behave5",
+     "title": "Stress makes us worse",
+     "body": "Short bursts of stress sharpen us. Sustained stress, Sapolsky explains, weakens the frontal cortex's control and strengthens the brain's fear responses. Under it we fall back on habit, judge risks poorly, become more self-centred and are more likely to take things out on those nearby. If you have a serious decision to make or a difficult talk to have, the state you are in when you do it matters.",
+     "try": "If you are tense, put off one difficult conversation until after you have eaten, moved about or slept."
+    },
+    {
+     "id": "ps_behave6",
+     "title": "Genes work through surroundings",
+     "body": "Genes do not dictate behaviour. Their effects depend on the environment in which they act, so the same gene can have different consequences in different settings, and none at all in some. For Sapolsky the useful question is not what a gene does in general, but what it does in a given setting. He draws from this, and from the whole book, a case for humility in judging others."
+    }
+   ]
+  },
+  {
+   "id": "ps_becoming",
+   "title": "On Becoming a Person",
+   "author": "Carl R. Rogers",
+   "year": "1961",
+   "category": "people",
+   "why": "A founder of humanistic psychology on how people grow, and what kind of listening helps them do it.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_becoming1",
+     "title": "Three things that help a person grow",
+     "body": "From years as a therapist Rogers concluded that people change in a relationship with three qualities. The helper is genuine, not hiding behind a role. The helper accepts the other person warmly without conditions. And the helper works to understand the other's world from the inside. He believed these matter in any relationship, between parent and child or teacher and pupil as much as in therapy."
+    },
+    {
+     "id": "ps_becoming2",
+     "title": "People lean toward growth",
+     "body": "Rogers held that every person has a built-in tendency to develop and mature, much as a plant grows toward light. It can be buried under fear and defensiveness, but in the right climate it reappears. So the helper's job is not to fix or direct but to provide the conditions. Parents may recognise this: a child who feels safe and accepted often finds the way forward without being pushed."
+    },
+    {
+     "id": "ps_becoming3",
+     "title": "Acceptance comes before change",
+     "body": "Rogers noticed something that seems backwards. As long as we fight what we are, insisting we should not feel angry or afraid, we stay stuck. When we can admit the feeling as it is, movement begins. Accepting is not approving or giving up; it is seeing clearly what is there. The same holds for other people: someone who feels accepted is far freer to change than someone who feels judged.",
+     "try": "Name one thing about yourself that you usually argue with, and for today simply acknowledge that it is so."
+    },
+    {
+     "id": "ps_becoming4",
+     "title": "Listen to understand, not to judge",
+     "body": "Our first reaction to what another person says, Rogers observed, is to evaluate it: agree, disagree, approve, correct. That reflex is the main barrier to communication. He proposed a rule for arguments: before making your own point, restate the other person's view accurately enough that they agree you have got it. It is harder than it sounds, and it usually takes the heat out of the dispute.",
+     "try": "In your next disagreement, say back the other person's point in your own words before you answer it."
+    },
+    {
+     "id": "ps_becoming5",
+     "title": "Dropping the mask",
+     "body": "Rogers describes a common direction in people who are growing. They move away from pretending and from living by what others expect, and toward trusting their own experience as a guide. They come to see themselves as a process that keeps unfolding, not a finished product. For Rogers a good life is a direction of travel, with more openness and more feeling, including the painful kind."
+    }
+   ]
+  },
+  {
+   "id": "ps_maslow",
+   "title": "Motivation and Personality",
+   "author": "Abraham H. Maslow",
+   "year": "1954",
+   "category": "mind",
+   "why": "The source of the famous hierarchy of needs, and a richer and more careful book than the pyramid suggests.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_maslow1",
+     "title": "Needs come in a rough order",
+     "body": "Maslow proposed that human needs fall into groups that tend to press on us in sequence: bodily needs such as food and sleep, then safety, then love and belonging, then esteem, and finally the need to fulfil one's potential. The more basic ones usually demand attention first. A person who is hungry or frightened has little room to think about anything else, however talented they are."
+    },
+    {
+     "id": "ps_maslow2",
+     "title": "A met need stops pushing",
+     "body": "One of Maslow's sharper observations is that a satisfied need no longer motivates. Once you are fed, food stops organising your thoughts, and something else takes its place. This is why people are rarely content for long: we are, he says, wanting creatures. It also explains why a pay rise delights briefly and then fades, while a missing sense of belonging or respect starts to ache.",
+     "try": "Ask yourself which need is loudest for you right now: rest, security, company, respect, or growth."
+    },
+    {
+     "id": "ps_maslow3",
+     "title": "It was never a rigid ladder",
+     "body": "The neat pyramid found in textbooks is not in the book, and Maslow did not claim one level must be complete before the next begins. He wrote that most people are partly satisfied and partly unsatisfied at every level at once, and he listed exceptions, such as people who put a cause above their own safety. Later research supports the importance of these needs but not a fixed order."
+    },
+    {
+     "id": "ps_maslow4",
+     "title": "Becoming what you can be",
+     "body": "At the top Maslow placed self-actualisation: the desire to become fully what one is capable of being. A musician needs to make music and a teacher to teach, or a restlessness sets in even when every other need is met. It takes a different form in each person and has nothing to do with fame. A discontent that appears when life is comfortable may be this need speaking."
+    },
+    {
+     "id": "ps_maslow5",
+     "title": "A portrait of people at their best",
+     "body": "Maslow studied people he judged to be unusually healthy and fulfilled. He found they tended to see reality clearly, accept themselves and others, focus on problems outside themselves, value privacy, keep a few deep friendships and hold a kindly sense of humour. He admitted his method was informal and his sample hand-picked, so this is a thoughtful sketch, not a scientific finding."
+    },
+    {
+     "id": "ps_maslow6",
+     "title": "Study health, not only illness",
+     "body": "Maslow complained that psychology had learned about human nature mainly from the troubled, and so knew a great deal about our weaknesses and little about our strengths. He argued for studying the healthiest people to learn what humans can be. The study of wellbeing that grew up decades later owes him this starting point, and his question is still a good one to ask of yourself.",
+     "try": "Write down one thing that is going right in your life, and what it shows you are good at."
+    }
+   ]
+  },
+  {
+   "id": "ps_prejudice",
+   "title": "The Nature of Prejudice",
+   "author": "Gordon W. Allport",
+   "year": "1954",
+   "category": "people",
+   "why": "The founding study of prejudice, still the clearest explanation of where it comes from and what reduces it.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_prejudice1",
+     "title": "Prejudice grows from ordinary thinking",
+     "body": "Allport begins with an awkward fact: the mind has to sort things into categories to cope with the world, and it does the same with people. Categories save effort and are often good enough. Prejudice starts from this normal habit. It is an overgeneralised belief about a group, joined to a feeling about them, and applied to an individual who has not been looked at as an individual."
+    },
+    {
+     "id": "ps_prejudice2",
+     "title": "A mistake versus a prejudice",
+     "body": "Everyone makes hasty judgements. Allport's test of true prejudice is what happens when contrary evidence arrives. A simple error gets corrected. A prejudice resists: the person admits that this one member of the group is different, treats them as an exception, and keeps the general belief intact. \"Some of my best friends are...\" is the sound of a category being protected.",
+     "try": "Think of a group you have a fixed view of. When did you last meet someone who did not fit, and what did you do with that?"
+    },
+    {
+     "id": "ps_prejudice3",
+     "title": "From words to violence",
+     "body": "Allport laid out a scale of how prejudice is acted on, each step making the next more thinkable. It starts with hostile talk among the like-minded, moves to avoiding the group, then to excluding them from jobs, housing or rights, then to physical attack, and at the extreme to mass killing. Most prejudice never goes beyond talk. But the scale is the reason \"only jokes\" deserve attention."
+    },
+    {
+     "id": "ps_prejudice4",
+     "title": "Loving your own need not mean hating others",
+     "body": "We all belong to in-groups: family, region, faith, profession. They give us identity and security. Allport argued that attachment to one's own group does not require hostility to outsiders; many people are devoted to their own without ill will to anyone. Hostility is an added ingredient, often supplied when a group feels threatened or when someone gains from stirring it."
+    },
+    {
+     "id": "ps_prejudice5",
+     "title": "Blaming a convenient target",
+     "body": "When people are frustrated by things they cannot control or confront, such as hard times or a powerful boss, the anger tends to land on someone safer. Allport describes how minorities, being visible and unable to hit back, are made to carry the blame for problems they did not cause. It is worth noticing in public life when a complicated difficulty is suddenly pinned on one group."
+    },
+    {
+     "id": "ps_prejudice6",
+     "title": "Contact, under the right conditions",
+     "body": "Allport's most influential idea is that prejudice falls when members of different groups meet on equal footing, work together toward a shared goal, and have the backing of law, custom or those in authority. Casual or unequal contact can make things worse. Decades of later research have largely supported him. A mixed sports team or a joint work project does what speeches cannot.",
+     "try": "Find one shared task, at work or in your neighbourhood, that you could do alongside someone from a different background."
+    }
+   ]
+  },
+  {
+   "id": "ps_crowd",
+   "title": "The Crowd",
+   "author": "Gustave Le Bon",
+   "year": "1895",
+   "category": "people",
+   "why": "The first famous theory of how people change in a mass, still worth reading with a critical eye.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_crowd1",
+     "title": "A crowd is more than its members",
+     "body": "Le Bon's main claim is that people gathered around a shared focus can form what he called a psychological crowd, whose feelings and actions differ from what each person would feel or do alone. Individual judgement recedes and a common mood takes over. You may have felt a version of this in a stadium, at a rally or a festival, when you were carried along by something larger."
+    },
+    {
+     "id": "ps_crowd2",
+     "title": "Numbers bring a feeling of power",
+     "body": "In a mass, Le Bon argued, a person feels anonymous and therefore less answerable for what they do, and at the same time senses an almost unlimited strength in the numbers around them. Impulses that would be held in check alone are released. The same mechanism can be seen today when someone posts in an online pile-on what they would never say face to face."
+    },
+    {
+     "id": "ps_crowd3",
+     "title": "Feelings spread like a contagion",
+     "body": "Le Bon held that emotions and actions pass rapidly from person to person in a crowd, and that people in this state are highly open to suggestion. Fear turns to panic, enthusiasm to frenzy. He leaned on the medical ideas of his day, which have not lasted, but the observation that moods travel through groups is familiar to anyone who has caught a room's laughter or tension.",
+     "try": "The next time a group's mood sweeps you up, pause and ask what you would think if you were on your own."
+    },
+    {
+     "id": "ps_crowd4",
+     "title": "Images persuade crowds, not arguments",
+     "body": "According to Le Bon, crowds do not reason their way to conclusions. They respond to vivid images, simple claims and strong feeling. He named three tools by which ideas take hold of them: plain assertion without proof, constant repetition, and contagion from person to person. More than a century later, advertising and political slogans still use exactly these three."
+    },
+    {
+     "id": "ps_crowd5",
+     "title": "The prestige of leaders",
+     "body": "Le Bon wrote that crowds instinctively place themselves under a leader, and that the leader's hold depends less on reasoning than on prestige: an aura that stops people from judging critically. Prestige can come from position, wealth or reputation, or from personal force. He noted that it is fragile and tends to collapse once it is openly questioned or the leader fails."
+    },
+    {
+     "id": "ps_crowd6",
+     "title": "What modern research says",
+     "body": "Le Bon was an observer writing in alarm at the politics of his time, not an experimenter, and the book carries prejudices about class, race and women that are plainly unacceptable. Modern studies of crowds find that they are often orderly, cooperative and self-policing, and that people in them act on shared identity and values, not blind impulse. Read him for the questions he raised, not as settled fact."
+    }
+   ]
+  },
+  {
+   "id": "ps_truebeliever",
+   "title": "The True Believer",
+   "author": "Eric Hoffer",
+   "year": "1951",
+   "category": "people",
+   "why": "A short, sharp reflection on why people give themselves over to mass movements of every kind.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_truebeliever1",
+     "title": "All fanaticisms are related",
+     "body": "Hoffer's starting point is that mass movements, whether religious, nationalist or revolutionary, differ in doctrine but attract the same sort of mind and use it in similar ways. Someone ripe for one cause is ripe for others, which is why converts sometimes swing between opposite extremes. To understand a movement's grip, he suggests, look less at what it preaches and more at what joining does for the person."
+    },
+    {
+     "id": "ps_truebeliever2",
+     "title": "An escape from the self",
+     "body": "People who are at peace with their lives, Hoffer argues, rarely want to overturn the world. The most willing recruits are those who feel their own lives are spoiled or meaningless. A cause offers them a way to shed an unwanted self and be reborn as part of something large and certain. On this view, passionate devotion to a cause can be a way of not having to face oneself.",
+     "try": "Think of the cause or group you feel most strongly about, and ask honestly what belonging to it gives you."
+    },
+    {
+     "id": "ps_truebeliever3",
+     "title": "Who is most easily drawn in",
+     "body": "Hoffer observes that the destitute, absorbed in daily survival, seldom rebel. More restless are those who have recently lost their footing or have tasted something better and want more. He adds misfits who have not found their place, people who are simply bored, and those weighed down by guilt. The common thread is frustration: a sense that the present life is not worth keeping."
+    },
+    {
+     "id": "ps_truebeliever4",
+     "title": "The future against the present",
+     "body": "Movements, Hoffer writes, run down the present and fix all hope on a glorious time to come, or a glorious past to be restored. If today is worthless there is nothing to lose by sacrificing it. This is how ordinary people are brought to accept hardship and risk. A group that keeps telling you everything around you is rotten and only its future is real deserves a second look."
+    },
+    {
+     "id": "ps_truebeliever5",
+     "title": "Unity needs an enemy",
+     "body": "Hoffer holds that hatred is the most reliable cement for a movement. A cause can do without anything to worship, he suggests, but it cannot do without a villain: an enemy to blame for all that is wrong. The enemy is best when it is single, vivid and close at hand. When a group defines itself mainly by who it is against, that tells you how it holds its members together."
+    },
+    {
+     "id": "ps_truebeliever6",
+     "title": "What kind of book this is",
+     "body": "Hoffer was a dock worker and self-taught thinker, and this is a book of observations and striking generalisations, not research. It gives no data, and people do join movements for sound reasons, including real injustice. Its value is as a set of questions to ask when a cause demands total commitment. As a description of everyone who has ever held a strong belief, it goes too far."
+    }
+   ]
+  },
+  {
+   "id": "ps_games",
+   "title": "Games People Play",
+   "author": "Eric Berne",
+   "year": "1964",
+   "category": "people",
+   "why": "Gives you a simple vocabulary for the repeating patterns that trip up everyday relationships.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_games1",
+     "title": "We hunger for recognition",
+     "body": "Berne starts from the idea that people need to be noticed by others as surely as they need food. He calls a unit of recognition a stroke: a greeting, a smile, a compliment, and also a frown or a criticism. His striking claim is that a negative stroke is better than none, which helps explain why a neglected child misbehaves, and why some adults would sooner quarrel than be ignored.",
+     "try": "Give three people a real moment of attention today: a proper greeting, a thank-you, or a question about them."
+    },
+    {
+     "id": "ps_games2",
+     "title": "Three voices in each of us",
+     "body": "Berne describes three states we move between. The Parent is the voice of rules and care we absorbed from those who raised us. The Adult weighs facts and deals with the present. The Child holds our early feelings: playfulness, fear, defiance. None is bad, and a healthy person uses all three. The trouble comes when the wrong one answers, as when a simple question is met with a scolding."
+    },
+    {
+     "id": "ps_games3",
+     "title": "Crossed wires",
+     "body": "An exchange goes smoothly when the reply comes from the state that was addressed. \"Have you seen my keys?\" asks one Adult of another, and \"On the table\" answers in kind. If the reply is \"Why can you never look after your things?\", a Parent has answered and addressed a Child, and the exchange is crossed. Talk about the keys stops and a different conversation begins. Noticing the cross is the first step to uncrossing it.",
+     "try": "The next time a conversation suddenly turns sour, ask yourself which voice just spoke: Parent, Adult or Child."
+    },
+    {
+     "id": "ps_games4",
+     "title": "What a game is",
+     "body": "In Berne's sense, a game is a repeated series of exchanges that looks reasonable on the surface but has a hidden motive and ends in a predictable bad feeling. In one, a person asks for advice and rejects every suggestion with \"yes, but\". The hidden aim is not to solve the problem but to show that nobody can. Both players leave frustrated, and both will probably play again."
+    },
+    {
+     "id": "ps_games5",
+     "title": "Why we keep playing",
+     "body": "Games persist, Berne argues, because they pay. They fill time, supply strokes, confirm what a person already believes about themselves and others, and keep real closeness at a safe distance. He describes a spouse who complains that their partner holds them back, when the restriction in fact shields them from something they fear to try. The complaint is real, and so is the hidden convenience."
+    },
+    {
+     "id": "ps_games6",
+     "title": "Beyond games",
+     "body": "The alternative Berne offers is autonomy, which he describes through three capacities: awareness of what is happening now, spontaneity in choosing how to respond, and intimacy, meaning honest closeness with no hidden agenda. His scheme is a clinician's framework, not something proven by experiment, and some of its 1960s examples have dated. But as a way of seeing one's own patterns it is still useful."
+    }
+   ]
+  },
+  {
+   "id": "ps_goffman",
+   "title": "The Presentation of Self in Everyday Life",
+   "author": "Erving Goffman",
+   "year": "1956",
+   "category": "people",
+   "why": "A sociologist's classic showing how much of ordinary social life is a careful, shared performance.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_goffman1",
+     "title": "We are all performing",
+     "body": "Goffman looks at everyday life through the language of theatre. Whenever we are with others, he argues, we try to guide the impression they form of us, through dress, manner, speech and setting. This is not vanity or deceit. People need to know who they are dealing with in order to act, so each of us offers a version of ourselves suited to the occasion: the patient doctor, the capable applicant."
+    },
+    {
+     "id": "ps_goffman2",
+     "title": "Front stage and back stage",
+     "body": "In the front region we are before an audience and keep up the standards of the role. In the back region we relax, prepare, and drop the act. Goffman's example is the waiter who is all courtesy in the dining room and quite different through the kitchen door. Everyone needs a backstage. Trouble arises when the audience wanders into it, which is one reason working from home or living with in-laws can be tiring.",
+     "try": "Notice where your own backstage is, the place you can stop performing, and whether you get enough time there."
+    },
+    {
+     "id": "ps_goffman3",
+     "title": "What we say and what we leak",
+     "body": "Goffman separates the impressions we give deliberately, mostly in words, from those we give off without meaning to: tone, posture, a glance at the clock. Audiences know the second kind is harder to fake, so they use it to check the first. A host says \"do stay\", and the guest reads the truth from how it was said. Much social skill lies in reading, and managing, this second channel."
+    },
+    {
+     "id": "ps_goffman4",
+     "title": "Performances are team efforts",
+     "body": "We rarely perform alone. A family receiving guests, staff in front of customers, a couple at a party: each is a team cooperating to sustain one impression. Members rely on each other not to give the game away, and disagreements are kept for later. This explains the particular sting when a partner contradicts you in front of others. The disagreement matters less than the broken teamwork."
+    },
+    {
+     "id": "ps_goffman5",
+     "title": "Audiences help the show along",
+     "body": "Onlookers usually cooperate with a performance. We pretend not to hear a stomach rumble, look away from a slip, and accept a thin excuse so that nobody is embarrassed. Goffman calls this tact. Social life depends on the constant small mercy of people helping each other save face. A person who refuses to play along, pointing out every stumble, is soon avoided.",
+     "try": "The next time someone makes a small blunder in front of you, help them pass over it smoothly."
+    },
+    {
+     "id": "ps_goffman6",
+     "title": "The mask and the face",
+     "body": "It would be easy to conclude that everyone is a fraud. Goffman's view is subtler. A performer may believe completely in the part, and roles played long enough become second nature: the new parent or manager who starts by acting the role ends by being it. He is less concerned with the question of a true self behind the masks than with how, between us, we keep everyday life running."
+    }
+   ]
+  },
+  {
+   "id": "ps_emotionsmade",
+   "title": "How Emotions Are Made",
+   "author": "Lisa Feldman Barrett",
+   "year": "2017",
+   "category": "mind",
+   "why": "A leading researcher's challenge to the idea that emotions are fixed reactions wired into us.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_emotionsmade1",
+     "title": "No fingerprints for feelings",
+     "body": "The traditional view says each emotion, such as anger, fear or joy, has its own built-in circuit, facial expression and bodily signature. Barrett reviews the evidence and argues that no such consistent fingerprints have been found. A person can be angry with a pounding heart or a steady one, scowling or smiling. Variation, she says, is the rule. Her theory is influential but still debated by researchers who hold the older view."
+    },
+    {
+     "id": "ps_emotionsmade2",
+     "title": "The brain predicts, then checks",
+     "body": "Barrett's alternative begins with the idea that the brain does not wait passively for the world to act on it. It constantly guesses what is about to happen, based on past experience, and corrects the guess against what arrives. In her account an emotion is one such construction: the brain's best explanation, using concepts it has learned, of what the sensations in your body mean in this situation."
+    },
+    {
+     "id": "ps_emotionsmade3",
+     "title": "Your body budget",
+     "body": "The brain's main job, Barrett says, is to manage the body's resources: energy, water, salt, rest. She calls this the body budget. When the account runs low through poor sleep, hunger or illness, we feel unpleasant without knowing why, and the brain may explain that feeling as worry, irritation or gloom about whatever is in front of us. Looking after the body is, on this view, a way of looking after feelings.",
+     "try": "When you next feel low or irritable, check the basics first: when did you last sleep well, eat, drink water, move?"
+    },
+    {
+     "id": "ps_emotionsmade4",
+     "title": "A bad feeling is not always a verdict",
+     "body": "Barrett distinguishes simple feeling, pleasant or unpleasant, stirred up or calm, from full emotions. The simple feeling is always there in the background and colours how we see things, so we take it as information about the world: this plan is bad, this person is annoying. Sometimes it is only a tired body. Knowing this gives a small but real freedom to question a mood before acting on it."
+    },
+    {
+     "id": "ps_emotionsmade5",
+     "title": "More words, finer control",
+     "body": "People differ in how precisely they tell their feelings apart. Some have only \"good\" and \"bad\"; others separate being disappointed from being discouraged, resentful or ashamed. Barrett calls this emotional granularity and argues that finer distinctions give the brain better options for what to do next. Learning new words for feelings, in any language, is a practical way to build it.",
+     "try": "The next time you would say you feel \"bad\" or \"stressed\", look for a more exact word for what it is."
+    },
+    {
+     "id": "ps_emotionsmade6",
+     "title": "Emotions are learned with a culture",
+     "body": "If emotions are built from concepts, they must be learned, and Barrett argues that children pick up the emotion concepts of their culture much as they pick up its language. Different cultures divide feeling in different ways, and some have emotions that others lack a word for. This does not make emotions unreal, any more than money is unreal. It makes them something we take part in making."
+    }
+   ]
+  },
+  {
+   "id": "ps_descartes",
+   "title": "Descartes' Error",
+   "author": "Antonio Damasio",
+   "year": "1994",
+   "category": "mind",
+   "why": "A neurologist's case that feeling is not the enemy of good reasoning but a necessary part of it.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_descartes1",
+     "title": "The man who was no longer himself",
+     "body": "Damasio opens with Phineas Gage, a railway foreman in the 1840s who survived an iron rod passing through the front of his brain. By the accounts that have come down to us he could still walk, speak and remember, but the dependable man was gone, replaced by someone unreliable and unable to stick to plans. The historical record is thin and some details are disputed, but the case first tied the frontal brain to character and judgement."
+    },
+    {
+     "id": "ps_descartes2",
+     "title": "Intelligent, and unable to decide",
+     "body": "The book's key modern case is a patient Damasio calls Elliot, who had surgery for a tumour at the front of his brain. His memory, language and test scores remained excellent. Yet he could no longer hold a job or manage his affairs, and could spend hours weighing a trivial choice. He was also strangely unmoved by his own misfortunes. Damasio came to think the two changes were one."
+    },
+    {
+     "id": "ps_descartes3",
+     "title": "Gut feelings mark the options",
+     "body": "Damasio's proposal is that past experience leaves bodily feelings attached to kinds of outcomes. When we consider an option, a faint echo of that feeling, good or bad, arrives before conscious reasoning does, steering us away from some choices and toward others. Without it every option looks equally plausible and deciding never ends. The idea is influential, though the experiments used to test it remain disputed.",
+     "try": "When stuck between two options, imagine having chosen each in turn and notice what your body does."
+    },
+    {
+     "id": "ps_descartes4",
+     "title": "Reason needs emotion",
+     "body": "We tend to think the best decisions are made coldly. Damasio accepts that strong emotion can wreck judgement, but argues that too little is just as damaging. Feelings tell us what matters, and without them reasoning has nothing to aim at. A person choosing a job by spreadsheet alone, ignoring a steady sense of dread about one option, is leaving out evidence, not being rigorous."
+    },
+    {
+     "id": "ps_descartes5",
+     "title": "The error",
+     "body": "The title refers to the old idea, linked to Descartes, that the mind is a separate thing from the body and that pure thought runs free of flesh. Damasio argues the reverse. Mind arises from a brain that is in constant exchange with the body, and the state of the body shapes thought at every step. On this view, sleep, illness and physical ease are part of how well we think, not distractions from it."
+    }
+   ]
+  },
+  {
+   "id": "ps_sevensins",
+   "title": "The Seven Sins of Memory",
+   "author": "Daniel L. Schacter",
+   "year": "2001",
+   "category": "mind",
+   "why": "A memory researcher's tidy map of the ways memory fails, and why those failures are a fair price.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_sevensins1",
+     "title": "Fading, and never storing at all",
+     "body": "Schacter names seven ways memory goes wrong. The first is transience: memories weaken with time, fastest soon after the event. The second, absent-mindedness, is different. The keys were never lost from memory, because where you put them was never recorded; your attention was elsewhere. This is why going over where you might have left something works less well than paying attention when you set it down.",
+     "try": "Today, each time you put down your keys or phone, say out loud where you are putting them."
+    },
+    {
+     "id": "ps_sevensins2",
+     "title": "On the tip of the tongue",
+     "body": "The third sin is blocking: the information is stored, you know that you know it, and it will not come. Names of people are the usual victims, because a name has no natural link to anything else about the person. Blocking grows more common with age and is normal. Straining often makes it worse, as a wrong name keeps getting in the way. Leave it, and the right one tends to arrive later unasked."
+    },
+    {
+     "id": "ps_sevensins3",
+     "title": "Right memory, wrong source",
+     "body": "Misattribution is recalling something correctly while being wrong about where it came from: you think you read it in a newspaper when a friend told you, or you take an idea you once heard to be your own. Suggestibility goes further. Leading questions and other people's accounts can add details, or whole events, to a memory. Schacter shows why this matters so much for the testimony of eyewitnesses."
+    },
+    {
+     "id": "ps_sevensins4",
+     "title": "The present rewrites the past",
+     "body": "Schacter calls the sixth sin bias. What we know and feel now shapes how we remember then. We recall our earlier opinions as closer to today's than they were, believe we saw an outcome coming once we know it, and remember ourselves as a little better than we were. Couples who are unhappy now tend to recall their early days as worse than they described them at the time.",
+     "try": "Before a decision plays out, write down what you expect to happen. Later, compare the note with what you remember thinking."
+    },
+    {
+     "id": "ps_sevensins5",
+     "title": "Memories that will not leave",
+     "body": "The seventh sin is the reverse of forgetting: persistence, the unwanted return of memories we would prefer to lose, such as a humiliation, a failure, or a frightening event. Schacter explains that emotionally charged experiences are stored especially strongly, which is usually useful. When such memories are frequent and distressing, as can happen after trauma, it is something to take to a professional."
+    },
+    {
+     "id": "ps_sevensins6",
+     "title": "Flaws that come with the design",
+     "body": "Schacter's conclusion is reassuring. Each sin is the cost of a feature that serves us well. Forgetting clears away what is no longer needed. A memory that keeps the gist and drops detail lets us generalise. A system that builds memories afresh each time can also imagine the future. A memory that kept everything exactly would be a burden, so occasional failure is the price of one that works."
+    }
+   ]
+  },
+  {
+   "id": "ps_moonwalking",
+   "title": "Moonwalking with Einstein",
+   "author": "Joshua Foer",
+   "year": "2011",
+   "category": "mind",
+   "why": "A journalist's year among memory champions, and what their methods reveal about how memory works.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_moonwalking1",
+     "title": "Trained, not gifted",
+     "body": "Foer went to report on a memory championship, expecting to meet people born with unusual brains. The competitors insisted their memories were average and that anyone could learn their methods. He took up the challenge, trained for a year with a coach, and won the United States contest himself. The lesson is that remembering is largely a matter of technique and attention, not a fixed gift."
+    },
+    {
+     "id": "ps_moonwalking2",
+     "title": "The memory palace",
+     "body": "The central technique is ancient. Our memory for places and routes is far stronger than our memory for words or numbers, so you turn what you need to remember into images and set them, one by one, along a route through a building you know well. To recall, you walk the route in your mind and see what is there. A shopping list becomes a series of strange scenes in your childhood home.",
+     "try": "Place five items from your shopping list as odd images in five spots along the way from your front door to your kitchen."
+    },
+    {
+     "id": "ps_moonwalking3",
+     "title": "Make it strange",
+     "body": "The mind lets ordinary things slip and keeps what is odd, funny, rude or moving. So the images have to be vivid. Foer also describes a puzzle: told that a man is a baker, people remember it better than if told his name is Baker. The job calls up smells, a white hat and bread, while the name connects to nothing. To remember something, give it hooks into what you already know.",
+     "try": "When you meet someone new today, tie their name to a vivid picture connected with how they look."
+    },
+    {
+     "id": "ps_moonwalking4",
+     "title": "Knowledge is what memory hangs on",
+     "body": "Foer reports research on chess masters, who can recall a board position at a glance, but only when the pieces are arranged as in a real game. They are not remembering thirty-two separate pieces; they recognise a few familiar patterns. Expertise works like this in every field. The more you know about a subject, the easier it is to learn more of it, since each new fact has somewhere to attach."
+    },
+    {
+     "id": "ps_moonwalking5",
+     "title": "Getting past the plateau",
+     "body": "In any skill we improve quickly, reach a level that is good enough, and then stop improving while we run on autopilot. Foer learned from researchers on expertise that the way through is to stay out of autopilot on purpose: work at the edge of your ability, watch closely for mistakes, and study them. It is uncomfortable, which is why most of us type, drive or cook no better than we did years ago."
+    },
+    {
+     "id": "ps_moonwalking6",
+     "title": "What the tricks cannot do",
+     "body": "Foer is candid about the limits. After his win he still mislaid things and forgot errands like anyone else. The techniques suit lists, numbers and names, and take effort to apply. What stayed with him was a larger point: to remember, you must first pay attention. He suggests that a life filled with noticed, distinct experiences also feels longer and fuller when you look back on it."
+    }
+   ]
+  },
+  {
+   "id": "ps_blink",
+   "title": "Blink",
+   "author": "Malcolm Gladwell",
+   "year": "2005",
+   "category": "thinking",
+   "why": "An engaging look at snap judgements: when to trust them, and when they lead us badly astray.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_blink1",
+     "title": "Thin slices",
+     "body": "Gladwell's subject is the judgement made in the first seconds of meeting a person or a problem. He calls the ability to find a pattern in a very small sample of experience thin-slicing. He opens with art experts who felt at a glance that a costly ancient statue was wrong, before they could say why, while lengthy tests had passed it. In a field you know deeply, a first impression can hold years of learning."
+    },
+    {
+     "id": "ps_blink2",
+     "title": "The locked door",
+     "body": "We often cannot explain where a quick judgement came from. The work happens out of sight, and when asked for reasons we tend to supply plausible ones that may not be the real ones. Gladwell warns that forcing an explanation can even spoil a good instinct. This cuts both ways: it is a reason to respect an expert's unexplained unease, and a reason to doubt our confident stories about why we chose."
+    },
+    {
+     "id": "ps_blink3",
+     "title": "Signals in a short conversation",
+     "body": "Gladwell describes a researcher who watches couples talk briefly and looks for particular patterns, treating contempt, such as eye-rolling and sneering, as the most worrying sign. The broader point is that a relationship's habits show up in small samples. The very high prediction rates quoted for this work have been criticised on statistical grounds, so take the idea and leave the percentages.",
+     "try": "In your next disagreement with someone close, watch for contempt in your own tone or face, and soften it."
+    },
+    {
+     "id": "ps_blink4",
+     "title": "When first impressions go wrong",
+     "body": "Snap judgements also carry our prejudices. Gladwell uses the example of a tall, handsome man who looks like a leader and is trusted as one whatever his ability. Quick associations about height, race or sex can steer us without our knowledge or consent. He cites a well-known test of such hidden associations; how well that test measures any individual's bias is disputed among researchers."
+    },
+    {
+     "id": "ps_blink5",
+     "title": "Change what the eye can see",
+     "body": "Since we cannot simply will our instant reactions to be fair, Gladwell suggests changing the conditions under which we judge. His main example is orchestras that began auditioning musicians behind a screen, after which more women were hired. Later analysts have questioned how large that effect was, but the principle is sound: where looks are irrelevant, remove them from view.",
+     "try": "The next time you assess someone's work, try reading it before you know who did it."
+    },
+    {
+     "id": "ps_blink6",
+     "title": "Less information, less panic",
+     "body": "Two things spoil rapid judgement. One is too much information: Gladwell tells of a hospital where doctors judged chest pain more accurately using a few key measures than with everything they could gather. The other is extreme stress, which narrows perception until instinct fails. Good snap decisions come from experience and a slowed-down situation, not from simply going with your gut every time."
+    }
+   ]
+  },
+  {
+   "id": "ps_powerparadox",
+   "title": "The Power Paradox",
+   "author": "Dacher Keltner",
+   "year": "2016",
+   "category": "people",
+   "why": "A social psychologist on how influence is really won, and why having it tends to spoil us.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_powerparadox1",
+     "title": "Power is in every relationship",
+     "body": "Keltner defines power as the capacity to make a difference in the world by influencing the states of other people. On that definition it is not limited to bosses and politicians. It is present between parents and children, among friends, in a team, even at a dinner table. Seeing this makes the subject personal: the question is no longer what the powerful are like, but how you handle your own influence."
+    },
+    {
+     "id": "ps_powerparadox2",
+     "title": "Groups give power, and can take it back",
+     "body": "The old view holds that power is seized by force and cunning. Keltner argues that in everyday groups it is mostly granted: people give respect and influence to those who advance the good of the group, and withdraw it through gossip and loss of reputation from those who do not. Watch any new team for a few weeks and you can see standing drift toward the people others find helpful."
+    },
+    {
+     "id": "ps_powerparadox3",
+     "title": "What keeps it",
+     "body": "In Keltner's account, lasting influence rests on a handful of plain habits: paying real attention to what others feel, giving and sharing, expressing gratitude, and telling stories that bring people together. These are the same behaviours that earned the influence to begin with. They cost little. A thank-you that is specific, or credit given in public, strengthens both the other person and your standing.",
+     "try": "Thank one person today for something specific they did, and say what difference it made."
+    },
+    {
+     "id": "ps_powerparadox4",
+     "title": "The paradox",
+     "body": "Here is the twist. Feeling powerful tends to wear away the very qualities that won the power. Keltner reports studies in which people made to feel powerful become less attentive to others, more impulsive, and readier to think the rules are for someone else. Some of these experiments are small and have been hard to reproduce, so hold the details loosely. The overall pattern matches long experience.",
+     "try": "In the next conversation where you are the senior person, ask two questions before you give your opinion."
+    },
+    {
+     "id": "ps_powerparadox5",
+     "title": "What powerlessness does",
+     "body": "Keltner gives equal weight to the other end. People with little power, through poverty, low rank or discrimination, live with more threat and less control. He reviews evidence linking this to chronic stress, poorer health and narrowed attention. It reframes some behaviour often put down to poor character. Giving people a voice and some real control is, on this view, a matter of health as well as fairness."
+    }
+   ]
+  },
+  {
+   "id": "ps_traumarecov",
+   "title": "Trauma and Recovery",
+   "author": "Judith Lewis Herman",
+   "year": "1992",
+   "category": "mind",
+   "why": "A landmark book that showed how survivors of very different horrors share one pattern and one path back.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_traumarecov1",
+     "title": "One pattern, many causes",
+     "body": "Herman's first insight was to place side by side people who had rarely been compared: soldiers back from combat, survivors of rape, of violence at home and of abuse in childhood. She showed that their suffering takes the same basic form. She also observes that society keeps learning about trauma and then forgetting, because the subject is painful, and that it takes public support to keep it in view."
+    },
+    {
+     "id": "ps_traumarecov2",
+     "title": "Three kinds of aftermath",
+     "body": "Herman groups the effects into three. Hyperarousal: the body stays on permanent alert, startling easily and sleeping badly. Intrusion: the event breaks back in through flashbacks and nightmares. Constriction: a numbing and shutting down, a narrowing of life to avoid reminders. Survivors can swing between reliving and numbness. Seeing these as known responses to overwhelming events can ease the fear of going mad."
+    },
+    {
+     "id": "ps_traumarecov3",
+     "title": "Prolonged harm is different",
+     "body": "A single terrible event is one thing. Herman argues that repeated harm over months or years, where a person is under another's control and cannot leave, as in captivity, abusive homes or childhood abuse, does deeper damage to identity, trust and the capacity for relationships. She proposed a separate diagnosis for this, complex post-traumatic stress disorder, an idea since widely taken up."
+    },
+    {
+     "id": "ps_traumarecov4",
+     "title": "Recovery belongs to the survivor",
+     "body": "Trauma, Herman writes, takes away power and cuts a person off from others. So recovery rests on restoring both: the survivor must be in charge of their own recovery, and it can only happen in relationship, not in isolation. Well-meaning helpers who take over repeat the loss of control. The useful stance is to offer support, information and company, and leave the decisions with the person.",
+     "try": "If someone confides a painful experience, resist giving advice. Ask what would help, and let them decide."
+    },
+    {
+     "id": "ps_traumarecov5",
+     "title": "Three stages",
+     "body": "Herman describes recovery as unfolding in three stages. First, establishing safety: of the body, of the living situation, of daily routine. Second, remembrance and mourning: telling the story and grieving what was lost. Third, reconnecting with ordinary life and other people. The stages overlap and people circle back. This is a description, not a self-help plan; the work is best done with a trained professional."
+    },
+    {
+     "id": "ps_traumarecov6",
+     "title": "The role of the witness",
+     "body": "Herman points out that bystanders are pulled to take a side. The one who did the harm asks only that we do nothing: look away, doubt, forget. The one who was harmed asks us to share a burden of pain. That is why victims are so often disbelieved. Being a good witness is simple to describe and hard to do: listen, believe, and do not rush the person to get over it."
+    }
+   ]
+  },
+  {
+   "id": "ps_wisdomcrowds",
+   "title": "The Wisdom of Crowds",
+   "author": "James Surowiecki",
+   "year": "2004",
+   "category": "thinking",
+   "why": "Explains when a group's combined judgement beats its smartest member, and when groups go wrong.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_wisdomcrowds1",
+     "title": "The crowd that weighed an ox",
+     "body": "Surowiecki opens with a story from a country fair a century ago, where visitors paid to guess the weight of an ox. A scientist who gathered the hundreds of guesses expected the average to be poor. It was almost exactly right, and better than nearly every individual. Each guess held some information and some error; when combined, the errors pointed in different directions and largely cancelled."
+    },
+    {
+     "id": "ps_wisdomcrowds2",
+     "title": "Four conditions",
+     "body": "A crowd is wise only under certain conditions. Its members need diverse views and information. They need to form their opinions independently, not by copying each other. Knowledge should be decentralised, with people drawing on what they know locally. And there must be some way of combining the separate judgements into one. Take away any of these and a crowd can be more foolish than any of its members."
+    },
+    {
+     "id": "ps_wisdomcrowds3",
+     "title": "Difference beats brilliance",
+     "body": "Surowiecki argues that a group of varied people often does better than a group made up only of the most expert, because the experts tend to know the same things and share the same blind spots. Adding someone who thinks differently brings new information even if that person is less skilled. When putting together a team or asking for advice, look for the view you do not yet have.",
+     "try": "On a question you are weighing, ask someone whose background is quite unlike yours and your usual advisers'."
+    },
+    {
+     "id": "ps_wisdomcrowds4",
+     "title": "Independence is fragile",
+     "body": "People watch each other. Once the first few have chosen, those who follow may set aside their private judgement and go along, on the reasonable assumption that the others know something. Soon everyone is following everyone and nobody's knowledge is being used. Surowiecki uses this to explain fashions, market bubbles and crashes. A crowded restaurant shows that people are there, not that the food is good."
+    },
+    {
+     "id": "ps_wisdomcrowds5",
+     "title": "Coordination and cooperation",
+     "body": "Not all group problems are about finding a right answer. Some are about coordinating, as when pedestrians pass smoothly on a busy pavement with no one in charge. Others are about cooperating when each person is tempted to let the rest do the work, as with paying taxes or keeping a shared kitchen clean. Surowiecki shows that groups often solve these through conventions and trust more than through orders."
+    },
+    {
+     "id": "ps_wisdomcrowds6",
+     "title": "Why small groups disappoint",
+     "body": "Committees and teams often fall short of what their members know. Talk tends to be led by whoever is most senior or speaks most, people give more weight to what everyone has already heard, and discussion can push a like-minded group toward a more extreme view. Surowiecki's fixes are simple: gather opinions before the talk begins, and make sure dissent is voiced.",
+     "try": "At your next meeting, collect each person's view in writing before anyone speaks."
+    }
+   ]
+  },
+  {
+   "id": "ps_groupthink",
+   "title": "Victims of Groupthink",
+   "author": "Irving L. Janis",
+   "year": "1972",
+   "category": "people",
+   "why": "The study that gave us the word groupthink, and practical steps for stopping a team from fooling itself.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_groupthink1",
+     "title": "When harmony beats judgement",
+     "body": "Janis studied how groups of able, well-informed advisers arrived at disastrous decisions, with the failed 1961 landing at the Bay of Pigs in Cuba as his leading case. His answer was groupthink: in a close-knit group the wish to stay agreed can quietly override the job of weighing alternatives realistically. No one is stupid or forced. The members like and respect each other, and that is where the problem lies."
+    },
+    {
+     "id": "ps_groupthink2",
+     "title": "The feeling of being right and safe",
+     "body": "The first signs Janis lists concern how the group sees itself and others. Members share an unspoken sense that such a capable team cannot fail, explain away warnings together, take for granted that their cause is moral, and hold a crude picture of opponents as weak or foolish. When a team stops asking \"what if we are wrong?\" and starts mocking outsiders, the conditions are in place."
+    },
+    {
+     "id": "ps_groupthink3",
+     "title": "Silence mistaken for agreement",
+     "body": "The other signs concern pressure toward sameness. Anyone who voices doubt is gently reminded to be loyal. Members with reservations keep quiet so as not to spoil the mood. Since nobody objects, everyone concludes that all agree. And some appoint themselves guards, keeping unwelcome facts from the leader. The outcome is a room of private doubters, each assuming they are alone.",
+     "try": "In your next group decision, ask each person to name one risk before anyone is allowed to say they agree."
+    },
+    {
+     "id": "ps_groupthink4",
+     "title": "What makes it likely",
+     "body": "Janis found groupthink most likely when a group is tightly bonded, cut off from outside opinion, led by someone who states a preference early, and under pressure to decide. His evidence is a set of historical case studies. Later experiments have given mixed support, and closeness alone does not reliably cause it. The clearest risks are an insulated group and a leader who shows their hand first."
+    },
+    {
+     "id": "ps_groupthink5",
+     "title": "The same people, a better process",
+     "body": "Janis contrasts the Bay of Pigs with the Cuban missile crisis the following year, handled by largely the same leader and advisers. The process had changed. The president sometimes stayed out of the room so people would speak freely, the group split into smaller teams that worked separately, outside experts were heard, and objections were invited. The people were the same. The rules of discussion had been improved."
+    },
+    {
+     "id": "ps_groupthink6",
+     "title": "Building in the doubt",
+     "body": "From this Janis drew remedies any team can use. The leader holds back their own view at the start. Someone is given the job of arguing against the favoured plan, and the role rotates so it is taken seriously. Outsiders are asked in to challenge. And once a decision seems settled, a further meeting is held at which everyone is urged to voice any remaining doubts.",
+     "try": "If you lead a discussion this week, give your own opinion last."
+    }
+   ]
+  },
+  {
+   "id": "ps_isntso",
+   "title": "How We Know What Isn't So",
+   "author": "Thomas Gilovich",
+   "year": "1991",
+   "category": "thinking",
+   "why": "A clear guide to how sensible people come to hold mistaken beliefs, and how to check your own.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_isntso1",
+     "title": "Seeing streaks in chance",
+     "body": "We expect random events to look evenly mixed, so when chance produces a run we assume something is behind it. Gilovich's well-known example is the belief that basketball players get a \"hot hand\"; his analysis of shooting records found no more streaks than chance would give. Later researchers have argued a modest hot hand may exist after all. Either way, we see far more pattern in randomness than is there."
+    },
+    {
+     "id": "ps_isntso2",
+     "title": "Extremes drift back to average",
+     "body": "An unusually good or bad result is partly luck, so the next is likely to be more ordinary. We overlook this and credit whatever we did in between. Gilovich notes a cruel effect: we tend to praise after a great performance and scold after a poor one, then watch the first decline and the second improve, and conclude that scolding works and praise does not. Neither may have had any effect.",
+     "try": "The next time something improves right after you intervened, ask whether it would have improved anyway."
+    },
+    {
+     "id": "ps_isntso3",
+     "title": "The evidence we never see",
+     "body": "Many beliefs rest on only part of the picture. An interviewer is sure of their eye for talent, but sees only how the people they hired turned out, never how the rejected ones would have done. A remedy seems to work because we rarely try doing nothing. Gilovich's point is that we judge by the cases in front of us and forget to ask about the cases that our own choices kept out of sight."
+    },
+    {
+     "id": "ps_isntso4",
+     "title": "Two standards of proof",
+     "body": "We do not weigh evidence evenly. For a conclusion we like, Gilovich observes, we ask only whether the evidence permits us to believe it. For one we dislike, we ask whether the evidence forces us to. The first test is easy to pass and the second almost impossible. We end up sincerely feeling that we followed the facts, having in truth set a different bar for each side.",
+     "try": "Take a belief you are fond of and apply the test you would use on a claim you dislike."
+    },
+    {
+     "id": "ps_isntso5",
+     "title": "Stories improve in the telling",
+     "body": "Much of what we know comes secondhand, and tellers want to be interesting. With each retelling the awkward details and qualifications drop out and the striking parts are sharpened, until a rumour or news item is tidier and more dramatic than what happened. Gilovich advises asking how close the source was to the event, and being most wary of the stories that are most satisfying."
+    },
+    {
+     "id": "ps_isntso6",
+     "title": "Thinking everyone agrees",
+     "body": "We tend to overestimate how many people share our opinions and habits. One cause is that we mix mostly with people like ourselves. Another is that adults seldom tell each other they disagree; we nod, change the subject, and keep our doubts private. So our beliefs get less correction than we suppose. A view that nobody has challenged has not necessarily been tested."
+    }
+   ]
+  },
+  {
+   "id": "ps_marshmallow",
+   "title": "The Marshmallow Test",
+   "author": "Walter Mischel",
+   "year": "2014",
+   "category": "mind",
+   "why": "The creator of a famous experiment explains what self-control is and how it can be learned.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_marshmallow1",
+     "title": "The test",
+     "body": "In the 1960s Mischel offered young children at a nursery a choice: one treat now, or two if they could wait alone with the treat in front of them until the researcher came back. Some ate it within moments; others held out for many minutes. What interested Mischel was not who succeeded but how. Watching through a window, he saw that the children who waited were doing something different."
+    },
+    {
+     "id": "ps_marshmallow2",
+     "title": "Waiting is a skill, not a clenched jaw",
+     "body": "The children who lasted did not stare at the sweet and grit their teeth. They looked away, sang, played with their toes, or pretended the treat was only a picture. When Mischel taught such tricks to other children, they waited much longer. Self-control, he concluded, is less a matter of strong will than of strategies for making the temptation weaker, and strategies can be taught.",
+     "try": "Put the thing that tempts you most, snack or phone, out of sight and in another room for the next two hours."
+    },
+    {
+     "id": "ps_marshmallow3",
+     "title": "Hot and cool thinking",
+     "body": "Mischel describes two ways the mind handles a temptation. The hot way is emotional and immediate: it sees the taste, the pleasure, the now. The cool way is slower and more reflective. The children who waited cooled the treat by thinking about its shape or colour, not its sweetness. You can do the same with a craving by describing it in flat, factual terms, or imagining it as a photograph."
+    },
+    {
+     "id": "ps_marshmallow4",
+     "title": "Decide in advance",
+     "body": "When the moment of temptation comes, the hot system is already in charge and it is too late to reason. Mischel recommends setting up a plan ahead of time in the form \"if this happens, then I will do that\", and rehearsing it until it runs without thought. \"If the dessert menu comes, then I will order coffee.\" The decision is made while you are cool, and carried out when you are not.",
+     "try": "Write one \"if ..., then I will ...\" plan for a temptation you expect to meet tomorrow."
+    },
+    {
+     "id": "ps_marshmallow5",
+     "title": "Step back from yourself",
+     "body": "Strong feelings ease when we view them from a distance. Mischel describes research in which people who recall a painful event as if watching it happen to someone else, from across the room, are less shaken than those who relive it through their own eyes. The same move helps with the future: picturing in detail the person you will be in ten years makes it easier to do something for them now."
+    },
+    {
+     "id": "ps_marshmallow6",
+     "title": "What the test does and does not predict",
+     "body": "Mischel's follow-ups found that children who waited longer tended to do better as teenagers and adults, and the book builds on this. A later, larger study with a more varied group of children found the link much weaker, and largely explained by family background. Waiting also depends on whether a child has reason to trust the promise. Treat the test as a window on strategies, not a forecast of anyone's life."
+    }
+   ]
+  },
+  {
+   "id": "ps_scarcity",
+   "title": "Scarcity",
+   "author": "Sendhil Mullainathan and Eldar Shafir",
+   "year": "2013",
+   "category": "thinking",
+   "why": "Shows how having too little of anything, money or time, changes how we think and what we overlook.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_scarcity1",
+     "title": "Having too little takes over the mind",
+     "body": "The authors argue that scarcity is not only a shortage of something; it is a state of mind. Whether the lack is of money, time, food or company, the unmet need captures attention and keeps pulling thought back to itself. The busy person and the poor person, so different in other ways, are caught in the same mental pattern. Seeing the likeness is the book's first step."
+    },
+    {
+     "id": "ps_scarcity2",
+     "title": "The upside: sharp focus",
+     "body": "Scarcity brings a benefit. When something is running short we use it more carefully and concentrate better. A deadline close at hand produces work that weeks of open time did not, and people on a tight budget know prices exactly. The authors call this the focus dividend. It is real, but it comes bundled with a cost, described in the next card, that we do not choose and often do not notice."
+    },
+    {
+     "id": "ps_scarcity3",
+     "title": "Tunnel vision",
+     "body": "Focusing hard on the pressing shortage means everything outside it drops from view. The authors call this tunnelling. While racing to finish a report you skip exercise and forget a birthday; while scrambling to pay this month's rent you let the insurance lapse. These are not judgements that the neglected thing is unimportant. Inside the tunnel it never comes up for consideration at all.",
+     "try": "Name one important, non-urgent thing your current rush has pushed out of view, and give it ten minutes today."
+    },
+    {
+     "id": "ps_scarcity4",
+     "title": "A tax on the mind",
+     "body": "Because scarcity keeps occupying thought, the authors argue it leaves less mental capacity for everything else: reasoning, planning, self-control. They report studies in which people did worse on thinking tasks while money worries were on their minds. Some laboratory findings in this area have had mixed results when repeated. The central point is a humane one: struggling people may be overloaded, not incapable."
+    },
+    {
+     "id": "ps_scarcity5",
+     "title": "Borrowing from tomorrow",
+     "body": "Inside the tunnel the urgent need is everything and its later cost is faint, so we borrow: money at high interest, or time, by pushing a task to next week, when it will be no easier. Each loan makes the next period tighter still. The authors show how this creates a trap in which people are always one step behind, juggling. Being short of time and being short of money work the same way."
+    },
+    {
+     "id": "ps_scarcity6",
+     "title": "Leave some slack",
+     "body": "The remedy the authors stress is slack: spare room that is not allotted to anything. They describe a hospital whose operating rooms were always fully booked, so every emergency disrupted the schedule; keeping one room free for emergencies let it treat more patients, not fewer. A diary with no gaps or a budget with no buffer will break at the first surprise. Leaving room for surprises is part of planning well.",
+     "try": "Block one hour this week with nothing in it, and guard it as you would an appointment."
+    }
+   ]
+  },
+  {
+   "id": "ps_strangers",
+   "title": "Strangers to Ourselves",
+   "author": "Timothy D. Wilson",
+   "year": "2002",
+   "category": "mind",
+   "why": "A psychologist's sober account of how little direct access we have to our own minds, and what to do about it.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_strangers1",
+     "title": "The mind's hidden workforce",
+     "body": "Wilson describes an adaptive unconscious: a large set of mental processes that size up situations, set goals, form impressions and start actions without our awareness. Unlike Freud's unconscious it is not a cellar of repressed wishes. It is simply efficient, built for speed, and cannot be inspected. Some studies from this period have failed to replicate, but the central claim that much thinking happens out of view is well supported."
+    },
+    {
+     "id": "ps_strangers2",
+     "title": "We cannot look inside and see why",
+     "body": "When we explain why we did something, it feels as if we are reporting what we observed in our own minds. Wilson argues that we are usually guessing, using the same common-sense theories an onlooker would use. Experiments show people confidently naming causes that did not affect them and overlooking ones that did. Your account of your own motives is a sensible hypothesis, not a direct reading."
+    },
+    {
+     "id": "ps_strangers3",
+     "title": "Listing reasons can mislead",
+     "body": "It seems wise to analyse why we feel as we do before choosing. Wilson's research suggests a risk. When asked to list reasons, people fix on what is easy to put into words, shift their view to match, and can end up with a choice they later like less than those who simply chose. For matters of taste, such as a picture for the wall, an informed gut feeling may be the better guide."
+    },
+    {
+     "id": "ps_strangers4",
+     "title": "Watch what you do, and ask others",
+     "body": "If introspection is limited, Wilson suggests two better sources. One is your own behaviour, observed as an outsider would observe it: what do you really spend time on, return to, avoid? The other is people who know you, who sometimes predict your actions better than you do. Neither is flattering or comfortable, and both can show you what looking inward cannot.",
+     "try": "Ask someone who knows you well what they think you most enjoy doing, and compare it with your own answer."
+    },
+    {
+     "id": "ps_strangers5",
+     "title": "Act first, and the self follows",
+     "body": "Since we partly learn who we are by watching what we do, Wilson's advice for change is to begin with the behaviour. Someone who wants to be more considerate should start doing considerate things regularly, without waiting to feel like a considerate person. The actions become habit, and they also become evidence, to yourself, of who you are. The inner change comes after the outer one.",
+     "try": "Choose one quality you want more of and do one small act today that a person with that quality would do."
+    }
+   ]
+  },
+  {
+   "id": "ps_bystander",
+   "title": "The Unresponsive Bystander",
+   "author": "Bibb Latane and John M. Darley",
+   "year": "1970",
+   "category": "people",
+   "why": "The classic experiments on why people in groups fail to help, and how to make sure someone does.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "ps_bystander1",
+     "title": "The case that started it",
+     "body": "The authors began their research after the 1964 murder of a young woman in New York, which a newspaper reported as watched by dozens of neighbours who did nothing. That account was later shown to be badly exaggerated. But the question it raised was a good one, and the experiments the authors ran to answer it have held up far better than the original story."
+    },
+    {
+     "id": "ps_bystander2",
+     "title": "More witnesses, less help",
+     "body": "The central finding is that a person who is the only witness to an emergency is more likely to help, and quicker, than someone who believes others are also present. In one experiment people heard what sounded like a stranger having a seizure over an intercom; those who thought they alone could hear it nearly all went for help, and those who thought several others were listening often did not."
+    },
+    {
+     "id": "ps_bystander3",
+     "title": "Responsibility gets divided",
+     "body": "One reason is that responsibility spreads out. Alone, the whole duty to act falls on you, and so would the whole blame. Among ten onlookers, each feels only a share of it and assumes that someone else has surely already called for help. Everyone reasons the same way, and nobody calls. The same thing happens when a group email asks \"can somebody deal with this?\"",
+     "try": "The next time a message asks a whole group for help, answer it yourself or name the person who will."
+    },
+    {
+     "id": "ps_bystander4",
+     "title": "Everyone looks calm, so it must be fine",
+     "body": "A second reason is that emergencies are often unclear. Is that man ill or asleep? To decide, we glance at others, who are glancing at us, and each is trying to look composed. Everyone reads the others' calm as a sign that nothing is wrong. In one experiment people sat on in a room filling with smoke because the others present showed no concern."
+    },
+    {
+     "id": "ps_bystander5",
+     "title": "Five steps to helping",
+     "body": "The authors lay out what has to happen before anyone helps. You must notice the event, interpret it as an emergency, accept that it is your responsibility, know what to do, and then decide to do it. A failure at any step means no help is given. This makes the bystander's inaction understandable as hesitation and confusion at particular points, not as coldness or bad character."
+    },
+    {
+     "id": "ps_bystander6",
+     "title": "Using it",
+     "body": "If you need help in a crowd, pick out one person and give a clear instruction: \"You in the blue jacket, please call an ambulance.\" That removes the doubt and the shared responsibility at once. If you are the bystander, assume nobody else has acted. Later research offers some comfort: the effect is weaker when the danger is obvious, and in real public incidents someone often does step in.",
+     "try": "Decide now that if you ever see someone who may need help, you will be the one who checks."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "version": 1,
+ "packs": [
+  {
+   "name": "faith",
+   "version": 1,
+   "title": "Catholic faith and spiritual classics",
+   "file": "faith.json",
+   "sha256": "24ce6fd6a6cb72310268b2cb6eb012897df86eeccd23719a293e5a531da9cb4d",
+   "bytes": 130774,
+   "books": 40
+  },
+  {
+   "name": "lifewisdom",
+   "version": 1,
+   "title": "Health, everyday wisdom and big ideas",
+   "file": "lifewisdom.json",
+   "sha256": "2b189cb3e576ea3a1863963e0961a8ef00f5cf755b6b67b451d87697400fb781",
+   "bytes": 148543,
+   "books": 40
+  },
+  {
+   "name": "moneywork",
+   "version": 1,
+   "title": "Money, work and career",
+   "file": "moneywork.json",
+   "sha256": "9afcc40f5184bc3053c2ad345f034d83975b99c8bc7aff9c4cd0d623b3e65d72",
+   "bytes": 126748,
+   "books": 35
+  },
+  {
+   "name": "psychology",
+   "version": 1,
+   "title": "Psychology and human nature",
+   "file": "psychology.json",
+   "sha256": "4cb99b3f0daca75a21f206b3bafc73bf32cb4bc1341154b5d057a6268a35e0b3",
+   "bytes": 135120,
+   "books": 40
+  },
+  {
+   "name": "relationships",
+   "version": 1,
+   "title": "Relationships, family and communication",
+   "file": "relationships.json",
+   "sha256": "b95991fddfe08a408bd2ff31cd95371dcb4d2de537e17ca2660369dff002638b",
+   "bytes": 120355,
+   "books": 35
+  },
+  {
+   "name": "selfhelp",
+   "version": 1,
+   "title": "Self-help and productivity",
+   "file": "selfhelp.json",
+   "sha256": "5cc3b5a48c4ff43857e612055c69746957500cd9f5b97ffd3c54962a3e5371b2",
+   "bytes": 128939,
+   "books": 40
+  }
+ ]
+}

@@ -1,0 +1,1499 @@
+{
+ "pack": "moneywork",
+ "version": 1,
+ "title": "Money, work and career",
+ "books": [
+  {
+   "id": "mw_nextdoor",
+   "title": "The Millionaire Next Door",
+   "author": "Thomas J. Stanley and William D. Danko",
+   "year": "1996",
+   "category": "money",
+   "why": "A survey-based portrait of how ordinary earners quietly build wealth, and why looking rich is usually the opposite of being rich.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_nextdoor1",
+     "title": "Income is not wealth",
+     "body": "The authors separate two things people mix up: what you earn and what you keep. A high salary that is fully spent leaves nothing behind, while a modest salary with a steady gap between earning and spending builds real net worth over decades. A senior manager with a large car loan and no savings is poorer, in the sense that matters, than a shop owner who has saved a fifth of a smaller income for twenty years.",
+     "try": "Write down your net worth today: what you own minus what you owe. That number, not your salary, is your wealth."
+    },
+    {
+     "id": "mw_nextdoor2",
+     "title": "Wealth is what you do not see",
+     "body": "Most of the wealthy households the authors surveyed did not look wealthy. They lived in ordinary neighbourhoods, kept cars for many years and avoided status purchases. The visible signs we use to judge success, such as a new phone every year or a large house, are records of money that has left. The savings that make a family secure are invisible to the neighbours, which is exactly why they are easy to neglect.",
+     "try": "Before your next purchase made partly to impress, wait a week and see if you still want it."
+    },
+    {
+     "id": "mw_nextdoor3",
+     "title": "Two kinds of households",
+     "body": "The book compares households with similar incomes and finds very different results. Some turn a large share of income into savings; others turn nearly all of it into lifestyle. The difference is rarely luck or investment brilliance. It is that the first group decides what to save and lives on the rest, while the second group spends first and hopes something remains. The authors offer a formula for expected net worth by age and income; it comes from American data, so treat it as a prompt, not a target."
+    },
+    {
+     "id": "mw_nextdoor4",
+     "title": "Time spent planning pays",
+     "body": "The savers in the study gave regular hours to their money: tracking where it went, setting a yearly budget and reviewing investments. The spenders, often busier and better paid, gave it almost none. Planning does not need to be elaborate. An hour a month to review bank statements, check that savings left the account and look at upcoming large expenses is enough to stop money drifting away unnoticed.",
+     "try": "Block one hour this month in your calendar as a money review, and treat it like a client meeting."
+    },
+    {
+     "id": "mw_nextdoor5",
+     "title": "Help that weakens",
+     "body": "The authors observed that adult children who receive regular cash from parents tend to save less and spend more than those who do not. Gifts get absorbed into lifestyle, and the receiver starts to count on the next one. This is a pattern in their survey, not a law, and paying for education is a different matter from topping up a grown child's spending. The useful idea is to ask whether help builds someone's ability to stand alone or replaces it."
+    },
+    {
+     "id": "mw_nextdoor6",
+     "title": "Read it with one caution",
+     "body": "The book describes people who are already wealthy and looks back at their habits. That misses everyone who had the same habits and did not get there, for instance because of illness or a failed business. So thrift is better seen as something that improves your odds than as a guarantee. The core lesson still holds up well: a wide, steady gap between income and spending is the one part of wealth that is largely in your own hands."
+    }
+   ]
+  },
+  {
+   "id": "mw_teachrich",
+   "title": "I Will Teach You to Be Rich",
+   "author": "Ramit Sethi",
+   "year": "2009",
+   "category": "money",
+   "why": "A practical system for young earners that replaces willpower and guilt with automation and a few large decisions.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_teachrich1",
+     "title": "Automate the flow",
+     "body": "Sethi's central idea is that good intentions fail and systems do not. He suggests setting up transfers so that, soon after salary arrives, fixed amounts move on their own to bills, savings and investments. What is left in the main account is safe to spend. You make the decision once instead of every month, and a tired or tempted version of you never gets a vote. A standing instruction dated the day after payday does this job.",
+     "try": "Set up one automatic transfer to savings for the day after your salary is credited, even if the amount is small."
+    },
+    {
+     "id": "mw_teachrich2",
+     "title": "Spend well on what you love",
+     "body": "Instead of a detailed budget, Sethi proposes a conscious spending plan with four broad buckets: fixed costs, investments, savings goals and guilt-free spending. The point is to cut hard on things you do not care about so you can spend freely on the few you do. Someone who loves travel might keep an old phone and cook at home, then take a good trip each year without guilt. Money becomes a tool for a life you chose.",
+     "try": "Name the one or two things you love spending on, and one category you would happily cut."
+    },
+    {
+     "id": "mw_teachrich3",
+     "title": "Big wins beat small cuts",
+     "body": "Sethi argues that skipping small treats gets too much attention. A handful of large decisions shape most of your financial life: what you pay for housing, whether you negotiate your salary, how early you start investing and what fees you pay. Getting these roughly right is worth more than years of worrying over coffee. Small savings are not useless, but they should not use up the effort needed for the big decisions."
+    },
+    {
+     "id": "mw_teachrich4",
+     "title": "Start before you feel ready",
+     "body": "Many people delay investing because they want to understand everything first. Sethi's view is that a decent plan started now beats a perfect plan started in five years, because time in the market does much of the work. You can begin with a simple, diversified, low-cost option and improve it as you learn. Waiting for certainty is itself a decision, and usually an expensive one."
+    },
+    {
+     "id": "mw_teachrich5",
+     "title": "Ask for more",
+     "body": "A raise negotiated early keeps paying, because every later increment and job offer builds on the higher base. Sethi advises preparing: know what the market pays for your role, collect evidence of results you delivered and practise the conversation aloud. The same applies to a freelancer quoting a client. Asking with evidence is normal business, not greed, and the worst common outcome is a polite no.",
+     "try": "List three results from the last year that you could show a manager or client as a reason to pay you more."
+    },
+    {
+     "id": "mw_teachrich6",
+     "title": "Mind the local details",
+     "body": "The book's specific accounts, tax breaks and card tactics are American. Its advice on using credit cards for rewards also assumes you clear the full bill every month, and many people do not. The principles carry anywhere: automate, keep costs low, focus on big decisions and spend on purpose. The products do not carry. Before copying any step, check what the equivalent is in your country and how it is taxed."
+    }
+   ]
+  },
+  {
+   "id": "mw_makeover",
+   "title": "The Total Money Makeover",
+   "author": "Dave Ramsey",
+   "year": "2003",
+   "category": "money",
+   "why": "The best-known step-by-step plan for getting out of consumer debt, useful for its focus on behaviour even where the maths is disputed.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_makeover1",
+     "title": "One step at a time",
+     "body": "Ramsey lays out a fixed sequence: a small starter emergency fund, then all debts except the home loan, then a full emergency fund, and only then long-term investing and other goals. The strength of the plan is focus. Trying to save, invest and repay all at once spreads money thin and produces no visible progress. Putting everything spare into one target gives quick, clear movement, which keeps people going."
+    },
+    {
+     "id": "mw_makeover2",
+     "title": "The debt snowball",
+     "body": "List your debts from smallest balance to largest. Pay the minimum on all, and throw every spare rupee at the smallest. When it is cleared, roll its payment into the next. Ramsey admits this is not the cheapest route on paper; paying the highest interest rate first costs less. His argument is that people quit plans that show no progress, and closing a small loan quickly gives a win that keeps you paying. Which method is better for you depends on whether motivation or interest cost is your real problem.",
+     "try": "List every debt you have with its balance, interest rate and minimum payment on one page."
+    },
+    {
+     "id": "mw_makeover3",
+     "title": "A small buffer first",
+     "body": "Before attacking debt, Ramsey asks for a small emergency fund. Without one, the first surprise, such as a repair or a medical bill, goes on a credit card and the plan collapses. The buffer is deliberately modest so that it does not delay repayment for long. Once debts are cleared it grows into several months of expenses. The idea is simple: a cushion turns an emergency into an inconvenience."
+    },
+    {
+     "id": "mw_makeover4",
+     "title": "Every rupee gets a job",
+     "body": "Ramsey recommends a written budget made before the month begins, where income minus planned spending, saving and repayment equals zero. Nothing is left unassigned to drift into impulse purchases. Couples do it together, so both agree on the plan. A budget made in advance feels different from tracking afterwards: you are telling money where to go, not asking where it went.",
+     "try": "Before next month starts, write down where each part of your income will go."
+    },
+    {
+     "id": "mw_makeover5",
+     "title": "Intensity for a season",
+     "body": "The plan asks for a period of unusual effort: selling things you do not need, taking extra work, cutting spending sharply. Ramsey frames this as temporary. A year or two of real sacrifice clears what decades of minimum payments would not. The idea travels well outside debt. Hard things are often easier done intensely for a short time than half-heartedly for a long one."
+    },
+    {
+     "id": "mw_makeover6",
+     "title": "Where others disagree",
+     "body": "Several of Ramsey's positions are contested. Many advisers prefer repaying the costliest debt first. His refusal of all credit cards is stricter than most people need if they clear the bill monthly. The long-term stock returns he assumes are widely seen as too optimistic, and no return is assured. His investing advice is American. Take the book for what it does best: a clear, motivating method to stop borrowing and clear consumer debt."
+    }
+   ]
+  },
+  {
+   "id": "mw_richdad",
+   "title": "Rich Dad Poor Dad",
+   "author": "Robert T. Kiyosaki with Sharon L. Lechter",
+   "year": "1997",
+   "category": "money",
+   "why": "A hugely influential book that changes how many people think about assets and income, best read for its questions and with care about its answers.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_richdad1",
+     "title": "Two views of money",
+     "body": "Kiyosaki frames the book around two father figures. One, well educated and salaried, advises study, a secure job and caution. The other, a business owner, advises learning how money works and building things that produce income. The contrast is drawn sharply to make a point: working hard for a salary and understanding money are separate skills, and school teaches mainly the first. Whether the second father existed as described has been questioned, so read it as a teaching story."
+    },
+    {
+     "id": "mw_richdad2",
+     "title": "Assets and liabilities, his way",
+     "body": "Kiyosaki uses a simple test. An asset puts money into your pocket; a liability takes money out. By this test a rented flat or a share that pays dividends is an asset, while a car on loan is a liability. Accountants define these words differently, and his version ignores things that hold value without paying income. Still, the test is useful for one question: does this purchase feed me every month, or do I feed it?",
+     "try": "Go through your last three large purchases and mark each one: does it bring money in, or take money out?"
+    },
+    {
+     "id": "mw_richdad3",
+     "title": "Is your home an asset?",
+     "body": "The book's most argued claim is that the house you live in is a liability, because it costs you loan interest, upkeep and tax each month. Critics point out that a home also saves rent, can rise in value and gives security that is hard to price. A fair reading is narrower: do not count your home as your whole financial plan, and do not stretch for a bigger one on the belief that it is an investment that cannot lose."
+    },
+    {
+     "id": "mw_richdad4",
+     "title": "The raise that disappears",
+     "body": "Kiyosaki describes a trap in which every increase in income is matched by an increase in spending and loan payments, so the person earns more and is no freer. The way out, in his telling, is to direct part of each raise into things that produce income before lifestyle absorbs it. You can see this in any office: two people on the same pay, one of whom needs every salary credit to survive the month.",
+     "try": "Decide now what share of your next raise will go to savings before it reaches your spending account."
+    },
+    {
+     "id": "mw_richdad5",
+     "title": "Work to learn",
+     "body": "Early in a career, Kiyosaki suggests choosing jobs for the skills they teach rather than the pay alone. He values selling, communicating, managing people and reading accounts, because they are needed in any business. A developer who spends a year also handling client calls and quotes learns things no coding course teaches. This is one of the least disputed ideas in the book."
+    },
+    {
+     "id": "mw_richdad6",
+     "title": "Read it critically",
+     "body": "The book is strong on motivation and thin on method. It gives few workable details, plays down the danger of borrowing to invest and treats business and property as paths that suit everyone, when many ventures fail. Parts of its tax and legal talk are American and dated. Use it to start asking where your income comes from and what you own. Look elsewhere, and carefully, before acting on any of it."
+    }
+   ]
+  },
+  {
+   "id": "mw_bogle",
+   "title": "The Little Book of Common Sense Investing",
+   "author": "John C. Bogle",
+   "year": "2007",
+   "category": "money",
+   "why": "The founder of the first index fund for ordinary investors explains, with simple arithmetic, why costs decide so much of what you keep.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_bogle1",
+     "title": "Own the whole haystack",
+     "body": "Bogle's proposal is to stop hunting for winning shares or star fund managers and simply hold a small piece of every company in the market through a broad index fund. You then receive whatever businesses as a whole earn for their owners, minus a small fee. It is not exciting and it will never top the charts in a given year. Its strength is that it removes the risk of picking the wrong shares, the wrong manager or the wrong moment."
+    },
+    {
+     "id": "mw_bogle2",
+     "title": "The arithmetic of cost",
+     "body": "All investors together own the market, so together they earn the market's return before costs. After fund fees, trading costs and commissions, they must earn less than the market as a group. This is subtraction, not opinion. It means the average rupee in high-cost funds has to trail the average rupee in low-cost ones. Some managers do beat the market; the hard part, Bogle argues, is knowing in advance which ones and for how long."
+    },
+    {
+     "id": "mw_bogle3",
+     "title": "Small fees, large bites",
+     "body": "A yearly fee of one or two percent sounds trivial. Bogle shows that because it is charged every year on the whole balance, and because the money lost can no longer compound, it eats a large share of the final amount over an investing lifetime. The investor puts up all the capital and takes all the risk, and a costly fund quietly keeps a big slice of the reward.",
+     "try": "Look up the expense ratio of each fund you hold and write them side by side."
+    },
+    {
+     "id": "mw_bogle4",
+     "title": "Yesterday's stars fade",
+     "body": "Investors tend to pick funds from the top of recent performance tables. Bogle presents evidence that leading funds seldom stay on top; results drift back toward the average, and some top performers were simply in a style that happened to be in fashion. Past returns are the most visible fact about a fund and one of the least useful for choosing it. Cost, by contrast, is known in advance and persists."
+    },
+    {
+     "id": "mw_bogle5",
+     "title": "The investor's own gap",
+     "body": "Bogle points to a second leak beyond fees: behaviour. Money pours into funds after they have risen and leaves after they have fallen, so the typical investor in a fund earns less than the fund itself reports. The cure he offers is dull: choose a sensible mix, add to it regularly and leave it alone through good and bad years. Doing nothing, when prices are frightening, is a skill.",
+     "try": "Write one sentence on what you will do with your investments if markets fall sharply, and keep it where you will see it."
+    },
+    {
+     "id": "mw_bogle6",
+     "title": "How far it travels",
+     "body": "Bogle's evidence comes from American markets over long periods. The cost arithmetic applies everywhere, but how often active managers beat an index differs by country, by market segment and by period, and index funds differ in cost and in how closely they track. So the book gives you a strong default and good questions to ask about any fund. It does not promise a return, and nothing sensible can."
+    }
+   ]
+  },
+  {
+   "id": "mw_randomwalk",
+   "title": "A Random Walk Down Wall Street",
+   "author": "Burton G. Malkiel",
+   "year": "1973",
+   "category": "money",
+   "why": "A readable tour of how markets work, why bubbles recur and why beating the market is far harder than it looks.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "mw_randomwalk1",
+     "title": "Prices already know",
+     "body": "Malkiel's starting point is that share prices respond quickly to new information. By the time you read good news about a company, thousands of others have read it too, and the price has moved. What moves prices next is news nobody has yet, which is by nature unpredictable. That is why short-term price movements look like a random walk, and why consistently guessing the next step is so hard."
+    },
+    {
+     "id": "mw_randomwalk2",
+     "title": "Two ways to value a share",
+     "body": "The book contrasts two approaches. One says a share has a solid worth based on its future earnings and dividends, and you should buy when the price is below it. The other says a share is worth whatever the next buyer will pay, so you should guess the mood of the crowd. Malkiel shows both have truth in them and both fail in practice: future earnings are hard to estimate, and the crowd's mood can turn without warning."
+    },
+    {
+     "id": "mw_randomwalk3",
+     "title": "Bubbles keep returning",
+     "body": "Malkiel walks through centuries of manias, from tulip bulbs in Holland to technology shares. Each time there is a real story at the start, then rising prices attract buyers who buy only because prices are rising, and the reasoning shifts to why old rules no longer apply. The lesson is not that you can spot the top. It is that when everyone you know is certain an asset can only go up, caution is cheap and worth having."
+    },
+    {
+     "id": "mw_randomwalk4",
+     "title": "Charts and forecasts",
+     "body": "The book is sceptical of predicting prices from chart patterns, arguing that tested carefully and after trading costs, such rules have not reliably beaten simply holding. It is also sceptical of professional forecasts of company earnings, which often miss. This remains contested: traders and some researchers point to patterns that persist. Malkiel's later editions accept that markets are not perfectly efficient, only efficient enough that most people do not profit from the flaws."
+    },
+    {
+     "id": "mw_randomwalk5",
+     "title": "Match risk to your life",
+     "body": "Malkiel argues that the right mix of shares, bonds and cash depends on how long until you need the money and how stable your income is. Money needed in two years for a house deposit does not belong in shares, which can fall sharply over short periods. Money for retirement decades away can ride out the falls. Your ability to sleep matters too: a plan you abandon in a crash is worse than a milder plan you keep.",
+     "try": "For each savings goal you have, write the year you will need the money next to it."
+    }
+   ]
+  },
+  {
+   "id": "mw_simplepath",
+   "title": "The Simple Path to Wealth",
+   "author": "JL Collins",
+   "year": "2016",
+   "category": "money",
+   "why": "Written as letters to the author's daughter, it reduces investing to a few plain habits and a calm attitude to market falls.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_simplepath1",
+     "title": "Three plain rules",
+     "body": "Collins boils his approach down to this: spend less than you earn, invest the difference, and avoid debt. None of it is new. What he adds is the insistence that complexity is not a sign of quality. Complicated products are usually costly and mostly benefit those who sell them. A plan simple enough to explain to a teenager is one you can actually follow for forty years.",
+     "try": "Check last month: did you spend less than you earned, and where did the difference go?"
+    },
+    {
+     "id": "mw_simplepath2",
+     "title": "Money that buys freedom",
+     "body": "Collins treats savings as stored freedom, not as delayed shopping. A reserve large enough to cover your costs for a good while lets you leave a bad employer, refuse an unreasonable client or take time to retrain. You do not need to be rich for this to change how you behave; even six months of expenses changes how a hard conversation feels. He saves a high share of income because he values that independence more than the things the money could buy.",
+     "try": "Work out how many months you could live on your current savings if income stopped tomorrow."
+    },
+    {
+     "id": "mw_simplepath3",
+     "title": "Debt as an emergency",
+     "body": "The book treats consumer debt as something to be cleared with urgency, not managed comfortably. Interest paid to lenders is money that could have been compounding for you, and monthly payments reduce your room to choose. Collins is especially wary of loans for things that lose value. He accepts that large loans like a home loan need case-by-case thought, weighing the interest rate against what else the money could do."
+    },
+    {
+     "id": "mw_simplepath4",
+     "title": "Falls are part of the deal",
+     "body": "Collins tells readers to expect sharp market falls several times in an investing life, and to treat them as normal. The damage comes from selling in fear and missing the recovery. He is confident markets rise over the long run, based on American history. That confidence is a judgement, not a guarantee: other markets have stayed low for very long periods. The durable point is to decide in advance what you will do in a crash, so panic does not decide for you."
+    },
+    {
+     "id": "mw_simplepath5",
+     "title": "Two phases of life",
+     "body": "Collins divides an investing life in two. While you are earning and adding money, falls in price are opportunities to buy more cheaply, so you can hold mostly shares. When you start living off the portfolio, a deep fall hurts more because you are selling to eat, so you add steadier holdings like bonds. The products he names are American, but the framing helps anyone: ask whether you are still building or have started drawing."
+    },
+    {
+     "id": "mw_simplepath6",
+     "title": "How much is enough",
+     "body": "Collins discusses a well-known guideline that a portfolio can support yearly withdrawals of around four percent, adjusted for inflation, for a long retirement. It comes from studies of American market history, and its safety elsewhere, with different inflation, returns and taxes, is debated. Use it as a rough way to turn a monthly expense into a target sum, then hold it loosely and revisit it as your situation changes."
+    }
+   ]
+  },
+  {
+   "id": "mw_oneup",
+   "title": "One Up On Wall Street",
+   "author": "Peter Lynch with John Rothchild",
+   "year": "1989",
+   "category": "money",
+   "why": "A celebrated fund manager shows how he thought about individual companies, and how much homework sits behind a simple-sounding idea.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_oneup1",
+     "title": "Your everyday edge",
+     "body": "Lynch argues that ordinary people often notice good businesses before professionals do, because they meet them as customers and employees. An IT worker sees which tools every team is adopting; a parent sees which shop is always full. This is only a lead, and Lynch is clear about that. Liking a product says nothing about whether the company is well run, profitable or sensibly priced. The observation tells you where to start reading."
+    },
+    {
+     "id": "mw_oneup2",
+     "title": "Know what kind it is",
+     "body": "Lynch sorts companies into types, including slow growers, steady large firms, fast growers, cyclicals whose profits swing with the economy, turnarounds and firms with hidden assets. Each behaves differently and deserves different expectations. Hoping for rapid growth from a mature utility, or holding a cyclical company as if its peak profits were permanent, are category mistakes. Naming the type first makes it clearer what could go right and wrong."
+    },
+    {
+     "id": "mw_oneup3",
+     "title": "Tell the story in two minutes",
+     "body": "Before buying, Lynch wants to be able to explain in plain words why the company will do well: what it does, why it will earn more and what could spoil it. If the explanation needs jargon, or amounts to saying the price is going up, there is no real reason. Writing the story down also gives you something to check later. When the facts no longer match the story, that is the signal to rethink, not the day's price.",
+     "try": "Pick one thing you own, or want to, and write three sentences on why you hold it. If you cannot, that is worth knowing."
+    },
+    {
+     "id": "mw_oneup4",
+     "title": "Price against growth",
+     "body": "Lynch compares the price investors pay for each rupee of earnings with how fast those earnings are growing. A company growing quickly can deserve a higher price than a slow one, but only up to a point; a wonderful business bought at a wild price can still be a poor investment. He also looks at debt, since firms with little borrowing survive bad years. These are rough checks for asking better questions, not formulas that produce answers."
+    },
+    {
+     "id": "mw_oneup5",
+     "title": "Ignore the forecasts",
+     "body": "Lynch spends no effort predicting the economy, interest rates or the market's direction, because he doubts anyone can do it reliably. He expects falls to come and cannot know when. His attention goes to individual businesses and whether they are doing what he expected. For most people the practical version is to stop treating market commentary as information you must act on."
+    },
+    {
+     "id": "mw_oneup6",
+     "title": "Not as easy as it sounds",
+     "body": "The book makes stock picking sound approachable, and Lynch's own record was exceptional. He worked at it full time, with a research team, and still expected a fair share of his choices to disappoint. Many careful people who try to pick shares do worse than a plain diversified fund. Read the book to learn how businesses are judged, and be honest about how many hours you would truly give to it."
+    }
+   ]
+  },
+  {
+   "id": "mw_coffeecan",
+   "title": "Coffee Can Investing",
+   "author": "Saurabh Mukherjea, Rakshit Ranjan and Pranab Uniyal",
+   "year": "2018",
+   "category": "money",
+   "why": "An Indian take on patient, low-churn investing that also questions the country's love of property, gold and expensive financial products.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_coffeecan1",
+     "title": "The idea of the coffee can",
+     "body": "The title comes from an older American story of people who put valuables in a coffee can and left them untouched for years. Applied to shares, it means choosing a small set of strong companies and then doing almost nothing for a decade. The authors argue that inactivity is a feature: it avoids trading costs and taxes, and it stops investors from selling good businesses during the bad patches every company goes through."
+    },
+    {
+     "id": "mw_coffeecan2",
+     "title": "A demanding filter",
+     "body": "The authors look for companies that have grown their sales steadily and earned high returns on the capital they use, year after year for a decade, not just on average. Few firms pass, because consistency through booms and slowdowns is rare. Their case is that such a record points to a real advantage, such as a trusted brand or a strong distribution network. A past record is still only evidence, and a good company can be a poor purchase at too high a price."
+    },
+    {
+     "id": "mw_coffeecan3",
+     "title": "Patience does the work",
+     "body": "The book's claim is that the gains from a great business come mostly in later years, as profits reinvested at good rates build on each other. Investors who trade in and out capture little of this. The authors present back-tests of Indian shares in support. Back-tests are open to dispute, since rules chosen with hindsight can flatter results, so treat the numbers as illustration. The behavioural point stands alone: frequent action often hurts."
+    },
+    {
+     "id": "mw_coffeecan4",
+     "title": "Look hard at property and gold",
+     "body": "Indian households hold much of their savings in real estate and gold. The authors argue that property is costly to buy and sell, hard to turn into cash, lumpy and less rewarding than people remember once all costs are counted, and that gold earns no income. This is their view and others disagree, particularly on a home you live in. The useful step is to count what share of your own savings sits in things that are hard to sell.",
+     "try": "Add up roughly what share of your family's wealth is in property and gold versus financial savings."
+    },
+    {
+     "id": "mw_coffeecan5",
+     "title": "Fees hide in plain sight",
+     "body": "A large part of the book is about what investors pay without noticing: fund expenses, commissions built into regular plans, and insurance products that mix cover with investment at high cost. Because these are deducted quietly, they do not feel like spending. The authors urge readers to ask anyone who recommends a product how they are paid for recommending it. That single question explains a great deal of the advice people receive.",
+     "try": "Ask the person who last recommended a financial product to you how they are paid for it."
+    },
+    {
+     "id": "mw_coffeecan6",
+     "title": "Plan from goals",
+     "body": "The authors suggest starting with what the money is for: children's education, a home, retirement. Each goal has an amount and a date, and these decide how much to set aside and how much risk is sensible. Money needed soon is kept safe; money needed far in the future can sit in growth assets. Investing without goals tends to become chasing whatever did well last year."
+    }
+   ]
+  },
+  {
+   "id": "mw_dhandho",
+   "title": "The Dhandho Investor",
+   "author": "Mohnish Pabrai",
+   "year": "2007",
+   "category": "money",
+   "why": "A short, vivid book that explains value investing through the way Gujarati families built motel businesses from very little.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_dhandho1",
+     "title": "Low risk, high return",
+     "body": "Dhandho is a Gujarati word for business, and Pabrai uses it for a particular attitude: look for ventures where little can be lost and much can be gained. His main example is the Patel families who arrived in America with almost nothing and came to own a large share of its motels. A family would buy a small motel on borrowed money, live in it and run it themselves, so costs were tiny. If it worked they prospered; if it failed they had lost little."
+    },
+    {
+     "id": "mw_dhandho2",
+     "title": "Heads I win, tails I lose little",
+     "body": "Pabrai's test for any opportunity is to compare the likely gain if things go well with the likely loss if they do not, and how probable each is. Most people look only at the upside. He wants bets where the downside is small and known. A freelancer who tests a new service with one existing client, before leaving steady work, is thinking this way. The aim is not to avoid risk but to refuse risks that pay badly.",
+     "try": "For one decision you face, write the realistic worst case and the realistic best case side by side."
+    },
+    {
+     "id": "mw_dhandho3",
+     "title": "Simple, existing, understood",
+     "body": "Pabrai prefers businesses that already exist and have a long history, in industries that change slowly, and that he can explain easily. A simple business is easier to value, and there are fewer ways to be wrong. He says that if working out what a company is worth needs a complicated spreadsheet, that complexity is itself a reason to pass. Knowing the limits of what you understand is a large part of the method."
+    },
+    {
+     "id": "mw_dhandho4",
+     "title": "Few bets, big, infrequent",
+     "body": "Rather than spreading money thinly over dozens of ideas, Pabrai waits a long time and commits heavily when odds look clearly favourable. He draws on a betting formula to size positions, though he applies it cautiously. This is one of the more disputed parts of the book: concentration magnifies mistakes as well as successes, and most people overrate how good their odds are. The safer lesson is patience, since doing nothing is allowed."
+    },
+    {
+     "id": "mw_dhandho5",
+     "title": "Risk is not uncertainty",
+     "body": "Pabrai separates two things markets tend to treat as one. Risk is the chance of permanently losing money. Uncertainty is not knowing how things will turn out. A sound business facing a confusing year may have an unclear future but little real chance of ruin, and its price may fall anyway because investors dislike not knowing. He looks for exactly that mix. In work too, an unclear outcome is not always a dangerous one."
+    },
+    {
+     "id": "mw_dhandho6",
+     "title": "Copy what works",
+     "body": "The book praises copying over inventing. The motel owners did not create a new kind of business; they took a proven one and ran it at lower cost. Pabrai notes that many successful firms lifted and improved ideas from others. Originality is risky because nobody knows if the idea works. Adopting a model that has already been proven, and executing it with care, is often the wiser path.",
+     "try": "Name one practice a successful peer or competitor uses that you could adopt this month."
+    }
+   ]
+  },
+  {
+   "id": "mw_naval",
+   "title": "The Almanack of Naval Ravikant",
+   "author": "Eric Jorgenson",
+   "year": "2020",
+   "category": "money",
+   "why": "A collection of an investor's ideas on building wealth through skill and ownership, well suited to people who work with code.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_naval1",
+     "title": "Wealth, money and status",
+     "body": "The book separates three things. Wealth is owning assets that earn while you sleep, such as a business, a product or investments. Money is how wealth is transferred. Status is your rank in a social order. Wealth can be created, so one person's gain need not be another's loss, while status is a contest someone must lose. The suggestion is to notice which game you are playing when you feel envy or the urge to show off."
+    },
+    {
+     "id": "mw_naval2",
+     "title": "Ownership, not hours",
+     "body": "Ravikant argues that renting out your time has a ceiling: you are paid only while you work, and someone else sets the rate. He believes lasting wealth usually needs ownership of something, whether shares in a company or a product of your own. This reflects his world of technology start-ups, where most ventures fail, so it is a direction more than a rule. A modest version is a salaried developer who also builds one small thing that earns without their hours."
+    },
+    {
+     "id": "mw_naval3",
+     "title": "Specific knowledge",
+     "body": "This is knowledge that cannot be taught in a classroom course, because it grows out of your particular curiosity and experience. It feels like play to you and looks like work to others. Someone who has maintained client websites for a decade knows things about what breaks, what clients fear and what they will pay for that no syllabus contains. Ravikant's advice is to build on such knowledge instead of chasing whatever skill is fashionable.",
+     "try": "Write down three things people regularly ask your help with that you find easy. Look for the pattern."
+    },
+    {
+     "id": "mw_naval4",
+     "title": "Leverage",
+     "body": "Leverage is what lets one decision produce a large result. The older forms are other people's labour and other people's capital, and both need someone's permission. The newer form is products that cost almost nothing to copy: software, writing, video. A script written once can serve a thousand clients. For people who can code, this kind of leverage is open without asking anyone, which is why he thinks it matters so much now.",
+     "try": "Pick one task you repeat for clients and ask whether a script, template or written guide could do it for you."
+    },
+    {
+     "id": "mw_naval5",
+     "title": "Play long games",
+     "body": "Ravikant holds that the big returns in life, in money, relationships and knowledge, come from compounding, and compounding needs time and trust. Working for decades with the same reliable people makes every deal easier, because nobody needs to check the other. A reputation for doing what you said becomes an asset. It follows that a short-term gain that costs trust is a bad trade, even when nobody would find out."
+    },
+    {
+     "id": "mw_naval6",
+     "title": "Judgment and a caveat",
+     "body": "With leverage, being right matters more than working long hours, because the direction is multiplied. He therefore values clear thinking, reading widely and time free of meetings. One caution for the reader: these are the reflections of a person who succeeded in a field with rare outcomes, collected from interviews and short posts. They are stimulating principles, not a tested plan, and hard work at ordinary jobs is still how most people build security."
+    }
+   ]
+  },
+  {
+   "id": "mw_fooled",
+   "title": "Fooled by Randomness",
+   "author": "Nassim Nicholas Taleb",
+   "year": "2001",
+   "category": "money",
+   "why": "A sharp, opinionated book on how much of success in markets and careers is luck that we later explain as skill.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_fooled1",
+     "title": "Luck dressed as skill",
+     "body": "Taleb's main claim is that in fields with a lot of chance, such as trading, we regularly mistake lucky people for skilled ones. If enough people make bold bets, some will win for years by chance alone, and they will sincerely believe they earned it. A good outcome does not prove a good decision. The practical habit is to ask how much of a result came from things the person controlled before copying them."
+    },
+    {
+     "id": "mw_fooled2",
+     "title": "The graveyard is silent",
+     "body": "We see the winners and not the many who tried the same thing and failed, because failures leave the scene. Funds that did badly are closed and vanish from the records; failed traders do not write books. Looking only at survivors makes a risky strategy look safe and a lucky trait look essential. Before learning from a success story, ask how many started the same way and where they are now."
+    },
+    {
+     "id": "mw_fooled3",
+     "title": "Lives that did not happen",
+     "body": "Taleb suggests judging a choice by all the ways it could have turned out, not only the way it did. Someone who earned a fortune through a gamble that could easily have ruined them was not wise, only fortunate. Someone who earned steadily at a dull, safe profession may be richer once you count the possible disasters avoided. This changes whom you admire, and makes insurance and caution look less foolish."
+    },
+    {
+     "id": "mw_fooled4",
+     "title": "How often versus how much",
+     "body": "People focus on how likely something is and neglect how large it would be. A strategy that gains a little most months and occasionally loses everything looks excellent until the bad month arrives. Taleb, a former trader, structured his work the other way round: many small losses, in exchange for rare large gains. You need not copy him to use the idea. For any plan, ask what the worst case costs, not only how seldom it happens."
+    },
+    {
+     "id": "mw_fooled5",
+     "title": "Look less often",
+     "body": "Short periods are mostly noise. Check an investment every hour and you will see a random mix of small rises and falls, and the falls will hurt more than the rises please, even if the long-run trend is good. Checking yearly shows far more signal. Taleb's point is that constant monitoring delivers pain and bad decisions rather than information. The same is true of watching website traffic minute by minute.",
+     "try": "Remove one price-checking or stats app from your phone's home screen for a week."
+    },
+    {
+     "id": "mw_fooled6",
+     "title": "Know you are fooled",
+     "body": "Taleb does not claim to be immune. He admits he is as prone to superstition and emotion as anyone, and so he arranges his life to limit the damage: rules made in calm moments, fixed limits on losses, and distance from the daily news. Knowing about a bias does not remove it. What helps is building habits and limits beforehand, when you can think, for the moments when you cannot.",
+     "try": "Set one rule now, while calm, for a situation where you usually act on impulse."
+    }
+   ]
+  },
+  {
+   "id": "mw_diezero",
+   "title": "Die With Zero",
+   "author": "Bill Perkins",
+   "year": "2020",
+   "category": "money",
+   "why": "A useful counterweight to saving advice: it asks what money is for and warns against postponing life until it is too late to enjoy it.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_diezero1",
+     "title": "Money is for living",
+     "body": "Perkins argues that the aim of earning and saving is not the largest possible bank balance but the fullest possible life. Every rupee left unspent at death stands for hours of work that bought nothing. He does not praise waste. He asks savers, who are good at delaying pleasure, to notice that delay can become a habit that outlives its purpose. The question he wants asked is how much is enough, and what the rest is for."
+    },
+    {
+     "id": "mw_diezero2",
+     "title": "Memories pay dividends",
+     "body": "An experience does not end when it is over. You go on enjoying it in memory, in stories and in shared jokes for the rest of your life. Perkins calls this a memory dividend. A trip taken with friends at thirty yields decades of this; the same trip at seventy yields far fewer years. This is his reason for not pushing every pleasure to the end of life: experiences, like investments, benefit from being made early."
+    },
+    {
+     "id": "mw_diezero3",
+     "title": "Some doors close",
+     "body": "Each kind of experience has a season. Trekking in the mountains depends on knees that will not last forever. Playing on the floor with your children is possible only while they are small. Perkins suggests dividing your remaining life into periods of five or ten years and placing what you want to do into the period where it fits. Seeing a wish assigned to a decade makes it clear that later is not always available.",
+     "try": "Write down one thing you want to do that depends on your health or your children's age, and the latest year it could happen."
+    },
+    {
+     "id": "mw_diezero4",
+     "title": "Give while it matters",
+     "body": "Many people plan to leave money to their children when they die, which usually means the children receive it late in their own lives. Perkins argues that help is worth far more earlier, when they are studying, setting up a home or starting a business. The same holds for charity: need exists now. Giving with a warm hand, at a time you choose, also lets you see the good it does."
+    },
+    {
+     "id": "mw_diezero5",
+     "title": "Do not over-save from fear",
+     "body": "Perkins observes that many retired people keep saving and never draw down, out of worry about medical costs or running out. He suggests handling those fears with specific tools where they exist, such as insurance and guaranteed income products, rather than a vast untouched pile. He also notes that spending tends to fall in late old age as people become less active, so some of the fear is overstated."
+    },
+    {
+     "id": "mw_diezero6",
+     "title": "Where the idea has limits",
+     "body": "The book speaks most to people who already earn and save more than they need. For someone with debts, no cushion or dependants and little social safety net, building security comes first, and the advice does not apply yet. Nobody knows how long they will live or what care will cost, so aiming for exactly zero is not realistic. Take it as a correction against endless postponement, not as permission to stop saving."
+    }
+   ]
+  },
+  {
+   "id": "mw_profitfirst",
+   "title": "Profit First",
+   "author": "Mike Michalowicz",
+   "year": "2014",
+   "category": "money",
+   "why": "A cash-management method for small businesses and freelancers who are busy and billing yet never seem to have money left.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_profitfirst1",
+     "title": "Flip the formula",
+     "body": "Most owners treat profit as whatever is left after expenses, and often nothing is left. Michalowicz reverses the order: when money comes in, take a set share out as profit first, and run the business on the remainder. The accounting result is the same, but the behaviour is not. Like a salaried person who saves on payday, the owner is forced to find a way to operate on less, and usually does."
+    },
+    {
+     "id": "mw_profitfirst2",
+     "title": "Spending fills the space",
+     "body": "The method rests on a plain observation about people: we use what is available. A large balance in the main account makes an owner feel rich, and a new tool or a hire seems affordable. A smaller visible balance prompts care. Michalowicz compares it to serving food on a smaller plate. You do not rely on discipline; you change what you see when you look at the bank app."
+    },
+    {
+     "id": "mw_profitfirst3",
+     "title": "Separate accounts",
+     "body": "In practice the method uses several bank accounts, each with a single purpose: incoming payments, profit, the owner's pay, tax and operating expenses. Money lands in the first and is divided among the others by fixed percentages. At a glance you know what can be spent on running the business, and the tax money is not sitting there looking spendable. Which taxes to set aside, and how much, depends on your country and business type.",
+     "try": "Open or nominate one separate account and move a fixed share of every client payment into it for tax."
+    },
+    {
+     "id": "mw_profitfirst4",
+     "title": "Start small",
+     "body": "Michalowicz advises against jumping to ideal percentages. Begin by moving one or two percent of income to profit, an amount too small to hurt, and raise it a little each quarter. The business adjusts gradually, and the habit forms before the amounts get large. A sudden large cut invites failure and a return to old ways. This is habit advice applied to a company: make the first step easy, then repeat."
+    },
+    {
+     "id": "mw_profitfirst5",
+     "title": "Pay yourself properly",
+     "body": "Many freelancers and small owners pay themselves whatever happens to be left, which means irregular pay in good months and none in bad ones. The method treats the owner's pay as a fixed allocation, separate from profit. Pay is for the work you do in the business; profit is the reward for owning it. Keeping them apart shows whether the business can truly afford you, or is surviving only because you work for too little.",
+     "try": "Decide on a fixed monthly amount to pay yourself, and compare it with what you actually drew last month."
+    },
+    {
+     "id": "mw_profitfirst6",
+     "title": "A rhythm and a reward",
+     "body": "Allocation is done on a fixed schedule, such as twice a month, and bills are paid on the same days. This replaces daily worry over the balance with a routine. Each quarter, part of the profit account is paid out to the owner as a reward and the rest stays as a reserve. One caution: the method manages cash, not accounting. You still need proper books and a professional's help with tax."
+    }
+   ]
+  },
+  {
+   "id": "mw_pragmatic",
+   "title": "The Pragmatic Programmer",
+   "author": "Andrew Hunt and David Thomas",
+   "year": "1999",
+   "category": "work",
+   "why": "A collection of durable working habits for software people that has outlasted every technology it was first written about.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_pragmatic1",
+     "title": "One home for each fact",
+     "body": "The authors advise that every piece of knowledge in a system should live in exactly one place. When the same rule is written in three files, a change means finding all three, and one is always missed. This covers more than copied code: a tax rate typed into both a script and a document, or a setting repeated across servers, is the same problem. Keep one source and have everything else read from it.",
+     "try": "Find one value or rule that is typed in more than one place in a project, and note where its single home should be."
+    },
+    {
+     "id": "mw_pragmatic2",
+     "title": "Fix the broken window",
+     "body": "A building with one broken window left unrepaired soon collects more, because the damage signals that nobody cares. The authors say code and systems behave the same way. One sloppy workaround left in place makes the next one feel acceptable, and quality slides quickly. You cannot always fix things properly at once, but you can mark the problem, board it up and show it has been noticed. Care, like neglect, spreads.",
+     "try": "Find one small thing you have been stepping around in a project, and either fix it or write it down where the team will see it."
+    },
+    {
+     "id": "mw_pragmatic3",
+     "title": "Tracer bullets",
+     "body": "When requirements are unclear, the authors suggest building one thin slice that works from end to end, such as a single form that saves to the real database and shows on the real page, before filling in the details. Like a glowing round that shows where shots are landing, it tells you quickly whether the parts connect and whether you are aiming at what the client wants. Unlike a throwaway prototype, the slice is kept and built upon."
+    },
+    {
+     "id": "mw_pragmatic4",
+     "title": "Keep things unrelated",
+     "body": "Two parts of a system are well separated when changing one does not affect the other. Changing the page layout should not require touching the database code. Systems built this way are easier to test, safer to modify and simpler to reuse, because each piece can be understood alone. A quick check the authors offer: for a typical change request, how many files must you open? The fewer, the better the design."
+    },
+    {
+     "id": "mw_pragmatic5",
+     "title": "Your knowledge portfolio",
+     "body": "The authors compare what you know to a financial portfolio, since technical skills lose value as technology moves. They suggest investing regularly and in small amounts, diversifying across areas, and mixing safe choices with a few speculative ones. In practice that means a steady habit of learning something new, reading outside your speciality and spending time with people who do different work. The habit matters more than any single choice.",
+     "try": "Choose one tool or topic outside your daily work and give it thirty minutes this week."
+    },
+    {
+     "id": "mw_pragmatic6",
+     "title": "Explain it to a duck",
+     "body": "When stuck on a bug, describe the problem aloud, step by step, to someone else, or to an object on your desk if nobody is around. Explaining forces you to state the assumptions you had been skipping over, and the error often shows itself halfway through a sentence. The authors pair this with a rule for debugging: do not assume, prove. The cause is far more likely to be in your own code than in the platform beneath it."
+    }
+   ]
+  },
+  {
+   "id": "mw_cleancode",
+   "title": "Clean Code",
+   "author": "Robert C. Martin",
+   "year": "2008",
+   "category": "work",
+   "why": "An influential and much-debated guide to writing code that other people, including your future self, can read and change safely.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_cleancode1",
+     "title": "Code is read far more than written",
+     "body": "Martin's starting point is that a programmer spends most of the day reading existing code in order to write a little new code. So anything that makes code easier to read makes all later work faster, and messy code slows a team more each month until simple changes take days. Writing clearly is therefore not polish added at the end. It is how you keep the ability to deliver at all."
+    },
+    {
+     "id": "mw_cleancode2",
+     "title": "Names that explain",
+     "body": "A name should tell the reader why something exists and how it is used. A variable called d says nothing; one called daysSinceLastBackup removes the need for a comment. Martin asks for names that can be pronounced and searched for, and that do not mislead. Choosing a good name takes thought, and when you find a better one later you should change it. The time is repaid by everyone who reads the line afterwards.",
+     "try": "Rename one vague variable or function in today's work so that it needs no comment."
+    },
+    {
+     "id": "mw_cleancode3",
+     "title": "Small functions with one job",
+     "body": "Martin argues that a function should do one thing, at one level of detail, and be short enough to take in at a glance. A long function that validates input, queries a database and formats a report is three functions hiding in one, and each is harder to test and reuse. How short is right is disputed; critics say splitting code into very many tiny pieces can make it harder to follow. The steadier principle is that each piece should have one clear purpose."
+    },
+    {
+     "id": "mw_cleancode4",
+     "title": "Comments are a last resort",
+     "body": "A comment that explains what confusing code does is, in Martin's view, a sign the code should be rewritten so that it explains itself. Comments also go stale: the code changes and the comment does not, and then it misleads. He keeps a place for comments that give what code cannot, such as the reason for an odd decision or a warning about consequences. Many engineers are more generous to comments than he is, particularly for explaining why."
+    },
+    {
+     "id": "mw_cleancode5",
+     "title": "Tests keep code changeable",
+     "body": "Without automated tests, every change risks breaking something unseen, so people stop improving the code and it decays. With a good set of tests you can restructure freely and know within minutes if something broke. Martin therefore treats test code as deserving the same care as production code. He goes further and advocates writing each test before the code it checks, a discipline many respect and many others do not follow strictly."
+    },
+    {
+     "id": "mw_cleancode6",
+     "title": "Leave it a little better",
+     "body": "Borrowing a camping rule, Martin asks that you leave code slightly cleaner than you found it. You need not rewrite the file; rename one unclear variable, split one overgrown function or remove one dead block as you pass through. Done by everyone on every visit, this reverses the usual slow decay without a dedicated clean-up project that never gets approved.",
+     "try": "In the next file you edit, make one small improvement unrelated to your task, such as a clearer name."
+    }
+   ]
+  },
+  {
+   "id": "mw_manmonth",
+   "title": "The Mythical Man-Month",
+   "author": "Frederick P. Brooks Jr.",
+   "year": "1975",
+   "category": "work",
+   "why": "Essays from the manager of a huge early software project whose observations about people and schedules remain uncomfortably accurate.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_manmonth1",
+     "title": "People and months do not swap",
+     "body": "Estimates often assume that a job needing twelve person-months can be done by one person in a year or twelve people in a month. Brooks shows why this fails for software. The work cannot be divided cleanly, and people must coordinate with each other. Every added person adds lines of communication, and the number of those lines grows much faster than the head count. Past a point, more people means more meetings rather than more output."
+    },
+    {
+     "id": "mw_manmonth2",
+     "title": "Late projects and new hands",
+     "body": "From this follows the book's best-known observation: adding people to a software project that is already late tends to make it later. Newcomers must be trained, which takes the time of the very people doing the work, and the work must be re-divided. Brooks himself called this an oversimplification, and it bites hardest late in a project with tightly connected tasks. The practical lesson is that rescuing a deadline usually means reducing scope or moving the date."
+    },
+    {
+     "id": "mw_manmonth3",
+     "title": "One mind behind the design",
+     "body": "Brooks holds that the most important quality of a system is conceptual integrity: it should feel as if one mind designed it, with the same ideas applied throughout. A product with fewer features and one coherent approach is easier to learn and use than one stuffed with good but unrelated ideas from many people. This means someone must have the authority to say no. It applies to a website's navigation as much as to an operating system."
+    },
+    {
+     "id": "mw_manmonth4",
+     "title": "The second-system trap",
+     "body": "A designer's first system is usually lean, because they are careful and unsure. The danger comes with the second, when every idea set aside the first time gets added, producing something bloated. Brooks advises extra self-discipline at exactly that moment. You may recognise it in the rebuild of a site that worked: the new version tries to include everything anyone ever wished for, and ships late and heavier."
+    },
+    {
+     "id": "mw_manmonth5",
+     "title": "How a project gets a year late",
+     "body": "Brooks's answer is: one day at a time. Major disasters get attention and are dealt with. Small slips, a sick day here, a delayed approval there, are each too minor to act on, and they pile up unnoticed. His remedy is milestones that are concrete and checkable, so that done means something exists and works, not that someone feels ninety percent finished. Vague milestones allow people to deceive themselves.",
+     "try": "Rewrite one task on your current list so that its completion can be checked by someone else."
+    },
+    {
+     "id": "mw_manmonth6",
+     "title": "No silver bullet",
+     "body": "In an essay added to later editions, Brooks divides the difficulty of software in two. Some of it is accidental, caused by clumsy tools, and better tools remove it. The rest is essential: working out precisely what the system should do, in all its detail and exceptions. He predicted no single technique would bring a tenfold gain within a decade, because the essential part remains. It is worth recalling whenever a new tool is said to make development easy."
+    }
+   ]
+  },
+  {
+   "id": "mw_dontthink",
+   "title": "Don't Make Me Think",
+   "author": "Steve Krug",
+   "year": "2000",
+   "category": "work",
+   "why": "The shortest route to understanding web usability, and directly useful to anyone who builds or looks after websites for clients.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_dontthink1",
+     "title": "Make it obvious",
+     "body": "Krug's first rule is that a visitor should understand a page without effort: what it is, where things are and what to click. Each small puzzle, such as a clever label, a link that does not look like a link or a button with an unclear name, uses up a little attention and patience. One alone is harmless; together they make a site feel hard. If something cannot be self-evident, it should at least explain itself in a few words."
+    },
+    {
+     "id": "mw_dontthink2",
+     "title": "People scan, they do not read",
+     "body": "Site owners picture visitors reading each page carefully. Krug says real visitors glance, look for words that match what they came for and click the first thing that seems close. So pages should be designed like signboards: clear headings, short paragraphs, obvious links and the important things made visually prominent. If everything on a page is emphasised, nothing is.",
+     "try": "Open a page you manage, look at it for five seconds, then look away and say what it is for. If you cannot, neither can a visitor."
+    },
+    {
+     "id": "mw_dontthink3",
+     "title": "The first reasonable choice",
+     "body": "Visitors do not weigh all the options and pick the best. They take the first that looks plausible, because guessing wrong costs only a click on the back button. They also do not learn how a site works; they muddle through and stick with whatever worked. The consequence is that the correct path has to be the most visible one, since a visitor will not search for a better route once a passable one appears."
+    },
+    {
+     "id": "mw_dontthink4",
+     "title": "Halve the words",
+     "body": "Krug urges removing most of the text on a typical page. Welcome messages, self-praise and instructions go unread and hide the useful content. Cutting them makes the page shorter and lets what matters stand out. Instructions deserve special suspicion: if a form needs a paragraph of explanation, the better fix is usually to simplify the form until it does not.",
+     "try": "Take one page you manage and delete every sentence a visitor would not miss."
+    },
+    {
+     "id": "mw_dontthink5",
+     "title": "Follow conventions",
+     "body": "A logo at the top left that links home, a search box where people expect it, a cart icon for the cart: such conventions exist because they work, and visitors arrive already knowing them. Designers are tempted to reinvent these to look fresh. Krug's advice is to innovate only when you are sure the new idea is clearer, and otherwise to use what visitors already know. Originality in navigation is seldom what a client's customers want."
+    },
+    {
+     "id": "mw_dontthink6",
+     "title": "Test early and cheaply",
+     "body": "Krug argues that watching a few people try to use a site reveals most serious problems, and that this needs no laboratory. Sit one person in front of the page, give them a task, ask them to think aloud and stay quiet. Doing this with a handful of people early beats a large study at the end, when nothing can be changed. The people who built the site know too much to see what confuses a newcomer.",
+     "try": "Ask one person who has never seen a site you manage to find a specific thing on it while you watch silently."
+    }
+   ]
+  },
+  {
+   "id": "mw_phoenix",
+   "title": "The Phoenix Project",
+   "author": "Gene Kim, Kevin Behr and George Spafford",
+   "year": "2013",
+   "category": "work",
+   "why": "A novel about a failing IT department that makes the logic of modern operations easy to see and remember.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_phoenix1",
+     "title": "Four kinds of work",
+     "body": "The story follows an IT manager whose department is drowning. A turning point is recognising that its work falls into four types: projects for the business, internal projects, changes, and unplanned work such as outages and urgent fixes. Until all four are made visible in one place, nobody can see why promised projects never finish. Often the reason is that hidden work is using up everyone's time.",
+     "try": "List everything you are working on this week, including the small favours and fixes. Count how much was planned."
+    },
+    {
+     "id": "mw_phoenix2",
+     "title": "Unplanned work eats everything",
+     "body": "Firefighting is the most damaging kind of work, because it is done in place of planned work and tends to create more of itself. A rushed fix causes the next outage. Each hour spent on an emergency comes out of the improvements that would have prevented emergencies. The book's argument is that preventive work, such as fixing fragile systems and automating error-prone steps, has to be protected even when everything seems urgent."
+    },
+    {
+     "id": "mw_phoenix3",
+     "title": "The person everything waits for",
+     "body": "One engineer in the story knows how everything works, so every project and every incident queues up for him. He is the constraint of the whole department, and being heroic makes it worse, because nothing gets written down. The fix is to shield his time, route requests through a single channel and have him teach and document rather than do. Most small teams have such a person, and sometimes it is you."
+    },
+    {
+     "id": "mw_phoenix4",
+     "title": "Stop starting, start finishing",
+     "body": "The department has dozens of projects under way and none completing. The story borrows a lesson from factories: work that is started and not finished is a cost, not progress. It ties up effort, hides problems and delays everything behind it. Limiting how many things are in progress at once feels slower and turns out faster, because people stop switching between tasks and each item reaches the client sooner.",
+     "try": "Count the tasks you have started and not finished. Complete one before starting anything new."
+    },
+    {
+     "id": "mw_phoenix5",
+     "title": "Three ways of working",
+     "body": "The book sums up its philosophy in three principles. First, make work flow smoothly from development through to the customer, in small pieces. Second, create fast feedback from operations back to development, so problems are caught where they are cheap to fix. Third, build a culture that experiments, practises and learns from failure. Each depends on the one before it."
+    },
+    {
+     "id": "mw_phoenix6",
+     "title": "Small changes, often",
+     "body": "Large releases bundle months of changes, so when something breaks nobody knows which change caused it, and releases become feared events. The story moves the team towards many small releases, each easy to understand and easy to undo. Frequent practice makes deployment routine. The same holds for a single website: several small, tested updates are safer than one large overhaul put live on a Friday night."
+    }
+   ]
+  },
+  {
+   "id": "mw_sre",
+   "title": "Site Reliability Engineering",
+   "author": "Edited by Betsy Beyer, Chris Jones, Jennifer Petoff and Niall Richard Murphy",
+   "year": "2016",
+   "category": "work",
+   "why": "Google's engineers explain how they keep large services running, with ideas that scale down well to anyone responsible for uptime.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_sre1",
+     "title": "Perfect is the wrong target",
+     "body": "The book argues that aiming for a service that never fails is a mistake. Each extra fraction of reliability costs far more than the last, and beyond a point users cannot tell, because their own phone or network fails more often than you do. So decide how reliable the service truly needs to be, based on what its users need, and aim for that. Reliability beyond the target is money and speed spent on nothing."
+    },
+    {
+     "id": "mw_sre2",
+     "title": "The error budget",
+     "body": "Once a reliability target is set, the gap between it and perfection becomes a budget of acceptable failure. While the service is within budget, the team may release new features freely. If outages use up the budget, releases slow and effort shifts to stability until it recovers. This turns the old quarrel between those who want change and those who want stability into a shared number that both sides watch."
+    },
+    {
+     "id": "mw_sre3",
+     "title": "Measure what users feel",
+     "body": "Reliability should be defined by what a user experiences, not by whether a server is switched on. The book recommends choosing a few indicators, such as the share of requests answered successfully and how long they take, and setting a target for each. A machine can show as healthy while the checkout page fails for every visitor. For a client website this means watching a real page load, not only whether the server answers a ping.",
+     "try": "For one site you look after, write down what working means from a visitor's point of view, in one sentence you could measure."
+    },
+    {
+     "id": "mw_sre4",
+     "title": "Limit the toil",
+     "body": "The authors use toil for work that is manual, repetitive, automatable and grows as the service grows, such as restarting something by hand every week. They suggest capping it at about half of an engineer's time, with the rest kept for engineering that reduces future toil. Without a cap, routine work expands to fill every day and nothing improves. Each task done by hand for the third time is a candidate for a script.",
+     "try": "Note one task you did by hand more than once this week. Estimate what it costs you in a year."
+    },
+    {
+     "id": "mw_sre5",
+     "title": "Postmortems without blame",
+     "body": "After an incident the team writes down what happened, why, and what will change. The rule is that the review does not blame individuals. It assumes people acted reasonably with the information they had, and asks what in the system allowed the mistake. If people fear punishment they hide errors, and hidden errors repeat. Blaming a person ends the inquiry early; fixing the system prevents the next case."
+    },
+    {
+     "id": "mw_sre6",
+     "title": "Alerts worth waking for",
+     "body": "The book separates signals that need a human now from those that can wait until morning. An alert should fire only for something urgent, real and requiring action. Alerts that are often false, or need no response, train people to ignore all of them, and then the real one is missed. Most monitoring improves when alerts are deleted. Everything else can go to a dashboard or a daily report.",
+     "try": "Look at the alerts and notification emails you received this week and switch off one that never needs action."
+    }
+   ]
+  },
+  {
+   "id": "mw_posd",
+   "title": "A Philosophy of Software Design",
+   "author": "John Ousterhout",
+   "year": "2018",
+   "category": "work",
+   "why": "A short, clear argument that the central task in software design is fighting complexity, with practical ways to do it.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_posd1",
+     "title": "Complexity is the enemy",
+     "body": "Ousterhout defines complexity as anything in a system's structure that makes it hard to understand and change. It shows up in three ways: a small change requires edits in many places, a developer must hold too much in mind to work safely, and it is not obvious what must be known to do a task at all. The third is the worst, because you do not know what you are missing until something breaks."
+    },
+    {
+     "id": "mw_posd2",
+     "title": "It arrives in small steps",
+     "body": "No single decision ruins a codebase. Complexity builds from hundreds of small shortcuts, each reasonable when taken: one special case, one extra dependency, one unclear name. Because every step is minor, it is easy to excuse, and by the time the system is painful there is no single thing to fix. Ousterhout concludes that small things must be taken seriously, since small things are the whole problem."
+    },
+    {
+     "id": "mw_posd3",
+     "title": "Deep modules",
+     "body": "A module, whether a function, class or service, is most valuable when it offers a simple interface and hides a lot of work behind it. Ousterhout calls this deep. A shallow module has an interface nearly as complicated as what it does, so it saves the caller little. A file-reading function that hides disks, caching and devices behind a few simple calls is deep. He disagrees with the advice to split code into very small pieces, arguing it often yields shallow ones."
+    },
+    {
+     "id": "mw_posd4",
+     "title": "Working is not enough",
+     "body": "Ousterhout contrasts two attitudes. The tactical programmer aims to get the current feature working as fast as possible, and each quick fix adds a little mess. The strategic programmer treats good design as part of the job and spends a modest share of time, perhaps a tenth to a fifth, on improving structure. The tactical approach is faster at first and slower afterwards. The investment pays back sooner than people expect."
+    },
+    {
+     "id": "mw_posd5",
+     "title": "Hide what callers need not know",
+     "body": "Each module should keep its design decisions to itself, so that they can change without affecting anything else. Trouble comes when the same knowledge leaks into several places, for instance when three modules all know the layout of a file. Then a change to the format means changing all three. Before exposing a detail, ask whether the caller truly needs it. Every detail hidden is one less thing for others to learn and for you to keep stable."
+    },
+    {
+     "id": "mw_posd6",
+     "title": "Design it twice",
+     "body": "The first design that comes to mind is rarely the best. Ousterhout recommends sketching at least two quite different approaches to any important piece and comparing them before writing code. This takes little time compared with building, and even when the first idea wins you understand its weaknesses better. Capable people often skip the step because their first idea is usually adequate. Adequate is the level he wants readers to rise above.",
+     "try": "Before your next non-trivial task, write down two different ways to do it, with one line each on the trade-off."
+    }
+   ]
+  },
+  {
+   "id": "mw_passionate",
+   "title": "The Passionate Programmer",
+   "author": "Chad Fowler",
+   "year": "2009",
+   "category": "work",
+   "why": "Career advice for developers that began as a book about offshoring to India and asks you to manage your working life like a product.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_passionate1",
+     "title": "Your career is a product",
+     "body": "Fowler asks developers to think like a business with one product, their own services. A product needs a market choice, real investment in quality, good execution and some marketing. Most people let employers make these decisions for them, taking whatever project and technology arrives. The book, first published in 2005 under a title about jobs moving to India, argues that drifting is risky when people everywhere can do the same work."
+    },
+    {
+     "id": "mw_passionate2",
+     "title": "Choose your market",
+     "body": "Skills follow supply and demand. A technology everyone knows offers many jobs and heavy competition; a new or niche one offers fewer jobs and higher value if it grows, and a wasted effort if it does not. Fowler advises making this choice deliberately, as an investor would, and not staking everything on a single vendor's product. Knowing only one platform makes your career depend on someone else's business decisions."
+    },
+    {
+     "id": "mw_passionate3",
+     "title": "Be the weakest in the room",
+     "body": "Fowler, once a professional musician, noticed that he played better when the rest of the band was better than him. The same holds at work. Among stronger people you pick up their habits and standards without trying; as the best on a team you stop growing. He suggests seeking out teams, communities and open projects where you are stretched, even though it is less comfortable than being the local expert."
+    },
+    {
+     "id": "mw_passionate4",
+     "title": "Learn the business",
+     "body": "A programmer who understands how the client makes money is more useful than one who knows only the code. Fowler urges learning the basics of the industry you serve: its terms, its pressures, how it measures success. Then you can suggest what should be built, not only build what is asked. For someone managing client websites, knowing the client's sales cycle is often worth more than another framework.",
+     "try": "Ask one client or colleague from the business side what number they are judged on, and how your work affects it."
+    },
+    {
+     "id": "mw_passionate5",
+     "title": "Practise on purpose",
+     "body": "Musicians and athletes spend far more time practising than performing, working on what they cannot yet do. Programmers mostly practise on the job, and that means making their mistakes in paid work. Fowler recommends setting aside time for deliberate exercises: small problems at the edge of your ability, reading good code, trying an unfamiliar language. Practice should feel difficult. If it feels smooth, you are repeating what you already know.",
+     "try": "Spend twenty minutes on a small exercise that is slightly beyond what you can do comfortably."
+    },
+    {
+     "id": "mw_passionate6",
+     "title": "Make your work visible",
+     "body": "Good work that nobody knows about does little for a career. Fowler does not mean boasting. He means helping the people who depend on you understand what you did and why it mattered, in their terms. He suggests having something concrete to report often, and paying attention to how you write and speak. To a manager or client, your ability is what they can perceive of it, so communication is part of the job.",
+     "try": "At the end of today, send one short note to a manager or client saying what you finished and what it enables."
+    }
+   ]
+  },
+  {
+   "id": "mw_peopleware",
+   "title": "Peopleware",
+   "author": "Tom DeMarco and Timothy Lister",
+   "year": "1987",
+   "category": "work",
+   "why": "The classic case that software projects succeed or fail because of people and working conditions, not technology.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_peopleware1",
+     "title": "The problems are human",
+     "body": "The authors, long-time consultants, observed that failed projects seldom fail for technical reasons. They fail through poor communication, unclear goals, staff turnover, low morale and unrealistic schedules. Managers still give most of their attention to technology, because it is easier to reason about than people. The book asks for the reverse: treat the human side as the main work of managing, since that is where most of the risk lies."
+    },
+    {
+     "id": "mw_peopleware2",
+     "title": "Protect uninterrupted time",
+     "body": "Thinking work needs a state of deep concentration that takes a while to enter and is destroyed by a single interruption. A day cut up by calls, messages and quick questions can contain eight hours at the desk and almost no real work. The authors therefore count uninterrupted hours, not hours present. They argue that noisy, crowded offices built to save floor space cost far more in lost output than they save in rent.",
+     "try": "Block ninety minutes tomorrow with notifications off and the door closed, and compare what you get done."
+    },
+    {
+     "id": "mw_peopleware3",
+     "title": "Overtime is borrowed",
+     "body": "Extra hours yield a short burst and then are repaid in tiredness, mistakes and slower days afterwards. People pushed to work late also quietly recover the time through reduced effort during the day. The authors accept that a brief sprint before a real deadline can help. A lasting culture of long hours mostly produces burnout and departures. A manager counting hours at the desk is measuring presence, not results."
+    },
+    {
+     "id": "mw_peopleware4",
+     "title": "Quality is the worker's pride",
+     "body": "Under schedule pressure, managers often tell teams to lower quality to hit the date. The authors argue this backfires. People who build things tie their self-respect to the quality of what they make, and being forced to ship work they are ashamed of destroys motivation. They add that higher quality tends to bring higher productivity, because less time goes into fixing defects. Letting builders set a standard above what the market strictly demands usually pays."
+    },
+    {
+     "id": "mw_peopleware5",
+     "title": "Teams that gel",
+     "body": "Some teams become more than the sum of their members: they share a goal, enjoy the work and need little managing. The authors say such teams cannot be created on demand, but they can be prevented. Among the things that kill them are defensive management that trusts nobody, pointless paperwork, people split across many projects, false deadlines and breaking up a team the moment its project ends. Much of managing well is not doing these things."
+    },
+    {
+     "id": "mw_peopleware6",
+     "title": "Turnover costs more than it shows",
+     "body": "When someone leaves, the visible cost is hiring a replacement. The hidden cost is larger: months before the new person is useful, the time colleagues spend teaching them, and knowledge that walked out the door. High turnover also makes everyone think short term, since nobody expects to be around for the consequences. The authors hold that firms which invest in keeping people, through growth, respect and decent conditions, recover the cost many times."
+    }
+   ]
+  },
+  {
+   "id": "mw_mgrpath",
+   "title": "The Manager's Path",
+   "author": "Camille Fournier",
+   "year": "2017",
+   "category": "work",
+   "why": "A stage-by-stage guide to technical leadership, from being mentored to running an engineering organisation, written by a former CTO.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_mgrpath1",
+     "title": "Learn to be managed",
+     "body": "The book starts before you manage anyone. Fournier describes what a good manager owes you: regular one-to-one meetings, feedback and help with growth. But she puts responsibility for your career on you. Come to meetings with topics, say what you want to learn, ask for feedback, and bring your manager solutions along with problems. Managers cannot read minds, and people who state clearly what they want usually get more of it.",
+     "try": "Before your next meeting with your manager or main client, write down two topics you want to raise."
+    },
+    {
+     "id": "mw_mgrpath2",
+     "title": "Mentoring as rehearsal",
+     "body": "Guiding an intern or a new hire is the safest place to practise managing. It needs the same skills in miniature: listening, explaining clearly, setting expectations and adjusting to the person. Fournier advises mentors to prepare real work for the newcomer and to listen to what they are actually saying, not to what the mentor expects to hear. Mentoring done carelessly teaches a new person that nobody cares about them."
+    },
+    {
+     "id": "mw_mgrpath3",
+     "title": "The tech lead's balance",
+     "body": "A tech lead is not simply the best programmer on the team. The role combines some coding with breaking projects into tasks, explaining technical matters to non-technical people and keeping the team moving. The hardest adjustment is accepting that your own code output will fall. A lead who keeps taking the most interesting work, and becomes the bottleneck for it, is failing at the role. The job is to make the whole team effective."
+    },
+    {
+     "id": "mw_mgrpath4",
+     "title": "One-to-ones are the foundation",
+     "body": "Fournier treats the regular private meeting with each team member as a manager's most important tool. It builds trust, brings problems out early and gives time for feedback and career discussion that never fits elsewhere. It is not a status report. Cancelling it repeatedly tells the person they do not matter. Good managers shape these meetings to the individual, and take notes so that promises are kept.",
+     "try": "If you lead anyone, check when you last had an unhurried one-to-one with each person, and book the missing ones."
+    },
+    {
+     "id": "mw_mgrpath5",
+     "title": "Delegate without vanishing",
+     "body": "New managers tend to fail in one of two directions. They hover over every detail, which tells the team it is not trusted, or they hand off work and disappear, which leaves people stranded. Fournier's middle path is to agree on goals and checkpoints at the start, then let people work, staying informed through what the team's normal process produces. How much detail to ask for depends on how risky the work is and how experienced the person."
+    },
+    {
+     "id": "mw_mgrpath6",
+     "title": "Feedback, often and specific",
+     "body": "Waiting for the annual review to tell someone how they are doing is unfair and useless. Fournier recommends frequent, small feedback: praise that names exactly what was good, and correction given soon, in private and about behaviour, not character. Nothing in a formal review should come as a surprise. Regular light feedback also makes hard conversations easier, because they are no longer rare or frightening events."
+    }
+   ]
+  },
+  {
+   "id": "mw_highoutput",
+   "title": "High Output Management",
+   "author": "Andrew S. Grove",
+   "year": "1983",
+   "category": "work",
+   "why": "Intel's former chief executive treats management as a craft with measurable output, in one of the most practical books on the subject.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_highoutput1",
+     "title": "A manager's output",
+     "body": "Grove defines a manager's output as the output of the team they run plus the output of neighbouring teams they influence. It is not the manager's personal activity. A busy day of meetings and email produces nothing unless it raises what others deliver. This changes the question you ask at the end of the day from what did I do to what did my team produce because of me, and it makes a quiet manager with a productive team the better one."
+    },
+    {
+     "id": "mw_highoutput2",
+     "title": "Seek leverage",
+     "body": "Since time is fixed, Grove sorts activities by how much output each hour creates. High-leverage activities affect many people or one person for a long time: a clear plan shared with a whole team, an hour of training that changes how someone works for years, a decision made in time. Leverage can be negative too. A manager who arrives unprepared, delays a decision others are waiting on or meddles needlessly reduces the output of everyone affected.",
+     "try": "Pick the one thing you could do this week that would most help other people get their work done, and schedule it first."
+    },
+    {
+     "id": "mw_highoutput3",
+     "title": "Work like a factory",
+     "body": "Grove opens with the making of a simple breakfast to explain production thinking. Find the step that takes longest and plan everything else around it. Catch defects at the earliest and cheapest stage, before more work is added on top of them. Choose a few indicators that warn of tomorrow's problems, and watch them daily. These ideas apply to knowledge work as well: a bug found in review costs far less than one found by the client."
+    },
+    {
+     "id": "mw_highoutput4",
+     "title": "Meetings are the medium",
+     "body": "Grove refuses the common complaint that meetings are a waste. For a manager, informing, deciding and nudging happen largely in meetings, so they are where the work gets done. The task is to run them well. He separates regular meetings for exchanging information from one-off meetings called to make a specific decision, which need a clear owner and should end with a decision. A calendar full of the second kind signals something wrong in the organisation."
+    },
+    {
+     "id": "mw_highoutput5",
+     "title": "The one-to-one belongs to them",
+     "body": "In Grove's regular one-to-one, the subordinate sets the agenda and the manager mostly listens and asks questions. It is the main channel through which a manager learns what is really happening and passes on know-how. He suggests asking one more question when the person seems to have finished, because the important issue often comes last. How often to meet depends on how experienced the person is in their current task."
+    },
+    {
+     "id": "mw_highoutput6",
+     "title": "Match your style to readiness",
+     "body": "No single management style is right. Grove ties it to how experienced a person is with the specific task at hand. Someone new to a task needs precise instruction and close follow-up. As they gain skill, the manager moves to discussion and support, and later to agreeing goals and watching from a distance. A veteran given an unfamiliar job needs close guidance again. Treating everyone the same is unfair to both beginners and experts."
+    }
+   ]
+  },
+  {
+   "id": "mw_effexec",
+   "title": "The Effective Executive",
+   "author": "Peter F. Drucker",
+   "year": "1967",
+   "category": "work",
+   "why": "The founding text on managing oneself in knowledge work, built on the claim that effectiveness is a set of habits anyone can learn.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_effexec1",
+     "title": "Effectiveness can be learned",
+     "body": "Drucker observed that intelligence, imagination and knowledge are common among professionals, and yet few get the right things done. Effectiveness, he argues, is not a talent or a personality type. It is a handful of practices that can be learned as a child learns multiplication tables, through repetition. By executive he means anyone whose decisions affect results, which today includes most people whose work is thinking."
+    },
+    {
+     "id": "mw_effexec2",
+     "title": "Know where your time goes",
+     "body": "Drucker starts with time, not tasks, because time is the one resource that cannot be bought or stored. He asks people to record their actual time use, since memory is badly wrong about it. Then prune: drop what need not be done at all, hand on what others can do, and stop wasting other people's time. Lastly, gather what remains into large blocks, because serious work cannot be done in scattered quarter-hours.",
+     "try": "Keep a rough log of how you spend tomorrow, in half-hour blocks. Do not judge it yet; just record."
+    },
+    {
+     "id": "mw_effexec3",
+     "title": "Ask what you can contribute",
+     "body": "Most people focus on their effort and their authority. Drucker asks a different question: what can I contribute that will significantly affect the results of the organisation I serve? This turns attention outward, to the client or the person who uses your output. A developer who asks it stops thinking in terms of tickets closed and starts thinking about whether the client's customers can now do what they needed to do."
+    },
+    {
+     "id": "mw_effexec4",
+     "title": "Build on strength",
+     "body": "Results come from using strengths, not from repairing weaknesses. Drucker applies this to staffing, where he advises choosing a person for what they do exceptionally well and accepting the flaws that come with it. He applies it to managing your boss, by learning how they work best. And he applies it to yourself: know your strong areas and the way you work, and arrange your tasks to use them. Trying to be good at everything produces mediocrity."
+    },
+    {
+     "id": "mw_effexec5",
+     "title": "First things first, one at a time",
+     "body": "Drucker's secret of effectiveness is concentration: do the most important thing first and do only one thing at a time. That requires courage as much as analysis, because it means saying no to other worthy things. He adds a regular discipline of abandonment. Review existing activities and ask, if we were not already doing this, would we start it now? If the answer is no, stop. Old commitments crowd out new opportunities.",
+     "try": "Look at your recurring commitments and ask of one: if I were not already doing this, would I start it now?"
+    },
+    {
+     "id": "mw_effexec6",
+     "title": "Few decisions, made well",
+     "body": "Effective people, in Drucker's account, do not make many decisions. They make a few important ones and take time over them. They first ask whether a problem is a one-off or a sign of something general that needs a rule. They seek out disagreement, since a decision nobody argued against has not been examined. And a decision is not complete until someone is named to carry it out and the steps are clear."
+    }
+   ]
+  },
+  {
+   "id": "mw_candor",
+   "title": "Radical Candor",
+   "author": "Kim Scott",
+   "year": "2017",
+   "category": "work",
+   "why": "A simple, memorable framework for giving honest feedback without being either cruel or uselessly nice.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_candor1",
+     "title": "Care and challenge together",
+     "body": "Scott's model has two axes: how much you care about the person, and how willing you are to challenge them directly. Good feedback needs both. Caring without challenging leaves people uninformed; challenging without caring makes them defensive. When someone knows you are on their side, they can hear hard things from you. The framework describes behaviour in a given moment, not a type of person; everyone slides between the four corners."
+    },
+    {
+     "id": "mw_candor2",
+     "title": "The kindness that harms",
+     "body": "The most common failure, Scott says, is staying silent to spare someone's feelings. You see a colleague's work falling short and say nothing, or soften it until the message is lost. It feels kind and it is not, because the person never gets the chance to improve and may later be surprised by a poor review or the loss of their job. Withholding the truth protects your own comfort at the other person's expense."
+    },
+    {
+     "id": "mw_candor3",
+     "title": "Two other failures",
+     "body": "Challenging without care produces harsh criticism that humiliates, which Scott notes is at least clear enough to act on. Worst is neither caring nor challenging: insincere praise to someone's face and criticism behind their back, in order to be liked or to gain advantage. Naming these patterns helps you catch yourself. When you are about to stay quiet or speak, ask which of the four corners you are in."
+    },
+    {
+     "id": "mw_candor4",
+     "title": "Ask before you give",
+     "body": "To build a culture of honest feedback, Scott advises starting by asking for criticism of yourself, especially if you are the boss. Ask a real question, tolerate the uncomfortable silence that follows, listen without defending yourself and then act visibly on what you heard. People will not believe you want honesty until they see someone give it and be thanked. Only then have you earned the right to give it freely.",
+     "try": "Ask one colleague or client: what is one thing I could do differently that would make working with me easier?"
+    },
+    {
+     "id": "mw_candor5",
+     "title": "Make it specific and quick",
+     "body": "Feedback works best soon after the event, in person where possible, and about the work rather than the person's character. Describe the situation, what they did and its effect, for praise as well as criticism. Vague praise such as good job teaches nothing. Criticism is best given in private and praise in public, though some people dislike public praise, so it pays to know the person.",
+     "try": "Give one piece of specific praise today: what the person did and what it made possible."
+    },
+    {
+     "id": "mw_candor6",
+     "title": "Steady performers and fast climbers",
+     "body": "Scott distinguishes two kinds of excellent performer. Some are on a steep path, wanting new challenges and promotion. Others do excellent work and want stability in a role they are good at, perhaps because of what else is going on in their lives. Teams need both, and people move between the two over a career. Managers err by pushing everyone towards promotion, or by ignoring steady people who hold the team together."
+    }
+   ]
+  },
+  {
+   "id": "mw_fivedys",
+   "title": "The Five Dysfunctions of a Team",
+   "author": "Patrick Lencioni",
+   "year": "2002",
+   "category": "work",
+   "why": "A short business fable with a clear model of why capable people often fail to work as a team.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_fivedys1",
+     "title": "A pyramid of problems",
+     "body": "Lencioni tells the story of a new chief executive taking over a talented and divided leadership team, and from it draws a model of five problems stacked like a pyramid. Each one rests on the one beneath: without trust there is no honest debate, without debate no real commitment, without commitment no accountability, and without accountability nobody attends to shared results. The model is drawn from his consulting experience, not from formal research, and is best used as a diagnostic."
+    },
+    {
+     "id": "mw_fivedys2",
+     "title": "Trust means being open",
+     "body": "The foundation is a particular kind of trust: confidence that teammates mean well, so that there is no need to be guarded. In practice this means people can say I was wrong, I need help, or you are better at this than I am, without fear that it will be used against them. Where that is missing, energy goes into self-protection and appearances. Leaders build it by going first and admitting their own mistakes.",
+     "try": "In your next team conversation, admit one thing you got wrong or do not know."
+    },
+    {
+     "id": "mw_fivedys3",
+     "title": "Conflict about ideas is healthy",
+     "body": "Teams lacking trust avoid disagreement and hold polite, dull meetings, while the real arguments happen in corridors and private messages. Lencioni argues that open, even heated, debate about ideas is necessary for good decisions, provided it stays on the issue and off the person. A meeting where nobody disagrees is a warning sign. The leader may need to draw out disagreement and then resist the urge to smooth it over."
+    },
+    {
+     "id": "mw_fivedys4",
+     "title": "Commitment needs to be heard",
+     "body": "People can support a decision they argued against, as long as they were truly heard. Lencioni separates commitment from consensus: waiting for everyone to agree produces delay and watered-down choices. What is needed is clarity about what was decided, and willingness to act on it. He suggests ending each meeting by restating the decisions and agreeing on what will be told to others, so nobody leaves with a different version.",
+     "try": "End your next meeting by saying aloud what was decided and who will do what."
+    },
+    {
+     "id": "mw_fivedys5",
+     "title": "Peers hold each other to account",
+     "body": "In strong teams, members call out each other's lapses directly, without leaving it all to the boss. This is uncomfortable, so most people avoid it, and standards slip. It is only possible when goals and responsibilities are clear and public, since nobody can be held to a vague commitment. Pressure from peers who respect each other is more effective than any rule imposed from above."
+    },
+    {
+     "id": "mw_fivedys6",
+     "title": "Results before status",
+     "body": "At the top of the pyramid is the tendency of people to care more about their own standing, their department or their career than about the team's shared goal. A team can be full of individually successful people and still fail. The remedy is to make collective results explicit and visible, and to recognise people for what the team achieves. If the group fails, nobody has succeeded, however good their own figures look."
+    }
+   ]
+  },
+  {
+   "id": "mw_thegoal",
+   "title": "The Goal",
+   "author": "Eliyahu M. Goldratt and Jeff Cox",
+   "year": "1984",
+   "category": "work",
+   "why": "A novel about saving a factory that teaches how to find the one constraint limiting any system, including a team or a one-person business.",
+   "minutes": 2,
+   "cards": [
+    {
+     "id": "mw_thegoal1",
+     "title": "Be clear on the goal",
+     "body": "A plant manager facing closure is asked by an old teacher what the goal of his company is. After some false starts he concludes that it is to make money, and that things like efficiency or new technology count only as far as they serve that. The book reduces measurement to three questions: how much money comes in through sales, how much is tied up inside the system, and how much is spent running it."
+    },
+    {
+     "id": "mw_thegoal2",
+     "title": "Every system has a bottleneck",
+     "body": "The output of any process is set by its slowest step. Goldratt illustrates this with a line of boys on a hike: the group moves at the pace of the slowest walker, however fast the others go, and gaps open up ahead of him. In a factory it is one overloaded machine; in a web agency it may be the single person who approves designs. Speeding up any other step changes nothing about how much gets finished."
+    },
+    {
+     "id": "mw_thegoal3",
+     "title": "An hour lost at the bottleneck",
+     "body": "Since the bottleneck sets the pace of the whole system, an hour it sits idle is an hour of output lost for the entire operation. An hour saved anywhere else is worthless. So the first move is to squeeze the most from the constraint as it is: never let it wait for work, never let it work on things that are not needed, and check quality before work reaches it so its time is not spent on faulty input."
+    },
+    {
+     "id": "mw_thegoal4",
+     "title": "Busy is not productive",
+     "body": "The story's most surprising claim is that keeping every person and machine fully occupied is harmful. If steps before the bottleneck work at full speed, they simply build piles of half-finished work that the bottleneck cannot absorb. That ties up money and hides problems. Non-bottleneck resources should work at the bottleneck's pace and sometimes stand idle. Being idle at the right time is correct, a hard idea in a culture that rewards looking busy."
+    },
+    {
+     "id": "mw_thegoal5",
+     "title": "Five steps, then repeat",
+     "body": "Goldratt turns the story into a method. Identify the constraint. Decide how to get the most from it as it is. Make everything else follow its pace. Only then spend money to increase its capacity. When it is no longer the limit, go back and find the new one, because there always is one. The warning is against inertia: rules made for the old constraint can quietly become the new problem.",
+     "try": "Ask of your own work: where do tasks pile up waiting? That step, not the busiest one, is your constraint."
+    }
+   ]
+  },
+  {
+   "id": "mw_emyth",
+   "title": "The E-Myth Revisited",
+   "author": "Michael E. Gerber",
+   "year": "1995",
+   "category": "work",
+   "why": "Explains why skilled people struggle when they start a business around their skill, and what to build instead of a job for yourself.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_emyth1",
+     "title": "The myth in the title",
+     "body": "Gerber's E-Myth is the belief that small businesses are started by entrepreneurs. Most, he says, are started by technicians: people good at a craft, such as baking, repairing or coding, who are tired of working for someone else. They assume that knowing how to do the work means knowing how to run a business that does that work. These are different skills, and the confusion explains why so many capable people end up exhausted by their own firms."
+    },
+    {
+     "id": "mw_emyth2",
+     "title": "Three people in one owner",
+     "body": "Each owner, Gerber says, has three characters inside. The technician wants to do the work, now. The manager wants order, planning and systems. The entrepreneur looks ahead and imagines what the business could become. In most small owners the technician dominates, so the business gets plenty of doing and little planning or vision. A healthy business needs all three, even when they are the same person on different days.",
+     "try": "Look at last week: roughly how many hours went to doing client work, to organising, and to thinking about where the business is going?"
+    },
+    {
+     "id": "mw_emyth3",
+     "title": "Work on it, not only in it",
+     "body": "A technician-run business depends wholly on its owner. If you do not work, there is no income; you have built yourself a job with a demanding boss. Gerber urges owners to step back regularly and work on the business itself: how it finds customers, delivers, charges and could run without them in each role. Even one protected hour a week of this changes the direction, because otherwise urgent client work always wins."
+    },
+    {
+     "id": "mw_emyth4",
+     "title": "Build it like a model to copy",
+     "body": "Gerber asks owners to imagine their business as the pattern for many identical branches, the way successful franchises are designed, even if they never intend to open a second one. The exercise forces useful questions. Could a newly trained person deliver the same result every time? Is the way you work written down anywhere? A business that gives a consistent experience, regardless of who is on duty, is one customers can trust."
+    },
+    {
+     "id": "mw_emyth5",
+     "title": "Systems first, people within them",
+     "body": "In Gerber's view the consistency of a business should come from documented ways of working, with people operating those systems, and not from exceptional individuals. A checklist for launching a client's site, a standard way of answering enquiries and a script for taking on a new client mean that quality does not hinge on anyone's memory. Critics find this too mechanical for creative work, but even there routine parts can be systematised to free attention for the rest.",
+     "try": "Write down the steps of one task you repeat for clients, as if for someone doing it for the first time."
+    },
+    {
+     "id": "mw_emyth6",
+     "title": "Three phases of growth",
+     "body": "Gerber describes a business as moving through stages. In infancy the owner does everything, and the business is the owner. In adolescence the owner hires help and tends to hand work over without guidance, then takes it back when quality drops, returning to overwork. Maturity is a business built on purpose from the start, with a clear picture of how it should operate when finished. Most small firms get stuck in the first two."
+    }
+   ]
+  },
+  {
+   "id": "mw_leanstartup",
+   "title": "The Lean Startup",
+   "author": "Eric Ries",
+   "year": "2011",
+   "category": "work",
+   "why": "Sets out the now-standard method for testing a business idea quickly and cheaply before betting everything on it.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_leanstartup1",
+     "title": "Learning is the unit of progress",
+     "body": "A start-up, in Ries's definition, is any venture creating something new under great uncertainty. Its real output early on is not features or revenue but knowledge of what customers actually want. Building a polished product nobody uses is waste, however efficiently it was built. So he measures progress by validated learning: things you have shown to be true by experiment with real customers, as opposed to things you believe."
+    },
+    {
+     "id": "mw_leanstartup2",
+     "title": "Build, measure, learn",
+     "body": "Ries describes a loop. Turn an idea into something customers can use, measure how they respond, and learn whether your assumption held. Then go round again. The aim is to shorten the time for one full loop, since a team that completes ten cycles learns more than a team that completes one. Planning runs in reverse order: decide what you need to learn, then what to measure, then the least you can build to get that measurement."
+    },
+    {
+     "id": "mw_leanstartup3",
+     "title": "The smallest useful test",
+     "body": "A minimum viable product is the simplest version that lets you test your riskiest assumption with real people. It might be a single landing page describing a service, to see whether anyone signs up, or a service delivered by hand behind a simple form before any automation exists. It is not a shoddy product; it is an experiment. The usual error is building far more than the question requires, out of fear of looking unfinished.",
+     "try": "Name the riskiest assumption behind something you want to build, and the cheapest way to test it this week."
+    },
+    {
+     "id": "mw_leanstartup4",
+     "title": "Numbers that flatter",
+     "body": "Ries warns against vanity metrics, figures that tend to rise whatever you do and feel good, such as total sign-ups or page views. They do not tell you whether a change helped. Actionable metrics link cause and effect: of the people who saw the new page, what share bought, compared with the old page? He favours comparing groups of users who started at different times, and split tests, so that results cannot be explained away.",
+     "try": "Pick one number you track and ask whether it could ever tell you that a change made things worse."
+    },
+    {
+     "id": "mw_leanstartup5",
+     "title": "Pivot or persevere",
+     "body": "When experiments show the main assumption is wrong, the team must decide whether to keep going or to change strategy while keeping what it has learned. Ries calls the change a pivot. It might mean a different customer, a different problem or a different way of earning. He suggests regular meetings where this question is asked honestly, because teams drift for years on a failing idea when nobody is obliged to face the evidence."
+    },
+    {
+     "id": "mw_leanstartup6",
+     "title": "Small batches",
+     "body": "Borrowing from lean manufacturing, Ries argues for working in small batches: finish and release one small thing before starting the next. Large batches feel efficient and hide problems until the end, when they are costly to fix. Small ones bring errors to light at once. The method has critics, who note that some products cannot be tested in pieces and that customers cannot always tell you what they will want. It suits situations where trying things is cheap."
+    }
+   ]
+  },
+  {
+   "id": "mw_rework",
+   "title": "Rework",
+   "author": "Jason Fried and David Heinemeier Hansson",
+   "year": "2010",
+   "category": "work",
+   "why": "Blunt, short essays from the founders of a small software company that question most of the usual advice about business.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_rework1",
+     "title": "Plans are guesses",
+     "body": "The authors argue that long-term business plans are guesses about a future nobody can see, and that writing them down lends false confidence. Once a plan exists people follow it even when the facts change. They prefer to decide what to do this week, with the information available now, and improvise from there. This does not mean having no direction. It means holding forecasts lightly and making decisions as late as you responsibly can."
+    },
+    {
+     "id": "mw_rework2",
+     "title": "Embrace constraints",
+     "body": "Having little time, money or staff is usually treated as a handicap. The authors treat it as an advantage, because limits force you to decide what really matters and to find simple solutions. A team with no budget cannot build ten features, so it builds the two that count. They built their own product while doing client work, with part-time hours. If you wait for ideal conditions, you wait forever."
+    },
+    {
+     "id": "mw_rework3",
+     "title": "Half a product, done well",
+     "body": "When there is too much to do, the tempting response is to do all of it thinly. The authors recommend cutting scope in half and doing the remaining half properly. A product with fewer things that work well beats one with many things done poorly. This requires saying no to good ideas, including customers' requests, since each addition has a cost that continues long after it ships.",
+     "try": "Take your current to-do list for a project and mark the half that could be dropped without the client being worse off."
+    },
+    {
+     "id": "mw_rework4",
+     "title": "Meetings and interruptions",
+     "body": "The authors regard interruptions as the chief enemy of getting work done. A day of meetings, calls and quick questions leaves no long stretch in which real work can happen. They point out that a one-hour meeting with ten people costs ten hours of work. Their advice: fewer meetings, with a set end time, a specific problem and as few people as possible, and a preference for messages that can be answered when convenient."
+    },
+    {
+     "id": "mw_rework5",
+     "title": "Long hours are not a virtue",
+     "body": "The book criticises the culture that admires overwork. Working late is often a substitute for thinking: it hides poor decisions, creates crises and wears people out, and tired people decide badly. The person who goes home on time may have found the quicker way. The authors want the work itself to be judged, not the hours on display. A small business run on the owner's exhaustion has not solved its problem, only put it off."
+    },
+    {
+     "id": "mw_rework6",
+     "title": "Teach instead of advertise",
+     "body": "A small firm cannot outspend large competitors on marketing, but it can out-teach them. Sharing what you know, through articles, guides and honest accounts of how you work, builds trust with exactly the people who may hire you. Large companies tend to be too secretive or too slow to do this. A caveat on the book overall: it reflects one profitable, self-funded software company's experience, and its confident rules will not fit every business."
+    }
+   ]
+  },
+  {
+   "id": "mw_momtest",
+   "title": "The Mom Test",
+   "author": "Rob Fitzpatrick",
+   "year": "2013",
+   "category": "work",
+   "why": "A brief, practical guide to asking customers questions that produce truth, not polite encouragement.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_momtest1",
+     "title": "Why your mother lies to you",
+     "body": "Ask your mother whether your business idea is good and she will say yes, because she loves you. Fitzpatrick's point is that almost everyone does the same out of politeness. As soon as people know what answer you hope for, they give it. So the fault lies with the question, not with them. A good question is one that even your mother could not answer with a comforting lie, because it never reveals what you are hoping to hear."
+    },
+    {
+     "id": "mw_momtest2",
+     "title": "Their life, not your idea",
+     "body": "The first rule is to talk about the other person's life and problems, not your product. Do not ask whether they would use an app that does a certain thing. Ask how they handle that task today, what is annoying about it and what they have tried. You learn whether the problem is real and how much it matters without describing your solution at all, so nothing is said out of kindness."
+    },
+    {
+     "id": "mw_momtest3",
+     "title": "The past, not the future",
+     "body": "People are poor at predicting their own behaviour and generous with promises. Would you pay for this, and would you use it, are questions that yield hopeful fiction. Ask about specific things that already happened: when did this last come up, what did you do, what did it cost you? Someone who has already spent money or effort trying to solve a problem has shown that it matters. Someone who has never even searched for a solution probably will not buy yours.",
+     "try": "Next time you explore a new service, ask a prospect: when did you last have this problem, and what did you do about it?"
+    },
+    {
+     "id": "mw_momtest4",
+     "title": "Three kinds of bad data",
+     "body": "Fitzpatrick names three things that feel like progress and are not. Compliments, such as that sounds great, tell you nothing. Fluff is general or hypothetical talk, like I usually or I would. Feature ideas are requests that should be understood, not simply obeyed: ask why they want it and what it would let them do. When you hear any of these, steer back gently to specific facts about what the person really does."
+    },
+    {
+     "id": "mw_momtest5",
+     "title": "Look for commitment",
+     "body": "A meeting that ends with good luck, keep me posted has failed, however pleasant it was. A real signal is when the person gives up something they value: time for a further meeting, an introduction to their boss or a colleague, or money through a deposit or advance order. Fitzpatrick advises always pushing for a clear next step. If they refuse it, you have learned something true, and that is better than warm words.",
+     "try": "At the end of your next conversation with a prospect, ask for one concrete next step with a date."
+    },
+    {
+     "id": "mw_momtest6",
+     "title": "Keep it casual, and listen",
+     "body": "These conversations work best as ordinary chats, not formal interviews. A short talk at an event or at the end of a client call often reveals more than a scheduled meeting where everyone is on best behaviour. Know beforehand the few things you most need to learn, speak much less than the other person and resist pitching. The moment you begin selling, you stop learning."
+    }
+   ]
+  },
+  {
+   "id": "mw_winpitch",
+   "title": "The Win Without Pitching Manifesto",
+   "author": "Blair Enns",
+   "year": "2010",
+   "category": "work",
+   "why": "Twelve principles for creative and consulting firms on being hired as a trusted expert, not auditioned as an interchangeable supplier.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_winpitch1",
+     "title": "Specialise",
+     "body": "Enns's first principle is that a firm must choose a narrow focus. A generalist who builds any website for anyone is easily replaced, so the client holds the power and price decides. An expert in a clear niche, such as sites for clinics or shops built on one platform, has few real substitutes and deeper knowledge. Specialising feels risky, since it means turning work away, but it is what lets you stop competing with everyone on price.",
+     "try": "Finish this sentence in ten words or fewer: we help this kind of client with this kind of problem."
+    },
+    {
+     "id": "mw_winpitch2",
+     "title": "Stop giving ideas away",
+     "body": "The traditional pitch asks firms to produce designs or strategy for free in the hope of winning the job. Enns argues this gives away the most valuable part of the work and casts you as a supplicant. He would replace the performance with a conversation between equals about whether there is a fit. Thinking is the product, and it should start when the engagement starts. A client who insists on free work first may not be the right client."
+    },
+    {
+     "id": "mw_winpitch3",
+     "title": "Diagnose before you prescribe",
+     "body": "A doctor who prescribed without examining the patient would be negligent. Enns holds designers and consultants to the same standard. Clients often arrive with their own diagnosis, such as we need a new website, when the real issue may be something else. The expert's task is to insist politely on understanding the problem first, and to charge for that work if it is substantial. Accepting the client's diagnosis unchecked makes you an order-taker."
+    },
+    {
+     "id": "mw_winpitch4",
+     "title": "Selling as helping",
+     "body": "Many creative people dislike selling because they picture it as persuading someone to buy what they do not need. Enns reframes it. With someone who has not yet recognised a problem, the job is to help them see it. With someone who is interested, it is to give information that helps them decide. With someone ready to buy, it is to reassure. None of that is manipulation. You are helping a person through a decision, and no is an acceptable result."
+    },
+    {
+     "id": "mw_winpitch5",
+     "title": "Talk about money early",
+     "body": "Enns advises raising the budget near the start of the conversation, before much time is invested by either side. It is awkward, and it saves everyone from weeks of talks that end when a price is finally named. He suggests stating a minimum level of engagement so that poor fits remove themselves. Being able to discuss money plainly and without embarrassment is itself a mark of a professional.",
+     "try": "Decide the smallest project fee you will accept, so you can state it calmly when asked."
+    },
+    {
+     "id": "mw_winpitch6",
+     "title": "Be willing to walk away",
+     "body": "Several of the principles come to the same thing: be selective, do not work at a loss, and charge enough to do the work properly. A firm that needs every job cannot negotiate and ends up with clients who do not respect it. The freedom to say no comes from a specialism, a steady flow of enquiries and some savings. Enns writes for established firms; someone just starting may need to compromise, and he would see that as a stage to grow out of."
+    }
+   ]
+  },
+  {
+   "id": "mw_designjob",
+   "title": "Design Is a Job",
+   "author": "Mike Monteiro",
+   "year": "2012",
+   "category": "work",
+   "why": "A frank guide to the business side of client work: finding clients, pricing, contracts, presenting and getting paid.",
+   "minutes": 3,
+   "cards": [
+    {
+     "id": "mw_designjob1",
+     "title": "The business is part of the craft",
+     "body": "Monteiro's premise is that doing good work is only half of a design career. The other half is finding clients, agreeing terms, presenting, handling feedback and collecting payment. People who see these as distractions from the real work tend to get mistreated. He treats them as professional skills to learn like any other. Explaining and selling your work is not beneath a designer or a developer; it is how good work reaches the world."
+    },
+    {
+     "id": "mw_designjob2",
+     "title": "Choose clients carefully",
+     "body": "Taking any client who shows up leads to bad projects. Monteiro advises judging clients as carefully as they judge you. Do they have a real problem you can solve, the authority to make decisions, and respect for what you do? Warning signs include vagueness about budget, a string of previous designers and decisions made by a large committee. Most good clients come by referral from past clients, which is one more reason to finish every project well."
+    },
+    {
+     "id": "mw_designjob3",
+     "title": "Price for value",
+     "body": "Monteiro suggests the price of work should reflect its value to the client and not merely the hours spent. A site that will bring a business substantial new revenue is worth more than the time it took to make. Charging too little also signals low value and attracts clients who will treat you accordingly. He advises stating your price with confidence and not negotiating against yourself by cutting it before anyone has objected."
+    },
+    {
+     "id": "mw_designjob4",
+     "title": "Always have a contract",
+     "body": "A contract is not a sign of distrust. It records what both sides have agreed to do, while everyone is still friendly, and so protects both. Monteiro insists on one for every job, with clear terms on scope, payment schedule, who owns the work and what happens if the project is cancelled. He recommends having a lawyer draft or review it, since contract law differs by country. Starting work before it is signed gives away your leverage.",
+     "try": "Check whether your current client work is covered by a signed agreement stating scope and payment terms."
+    },
+    {
+     "id": "mw_designjob5",
+     "title": "Present your own work",
+     "body": "Never send a design or a build off with a note asking what the client thinks. Monteiro says the person who made the work should present it, explaining how each decision serves the goals the client set. Without that guidance, clients respond with personal taste. He recommends asking for feedback on whether the work solves the problem, not on whether they like it, and treating their answers as information about a concern rather than as instructions.",
+     "try": "Next time you send work to a client, include three lines on how it meets the goals they gave you."
+    },
+    {
+     "id": "mw_designjob6",
+     "title": "Getting paid",
+     "body": "Payment problems are best prevented before work begins. Monteiro's practices include taking part of the fee up front, tying further payments to dates or milestones in the contract, and not handing over final files until the last invoice is settled. Send invoices promptly and follow up on late ones without embarrassment; you are asking for what was agreed. A client who avoids discussing payment at the start will rarely be easier at the end."
+    }
+   ]
+  }
+ ]
+}
